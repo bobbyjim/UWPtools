@@ -1,0 +1,3063 @@
+Stage 	 Sector 	 Hex 	 Name 	 UWP 	 Bases 	 Zone 	 Pop Mult
+1105 Starting Data	Dene	0108	New Ramma	D565540-6	S 		7
+1 Check Ni 				D565040-6	S 		7
+2 Check Lo 				D565000-6	S 		0
+3 Check He 				D565000-6	S 		0
+Y1500 				D565000-6	S 		0
+Y1900 				D565000-6	S 		0
+
+1105 Starting Data	Dene	0113	Saarinen	B566212-8	  		5
+1 Check Ni 				B566212-8	  		5
+2 Check Lo 				D566000-8	  		0
+3 Check He 				D566000-8	  		0
+Y1500 				D566000-8	  		0
+Y1900 				D566000-8	  		0
+
+1105 Starting Data	Dene	0123	Rena	D596211-7	S 		4
+1 Check Ni 				D596211-7	S 		4
+2 Check Lo 				D596000-7	S 		0
+3 Check He 				D596000-7	S 		0
+Y1500 				D596000-7	S 		0
+Y1900 				D596000-7	S 		0
+
+1105 Starting Data	Dene	0124	Gulistan	CAB5358-8	S 		8
+1 Check Ni 				CAB5358-8	S 		8
+2 Check Lo 				DAB5000-8	S 		0
+3 Check He 				DAB5000-8	S 		0
+Y1500 				DAB5000-8	S 		0
+Y1900 				DAB5000-8	S 		0
+
+1105 Starting Data	Dene	0130	Chaosheo	E87A788-5	  	A	6
+1 Check Ni 				E87A788-5	  	A	6
+2 Check Lo 				E87A788-5	  	A	6
+3 Check He 				E87A000-5	  	A	0
+Y1500 				E87A000-5	  	A	0
+Y1900 				E87A000-5	  	A	0
+
+1105 Starting Data	Dene	0138	Iruku	B31048A-9	  		5
+1 Check Ni 				B31048A-9	  		5
+2 Check Lo 				B31048A-9	  		5
+3 Check He 				B31048A-9	  		5
+4 Halve PM 				B31048A-9	  		2
+5 Reduce TL 				B31048A-7	  		2
+Y1500 				B31048A-8	  		3
+Y1900 				B310413-9	  		2
+
+1105 Starting Data	Dene	0201	Marz	A584985-A	S 		1
+1 Check Ni 				A584985-A	S 		1
+2 Check Lo 				A584985-A	S 		1
+3 Check He 				A584985-A	S 		1
+4 Halve PM 				A584885-A	S 		5
+5 Reduce TL 				A584885-8	S 		5
+Y1500 				A584854-8	S 		5
+Y1900 				A5848AD-9	S 		5
+
+1105 Starting Data	Dene	0202	Carthage	B3107B9-C	  	A	7
+1 Check Ni 				B3107B9-C	  	A	7
+2 Check Lo 				B3107B9-C	  	A	7
+3 Check He 				B3107B9-C	  	A	7
+4 Halve PM 				B3107B9-C	  	A	3
+5 Reduce TL 				B3107B9-A	  	A	3
+Y1500 				B310759-B	  	A	2
+Y1900 				B310799-C	  	A	1
+
+1105 Starting Data	Dene	0203	Enaaka	B777786-6	  		9
+1 Check Ni 				B777786-6	  		9
+2 Check Lo 				B777786-6	  		9
+3 Check He 				D777000-6	  		0
+Y1500 				D777000-6	  		0
+Y1900 				D777000-6	  		0
+
+1105 Starting Data	Dene	0207	Rubrak	C554511-7	S 		7
+1 Check Ni 				C554011-7	S 		7
+2 Check Lo 				D554000-7	S 		0
+3 Check He 				D554000-7	S 		0
+Y1500 				D554000-7	S 		0
+Y1900 				D554000-7	S 		0
+
+1105 Starting Data	Dene	0208	Teh	D563136-5	S 		8
+1 Check Ni 				D563136-5	S 		8
+2 Check Lo 				D563000-5	S 		0
+3 Check He 				D563000-5	S 		0
+Y1500 				D563000-5	S 		0
+Y1900 				D563000-5	S 		0
+
+1105 Starting Data	Dene	0209	Kretikaa	B20057B-C	  		6
+1 Check Ni 				B20057B-C	  		6
+2 Check Lo 				B20057B-C	  		6
+3 Check He 				B20057B-C	  		6
+4 Halve PM 				B20057B-C	  		3
+5 Reduce TL 				B20057B-A	  		3
+Y1500 				B200552-9	  		2
+Y1900 				B200575-A	  		3
+
+1105 Starting Data	Dene	0211	Suvfoto	D95488A-6	S 		3
+1 Check Ni 				D95488A-6	S 		3
+2 Check Lo 				D95488A-6	S 		3
+3 Check He 				D95488A-6	S 		3
+4 Halve PM 				D95488A-6	S 		1
+5 Reduce TL 				D95488A-4	S 		1
+Y1500 				D9547A9-3	S 		9
+Y1900 				D954899-2	S 		1
+
+1105 Starting Data	Dene	0214	Musayid	E5448AE-5	  	A	5
+1 Check Ni 				E5448AE-5	  	A	5
+2 Check Lo 				E5448AE-5	  	A	5
+3 Check He 				E544000-5	  	A	0
+Y1500 				E544000-5	  	A	0
+Y1900 				E544000-5	  	A	0
+
+1105 Starting Data	Dene	0217	Umiikam	DAA6300-8	  		4
+1 Check Ni 				DAA6300-8	  		4
+2 Check Lo 				DAA6000-8	  		0
+3 Check He 				DAA6000-8	  		0
+Y1500 				DAA6000-8	  		0
+Y1900 				DAA6000-8	  		0
+
+1105 Starting Data	Dene	0218	Vanzeti	C52A531-C	S 		4
+1 Check Ni 				C52A431-C	S 		4
+2 Check Lo 				C52A431-C	S 		4
+3 Check He 				D52A000-C	S 		0
+Y1500 				D52A000-C	S 		0
+Y1900 				D52A000-C	S 		0
+
+1105 Starting Data	Dene	0221	Mater Nova	B575744-9	  		3
+1 Check Ni 				B575744-9	  		3
+2 Check Lo 				B575744-9	  		3
+3 Check He 				B575744-9	  		3
+4 Halve PM 				B575744-9	  		1
+5 Reduce TL 				B575744-7	  		1
+Y1500 				B575659-7	  		9
+Y1900 				B575646-6	  		8
+
+1105 Starting Data	Dene	0222	Breslow	X540510-5	  	R	9
+1 Check Ni 				X540510-5	  	R	9
+2 Check Lo 				X540510-5	  	R	9
+3 Check He 				X540510-5	  	R	9
+4 Halve PM 				X540510-5	  	R	4
+5 Reduce TL 				X540510-3	  	R	4
+Y1500 				X540556-2	  	R	3
+Y1900 				X54058B-1	  	R	2
+
+1105 Starting Data	Dene	0223	Daumier	B88A452-E	  		5
+1 Check Ni 				B88A452-E	  		5
+2 Check Lo 				B88A452-E	  		5
+3 Check He 				B88A452-E	  		5
+4 Halve PM 				B88A452-E	  		2
+5 Reduce TL 				B88A452-C	  		2
+Y1500 				B88A465-B	  		1
+Y1900 				B88A422-A	  		2
+
+1105 Starting Data	Dene	0224	Adapam	E796442-7	  		8
+1 Check Ni 				E796342-7	  		8
+2 Check Lo 				E796000-7	  		0
+3 Check He 				E796000-7	  		0
+Y1500 				E796000-7	  		0
+Y1900 				E796000-7	  		0
+
+1105 Starting Data	Dene	0226	Wroclaw	C5667BF-7	  	A	8
+1 Check Ni 				C5667BF-7	  	A	8
+2 Check Lo 				C5667BF-7	  	A	8
+3 Check He 				C5667BF-7	  	A	8
+4 Halve PM 				C5667BF-7	  	A	4
+5 Reduce TL 				C5667BF-5	  	A	4
+Y1500 				C566733-4	  	A	3
+Y1900 				C566794-5	  	A	2
+
+1105 Starting Data	Dene	0228	Rimkuku	D9A8872-8	S 		3
+1 Check Ni 				D9A8872-8	S 		3
+2 Check Lo 				D9A8872-8	S 		3
+3 Check He 				D9A8872-8	S 		3
+4 Halve PM 				D9A8872-8	S 		1
+5 Reduce TL 				D9A8872-6	S 		1
+Y1500 				D9A8889-5	S 		2
+Y1900 				D9A888B-6	S 		1
+
+1105 Starting Data	Dene	0229	Aziziyah	C86A475-B	  		6
+1 Check Ni 				C86A475-B	  		6
+2 Check Lo 				C86A475-B	  		6
+3 Check He 				C86A475-B	  		6
+4 Halve PM 				C86A475-B	  		3
+5 Reduce TL 				C86A475-9	  		3
+Y1500 				C86A432-A	  		4
+Y1900 				C86A456-A	  		3
+
+1105 Starting Data	Dene	0233	Inkekush	A540548-D	 N		6
+1 Check Ni 				A540548-D	 N		6
+2 Check Lo 				A540548-D	 N		6
+3 Check He 				A540548-D	 N		6
+4 Halve PM 				A540548-D	 N		3
+5 Reduce TL 				A540548-B	 N		3
+Y1500 				A540521-C	 N		2
+Y1900 				A540553-B	 N		3
+
+1105 Starting Data	Dene	0235	Saguenay	B438256-E	 N		3
+1 Check Ni 				B438256-E	 N		3
+2 Check Lo 				D438000-E	 N		0
+3 Check He 				D438000-E	 N		0
+Y1500 				D438000-E	 N		0
+Y1900 				D438000-E	 N		0
+
+1105 Starting Data	Dene	0237	Taman	E874300-5	  		8
+1 Check Ni 				E874300-5	  		8
+2 Check Lo 				E874000-5	  		0
+3 Check He 				E874000-5	  		0
+Y1500 				E874000-5	  		0
+Y1900 				E874000-5	  		0
+
+1105 Starting Data	Dene	0238	Nouakchat	C532114-6	S 		1
+1 Check Ni 				C532114-6	S 		1
+2 Check Lo 				D532000-6	S 		0
+3 Check He 				D532000-6	S 		0
+Y1500 				D532000-6	S 		0
+Y1900 				D532000-6	S 		0
+
+1105 Starting Data	Dene	0303	Kiiga	D530624-7	  	A	2
+1 Check Ni 				D530624-7	  	A	2
+2 Check Lo 				D530624-7	  	A	2
+3 Check He 				D530624-7	  	A	2
+4 Halve PM 				D530624-7	  	A	1
+5 Reduce TL 				D530624-5	  	A	1
+Y1500 				D5306BG-6	  	A	2
+Y1900 				D530623-5	  	A	1
+
+1105 Starting Data	Dene	0304	Riacon	B666441-8	 N		3
+1 Check Ni 				B666341-8	 N		3
+2 Check Lo 				D666000-8	 N		0
+3 Check He 				D666000-8	 N		0
+Y1500 				D666000-8	 N		0
+Y1900 				D666000-8	 N		0
+
+1105 Starting Data	Dene	0306	Saki	D576642-6	  		7
+1 Check Ni 				D576642-6	  		7
+2 Check Lo 				D576642-6	  		7
+3 Check He 				D576000-6	  		0
+Y1500 				D576000-6	  		0
+Y1900 				D576000-6	  		0
+
+1105 Starting Data	Dene	0310	Horizon	E310725-8	  		3
+1 Check Ni 				E310725-8	  		3
+2 Check Lo 				E310725-8	  		3
+3 Check He 				E310725-8	  		3
+4 Halve PM 				E310725-8	  		1
+5 Reduce TL 				E310725-6	  		1
+Y1500 				E310657-6	  		9
+Y1900 				E310658-7	  		8
+
+1105 Starting Data	Dene	0311	Fennec	C556833-8	S 		5
+1 Check Ni 				C556833-8	S 		5
+2 Check Lo 				C556833-8	S 		5
+3 Check He 				C556833-8	S 		5
+4 Halve PM 				C556833-8	S 		2
+5 Reduce TL 				C556833-6	S 		2
+Y1500 				C556886-5	S 		3
+Y1900 				C556868-4	S 		4
+
+1105 Starting Data	Dene	0316	Magash	A400976-F	S 		8
+1 Check Ni 				A400976-F	S 		8
+2 Check Lo 				A400976-F	S 		8
+3 Check He 				A400976-F	S 		8
+4 Halve PM 				A400976-F	S 		4
+5 Reduce TL 				A400976-D	S 		4
+Y1500 				A4009CF-C	S 		4
+Y1900 				A400998-B	S 		4
+
+1105 Starting Data	Dene	0319	Cabrini	C565510-6	S 		1
+1 Check Ni 				C565310-6	S 		1
+2 Check Lo 				D565000-6	S 		0
+3 Check He 				D565000-6	S 		0
+Y1500 				D565000-6	S 		0
+Y1900 				D565000-6	S 		0
+
+1105 Starting Data	Dene	0327	Barbary	C5717CF-5	S 	A	8
+1 Check Ni 				C5717CF-5	S 	A	8
+2 Check Lo 				C5717CF-5	S 	A	8
+3 Check He 				C5717CF-5	S 	A	8
+4 Halve PM 				C5717CF-5	S 	A	4
+5 Reduce TL 				C5717CF-3	S 	A	4
+Y1500 				C571795-2	S 	A	4
+Y1900 				C571768-1	S 	A	3
+
+1105 Starting Data	Dene	0328	Dunstan	C649220-8	  		5
+1 Check Ni 				C649220-8	  		5
+2 Check Lo 				D649000-8	  		0
+3 Check He 				D649000-8	  		0
+Y1500 				D649000-8	  		0
+Y1900 				D649000-8	  		0
+
+1105 Starting Data	Dene	0330	Canisus	C4317BA-8	S 	A	9
+1 Check Ni 				C4317BA-8	S 	A	9
+2 Check Lo 				C4317BA-8	S 	A	9
+3 Check He 				C4317BA-8	S 	A	9
+4 Halve PM 				C4317BA-8	S 	A	4
+5 Reduce TL 				C4317BA-6	S 	A	4
+Y1500 				C431745-5	S 	A	3
+Y1900 				C431779-4	S 	A	2
+
+1105 Starting Data	Dene	0332	Aosta	A669236-C	  		4
+1 Check Ni 				A669236-C	  		4
+2 Check Lo 				D669000-C	  		0
+3 Check He 				D669000-C	  		0
+Y1500 				D669000-C	  		0
+Y1900 				D669000-C	  		0
+
+1105 Starting Data	Dene	0334	Furens	C8A9698-A	  		6
+1 Check Ni 				C8A9698-A	  		6
+2 Check Lo 				C8A9698-A	  		6
+3 Check He 				D8A9000-A	  		0
+Y1500 				D8A9000-A	  		0
+Y1900 				D8A9000-A	  		0
+
+1105 Starting Data	Dene	0336	Upuraku	B584554-9	W 		3
+1 Check Ni 				B584554-9	W 		3
+2 Check Lo 				B584554-9	W 		3
+3 Check He 				B584554-9	W 		3
+4 Halve PM 				B584554-9	W 		1
+5 Reduce TL 				B584554-7	W 		1
+Y1500 				B584521-6	W 		2
+Y1900 				B58459B-7	W 		3
+
+1105 Starting Data	Dene	0339	Tuwayk	B672843-A	  		5
+1 Check Ni 				B672843-A	  		5
+2 Check Lo 				B672843-A	  		5
+3 Check He 				B672743-A	  		5
+4 Halve PM 				B672743-A	  		2
+5 Reduce TL 				B672743-8	  		2
+Y1500 				B67277A-9	  		1
+Y1900 				B672698-8	  		9
+
+1105 Starting Data	Dene	0403	Gessert	C554315-9	  		3
+1 Check Ni 				C554315-9	  		3
+2 Check Lo 				D554000-9	  		0
+3 Check He 				D554000-9	  		0
+Y1500 				D554000-9	  		0
+Y1900 				D554000-9	  		0
+
+1105 Starting Data	Dene	0404	Miwald	C53349B-A	S 	A	6
+1 Check Ni 				C53319B-A	S 	A	6
+2 Check Lo 				D533000-A	S 	A	0
+3 Check He 				D533000-A	S 	A	0
+Y1500 				D533000-A	S 	A	0
+Y1900 				D533000-A	S 	A	0
+
+1105 Starting Data	Dene	0406	Pretoria	B656967-C	SN		7
+1 Check Ni 				B656967-C	SN		7
+2 Check Lo 				B656967-C	SN		7
+3 Check He 				B656967-C	SN		7
+4 Halve PM 				B656967-C	SN		3
+5 Reduce TL 				B656967-A	SN		3
+Y1500 				B6569CA-9	SN		2
+Y1900 				B656999-8	SN		3
+
+1105 Starting Data	Dene	0409	L'sis	A764896-8	 N		1
+1 Check Ni 				A764896-8	 N		1
+2 Check Lo 				A764896-8	 N		1
+3 Check He 				A764896-8	 N		1
+4 Halve PM 				A764796-8	 N		5
+5 Reduce TL 				A764796-6	 N		5
+Y1500 				A764765-6	 N		6
+Y1900 				A764762-5	 N		5
+
+1105 Starting Data	Dene	0412	Dhapura	E579758-7	  		5
+1 Check Ni 				E579758-7	  		5
+2 Check Lo 				E579758-7	  		5
+3 Check He 				E579758-7	  		5
+4 Halve PM 				E579758-7	  		2
+5 Reduce TL 				E579758-5	  		2
+Y1500 				E579765-6	  		1
+Y1900 				E5796BD-7	  		9
+
+1105 Starting Data	Dene	0415	Pharos	B593477-8	  		6
+1 Check Ni 				B593377-8	  		6
+2 Check Lo 				D593000-8	  		0
+3 Check He 				D593000-8	  		0
+Y1500 				D593000-8	  		0
+Y1900 				D593000-8	  		0
+
+1105 Starting Data	Dene	0417	Sui'tang	B552864-A	  		4
+1 Check Ni 				B552864-A	  		4
+2 Check Lo 				B552864-A	  		4
+3 Check He 				B552864-A	  		4
+4 Halve PM 				B552864-A	  		2
+5 Reduce TL 				B552864-8	  		2
+Y1500 				B552861-9	  		1
+Y1900 				B552787-8	  		9
+
+1105 Starting Data	Dene	0419	Ara Pacis	A437678-B	  		6
+1 Check Ni 				A437678-B	  		6
+2 Check Lo 				A437678-B	  		6
+3 Check He 				A437678-B	  		6
+4 Halve PM 				A437678-B	  		3
+5 Reduce TL 				A437678-9	  		3
+Y1500 				A437620-A	  		3
+Y1900 				A437620-9	  		4
+
+1105 Starting Data	Dene	0422	Rouenet	C562201-A	  		7
+1 Check Ni 				C562201-A	  		7
+2 Check Lo 				D562000-A	  		0
+3 Check He 				D562000-A	  		0
+Y1500 				D562000-A	  		0
+Y1900 				D562000-A	  		0
+
+1105 Starting Data	Dene	0431	Zyedl	E551443-5	  		5
+1 Check Ni 				E551143-5	  		5
+2 Check Lo 				E551000-5	  		0
+3 Check He 				E551000-5	  		0
+Y1500 				E551000-5	  		0
+Y1900 				E551000-5	  		0
+
+1105 Starting Data	Dene	0436	Endup	D6939EG-8	  	A	1
+1 Check Ni 				D6939EG-8	  	A	1
+2 Check Lo 				D6939EG-8	  	A	1
+3 Check He 				D6937EG-8	  	A	1
+4 Halve PM 				D6936EG-8	  	A	5
+5 Reduce TL 				D6936EG-6	  	A	5
+Y1500 				D693624-7	  	A	5
+Y1900 				D6936AA-6	  	A	4
+
+1105 Starting Data	Dene	0439	Beaxon	D88AA99-C	  	A	9
+1 Check Ni 				D88AA99-C	  	A	9
+2 Check Lo 				D88AA99-C	  	A	9
+3 Check He 				D88AA99-C	  	A	9
+4 Halve PM 				D88AA99-C	  	A	4
+5 Reduce TL 				D88AA99-A	  	A	4
+Y1500 				D88AA76-9	  	A	5
+Y1900 				D88AAEH-A	  	A	4
+
+1105 Starting Data	Dene	0440	Noghon	D79798B-8	  		5
+1 Check Ni 				D79798B-8	  		5
+2 Check Lo 				D79798B-8	  		5
+3 Check He 				D79778B-8	  		5
+4 Halve PM 				D79778B-8	  		2
+5 Reduce TL 				D79778B-6	  		2
+Y1500 				D797765-5	  		3
+Y1900 				D7977A7-4	  		2
+
+1105 Starting Data	Dene	0502	El D'Nah	C549456-B	  		5
+1 Check Ni 				C549156-B	  		5
+2 Check Lo 				D549000-B	  		0
+3 Check He 				D549000-B	  		0
+Y1500 				D549000-B	  		0
+Y1900 				D549000-B	  		0
+
+1105 Starting Data	Dene	0503	Spectre	B100654-A	  	A	8
+1 Check Ni 				B100654-A	  	A	8
+2 Check Lo 				B100654-A	  	A	8
+3 Check He 				B100654-A	  	A	8
+4 Halve PM 				B100654-A	  	A	4
+5 Reduce TL 				B100654-8	  	A	4
+Y1500 				B100655-7	  	A	5
+Y1900 				B100650-7	  	A	6
+
+1105 Starting Data	Dene	0504	Ash	A540887-8	S 		2
+1 Check Ni 				A540887-8	S 		2
+2 Check Lo 				A540887-8	S 		2
+3 Check He 				A540887-8	S 		2
+4 Halve PM 				A540887-8	S 		1
+5 Reduce TL 				A540887-6	S 		1
+Y1500 				A5408CG-7	S 		2
+Y1900 				A540886-6	S 		3
+
+1105 Starting Data	Dene	0508	Caladib	B697222-9	 N		3
+1 Check Ni 				B697222-9	 N		3
+2 Check Lo 				D697000-9	 N		0
+3 Check He 				D697000-9	 N		0
+Y1500 				D697000-9	 N		0
+Y1900 				D697000-9	 N		0
+
+1105 Starting Data	Dene	0509	Redi	E575565-5	  		7
+1 Check Ni 				E575565-5	  		7
+2 Check Lo 				E575565-5	  		7
+3 Check He 				E575000-5	  		0
+Y1500 				E575000-5	  		0
+Y1900 				E575000-5	  		0
+
+1105 Starting Data	Dene	0510	Gra-Bie	C43027B-9	  		1
+1 Check Ni 				C43027B-9	  		1
+2 Check Lo 				D430000-9	  		0
+3 Check He 				D430000-9	  		0
+Y1500 				D430000-9	  		0
+Y1900 				D430000-9	  		0
+
+1105 Starting Data	Dene	0514	Marnie's World	AA9A324-B	 N		5
+1 Check Ni 				AA9A324-B	 N		5
+2 Check Lo 				DA9A000-B	 N		0
+3 Check He 				DA9A000-B	 N		0
+Y1500 				DA9A000-B	 N		0
+Y1900 				DA9A000-B	 N		0
+
+1105 Starting Data	Dene	0516	Endimyon	X555434-3	  	R	5
+1 Check Ni 				X555434-3	  	R	5
+2 Check Lo 				X555434-3	  	R	5
+3 Check He 				X555434-3	  	R	5
+4 Halve PM 				X555434-3	  	R	2
+5 Reduce TL 				X555434-1	  	R	2
+Y1500 				X555437-2	  	R	3
+Y1900 				X555479-3	  	R	2
+
+1105 Starting Data	Dene	0517	Seleen	A310467-E	  		7
+1 Check Ni 				A310467-E	  		7
+2 Check Lo 				A310467-E	  		7
+3 Check He 				A310467-E	  		7
+4 Halve PM 				A310467-E	  		3
+5 Reduce TL 				A310467-C	  		3
+Y1500 				A310402-B	  		4
+Y1900 				A310443-A	  		3
+
+1105 Starting Data	Dene	0518	Thengin	B567998-C	 N		3
+1 Check Ni 				B567998-C	 N		3
+2 Check Lo 				B567998-C	 N		3
+3 Check He 				B567998-C	 N		3
+4 Halve PM 				B567998-C	 N		1
+5 Reduce TL 				B567998-A	 N		1
+Y1500 				B567853-A	 N		9
+Y1900 				B567856-9	 N		9
+
+1105 Starting Data	Dene	0524	Isurkun	A541334-A	  		7
+1 Check Ni 				A541334-A	  		7
+2 Check Lo 				D541000-A	  		0
+3 Check He 				D541000-A	  		0
+Y1500 				D541000-A	  		0
+Y1900 				D541000-A	  		0
+
+1105 Starting Data	Dene	0525	Sejmal	C310643-A	  		5
+1 Check Ni 				C310643-A	  		5
+2 Check Lo 				C310643-A	  		5
+3 Check He 				C310643-A	  		5
+4 Halve PM 				C310643-A	  		2
+5 Reduce TL 				C310643-8	  		2
+Y1500 				C310627-8	  		3
+Y1900 				C3106B9-9	  		4
+
+1105 Starting Data	Dene	0529	Moltke	C646110-8	S 		2
+1 Check Ni 				C646110-8	S 		2
+2 Check Lo 				D646000-8	S 		0
+3 Check He 				D646000-8	S 		0
+Y1500 				D646000-8	S 		0
+Y1900 				D646000-8	S 		0
+
+1105 Starting Data	Dene	0531	Briaxis	C420445-B	  		9
+1 Check Ni 				C420045-B	  		9
+2 Check Lo 				D420000-B	  		0
+3 Check He 				D420000-B	  		0
+Y1500 				D420000-B	  		0
+Y1900 				D420000-B	  		0
+
+1105 Starting Data	Dene	0534	Maricutin	B764102-A	 N		2
+1 Check Ni 				B764102-A	 N		2
+2 Check Lo 				D764000-A	 N		0
+3 Check He 				D764000-A	 N		0
+Y1500 				D764000-A	 N		0
+Y1900 				D764000-A	 N		0
+
+1105 Starting Data	Dene	0602	Kirklend	A668443-A	 N		4
+1 Check Ni 				A668343-A	 N		4
+2 Check Lo 				D668000-A	 N		0
+3 Check He 				D668000-A	 N		0
+Y1500 				D668000-A	 N		0
+Y1900 				D668000-A	 N		0
+
+1105 Starting Data	Dene	0604	Carmel	B546441-9	  		3
+1 Check Ni 				B546241-9	  		3
+2 Check Lo 				D546000-9	  		0
+3 Check He 				D546000-9	  		0
+Y1500 				D546000-9	  		0
+Y1900 				D546000-9	  		0
+
+1105 Starting Data	Dene	0609	Urnas	D420974-A	S 	A	2
+1 Check Ni 				D420974-A	S 	A	2
+2 Check Lo 				D420974-A	S 	A	2
+3 Check He 				D420974-A	S 	A	2
+4 Halve PM 				D420974-A	S 	A	1
+5 Reduce TL 				D420974-8	S 	A	1
+Y1500 				D420895-8	S 	A	9
+Y1900 				D4208CD-9	S 	A	8
+
+1105 Starting Data	Dene	0615	Anomaly Five	X100000-0	  	R	0
+1 Check Ni 				X100000-0	  	R	0
+2 Check Lo 				X100000-0	  	R	0
+3 Check He 				X100000-0	  	R	0
+Y1500 				X100000-0	  	R	0
+Y1900 				X100000-0	  	R	0
+
+1105 Starting Data	Dene	0619	Sevas Topol	D9C4256-9	  		9
+1 Check Ni 				D9C4256-9	  		9
+2 Check Lo 				D9C4000-9	  		0
+3 Check He 				D9C4000-9	  		0
+Y1500 				D9C4000-9	  		0
+Y1900 				D9C4000-9	  		0
+
+1105 Starting Data	Dene	0622	Mushinag	D575556-8	S 		5
+1 Check Ni 				D575556-8	S 		5
+2 Check Lo 				D575556-8	S 		5
+3 Check He 				D575000-8	S 		0
+Y1500 				D575000-8	S 		0
+Y1900 				D575000-8	S 		0
+
+1105 Starting Data	Dene	0623	Araa	C566254-A	S 		5
+1 Check Ni 				C566254-A	S 		5
+2 Check Lo 				D566000-A	S 		0
+3 Check He 				D566000-A	S 		0
+Y1500 				D566000-A	S 		0
+Y1900 				D566000-A	S 		0
+
+1105 Starting Data	Dene	0624	Helmuth	C846203-8	S 		9
+1 Check Ni 				C846203-8	S 		9
+2 Check Lo 				D846000-8	S 		0
+3 Check He 				D846000-8	S 		0
+Y1500 				D846000-8	S 		0
+Y1900 				D846000-8	S 		0
+
+1105 Starting Data	Dene	0626	Kernal	B566786-7	  		3
+1 Check Ni 				B566786-7	  		3
+2 Check Lo 				B566786-7	  		3
+3 Check He 				B566786-7	  		3
+4 Halve PM 				B566786-7	  		1
+5 Reduce TL 				B566786-5	  		1
+Y1500 				B566777-6	  		1
+Y1900 				B566720-5	  		2
+
+1105 Starting Data	Dene	0629	Askigaak	E549AA8-B	  		9
+1 Check Ni 				E549AA8-B	  		9
+2 Check Lo 				E549AA8-B	  		9
+3 Check He 				E549AA8-B	  		9
+4 Halve PM 				E549AA8-B	  		4
+5 Reduce TL 				E549AA8-9	  		4
+Y1500 				E549ADG-A	  		5
+Y1900 				E549A76-9	  		6
+
+1105 Starting Data	Dene	0633	Preslin	B430679-C	 N		3
+1 Check Ni 				B430679-C	 N		3
+2 Check Lo 				B430679-C	 N		3
+3 Check He 				B430679-C	 N		3
+4 Halve PM 				B430679-C	 N		1
+5 Reduce TL 				B430679-A	 N		1
+Y1500 				B430654-B	 N		2
+Y1900 				B430614-C	 N		3
+
+1105 Starting Data	Dene	0638	Brufort	C669642-6	  		4
+1 Check Ni 				C669642-6	  		4
+2 Check Lo 				C669642-6	  		4
+3 Check He 				C669642-6	  		4
+4 Halve PM 				C669642-6	  		2
+5 Reduce TL 				C669642-4	  		2
+Y1500 				C669676-4	  		1
+Y1900 				C669541-5	  		9
+
+1105 Starting Data	Dene	0701	Taa	A651643-9	  		3
+1 Check Ni 				A651643-9	  		3
+2 Check Lo 				A651643-9	  		3
+3 Check He 				A651643-9	  		3
+4 Halve PM 				A651643-9	  		1
+5 Reduce TL 				A651643-7	  		1
+Y1500 				A651578-7	  		9
+Y1900 				A651668-6	  		1
+
+1105 Starting Data	Dene	0702	Dilex	D626888-7	  		9
+1 Check Ni 				D626888-7	  		9
+2 Check Lo 				D626888-7	  		9
+3 Check He 				D626888-7	  		9
+4 Halve PM 				D626888-7	  		4
+5 Reduce TL 				D626888-5	  		4
+Y1500 				D626876-4	  		3
+Y1900 				D6268AD-5	  		4
+
+1105 Starting Data	Dene	0709	Hylaxis	B7B2354-A	  		5
+1 Check Ni 				B7B2354-A	  		5
+2 Check Lo 				D7B2000-A	  		0
+3 Check He 				D7B2000-A	  		0
+Y1500 				D7B2000-A	  		0
+Y1900 				D7B2000-A	  		0
+
+1105 Starting Data	Dene	0710	Naali	C61657A-8	S 		3
+1 Check Ni 				C61657A-8	S 		3
+2 Check Lo 				C61657A-8	S 		3
+3 Check He 				C61657A-8	S 		3
+4 Halve PM 				C61657A-8	S 		1
+5 Reduce TL 				C61657A-6	S 		1
+Y1500 				C616555-7	S 		2
+Y1900 				C616520-8	S 		3
+
+1105 Starting Data	Dene	0713	Amirante	D310899-7	S 		6
+1 Check Ni 				D310899-7	S 		6
+2 Check Lo 				D310899-7	S 		6
+3 Check He 				D310899-7	S 		6
+4 Halve PM 				D310899-7	S 		3
+5 Reduce TL 				D310899-5	S 		3
+Y1500 				D31089C-5	S 		4
+Y1900 				D310867-5	S 		5
+
+1105 Starting Data	Dene	0715	Bahadur	A426230-E	 N		1
+1 Check Ni 				A426230-E	 N		1
+2 Check Lo 				D426000-E	 N		0
+3 Check He 				D426000-E	 N		0
+Y1500 				D426000-E	 N		0
+Y1900 				D426000-E	 N		0
+
+1105 Starting Data	Dene	0717	Rhinom	B7768AB-8	 N	A	6
+1 Check Ni 				B7768AB-8	 N	A	6
+2 Check Lo 				B7768AB-8	 N	A	6
+3 Check He 				B7768AB-8	 N	A	6
+4 Halve PM 				B7768AB-8	 N	A	3
+5 Reduce TL 				B7768AB-6	 N	A	3
+Y1500 				B776849-7	 N	A	4
+Y1900 				B776856-6	 N	A	3
+
+1105 Starting Data	Dene	0727	Shen-Yang	C665520-5	S 		5
+1 Check Ni 				C665120-5	S 		5
+2 Check Lo 				D665000-5	S 		0
+3 Check He 				D665000-5	S 		0
+Y1500 				D665000-5	S 		0
+Y1900 				D665000-5	S 		0
+
+1105 Starting Data	Dene	0729	Norg	A000114-D	 N		7
+1 Check Ni 				A000114-D	 N		7
+2 Check Lo 				D000000-D	 N		0
+3 Check He 				D000000-D	 N		0
+Y1500 				D000000-D	 N		0
+Y1900 				D000000-D	 N		0
+
+1105 Starting Data	Dene	0730	Sultana	B649414-9	  		5
+1 Check Ni 				B649414-9	  		5
+2 Check Lo 				B649414-9	  		5
+3 Check He 				D649000-9	  		0
+Y1500 				D649000-9	  		0
+Y1900 				D649000-9	  		0
+
+1105 Starting Data	Dene	0731	Qevar	A4326AE-E	SN	A	4
+1 Check Ni 				A4322AE-E	SN	A	4
+2 Check Lo 				D432000-E	SN	A	0
+3 Check He 				D432000-E	SN	A	0
+Y1500 				D432000-E	SN	A	0
+Y1900 				D432000-E	SN	A	0
+
+1105 Starting Data	Dene	0734	Raguseppe	B410555-B	  		7
+1 Check Ni 				B410155-B	  		7
+2 Check Lo 				D410000-B	  		0
+3 Check He 				D410000-B	  		0
+Y1500 				D410000-B	  		0
+Y1900 				D410000-B	  		0
+
+1105 Starting Data	Dene	0735	Kiangya	C7C2200-B	S 		7
+1 Check Ni 				C7C2200-B	S 		7
+2 Check Lo 				D7C2000-B	S 		0
+3 Check He 				D7C2000-B	S 		0
+Y1500 				D7C2000-B	S 		0
+Y1900 				D7C2000-B	S 		0
+
+1105 Starting Data	Dene	0737	Taomina	D4216AE-7	  	A	8
+1 Check Ni 				D4216AE-7	  	A	8
+2 Check Lo 				D4216AE-7	  	A	8
+3 Check He 				D421000-7	  	A	0
+Y1500 				D421000-7	  	A	0
+Y1900 				D421000-7	  	A	0
+
+1105 Starting Data	Dene	0740	Mtensc	D551454-8	  		1
+1 Check Ni 				D551454-8	  		1
+2 Check Lo 				D551454-8	  		1
+3 Check He 				D551454-8	  		1
+4 Halve PM 				D551354-8	  		5
+5 Reduce TL 				D551354-6	  		5
+Y1500 				D551340-5	  		6
+Y1900 				D551324-5	  		7
+
+1105 Starting Data	Dene	0803	Retion	C558445-5	  		6
+1 Check Ni 				C558445-5	  		6
+2 Check Lo 				C558445-5	  		6
+3 Check He 				C558445-5	  		6
+4 Halve PM 				C558445-5	  		3
+5 Reduce TL 				C558445-3	  		3
+Y1500 				C558454-2	  		4
+Y1900 				C558446-3	  		4
+
+1105 Starting Data	Dene	0805	Jode	A9A6683-B	  		4
+1 Check Ni 				A9A6583-B	  		4
+2 Check Lo 				A9A6583-B	  		4
+3 Check He 				D9A6000-B	  		0
+Y1500 				D9A6000-B	  		0
+Y1900 				D9A6000-B	  		0
+
+1105 Starting Data	Dene	0809	Therm	D9B4489-8	S 		3
+1 Check Ni 				D9B4189-8	S 		3
+2 Check Lo 				D9B4000-8	S 		0
+3 Check He 				D9B4000-8	S 		0
+Y1500 				D9B4000-8	S 		0
+Y1900 				D9B4000-8	S 		0
+
+1105 Starting Data	Dene	0812	Cicus	E310330-7	  		6
+1 Check Ni 				E310330-7	  		6
+2 Check Lo 				E310000-7	  		0
+3 Check He 				E310000-7	  		0
+Y1500 				E310000-7	  		0
+Y1900 				E310000-7	  		0
+
+1105 Starting Data	Dene	0813	Makeni	E100542-8	  		3
+1 Check Ni 				E100342-8	  		3
+2 Check Lo 				E100000-8	  		0
+3 Check He 				E100000-8	  		0
+Y1500 				E100000-8	  		0
+Y1900 				E100000-8	  		0
+
+1105 Starting Data	Dene	0814	Amritsar	C897535-8	  		4
+1 Check Ni 				C897435-8	  		4
+2 Check Lo 				C897435-8	  		4
+3 Check He 				D897000-8	  		0
+Y1500 				D897000-8	  		0
+Y1900 				D897000-8	  		0
+
+1105 Starting Data	Dene	0815	Pangumo	C55259B-9	  	A	3
+1 Check Ni 				C55259B-9	  	A	3
+2 Check Lo 				C55259B-9	  	A	3
+3 Check He 				C55259B-9	  	A	3
+4 Halve PM 				C55259B-9	  	A	1
+5 Reduce TL 				C55259B-7	  	A	1
+Y1500 				C552569-7	  	A	2
+Y1900 				C552577-8	  	A	3
+
+1105 Starting Data	Dene	0816	Coshecawat	X100641-7	  	R	3
+1 Check Ni 				X100441-7	  	R	3
+2 Check Lo 				X100441-7	  	R	3
+3 Check He 				X100441-7	  	R	3
+4 Halve PM 				X100441-7	  	R	1
+5 Reduce TL 				X100441-5	  	R	1
+Y1500 				X10045A-6	  	R	2
+Y1900 				X100466-7	  	R	1
+
+1105 Starting Data	Dene	0819	Jehun	E66766A-6	  		9
+1 Check Ni 				E66766A-6	  		9
+2 Check Lo 				E66766A-6	  		9
+3 Check He 				E66766A-6	  		9
+4 Halve PM 				E66766A-6	  		4
+5 Reduce TL 				E66766A-4	  		4
+Y1500 				E6676A9-5	  		3
+Y1900 				E667612-5	  		2
+
+1105 Starting Data	Dene	0824	Tlaza	C303100-A	  		9
+1 Check Ni 				C303100-A	  		9
+2 Check Lo 				D303000-A	  		0
+3 Check He 				D303000-A	  		0
+Y1500 				D303000-A	  		0
+Y1900 				D303000-A	  		0
+
+1105 Starting Data	Dene	0826	Imone	A9C4555-F	 N		6
+1 Check Ni 				A9C4555-F	 N		6
+2 Check Lo 				A9C4555-F	 N		6
+3 Check He 				D9C4000-F	 N		0
+Y1500 				D9C4000-F	 N		0
+Y1900 				D9C4000-F	 N		0
+
+1105 Starting Data	Dene	0827	Skopyeh	B500534-C	  		9
+1 Check Ni 				B500434-C	  		9
+2 Check Lo 				B500434-C	  		9
+3 Check He 				B500434-C	  		9
+4 Halve PM 				B500434-C	  		4
+5 Reduce TL 				B500434-A	  		4
+Y1500 				B500466-B	  		5
+Y1900 				B500462-A	  		6
+
+1105 Starting Data	Dene	0828	Burnham	B664379-8	 N		5
+1 Check Ni 				B664379-8	 N		5
+2 Check Lo 				D664000-8	 N		0
+3 Check He 				D664000-8	 N		0
+Y1500 				D664000-8	 N		0
+Y1900 				D664000-8	 N		0
+
+1105 Starting Data	Dene	0830	Bukit Seng	C542334-8	  		4
+1 Check Ni 				C542334-8	  		4
+2 Check Lo 				D542000-8	  		0
+3 Check He 				D542000-8	  		0
+Y1500 				D542000-8	  		0
+Y1900 				D542000-8	  		0
+
+1105 Starting Data	Dene	0833	Mephit	C9B8436-8	S 		3
+1 Check Ni 				C9B8436-8	S 		3
+2 Check Lo 				C9B8436-8	S 		3
+3 Check He 				D9B8000-8	S 		0
+Y1500 				D9B8000-8	S 		0
+Y1900 				D9B8000-8	S 		0
+
+1105 Starting Data	Dene	0902	Ghatsokie	BA8669D-8	  	A	3
+1 Check Ni 				BA8659D-8	  	A	3
+2 Check Lo 				BA8659D-8	  	A	3
+3 Check He 				BA8659D-8	  	A	3
+4 Halve PM 				BA8659D-8	  	A	1
+5 Reduce TL 				BA8659D-6	  	A	1
+Y1500 				BA86578-5	  	A	2
+Y1900 				BA86554-5	  	A	1
+
+1105 Starting Data	Dene	0903	Matsa	A434453-E	  		1
+1 Check Ni 				A434453-E	  		1
+2 Check Lo 				A434453-E	  		1
+3 Check He 				A434453-E	  		1
+4 Halve PM 				A434353-E	  		5
+5 Reduce TL 				A434353-C	  		5
+Y1500 				A434344-C	  		4
+Y1900 				A434300-B	  		5
+
+1105 Starting Data	Dene	0905	Aksofouta	D55677A-4	  		6
+1 Check Ni 				D55677A-4	  		6
+2 Check Lo 				D55677A-4	  		6
+3 Check He 				D55677A-4	  		6
+4 Halve PM 				D55677A-4	  		3
+5 Reduce TL 				D55677A-2	  		3
+Y1500 				D556748-3	  		4
+Y1900 				D556785-4	  		4
+
+1105 Starting Data	Dene	0906	Waalikii	B525586-B	 N		8
+1 Check Ni 				B525186-B	 N		8
+2 Check Lo 				D525000-B	 N		0
+3 Check He 				D525000-B	 N		0
+Y1500 				D525000-B	 N		0
+Y1900 				D525000-B	 N		0
+
+1105 Starting Data	Dene	0907	Malkei	B659866-8	  		6
+1 Check Ni 				B659866-8	  		6
+2 Check Lo 				B659866-8	  		6
+3 Check He 				B659866-8	  		6
+4 Halve PM 				B659866-8	  		3
+5 Reduce TL 				B659866-6	  		3
+Y1500 				B659853-5	  		2
+Y1900 				B6598AC-6	  		3
+
+1105 Starting Data	Dene	0910	Gyrfal	C8B6545-9	  		1
+1 Check Ni 				C8B6545-9	  		1
+2 Check Lo 				C8B6545-9	  		1
+3 Check He 				D8B6000-9	  		0
+Y1500 				D8B6000-9	  		0
+Y1900 				D8B6000-9	  		0
+
+1105 Starting Data	Dene	0912	Kayu	E9B75A8-8	  		4
+1 Check Ni 				E9B73A8-8	  		4
+2 Check Lo 				E9B7000-8	  		0
+3 Check He 				E9B7000-8	  		0
+Y1500 				E9B7000-8	  		0
+Y1900 				E9B7000-8	  		0
+
+1105 Starting Data	Dene	0913	Amarkimi	B546410-A	W 		9
+1 Check Ni 				B546410-A	W 		9
+2 Check Lo 				B546410-A	W 		9
+3 Check He 				D546000-A	W 		0
+Y1500 				D546000-A	W 		0
+Y1900 				D546000-A	W 		0
+
+1105 Starting Data	Dene	0914	Otomisi	B5A5577-C	S 		4
+1 Check Ni 				B5A5577-C	S 		4
+2 Check Lo 				B5A5577-C	S 		4
+3 Check He 				D5A5000-C	S 		0
+Y1500 				D5A5000-C	S 		0
+Y1900 				D5A5000-C	S 		0
+
+1105 Starting Data	Dene	0915	Skold	B764323-A	  		1
+1 Check Ni 				B764323-A	  		1
+2 Check Lo 				D764000-A	  		0
+3 Check He 				D764000-A	  		0
+Y1500 				D764000-A	  		0
+Y1900 				D764000-A	  		0
+
+1105 Starting Data	Dene	0917	Kubishush	B8B69AA-D	  	A	9
+1 Check Ni 				B8B69AA-D	  	A	9
+2 Check Lo 				B8B69AA-D	  	A	9
+3 Check He 				B8B69AA-D	  	A	9
+4 Halve PM 				B8B69AA-D	  	A	4
+5 Reduce TL 				B8B69AA-B	  	A	4
+Y1500 				B8B6986-A	  	A	5
+Y1900 				B8B699B-9	  	A	6
+
+1105 Starting Data	Dene	0921	Northammon	B764667-A	SN		6
+1 Check Ni 				B764667-A	SN		6
+2 Check Lo 				B764667-A	SN		6
+3 Check He 				B764667-A	SN		6
+4 Halve PM 				B764667-A	SN		3
+5 Reduce TL 				B764667-8	SN		3
+Y1500 				B764676-7	SN		4
+Y1900 				B764644-8	SN		4
+
+1105 Starting Data	Dene	0922	Teyobald	B8B3545-C	  		8
+1 Check Ni 				B8B3445-C	  		8
+2 Check Lo 				B8B3445-C	  		8
+3 Check He 				D8B3000-C	  		0
+Y1500 				D8B3000-C	  		0
+Y1900 				D8B3000-C	  		0
+
+1105 Starting Data	Dene	0925	Ibix Donora	C432245-9	  		9
+1 Check Ni 				C432245-9	  		9
+2 Check Lo 				D432000-9	  		0
+3 Check He 				D432000-9	  		0
+Y1500 				D432000-9	  		0
+Y1900 				D432000-9	  		0
+
+1105 Starting Data	Dene	0929	Sipedon	E5536AB-6	  	A	9
+1 Check Ni 				E5536AB-6	  	A	9
+2 Check Lo 				E5536AB-6	  	A	9
+3 Check He 				E5536AB-6	  	A	9
+4 Halve PM 				E5536AB-6	  	A	4
+5 Reduce TL 				E5536AB-4	  	A	4
+Y1500 				E553648-5	  	A	5
+Y1900 				E553678-6	  	A	5
+
+1105 Starting Data	Dene	0930	Arnyl	B683697-8	SN		7
+1 Check Ni 				B683697-8	SN		7
+2 Check Lo 				B683697-8	SN		7
+3 Check He 				B683697-8	SN		7
+4 Halve PM 				B683697-8	SN		3
+5 Reduce TL 				B683697-6	SN		3
+Y1500 				B683663-6	SN		4
+Y1900 				B683642-7	SN		4
+
+1105 Starting Data	Dene	0933	Echura	C6837AB-8	  	A	6
+1 Check Ni 				C6837AB-8	  	A	6
+2 Check Lo 				C6837AB-8	  	A	6
+3 Check He 				C6837AB-8	  	A	6
+4 Halve PM 				C6837AB-8	  	A	3
+5 Reduce TL 				C6837AB-6	  	A	3
+Y1500 				C683733-6	  	A	4
+Y1900 				C683776-5	  	A	4
+
+1105 Starting Data	Dene	0935	Inquar	B8B5754-B	S 		7
+1 Check Ni 				B8B5754-B	S 		7
+2 Check Lo 				B8B5754-B	S 		7
+3 Check He 				D8B5000-B	S 		0
+Y1500 				D8B5000-B	S 		0
+Y1900 				D8B5000-B	S 		0
+
+1105 Starting Data	Dene	0936	Tullyhome	D66977A-5	  		4
+1 Check Ni 				D66977A-5	  		4
+2 Check Lo 				D66977A-5	  		4
+3 Check He 				D66977A-5	  		4
+4 Halve PM 				D66977A-5	  		2
+5 Reduce TL 				D66977A-3	  		2
+Y1500 				D669767-2	  		1
+Y1900 				D669696-1	  		9
+
+1105 Starting Data	Dene	0939	Sestos	D5A6878-8	  		8
+1 Check Ni 				D5A6878-8	  		8
+2 Check Lo 				D5A6878-8	  		8
+3 Check He 				D5A6778-8	  		8
+4 Halve PM 				D5A6778-8	  		4
+5 Reduce TL 				D5A6778-6	  		4
+Y1500 				D5A6779-6	  		3
+Y1900 				D5A6757-5	  		2
+
+1105 Starting Data	Dene	1001	Kfathvaedal	B000611-C	  		2
+1 Check Ni 				B000611-C	  		2
+2 Check Lo 				B000611-C	  		2
+3 Check He 				B000611-C	  		2
+4 Halve PM 				B000611-C	  		1
+5 Reduce TL 				B000611-A	  		1
+Y1500 				B000632-B	  		1
+Y1900 				B000598-A	  		9
+
+1105 Starting Data	Dene	1004	Sisi	B8D3661-8	  		6
+1 Check Ni 				B8D3461-8	  		6
+2 Check Lo 				B8D3461-8	  		6
+3 Check He 				B8D3461-8	  		6
+4 Halve PM 				B8D3461-8	  		3
+5 Reduce TL 				B8D3461-6	  		3
+Y1500 				B8D3423-7	  		4
+Y1900 				B8D3431-7	  		4
+
+1105 Starting Data	Dene	1006	Kamisaraki	C554467-9	S 		7
+1 Check Ni 				C554267-9	S 		7
+2 Check Lo 				D554000-9	S 		0
+3 Check He 				D554000-9	S 		0
+Y1500 				D554000-9	S 		0
+Y1900 				D554000-9	S 		0
+
+1105 Starting Data	Dene	1011	Jessok	C623510-A	  		9
+1 Check Ni 				C623110-A	  		9
+2 Check Lo 				D623000-A	  		0
+3 Check He 				D623000-A	  		0
+Y1500 				D623000-A	  		0
+Y1900 				D623000-A	  		0
+
+1105 Starting Data	Dene	1014	Mowebe	C748551-A	  		6
+1 Check Ni 				C748551-A	  		6
+2 Check Lo 				C748551-A	  		6
+3 Check He 				D748000-A	  		0
+Y1500 				D748000-A	  		0
+Y1900 				D748000-A	  		0
+
+1105 Starting Data	Dene	1016	Liiri	B542998-C	  		4
+1 Check Ni 				B542998-C	  		4
+2 Check Lo 				B542998-C	  		4
+3 Check He 				B542998-C	  		4
+4 Halve PM 				B542998-C	  		2
+5 Reduce TL 				B542998-A	  		2
+Y1500 				B5429BD-B	  		3
+Y1900 				B5429AC-A	  		4
+
+1105 Starting Data	Dene	1018	Hessel	B658100-C	 N		8
+1 Check Ni 				B658100-C	 N		8
+2 Check Lo 				D658000-C	 N		0
+3 Check He 				D658000-C	 N		0
+Y1500 				D658000-C	 N		0
+Y1900 				D658000-C	 N		0
+
+1105 Starting Data	Dene	1023	Irumunu	B7B3620-B	W 		1
+1 Check Ni 				B7B3620-B	W 		1
+2 Check Lo 				B7B3620-B	W 		1
+3 Check He 				D7B3000-B	W 		0
+Y1500 				D7B3000-B	W 		0
+Y1900 				D7B3000-B	W 		0
+
+1105 Starting Data	Dene	1025	Frisgar	E424752-9	  		4
+1 Check Ni 				E424752-9	  		4
+2 Check Lo 				E424752-9	  		4
+3 Check He 				E424752-9	  		4
+4 Halve PM 				E424752-9	  		2
+5 Reduce TL 				E424752-7	  		2
+Y1500 				E424747-7	  		1
+Y1900 				E424643-8	  		9
+
+1105 Starting Data	Dene	1026	Burtrum	C5387A9-8	  		5
+1 Check Ni 				C5387A9-8	  		5
+2 Check Lo 				C5387A9-8	  		5
+3 Check He 				C5387A9-8	  		5
+4 Halve PM 				C5387A9-8	  		2
+5 Reduce TL 				C5387A9-6	  		2
+Y1500 				C53879A-6	  		1
+Y1900 				C5386A8-6	  		9
+
+1105 Starting Data	Dene	1030	Prege	B79A678-9	  		7
+1 Check Ni 				B79A678-9	  		7
+2 Check Lo 				B79A678-9	  		7
+3 Check He 				D79A000-9	  		0
+Y1500 				D79A000-9	  		0
+Y1900 				D79A000-9	  		0
+
+1105 Starting Data	Dene	1032	Quinthept	C521575-A	  		5
+1 Check Ni 				C521575-A	  		5
+2 Check Lo 				C521575-A	  		5
+3 Check He 				D521000-A	  		0
+Y1500 				D521000-A	  		0
+Y1900 				D521000-A	  		0
+
+1105 Starting Data	Dene	1035	Storm	CAD6223-A	  		6
+1 Check Ni 				CAD6223-A	  		6
+2 Check Lo 				DAD6000-A	  		0
+3 Check He 				DAD6000-A	  		0
+Y1500 				DAD6000-A	  		0
+Y1900 				DAD6000-A	  		0
+
+1105 Starting Data	Dene	1038	Timmer	C562652-8	S 		2
+1 Check Ni 				C562152-8	S 		2
+2 Check Lo 				D562000-8	S 		0
+3 Check He 				D562000-8	S 		0
+Y1500 				D562000-8	S 		0
+Y1900 				D562000-8	S 		0
+
+1105 Starting Data	Dene	1111	Zeen	D6536B6-6	S 		3
+1 Check Ni 				D6536B6-6	S 		3
+2 Check Lo 				D6536B6-6	S 		3
+3 Check He 				D6536B6-6	S 		3
+4 Halve PM 				D6536B6-6	S 		1
+5 Reduce TL 				D6536B6-4	S 		1
+Y1500 				D653678-3	S 		1
+Y1900 				D653664-4	S 		2
+
+1105 Starting Data	Dene	1115	Pecena	B547314-A	SN		7
+1 Check Ni 				B547314-A	SN		7
+2 Check Lo 				D547000-A	SN		0
+3 Check He 				D547000-A	SN		0
+Y1500 				D547000-A	SN		0
+Y1900 				D547000-A	SN		0
+
+1105 Starting Data	Dene	1116	Abydos	D435666-8	S 		4
+1 Check Ni 				D435466-8	S 		4
+2 Check Lo 				D435466-8	S 		4
+3 Check He 				D435466-8	S 		4
+4 Halve PM 				D435466-8	S 		2
+5 Reduce TL 				D435466-6	S 		2
+Y1500 				D435436-6	S 		1
+Y1900 				D435448-6	S 		2
+
+1105 Starting Data	Dene	1118	Karabeth	E663468-7	  		1
+1 Check Ni 				E663368-7	  		1
+2 Check Lo 				E663000-7	  		0
+3 Check He 				E663000-7	  		0
+Y1500 				E663000-7	  		0
+Y1900 				E663000-7	  		0
+
+1105 Starting Data	Dene	1122	Vincennes	A899AA6-G	  		1
+1 Check Ni 				A899AA6-G	  		1
+2 Check Lo 				A899AA6-G	  		1
+3 Check He 				A899AA6-G	  		1
+4 Halve PM 				A8999A6-G	  		5
+5 Reduce TL 				A8999A6-E	  		5
+Y1500 				A899989-F	  		5
+Y1900 				A899987-E	  		4
+
+1105 Starting Data	Dene	1123	Erisis	D679443-7	  		9
+1 Check Ni 				D679443-7	  		9
+2 Check Lo 				D679443-7	  		9
+3 Check He 				D679000-7	  		0
+Y1500 				D679000-7	  		0
+Y1900 				D679000-7	  		0
+
+1105 Starting Data	Dene	1128	Dekha	C100A9A-F	S 		2
+1 Check Ni 				C100A9A-F	S 		2
+2 Check Lo 				C100A9A-F	S 		2
+3 Check He 				C100A9A-F	S 		2
+4 Halve PM 				C100A9A-F	S 		1
+5 Reduce TL 				C100A9A-D	S 		1
+Y1500 				C100999-E	S 		9
+Y1900 				C100995-E	S 		8
+
+1105 Starting Data	Dene	1133	Keirei	C310330-B	S 		7
+1 Check Ni 				C310330-B	S 		7
+2 Check Lo 				D310000-B	S 		0
+3 Check He 				D310000-B	S 		0
+Y1500 				D310000-B	S 		0
+Y1900 				D310000-B	S 		0
+
+1105 Starting Data	Dene	1135	Lilad	C547AAE-C	  	A	8
+1 Check Ni 				C547AAE-C	  	A	8
+2 Check Lo 				C547AAE-C	  	A	8
+3 Check He 				C5479AE-C	  	A	8
+4 Halve PM 				C5479AE-C	  	A	4
+5 Reduce TL 				C5479AE-A	  	A	4
+Y1500 				C5479BB-B	  	A	3
+Y1900 				C547963-A	  	A	4
+
+1105 Starting Data	Dene	1137	Third Mu	BA7A210-C	  		2
+1 Check Ni 				BA7A210-C	  		2
+2 Check Lo 				DA7A000-C	  		0
+3 Check He 				DA7A000-C	  		0
+Y1500 				DA7A000-C	  		0
+Y1900 				DA7A000-C	  		0
+
+1105 Starting Data	Dene	1138	Ushashin	EA9A210-7	  		7
+1 Check Ni 				EA9A210-7	  		7
+2 Check Lo 				EA9A000-7	  		0
+3 Check He 				EA9A000-7	  		0
+Y1500 				EA9A000-7	  		0
+Y1900 				EA9A000-7	  		0
+
+1105 Starting Data	Dene	1140	Oriryu	B536534-9	  		9
+1 Check Ni 				B536534-9	  		9
+2 Check Lo 				B536534-9	  		9
+3 Check He 				B536534-9	  		9
+4 Halve PM 				B536534-9	  		4
+5 Reduce TL 				B536534-7	  		4
+Y1500 				B536597-8	  		3
+Y1900 				B536533-9	  		3
+
+1105 Starting Data	Dene	1202	Lengighdzuerz	A300520-B	  		9
+1 Check Ni 				A300520-B	  		9
+2 Check Lo 				A300520-B	  		9
+3 Check He 				A300520-B	  		9
+4 Halve PM 				A300520-B	  		4
+5 Reduce TL 				A300520-9	  		4
+Y1500 				A300568-8	  		5
+Y1900 				A300534-8	  		6
+
+1105 Starting Data	Dene	1203	Naimar Station	B000347-A	 N		9
+1 Check Ni 				B000347-A	 N		9
+2 Check Lo 				D000000-A	 N		0
+3 Check He 				D000000-A	 N		0
+Y1500 				D000000-A	 N		0
+Y1900 				D000000-A	 N		0
+
+1105 Starting Data	Dene	1208	Haniiwa	XA9A643-5	  	R	2
+1 Check Ni 				XA9A643-5	  	R	2
+2 Check Lo 				XA9A643-5	  	R	2
+3 Check He 				XA9A000-5	  	R	0
+Y1500 				XA9A000-5	  	R	0
+Y1900 				XA9A000-5	  	R	0
+
+1105 Starting Data	Dene	1212	Prigojin	E100440-8	  		9
+1 Check Ni 				E100440-8	  		9
+2 Check Lo 				E100440-8	  		9
+3 Check He 				E100440-8	  		9
+4 Halve PM 				E100440-8	  		4
+5 Reduce TL 				E100440-6	  		4
+Y1500 				E100455-6	  		3
+Y1900 				E100465-5	  		2
+
+1105 Starting Data	Dene	1213	Inar	A310736-E	 N		9
+1 Check Ni 				A310736-E	 N		9
+2 Check Lo 				A310736-E	 N		9
+3 Check He 				A310736-E	 N		9
+4 Halve PM 				A310736-E	 N		4
+5 Reduce TL 				A310736-C	 N		4
+Y1500 				A310767-D	 N		4
+Y1900 				A310785-C	 N		5
+
+1105 Starting Data	Dene	1216	Morninglori	B544585-7	  		1
+1 Check Ni 				B544185-7	  		1
+2 Check Lo 				D544000-7	  		0
+3 Check He 				D544000-7	  		0
+Y1500 				D544000-7	  		0
+Y1900 				D544000-7	  		0
+
+1105 Starting Data	Dene	1217	Clarissa	C536422-A	S 		5
+1 Check Ni 				C536422-A	S 		5
+2 Check Lo 				C536422-A	S 		5
+3 Check He 				C536422-A	S 		5
+4 Halve PM 				C536422-A	S 		2
+5 Reduce TL 				C536422-8	S 		2
+Y1500 				C536421-7	S 		2
+Y1900 				C536422-6	S 		2
+
+1105 Starting Data	Dene	1218	Gaagir	C86A358-A	S 		6
+1 Check Ni 				C86A358-A	S 		6
+2 Check Lo 				D86A000-A	S 		0
+3 Check He 				D86A000-A	S 		0
+Y1500 				D86A000-A	S 		0
+Y1900 				D86A000-A	S 		0
+
+1105 Starting Data	Dene	1220	Minde's Star	D435452-A	S 		3
+1 Check Ni 				D435452-A	S 		3
+2 Check Lo 				D435452-A	S 		3
+3 Check He 				D435452-A	S 		3
+4 Halve PM 				D435452-A	S 		1
+5 Reduce TL 				D435452-8	S 		1
+Y1500 				D435496-8	S 		2
+Y1900 				D435432-8	S 		3
+
+1105 Starting Data	Dene	1221	Peres	C536224-6	  		8
+1 Check Ni 				C536224-6	  		8
+2 Check Lo 				D536000-6	  		0
+3 Check He 				D536000-6	  		0
+Y1500 				D536000-6	  		0
+Y1900 				D536000-6	  		0
+
+1105 Starting Data	Dene	1223	Montane	C683104-7	  		1
+1 Check Ni 				C683104-7	  		1
+2 Check Lo 				D683000-7	  		0
+3 Check He 				D683000-7	  		0
+Y1500 				D683000-7	  		0
+Y1900 				D683000-7	  		0
+
+1105 Starting Data	Dene	1224	Achemadon	A5477BB-A	  	A	7
+1 Check Ni 				A5477BB-A	  	A	7
+2 Check Lo 				A5477BB-A	  	A	7
+3 Check He 				D547000-A	  	A	0
+Y1500 				D547000-A	  	A	0
+Y1900 				D547000-A	  	A	0
+
+1105 Starting Data	Dene	1226	Bishop	B201553-E	S 		5
+1 Check Ni 				B201553-E	S 		5
+2 Check Lo 				B201553-E	S 		5
+3 Check He 				B201553-E	S 		5
+4 Halve PM 				B201553-E	S 		2
+5 Reduce TL 				B201553-C	S 		2
+Y1500 				B201556-D	S 		1
+Y1900 				B201458-E	S 		9
+
+1105 Starting Data	Dene	1227	Taburi Nen	A54658A-B	  		1
+1 Check Ni 				A54658A-B	  		1
+2 Check Lo 				A54658A-B	  		1
+3 Check He 				D546000-B	  		0
+Y1500 				D546000-B	  		0
+Y1900 				D546000-B	  		0
+
+1105 Starting Data	Dene	1229	Djar	C3008CE-7	S 	A	1
+1 Check Ni 				C3008CE-7	S 	A	1
+2 Check Lo 				C3008CE-7	S 	A	1
+3 Check He 				C3008CE-7	S 	A	1
+4 Halve PM 				C3007CE-7	S 	A	5
+5 Reduce TL 				C3007CE-5	S 	A	5
+Y1500 				C300777-6	S 	A	6
+Y1900 				C300757-7	S 	A	6
+
+1105 Starting Data	Dene	1231	Point Ay	C560524-9	S 		9
+1 Check Ni 				C560424-9	S 		9
+2 Check Lo 				C560424-9	S 		9
+3 Check He 				C560424-9	S 		9
+4 Halve PM 				C560424-9	S 		4
+5 Reduce TL 				C560424-7	S 		4
+Y1500 				C560469-8	S 		5
+Y1900 				C560401-9	S 		6
+
+1105 Starting Data	Dene	1235	Veldt	C567754-8	S 		5
+1 Check Ni 				C567754-8	S 		5
+2 Check Lo 				C567754-8	S 		5
+3 Check He 				C567754-8	S 		5
+4 Halve PM 				C567754-8	S 		2
+5 Reduce TL 				C567754-6	S 		2
+Y1500 				C567775-5	S 		2
+Y1900 				C567777-4	S 		2
+
+1105 Starting Data	Dene	1238	Muntgumree	B553666-8	SN		3
+1 Check Ni 				B553666-8	SN		3
+2 Check Lo 				B553666-8	SN		3
+3 Check He 				B553666-8	SN		3
+4 Halve PM 				B553666-8	SN		1
+5 Reduce TL 				B553666-6	SN		1
+Y1500 				B55359A-5	SN		9
+Y1900 				B553677-4	SN		1
+
+1105 Starting Data	Dene	1301	Latros	B688227-B	  		5
+1 Check Ni 				B688227-B	  		5
+2 Check Lo 				D688000-B	  		0
+3 Check He 				D688000-B	  		0
+Y1500 				D688000-B	  		0
+Y1900 				D688000-B	  		0
+
+1105 Starting Data	Dene	1302	Kantra	C301698-9	  		6
+1 Check Ni 				C301298-9	  		6
+2 Check Lo 				D301000-9	  		0
+3 Check He 				D301000-9	  		0
+Y1500 				D301000-9	  		0
+Y1900 				D301000-9	  		0
+
+1105 Starting Data	Dene	1303	Qi'iri	E554323-7	  		4
+1 Check Ni 				E554323-7	  		4
+2 Check Lo 				E554000-7	  		0
+3 Check He 				E554000-7	  		0
+Y1500 				E554000-7	  		0
+Y1900 				E554000-7	  		0
+
+1105 Starting Data	Dene	1306	Lome	E42487B-8	  		1
+1 Check Ni 				E42487B-8	  		1
+2 Check Lo 				E42487B-8	  		1
+3 Check He 				E42487B-8	  		1
+4 Halve PM 				E42477B-8	  		5
+5 Reduce TL 				E42477B-6	  		5
+Y1500 				E4247AF-5	  		6
+Y1900 				E424744-6	  		7
+
+1105 Starting Data	Dene	1309	Lamas	B7A8585-C	 N		7
+1 Check Ni 				B7A8585-C	 N		7
+2 Check Lo 				B7A8585-C	 N		7
+3 Check He 				D7A8000-C	 N		0
+Y1500 				D7A8000-C	 N		0
+Y1900 				D7A8000-C	 N		0
+
+1105 Starting Data	Dene	1311	Quanah	C567474-6	  		1
+1 Check Ni 				C567474-6	  		1
+2 Check Lo 				C567474-6	  		1
+3 Check He 				C567474-6	  		1
+4 Halve PM 				C567374-6	  		5
+5 Reduce TL 				C567374-4	  		5
+Y1500 				C567300-3	  		5
+Y1900 				C567356-4	  		4
+
+1105 Starting Data	Dene	1313	Rayel	B693632-8	  		4
+1 Check Ni 				B693632-8	  		4
+2 Check Lo 				B693632-8	  		4
+3 Check He 				D693000-8	  		0
+Y1500 				D693000-8	  		0
+Y1900 				D693000-8	  		0
+
+1105 Starting Data	Dene	1314	Modika	B550413-8	S 		5
+1 Check Ni 				B550413-8	S 		5
+2 Check Lo 				B550413-8	S 		5
+3 Check He 				B550413-8	S 		5
+4 Halve PM 				B550413-8	S 		2
+5 Reduce TL 				B550413-6	S 		2
+Y1500 				B550474-5	S 		1
+Y1900 				B550446-6	S 		2
+
+1105 Starting Data	Dene	1318	Ciprien	C553310-7	  		8
+1 Check Ni 				C553310-7	  		8
+2 Check Lo 				D553000-7	  		0
+3 Check He 				D553000-7	  		0
+Y1500 				D553000-7	  		0
+Y1900 				D553000-7	  		0
+
+1105 Starting Data	Dene	1319	Thane	D585430-7	S 		4
+1 Check Ni 				D585430-7	S 		4
+2 Check Lo 				D585430-7	S 		4
+3 Check He 				D585430-7	S 		4
+4 Halve PM 				D585430-7	S 		2
+5 Reduce TL 				D585430-5	S 		2
+Y1500 				D585496-6	S 		3
+Y1900 				D585430-5	S 		2
+
+1105 Starting Data	Dene	1323	Al-Uqayr	E567259-5	  		5
+1 Check Ni 				E567259-5	  		5
+2 Check Lo 				E567000-5	  		0
+3 Check He 				E567000-5	  		0
+Y1500 				E567000-5	  		0
+Y1900 				E567000-5	  		0
+
+1105 Starting Data	Dene	1324	Jonkeer	C5908C9-8	S 	A	4
+1 Check Ni 				C5908C9-8	S 	A	4
+2 Check Lo 				C5908C9-8	S 	A	4
+3 Check He 				C5908C9-8	S 	A	4
+4 Halve PM 				C5908C9-8	S 	A	2
+5 Reduce TL 				C5908C9-6	S 	A	2
+Y1500 				C5908BB-7	S 	A	3
+Y1900 				C590876-6	S 	A	3
+
+1105 Starting Data	Dene	1327	Medard	B421425-C	  		7
+1 Check Ni 				B421425-C	  		7
+2 Check Lo 				B421425-C	  		7
+3 Check He 				D421000-C	  		0
+Y1500 				D421000-C	  		0
+Y1900 				D421000-C	  		0
+
+1105 Starting Data	Dene	1332	Giffert	B7A8557-D	  		2
+1 Check Ni 				B7A8557-D	  		2
+2 Check Lo 				B7A8557-D	  		2
+3 Check He 				D7A8000-D	  		0
+Y1500 				D7A8000-D	  		0
+Y1900 				D7A8000-D	  		0
+
+1105 Starting Data	Dene	1333	Shiiku	D6517BF-6	S 	A	5
+1 Check Ni 				D6517BF-6	S 	A	5
+2 Check Lo 				D6517BF-6	S 	A	5
+3 Check He 				D6517BF-6	S 	A	5
+4 Halve PM 				D6517BF-6	S 	A	2
+5 Reduce TL 				D6517BF-4	S 	A	2
+Y1500 				D651776-3	S 	A	1
+Y1900 				D651779-2	S 	A	1
+
+1105 Starting Data	Dene	1334	Giranima	D7979C8-8	S 	A	3
+1 Check Ni 				D7979C8-8	S 	A	3
+2 Check Lo 				D7979C8-8	S 	A	3
+3 Check He 				D7979C8-8	S 	A	3
+4 Halve PM 				D7979C8-8	S 	A	1
+5 Reduce TL 				D7979C8-6	S 	A	1
+Y1500 				D7979AB-7	S 	A	2
+Y1900 				D797974-6	S 	A	3
+
+1105 Starting Data	Dene	1336	Dawn	AA9A531-C	 N		4
+1 Check Ni 				AA9A531-C	 N		4
+2 Check Lo 				AA9A531-C	 N		4
+3 Check He 				DA9A000-C	 N		0
+Y1500 				DA9A000-C	 N		0
+Y1900 				DA9A000-C	 N		0
+
+1105 Starting Data	Dene	1337	Unxava	B677627-7	  		7
+1 Check Ni 				B677427-7	  		7
+2 Check Lo 				B677427-7	  		7
+3 Check He 				D677000-7	  		0
+Y1500 				D677000-7	  		0
+Y1900 				D677000-7	  		0
+
+1105 Starting Data	Dene	1338	Sorel	B539113-C	 N		6
+1 Check Ni 				B539113-C	 N		6
+2 Check Lo 				D539000-C	 N		0
+3 Check He 				D539000-C	 N		0
+Y1500 				D539000-C	 N		0
+Y1900 				D539000-C	 N		0
+
+1105 Starting Data	Dene	1339	Zeng	A426446-C	SN		4
+1 Check Ni 				A426446-C	SN		4
+2 Check Lo 				A426446-C	SN		4
+3 Check He 				D426000-C	SN		0
+Y1500 				D426000-C	SN		0
+Y1900 				D426000-C	SN		0
+
+1105 Starting Data	Dene	1340	Agdarmi	B566799-A	  		7
+1 Check Ni 				B566799-A	  		7
+2 Check Lo 				B566799-A	  		7
+3 Check He 				B566799-A	  		7
+4 Halve PM 				B566799-A	  		3
+5 Reduce TL 				B566799-8	  		3
+Y1500 				B5667BC-9	  		4
+Y1900 				B5667AC-9	  		5
+
+1105 Starting Data	Dene	1403	Qi'ire	A657377-A	  		4
+1 Check Ni 				A657377-A	  		4
+2 Check Lo 				D657000-A	  		0
+3 Check He 				D657000-A	  		0
+Y1500 				D657000-A	  		0
+Y1900 				D657000-A	  		0
+
+1105 Starting Data	Dene	1405	Anatre	D5788A7-6	  		4
+1 Check Ni 				D5788A7-6	  		4
+2 Check Lo 				D5788A7-6	  		4
+3 Check He 				D5788A7-6	  		4
+4 Halve PM 				D5788A7-6	  		2
+5 Reduce TL 				D5788A7-4	  		2
+Y1500 				D5788BA-3	  		1
+Y1900 				D57889A-4	  		2
+
+1105 Starting Data	Dene	1406	Borlund	E554AAA-9	  	A	7
+1 Check Ni 				E554AAA-9	  	A	7
+2 Check Lo 				E554AAA-9	  	A	7
+3 Check He 				E554AAA-9	  	A	7
+4 Halve PM 				E554AAA-9	  	A	3
+5 Reduce TL 				E554AAA-7	  	A	3
+Y1500 				E554ACB-7	  	A	4
+Y1900 				E554A74-6	  	A	4
+
+1105 Starting Data	Dene	1409	Krisna	C84A651-A	  		8
+1 Check Ni 				C84A651-A	  		8
+2 Check Lo 				C84A651-A	  		8
+3 Check He 				D84A000-A	  		0
+Y1500 				D84A000-A	  		0
+Y1900 				D84A000-A	  		0
+
+1105 Starting Data	Dene	1415	Taillon	C78A668-9	S 		7
+1 Check Ni 				C78A668-9	S 		7
+2 Check Lo 				C78A668-9	S 		7
+3 Check He 				C78A668-9	S 		7
+4 Halve PM 				C78A668-9	S 		3
+5 Reduce TL 				C78A668-7	S 		3
+Y1500 				C78A666-8	S 		4
+Y1900 				C78A6BB-7	S 		5
+
+1105 Starting Data	Dene	1417	Starn	B000996-F	S 		7
+1 Check Ni 				B000996-F	S 		7
+2 Check Lo 				B000996-F	S 		7
+3 Check He 				B000996-F	S 		7
+4 Halve PM 				B000996-F	S 		3
+5 Reduce TL 				B000996-D	S 		3
+Y1500 				B000999-C	S 		3
+Y1900 				B000967-B	S 		4
+
+1105 Starting Data	Dene	1419	Montcolm	D675212-7	  		1
+1 Check Ni 				D675212-7	  		1
+2 Check Lo 				D675000-7	  		0
+3 Check He 				D675000-7	  		0
+Y1500 				D675000-7	  		0
+Y1900 				D675000-7	  		0
+
+1105 Starting Data	Dene	1420	Quebraco	E78A568-5	  		8
+1 Check Ni 				E78A468-5	  		8
+2 Check Lo 				E78A468-5	  		8
+3 Check He 				E78A468-5	  		8
+4 Halve PM 				E78A468-5	  		4
+5 Reduce TL 				E78A468-3	  		4
+Y1500 				E78A458-4	  		5
+Y1900 				E78A435-3	  		6
+
+1105 Starting Data	Dene	1424	Sarden	E552652-7	  		5
+1 Check Ni 				E552452-7	  		5
+2 Check Lo 				E552452-7	  		5
+3 Check He 				E552452-7	  		5
+4 Halve PM 				E552452-7	  		2
+5 Reduce TL 				E552452-5	  		2
+Y1500 				E552422-4	  		3
+Y1900 				E552403-5	  		4
+
+1105 Starting Data	Dene	1426	Kew	C512103-B	  		3
+1 Check Ni 				C512103-B	  		3
+2 Check Lo 				D512000-B	  		0
+3 Check He 				D512000-B	  		0
+Y1500 				D512000-B	  		0
+Y1900 				D512000-B	  		0
+
+1105 Starting Data	Dene	1428	Condamine	C665578-7	  		9
+1 Check Ni 				C665378-7	  		9
+2 Check Lo 				D665000-7	  		0
+3 Check He 				D665000-7	  		0
+Y1500 				D665000-7	  		0
+Y1900 				D665000-7	  		0
+
+1105 Starting Data	Dene	1429	Ishiri	E56598A-7	  		5
+1 Check Ni 				E56598A-7	  		5
+2 Check Lo 				E56598A-7	  		5
+3 Check He 				E56598A-7	  		5
+4 Halve PM 				E56598A-7	  		2
+5 Reduce TL 				E56598A-5	  		2
+Y1500 				E565997-6	  		3
+Y1900 				E5659CC-5	  		2
+
+1105 Starting Data	Dene	1430	Eretaro	C9C4100-B	  		9
+1 Check Ni 				C9C4100-B	  		9
+2 Check Lo 				D9C4000-B	  		0
+3 Check He 				D9C4000-B	  		0
+Y1500 				D9C4000-B	  		0
+Y1900 				D9C4000-B	  		0
+
+1105 Starting Data	Dene	1432	Pashus	A432455-G	S 		8
+1 Check Ni 				A432155-G	S 		8
+2 Check Lo 				D432000-G	S 		0
+3 Check He 				D432000-G	S 		0
+Y1500 				D432000-G	S 		0
+Y1900 				D432000-G	S 		0
+
+1105 Starting Data	Dene	1433	Atab	C540899-8	S 		3
+1 Check Ni 				C540899-8	S 		3
+2 Check Lo 				C540899-8	S 		3
+3 Check He 				C540899-8	S 		3
+4 Halve PM 				C540899-8	S 		1
+5 Reduce TL 				C540899-6	S 		1
+Y1500 				C54089B-5	S 		2
+Y1900 				C540832-4	S 		2
+
+1105 Starting Data	Dene	1435	Quirinal	C651754-9	  		1
+1 Check Ni 				C651754-9	  		1
+2 Check Lo 				C651754-9	  		1
+3 Check He 				C651754-9	  		1
+4 Halve PM 				C651654-9	  		5
+5 Reduce TL 				C651654-7	  		5
+Y1500 				C65169E-7	  		4
+Y1900 				C651634-8	  		5
+
+1105 Starting Data	Dene	1436	Isidor	C571565-8	  		6
+1 Check Ni 				C571565-8	  		6
+2 Check Lo 				C571565-8	  		6
+3 Check He 				D571000-8	  		0
+Y1500 				D571000-8	  		0
+Y1900 				D571000-8	  		0
+
+1105 Starting Data	Dene	1439	Breit-Tuve	C425574-B	  		8
+1 Check Ni 				C425174-B	  		8
+2 Check Lo 				D425000-B	  		0
+3 Check He 				D425000-B	  		0
+Y1500 				D425000-B	  		0
+Y1900 				D425000-B	  		0
+
+1105 Starting Data	Dene	1440	Fessenden	C4357CC-6	  	A	4
+1 Check Ni 				C4357CC-6	  	A	4
+2 Check Lo 				C4357CC-6	  	A	4
+3 Check He 				C4357CC-6	  	A	4
+4 Halve PM 				C4357CC-6	  	A	2
+5 Reduce TL 				C4357CC-4	  	A	2
+Y1500 				C435753-3	  	A	1
+Y1900 				C435785-4	  	A	1
+
+1105 Starting Data	Dene	1502	Mur	C100733-A	  		1
+1 Check Ni 				C100733-A	  		1
+2 Check Lo 				C100733-A	  		1
+3 Check He 				C100733-A	  		1
+4 Halve PM 				C100633-A	  		5
+5 Reduce TL 				C100633-8	  		5
+Y1500 				C100683-8	  		6
+Y1900 				C10069B-9	  		7
+
+1105 Starting Data	Dene	1504	Gila	E663674-6	  		2
+1 Check Ni 				E663474-6	  		2
+2 Check Lo 				E663474-6	  		2
+3 Check He 				E663474-6	  		2
+4 Halve PM 				E663474-6	  		1
+5 Reduce TL 				E663474-4	  		1
+Y1500 				E663300-5	  		9
+Y1900 				E663335-6	  		8
+
+1105 Starting Data	Dene	1505	Lagut	C312555-B	  		9
+1 Check Ni 				C312555-B	  		9
+2 Check Lo 				C312555-B	  		9
+3 Check He 				C312555-B	  		9
+4 Halve PM 				C312555-B	  		4
+5 Reduce TL 				C312555-9	  		4
+Y1500 				C312565-A	  		5
+Y1900 				C312549-A	  		4
+
+1105 Starting Data	Dene	1508	Pek'e	C541325-7	S 		4
+1 Check Ni 				C541325-7	S 		4
+2 Check Lo 				D541000-7	S 		0
+3 Check He 				D541000-7	S 		0
+Y1500 				D541000-7	S 		0
+Y1900 				D541000-7	S 		0
+
+1105 Starting Data	Dene	1509	Prolam	B769436-A	 N		2
+1 Check Ni 				B769236-A	 N		2
+2 Check Lo 				D769000-A	 N		0
+3 Check He 				D769000-A	 N		0
+Y1500 				D769000-A	 N		0
+Y1900 				D769000-A	 N		0
+
+1105 Starting Data	Dene	1518	Trevith	E673347-5	  		4
+1 Check Ni 				E673347-5	  		4
+2 Check Lo 				E673000-5	  		0
+3 Check He 				E673000-5	  		0
+Y1500 				E673000-5	  		0
+Y1900 				E673000-5	  		0
+
+1105 Starting Data	Dene	1520	Kauai	BA89537-B	SN		9
+1 Check Ni 				BA89537-B	SN		9
+2 Check Lo 				BA89537-B	SN		9
+3 Check He 				BA89537-B	SN		9
+4 Halve PM 				BA89537-B	SN		4
+5 Reduce TL 				BA89537-9	SN		4
+Y1500 				BA895AC-A	SN		5
+Y1900 				BA89555-9	SN		5
+
+1105 Starting Data	Dene	1522	Bumushe	C68A657-7	S 		3
+1 Check Ni 				C68A657-7	S 		3
+2 Check Lo 				C68A657-7	S 		3
+3 Check He 				C68A657-7	S 		3
+4 Halve PM 				C68A657-7	S 		1
+5 Reduce TL 				C68A657-5	S 		1
+Y1500 				C68A653-4	S 		2
+Y1900 				C68A675-5	S 		3
+
+1105 Starting Data	Dene	1524	Verd	E550433-6	  		1
+1 Check Ni 				E550133-6	  		1
+2 Check Lo 				E550000-6	  		0
+3 Check He 				E550000-6	  		0
+Y1500 				E550000-6	  		0
+Y1900 				E550000-6	  		0
+
+1105 Starting Data	Dene	1532	Rajan	C87A112-B	  		8
+1 Check Ni 				C87A112-B	  		8
+2 Check Lo 				D87A000-B	  		0
+3 Check He 				D87A000-B	  		0
+Y1500 				D87A000-B	  		0
+Y1900 				D87A000-B	  		0
+
+1105 Starting Data	Dene	1601	Gzigorlloe	A311677-A	  	A	8
+1 Check Ni 				A311577-A	  	A	8
+2 Check Lo 				A311577-A	  	A	8
+3 Check He 				A311577-A	  	A	8
+4 Halve PM 				A311577-A	  	A	4
+5 Reduce TL 				A311577-8	  	A	4
+Y1500 				A311540-7	  	A	5
+Y1900 				A311533-6	  	A	6
+
+1105 Starting Data	Dene	1603	Gzonksoeg	D567200-7	  		4
+1 Check Ni 				D567200-7	  		4
+2 Check Lo 				D567000-7	  		0
+3 Check He 				D567000-7	  		0
+Y1500 				D567000-7	  		0
+Y1900 				D567000-7	  		0
+
+1105 Starting Data	Dene	1606	Yef	E543342-5	  		2
+1 Check Ni 				E543342-5	  		2
+2 Check Lo 				E543000-5	  		0
+3 Check He 				E543000-5	  		0
+Y1500 				E543000-5	  		0
+Y1900 				E543000-5	  		0
+
+1105 Starting Data	Dene	1608	Gaashushnu Li	X744255-5	  	R	4
+1 Check Ni 				X744255-5	  	R	4
+2 Check Lo 				X744000-5	  	R	0
+3 Check He 				X744000-5	  	R	0
+Y1500 				X744000-5	  	R	0
+Y1900 				X744000-5	  	R	0
+
+1105 Starting Data	Dene	1609	Ansirk	A100100-F	 N		5
+1 Check Ni 				A100100-F	 N		5
+2 Check Lo 				D100000-F	 N		0
+3 Check He 				D100000-F	 N		0
+Y1500 				D100000-F	 N		0
+Y1900 				D100000-F	 N		0
+
+1105 Starting Data	Dene	1613	Depot	A10066A-F	 D	A	2
+1 Check Ni 				A10066A-F	 D	A	2
+2 Check Lo 				A10066A-F	 D	A	2
+3 Check He 				A10066A-F	 D	A	2
+4 Halve PM 				A10066A-F	 D	A	1
+5 Reduce TL 				A10066A-D	 D	A	1
+Y1500 				A10069D-C	 D	A	1
+Y1900 				A100667-C	 D	A	2
+
+1105 Starting Data	Dene	1614	Springarn	E564320-5	  		5
+1 Check Ni 				E564320-5	  		5
+2 Check Lo 				E564000-5	  		0
+3 Check He 				E564000-5	  		0
+Y1500 				E564000-5	  		0
+Y1900 				E564000-5	  		0
+
+1105 Starting Data	Dene	1615	Gaza	B430656-B	W 		7
+1 Check Ni 				B430656-B	W 		7
+2 Check Lo 				B430656-B	W 		7
+3 Check He 				B430656-B	W 		7
+4 Halve PM 				B430656-B	W 		3
+5 Reduce TL 				B430656-9	W 		3
+Y1500 				B430633-A	W 		4
+Y1900 				B430676-B	W 		3
+
+1105 Starting Data	Dene	1618	Ashasi	E9D5AA8-B	  		6
+1 Check Ni 				E9D5AA8-B	  		6
+2 Check Lo 				E9D5AA8-B	  		6
+3 Check He 				E9D5AA8-B	  		6
+4 Halve PM 				E9D5AA8-B	  		3
+5 Reduce TL 				E9D5AA8-9	  		3
+Y1500 				E9D5AEE-A	  		2
+Y1900 				E9D5ACA-B	  		3
+
+1105 Starting Data	Dene	1619	Neopidan	BA9A547-9	 N		7
+1 Check Ni 				BA9A447-9	 N		7
+2 Check Lo 				BA9A447-9	 N		7
+3 Check He 				DA9A000-9	 N		0
+Y1500 				DA9A000-9	 N		0
+Y1900 				DA9A000-9	 N		0
+
+1105 Starting Data	Dene	1620	Surisha	D682232-3	  		2
+1 Check Ni 				D682232-3	  		2
+2 Check Lo 				D682000-3	  		0
+3 Check He 				D682000-3	  		0
+Y1500 				D682000-3	  		0
+Y1900 				D682000-3	  		0
+
+1105 Starting Data	Dene	1623	HRD	A401654-F	 N		8
+1 Check Ni 				A401554-F	 N		8
+2 Check Lo 				A401554-F	 N		8
+3 Check He 				A401554-F	 N		8
+4 Halve PM 				A401554-F	 N		4
+5 Reduce TL 				A401554-D	 N		4
+Y1500 				A401512-C	 N		5
+Y1900 				A401534-B	 N		6
+
+1105 Starting Data	Dene	1626	Risir	C430225-9	  		3
+1 Check Ni 				C430225-9	  		3
+2 Check Lo 				D430000-9	  		0
+3 Check He 				D430000-9	  		0
+Y1500 				D430000-9	  		0
+Y1900 				D430000-9	  		0
+
+1105 Starting Data	Dene	1628	Alaungpaya	C540794-8	S 		6
+1 Check Ni 				C540794-8	S 		6
+2 Check Lo 				C540794-8	S 		6
+3 Check He 				C540794-8	S 		6
+4 Halve PM 				C540794-8	S 		3
+5 Reduce TL 				C540794-6	S 		3
+Y1500 				C540734-7	S 		4
+Y1900 				C540730-7	S 		4
+
+1105 Starting Data	Dene	1630	Brontitor	B9C4210-9	  		9
+1 Check Ni 				B9C4210-9	  		9
+2 Check Lo 				D9C4000-9	  		0
+3 Check He 				D9C4000-9	  		0
+Y1500 				D9C4000-9	  		0
+Y1900 				D9C4000-9	  		0
+
+1105 Starting Data	Dene	1633	Pikha	B738A86-C	  		6
+1 Check Ni 				B738A86-C	  		6
+2 Check Lo 				B738A86-C	  		6
+3 Check He 				B738A86-C	  		6
+4 Halve PM 				B738A86-C	  		3
+5 Reduce TL 				B738A86-A	  		3
+Y1500 				B738AFC-B	  		4
+Y1900 				B738A85-A	  		5
+
+1105 Starting Data	Dene	1635	Ibsen	D4346AC-6	  	A	1
+1 Check Ni 				D4345AC-6	  	A	1
+2 Check Lo 				D4345AC-6	  	A	1
+3 Check He 				D4345AC-6	  	A	1
+4 Halve PM 				D4344AC-6	  	A	5
+5 Reduce TL 				D4344AC-4	  	A	5
+Y1500 				D434400-3	  	A	5
+Y1900 				D434432-3	  	A	6
+
+1105 Starting Data	Dene	1636	Balzac	A552879-C	 N		5
+1 Check Ni 				A552879-C	 N		5
+2 Check Lo 				A552879-C	 N		5
+3 Check He 				A552879-C	 N		5
+4 Halve PM 				A552879-C	 N		2
+5 Reduce TL 				A552879-A	 N		2
+Y1500 				A5528AD-A	 N		3
+Y1900 				A5528BE-B	 N		4
+
+1105 Starting Data	Dene	1639	Uushadiiru	A551445-A	 N		5
+1 Check Ni 				A551445-A	 N		5
+2 Check Lo 				A551445-A	 N		5
+3 Check He 				A551445-A	 N		5
+4 Halve PM 				A551445-A	 N		2
+5 Reduce TL 				A551445-8	 N		2
+Y1500 				A551467-8	 N		3
+Y1900 				A551437-8	 N		2
+
+1105 Starting Data	Dene	1640	Jecife	A439667-F	 N		1
+1 Check Ni 				A439567-F	 N		1
+2 Check Lo 				A439567-F	 N		1
+3 Check He 				A439567-F	 N		1
+4 Halve PM 				A439467-F	 N		5
+5 Reduce TL 				A439467-D	 N		5
+Y1500 				A439415-D	 N		6
+Y1900 				A439458-C	 N		6
+
+1105 Starting Data	Dene	1704	Graek	D7879C7-4	  	A	1
+1 Check Ni 				D7879C7-4	  	A	1
+2 Check Lo 				D7879C7-4	  	A	1
+3 Check He 				D7879C7-4	  	A	1
+4 Halve PM 				D7878C7-4	  	A	5
+5 Reduce TL 				D7878C7-2	  	A	5
+Y1500 				D787889-3	  	A	4
+Y1900 				D7878B9-2	  	A	4
+
+1105 Starting Data	Dene	1706	Dunant	B311320-D	S 	A	5
+1 Check Ni 				B311320-D	S 	A	5
+2 Check Lo 				D311000-D	S 	A	0
+3 Check He 				D311000-D	S 	A	0
+Y1500 				D311000-D	S 	A	0
+Y1900 				D311000-D	S 	A	0
+
+1105 Starting Data	Dene	1708	Remsen	B788676-9	S 		5
+1 Check Ni 				B788676-9	S 		5
+2 Check Lo 				B788676-9	S 		5
+3 Check He 				B788676-9	S 		5
+4 Halve PM 				B788676-9	S 		2
+5 Reduce TL 				B788676-7	S 		2
+Y1500 				B7886BG-7	S 		2
+Y1900 				B788633-7	S 		3
+
+1105 Starting Data	Dene	1710	Uakari	C5348AA-6	  	A	9
+1 Check Ni 				C5348AA-6	  	A	9
+2 Check Lo 				C5348AA-6	  	A	9
+3 Check He 				C5348AA-6	  	A	9
+4 Halve PM 				C5348AA-6	  	A	4
+5 Reduce TL 				C5348AA-4	  	A	4
+Y1500 				C534877-4	  	A	3
+Y1900 				C53489A-5	  	A	2
+
+1105 Starting Data	Dene	1712	Petrarch	B554853-8	SN		2
+1 Check Ni 				B554853-8	SN		2
+2 Check Lo 				B554853-8	SN		2
+3 Check He 				B554853-8	SN		2
+4 Halve PM 				B554853-8	SN		1
+5 Reduce TL 				B554853-6	SN		1
+Y1500 				B5548AB-5	SN		1
+Y1900 				B554785-6	SN		9
+
+1105 Starting Data	Dene	1713	Stoyben	D31356A-8	S 		2
+1 Check Ni 				D31346A-8	S 		2
+2 Check Lo 				D31346A-8	S 		2
+3 Check He 				D31346A-8	S 		2
+4 Halve PM 				D31346A-8	S 		1
+5 Reduce TL 				D31346A-6	S 		1
+Y1500 				D313358-7	S 		9
+Y1900 				D313300-8	S 		8
+
+1105 Starting Data	Dene	1714	Andalia	C87A447-7	  	A	9
+1 Check Ni 				C87A447-7	  	A	9
+2 Check Lo 				C87A447-7	  	A	9
+3 Check He 				D87A000-7	  	A	0
+Y1500 				D87A000-7	  	A	0
+Y1900 				D87A000-7	  	A	0
+
+1105 Starting Data	Dene	1716	Reims	C624779-7	  		6
+1 Check Ni 				C624779-7	  		6
+2 Check Lo 				C624779-7	  		6
+3 Check He 				C624779-7	  		6
+4 Halve PM 				C624779-7	  		3
+5 Reduce TL 				C624779-5	  		3
+Y1500 				C624759-6	  		4
+Y1900 				C624758-5	  		3
+
+1105 Starting Data	Dene	1717	Kennebec	E978552-6	  		5
+1 Check Ni 				E978352-6	  		5
+2 Check Lo 				E978000-6	  		0
+3 Check He 				E978000-6	  		0
+Y1500 				E978000-6	  		0
+Y1900 				E978000-6	  		0
+
+1105 Starting Data	Dene	1719	Polizzi	B402532-D	  		8
+1 Check Ni 				B402532-D	  		8
+2 Check Lo 				B402532-D	  		8
+3 Check He 				B402532-D	  		8
+4 Halve PM 				B402532-D	  		4
+5 Reduce TL 				B402532-B	  		4
+Y1500 				B402542-C	  		3
+Y1900 				B402553-B	  		3
+
+1105 Starting Data	Dene	1722	Redemption	E540634-5	  	A	6
+1 Check Ni 				E540534-5	  	A	6
+2 Check Lo 				E540534-5	  	A	6
+3 Check He 				E540534-5	  	A	6
+4 Halve PM 				E540534-5	  	A	3
+5 Reduce TL 				E540534-3	  	A	3
+Y1500 				E540554-4	  	A	3
+Y1900 				E54059A-4	  	A	3
+
+1105 Starting Data	Dene	1726	Woaros	X747678-5	  	R	2
+1 Check Ni 				X747678-5	  	R	2
+2 Check Lo 				X747678-5	  	R	2
+3 Check He 				X747000-5	  	R	0
+Y1500 				X747000-5	  	R	0
+Y1900 				X747000-5	  	R	0
+
+1105 Starting Data	Dene	1728	Monogan	E10056A-8	  		9
+1 Check Ni 				E10046A-8	  		9
+2 Check Lo 				E10046A-8	  		9
+3 Check He 				E10046A-8	  		9
+4 Halve PM 				E10046A-8	  		4
+5 Reduce TL 				E10046A-6	  		4
+Y1500 				E100433-7	  		5
+Y1900 				E100401-8	  		4
+
+1105 Starting Data	Dene	1730	Gatooma	E100566-7	  		4
+1 Check Ni 				E100566-7	  		4
+2 Check Lo 				E100566-7	  		4
+3 Check He 				E100566-7	  		4
+4 Halve PM 				E100566-7	  		2
+5 Reduce TL 				E100566-5	  		2
+Y1500 				E100544-6	  		3
+Y1900 				E10058C-5	  		4
+
+1105 Starting Data	Dene	1732	Rif	C687200-6	  		7
+1 Check Ni 				C687200-6	  		7
+2 Check Lo 				D687000-6	  		0
+3 Check He 				D687000-6	  		0
+Y1500 				D687000-6	  		0
+Y1900 				D687000-6	  		0
+
+1105 Starting Data	Dene	1733	Imazura	C555555-9	S 		2
+1 Check Ni 				C555555-9	S 		2
+2 Check Lo 				C555555-9	S 		2
+3 Check He 				C555555-9	S 		2
+4 Halve PM 				C555555-9	S 		1
+5 Reduce TL 				C555555-7	S 		1
+Y1500 				C555556-8	S 		1
+Y1900 				C555555-9	S 		2
+
+1105 Starting Data	Dene	1802	Dzoungdzi	A557353-E	  		6
+1 Check Ni 				A557353-E	  		6
+2 Check Lo 				D557000-E	  		0
+3 Check He 				D557000-E	  		0
+Y1500 				D557000-E	  		0
+Y1900 				D557000-E	  		0
+
+1105 Starting Data	Dene	1805	Cilnodan	B542221-9	  		6
+1 Check Ni 				B542221-9	  		6
+2 Check Lo 				D542000-9	  		0
+3 Check He 				D542000-9	  		0
+Y1500 				D542000-9	  		0
+Y1900 				D542000-9	  		0
+
+1105 Starting Data	Dene	1808	Antra	A53789C-D	  	A	5
+1 Check Ni 				A53789C-D	  	A	5
+2 Check Lo 				A53789C-D	  	A	5
+3 Check He 				A53789C-D	  	A	5
+4 Halve PM 				A53789C-D	  	A	2
+5 Reduce TL 				A53789C-B	  	A	2
+Y1500 				A5378BA-A	  	A	1
+Y1900 				A5378AC-9	  	A	2
+
+1105 Starting Data	Dene	1810	Syr Darya	E55769C-5	  	A	9
+1 Check Ni 				E55749C-5	  	A	9
+2 Check Lo 				E55749C-5	  	A	9
+3 Check He 				E55749C-5	  	A	9
+4 Halve PM 				E55749C-5	  	A	4
+5 Reduce TL 				E55749C-3	  	A	4
+Y1500 				E557432-2	  	A	3
+Y1900 				E557456-2	  	A	4
+
+1105 Starting Data	Dene	1814	Karst	B87679B-6	  	A	1
+1 Check Ni 				B87679B-6	  	A	1
+2 Check Lo 				B87679B-6	  	A	1
+3 Check He 				B87679B-6	  	A	1
+4 Halve PM 				B87669B-6	  	A	5
+5 Reduce TL 				B87669B-4	  	A	5
+Y1500 				B87669C-4	  	A	4
+Y1900 				B876662-5	  	A	4
+
+1105 Starting Data	Dene	1821	Rolvaag	E580345-7	  		8
+1 Check Ni 				E580345-7	  		8
+2 Check Lo 				E580000-7	  		0
+3 Check He 				E580000-7	  		0
+Y1500 				E580000-7	  		0
+Y1900 				E580000-7	  		0
+
+1105 Starting Data	Dene	1823	Tetzel	B643232-B	 N	A	3
+1 Check Ni 				B643232-B	 N	A	3
+2 Check Lo 				D643000-B	 N	A	0
+3 Check He 				D643000-B	 N	A	0
+Y1500 				D643000-B	 N	A	0
+Y1900 				D643000-B	 N	A	0
+
+1105 Starting Data	Dene	1824	Farraco	E200478-9	  		1
+1 Check Ni 				E200178-9	  		1
+2 Check Lo 				E200000-9	  		0
+3 Check He 				E200000-9	  		0
+Y1500 				E200000-9	  		0
+Y1900 				E200000-9	  		0
+
+1105 Starting Data	Dene	1826	Eshamlii	A434343-B	S 		3
+1 Check Ni 				A434343-B	S 		3
+2 Check Lo 				D434000-B	S 		0
+3 Check He 				D434000-B	S 		0
+Y1500 				D434000-B	S 		0
+Y1900 				D434000-B	S 		0
+
+1105 Starting Data	Dene	1827	Prefecture	E4307B6-8	  		7
+1 Check Ni 				E4307B6-8	  		7
+2 Check Lo 				E4307B6-8	  		7
+3 Check He 				E4307B6-8	  		7
+4 Halve PM 				E4307B6-8	  		3
+5 Reduce TL 				E4307B6-6	  		3
+Y1500 				E430764-5	  		4
+Y1900 				E430720-6	  		4
+
+1105 Starting Data	Dene	1829	Bisistra	B557579-B	 N		8
+1 Check Ni 				B557579-B	 N		8
+2 Check Lo 				B557579-B	 N		8
+3 Check He 				B557579-B	 N		8
+4 Halve PM 				B557579-B	 N		4
+5 Reduce TL 				B557579-9	 N		4
+Y1500 				B557537-9	 N		3
+Y1900 				B557589-8	 N		4
+
+1105 Starting Data	Dene	1830	Ronsard	DA89654-8	S 		2
+1 Check Ni 				DA89654-8	S 		2
+2 Check Lo 				DA89654-8	S 		2
+3 Check He 				DA89654-8	S 		2
+4 Halve PM 				DA89654-8	S 		1
+5 Reduce TL 				DA89654-6	S 		1
+Y1500 				DA89669-5	S 		1
+Y1900 				DA89647-6	S 		2
+
+1105 Starting Data	Dene	1831	Takahira	B9C5223-9	SN		7
+1 Check Ni 				B9C5223-9	SN		7
+2 Check Lo 				D9C5000-9	SN		0
+3 Check He 				D9C5000-9	SN		0
+Y1500 				D9C5000-9	SN		0
+Y1900 				D9C5000-9	SN		0
+
+1105 Starting Data	Dene	1832	Kamlar	B587462-B	 N		8
+1 Check Ni 				B587362-B	 N		8
+2 Check Lo 				D587000-B	 N		0
+3 Check He 				D587000-B	 N		0
+Y1500 				D587000-B	 N		0
+Y1900 				D587000-B	 N		0
+
+1105 Starting Data	Dene	1902	Noscius	C422201-8	  	A	5
+1 Check Ni 				C422201-8	  	A	5
+2 Check Lo 				D422000-8	  	A	0
+3 Check He 				D422000-8	  	A	0
+Y1500 				D422000-8	  	A	0
+Y1900 				D422000-8	  	A	0
+
+1105 Starting Data	Dene	1903	Fursuelgigz	B200787-8	  		9
+1 Check Ni 				B200787-8	  		9
+2 Check Lo 				B200787-8	  		9
+3 Check He 				B200787-8	  		9
+4 Halve PM 				B200787-8	  		4
+5 Reduce TL 				B200787-6	  		4
+Y1500 				B200764-5	  		4
+Y1900 				B200786-4	  		5
+
+1105 Starting Data	Dene	1904	Marnig	E541101-5	  		3
+1 Check Ni 				E541101-5	  		3
+2 Check Lo 				E541000-5	  		0
+3 Check He 				E541000-5	  		0
+Y1500 				E541000-5	  		0
+Y1900 				E541000-5	  		0
+
+1105 Starting Data	Dene	1905	Ostov	C768532-6	  		4
+1 Check Ni 				C768132-6	  		4
+2 Check Lo 				D768000-6	  		0
+3 Check He 				D768000-6	  		0
+Y1500 				D768000-6	  		0
+Y1900 				D768000-6	  		0
+
+1105 Starting Data	Dene	1910	Uramid	B545568-A	SN		6
+1 Check Ni 				B545568-A	SN		6
+2 Check Lo 				B545568-A	SN		6
+3 Check He 				D545000-A	SN		0
+Y1500 				D545000-A	SN		0
+Y1900 				D545000-A	SN		0
+
+1105 Starting Data	Dene	1917	Donu-na	C560850-9	  		5
+1 Check Ni 				C560850-9	  		5
+2 Check Lo 				C560850-9	  		5
+3 Check He 				C560850-9	  		5
+4 Halve PM 				C560850-9	  		2
+5 Reduce TL 				C560850-7	  		2
+Y1500 				C560899-6	  		1
+Y1900 				C560865-7	  		2
+
+1105 Starting Data	Dene	1918	Shinorasus	A410200-E	  		2
+1 Check Ni 				A410200-E	  		2
+2 Check Lo 				D410000-E	  		0
+3 Check He 				D410000-E	  		0
+Y1500 				D410000-E	  		0
+Y1900 				D410000-E	  		0
+
+1105 Starting Data	Dene	1923	Liran	B0008B8-A	  		8
+1 Check Ni 				B0008B8-A	  		8
+2 Check Lo 				B0008B8-A	  		8
+3 Check He 				B0008B8-A	  		8
+4 Halve PM 				B0008B8-A	  		4
+5 Reduce TL 				B0008B8-8	  		4
+Y1500 				B000855-8	  		5
+Y1900 				B000836-9	  		6
+
+1105 Starting Data	Dene	1925	Deneb	B537ADD-C	 N	A	6
+1 Check Ni 				B537ADD-C	 N	A	6
+2 Check Lo 				B537ADD-C	 N	A	6
+3 Check He 				B537ADD-C	 N	A	6
+4 Halve PM 				B537ADD-C	 N	A	3
+5 Reduce TL 				B537ADD-A	 N	A	3
+Y1500 				B537ABC-B	 N	A	3
+Y1900 				B537ABA-C	 N	A	2
+
+1105 Starting Data	Dene	1926	Amshal	B687365-9	 N		6
+1 Check Ni 				B687365-9	 N		6
+2 Check Lo 				D687000-9	 N		0
+3 Check He 				D687000-9	 N		0
+Y1500 				D687000-9	 N		0
+Y1900 				D687000-9	 N		0
+
+1105 Starting Data	Dene	1927	Thussar Ozoam	X545101-5	  	R	6
+1 Check Ni 				X545101-5	  	R	6
+2 Check Lo 				X545000-5	  	R	0
+3 Check He 				X545000-5	  	R	0
+Y1500 				X545000-5	  	R	0
+Y1900 				X545000-5	  	R	0
+
+1105 Starting Data	Dene	1928	Exile	X799212-5	  	R	8
+1 Check Ni 				X799212-5	  	R	8
+2 Check Lo 				X799000-5	  	R	0
+3 Check He 				X799000-5	  	R	0
+Y1500 				X799000-5	  	R	0
+Y1900 				X799000-5	  	R	0
+
+1105 Starting Data	Dene	1930	Turkoman	B9C67CB-9	  	A	2
+1 Check Ni 				B9C67CB-9	  	A	2
+2 Check Lo 				B9C67CB-9	  	A	2
+3 Check He 				B9C67CB-9	  	A	2
+4 Halve PM 				B9C67CB-9	  	A	1
+5 Reduce TL 				B9C67CB-7	  	A	1
+Y1500 				B9C6695-6	  	A	9
+Y1900 				B9C6733-5	  	A	1
+
+1105 Starting Data	Dene	2001	Filangger	A76A654-C	  		8
+1 Check Ni 				A76A654-C	  		8
+2 Check Lo 				A76A654-C	  		8
+3 Check He 				A76A654-C	  		8
+4 Halve PM 				A76A654-C	  		4
+5 Reduce TL 				A76A654-A	  		4
+Y1500 				A76A632-B	  		3
+Y1900 				A76A655-C	  		3
+
+1105 Starting Data	Dene	2011	Orenberg	B430678-C	  		2
+1 Check Ni 				B430478-C	  		2
+2 Check Lo 				B430478-C	  		2
+3 Check He 				B430478-C	  		2
+4 Halve PM 				B430478-C	  		1
+5 Reduce TL 				B430478-A	  		1
+Y1500 				B430489-9	  		1
+Y1900 				B430300-9	  		9
+
+1105 Starting Data	Dene	2013	Twinian	C40447B-7	S 		7
+1 Check Ni 				C40417B-7	S 		7
+2 Check Lo 				D404000-7	S 		0
+3 Check He 				D404000-7	S 		0
+Y1500 				D404000-7	S 		0
+Y1900 				D404000-7	S 		0
+
+1105 Starting Data	Dene	2014	Zinuun	E4367BA-6	  	A	9
+1 Check Ni 				E4367BA-6	  	A	9
+2 Check Lo 				E4367BA-6	  	A	9
+3 Check He 				E4367BA-6	  	A	9
+4 Halve PM 				E4367BA-6	  	A	4
+5 Reduce TL 				E4367BA-4	  	A	4
+Y1500 				E43679A-4	  	A	3
+Y1900 				E436789-5	  	A	2
+
+1105 Starting Data	Dene	2016	Ugrik	E300000-0	  		0
+1 Check Ni 				E300000-0	  		0
+2 Check Lo 				E300000-0	  		0
+3 Check He 				E300000-0	  		0
+Y1500 				E300000-0	  		0
+Y1900 				E300000-0	  		0
+
+1105 Starting Data	Dene	2017	Ruwenzori	E749424-7	  		3
+1 Check Ni 				E749024-7	  		3
+2 Check Lo 				E749000-7	  		0
+3 Check He 				E749000-7	  		0
+Y1500 				E749000-7	  		0
+Y1900 				E749000-7	  		0
+
+1105 Starting Data	Dene	2019	Namidshur	B3106A9-C	S 		2
+1 Check Ni 				B3106A9-C	S 		2
+2 Check Lo 				B3106A9-C	S 		2
+3 Check He 				B3106A9-C	S 		2
+4 Halve PM 				B3106A9-C	S 		1
+5 Reduce TL 				B3106A9-A	S 		1
+Y1500 				B310663-9	S 		2
+Y1900 				B310621-9	S 		1
+
+1105 Starting Data	Dene	2023	Bruyere	C544767-5	S 		4
+1 Check Ni 				C544767-5	S 		4
+2 Check Lo 				C544767-5	S 		4
+3 Check He 				D544000-5	S 		0
+Y1500 				D544000-5	S 		0
+Y1900 				D544000-5	S 		0
+
+1105 Starting Data	Dene	2024	Minocoy	B422505-D	 N		6
+1 Check Ni 				B422505-D	 N		6
+2 Check Lo 				B422505-D	 N		6
+3 Check He 				D422000-D	 N		0
+Y1500 				D422000-D	 N		0
+Y1900 				D422000-D	 N		0
+
+1105 Starting Data	Dene	2027	Avernus	E8865A6-4	  		6
+1 Check Ni 				E8865A6-4	  		6
+2 Check Lo 				E8865A6-4	  		6
+3 Check He 				E8865A6-4	  		6
+4 Halve PM 				E8865A6-4	  		3
+5 Reduce TL 				E8865A6-2	  		3
+Y1500 				E886544-1	  		3
+Y1900 				E886555-0	  		2
+
+1105 Starting Data	Dene	2028	Nyassl	B300653-D	 N		3
+1 Check Ni 				B300653-D	 N		3
+2 Check Lo 				B300653-D	 N		3
+3 Check He 				B300653-D	 N		3
+4 Halve PM 				B300653-D	 N		1
+5 Reduce TL 				B300653-B	 N		1
+Y1500 				B300688-C	 N		2
+Y1900 				B300665-D	 N		3
+
+1105 Starting Data	Dene	2105	Torrens	C100238-C	  		1
+1 Check Ni 				C100238-C	  		1
+2 Check Lo 				D100000-C	  		0
+3 Check He 				D100000-C	  		0
+Y1500 				D100000-C	  		0
+Y1900 				D100000-C	  		0
+
+1105 Starting Data	Dene	2109	Bangwe	D78A302-A	  		1
+1 Check Ni 				D78A302-A	  		1
+2 Check Lo 				D78A000-A	  		0
+3 Check He 				D78A000-A	  		0
+Y1500 				D78A000-A	  		0
+Y1900 				D78A000-A	  		0
+
+1105 Starting Data	Dene	2111	Diiski	C66A200-8	  		8
+1 Check Ni 				C66A200-8	  		8
+2 Check Lo 				D66A000-8	  		0
+3 Check He 				D66A000-8	  		0
+Y1500 				D66A000-8	  		0
+Y1900 				D66A000-8	  		0
+
+1105 Starting Data	Dene	2114	Kadidun	D5A2103-9	S 		2
+1 Check Ni 				D5A2103-9	S 		2
+2 Check Lo 				D5A2000-9	S 		0
+3 Check He 				D5A2000-9	S 		0
+Y1500 				D5A2000-9	S 		0
+Y1900 				D5A2000-9	S 		0
+
+1105 Starting Data	Dene	2116	Piram	E311777-7	  		6
+1 Check Ni 				E311777-7	  		6
+2 Check Lo 				E311777-7	  		6
+3 Check He 				E311777-7	  		6
+4 Halve PM 				E311777-7	  		3
+5 Reduce TL 				E311777-5	  		3
+Y1500 				E311779-6	  		3
+Y1900 				E311763-6	  		3
+
+1105 Starting Data	Dene	2117	Cunha	C62677C-7	  		3
+1 Check Ni 				C62677C-7	  		3
+2 Check Lo 				C62677C-7	  		3
+3 Check He 				C62677C-7	  		3
+4 Halve PM 				C62677C-7	  		1
+5 Reduce TL 				C62677C-5	  		1
+Y1500 				C626636-4	  		9
+Y1900 				C626778-3	  		1
+
+1105 Starting Data	Dene	2120	Teatro	C8A78CA-8	  	A	9
+1 Check Ni 				C8A78CA-8	  	A	9
+2 Check Lo 				C8A78CA-8	  	A	9
+3 Check He 				C8A78CA-8	  	A	9
+4 Halve PM 				C8A78CA-8	  	A	4
+5 Reduce TL 				C8A78CA-6	  	A	4
+Y1500 				C8A7841-6	  	A	3
+Y1900 				C8A789B-6	  	A	4
+
+1105 Starting Data	Dene	2126	Arcanum	X434868-6	  	R	8
+1 Check Ni 				X434868-6	  	R	8
+2 Check Lo 				X434868-6	  	R	8
+3 Check He 				X434868-6	  	R	8
+4 Halve PM 				X434868-6	  	R	4
+5 Reduce TL 				X434868-4	  	R	4
+Y1500 				X434888-3	  	R	5
+Y1900 				X4348A6-4	  	R	4
+
+1105 Starting Data	Dene	2127	Nusukha	E310100-7	  		2
+1 Check Ni 				E310100-7	  		2
+2 Check Lo 				E310000-7	  		0
+3 Check He 				E310000-7	  		0
+Y1500 				E310000-7	  		0
+Y1900 				E310000-7	  		0
+
+1105 Starting Data	Dene	2131	Javan	C77A135-A	S 		5
+1 Check Ni 				C77A135-A	S 		5
+2 Check Lo 				D77A000-A	S 		0
+3 Check He 				D77A000-A	S 		0
+Y1500 				D77A000-A	S 		0
+Y1900 				D77A000-A	S 		0
+
+1105 Starting Data	Dene	2202	Gounuerz	B435330-A	  		5
+1 Check Ni 				B435330-A	  		5
+2 Check Lo 				D435000-A	  		0
+3 Check He 				D435000-A	  		0
+Y1500 				D435000-A	  		0
+Y1900 				D435000-A	  		0
+
+1105 Starting Data	Dene	2204	Dofil	E59368B-5	  		7
+1 Check Ni 				E59368B-5	  		7
+2 Check Lo 				E59368B-5	  		7
+3 Check He 				E593000-5	  		0
+Y1500 				E593000-5	  		0
+Y1900 				E593000-5	  		0
+
+1105 Starting Data	Dene	2210	Mazirbe	D5537A6-4	  		1
+1 Check Ni 				D5537A6-4	  		1
+2 Check Lo 				D5537A6-4	  		1
+3 Check He 				D5537A6-4	  		1
+4 Halve PM 				D5536A6-4	  		5
+5 Reduce TL 				D5536A6-2	  		5
+Y1500 				D553687-1	  		5
+Y1900 				D553658-0	  		6
+
+1105 Starting Data	Dene	2212	Imlaar	D677551-6	S 		4
+1 Check Ni 				D677551-6	S 		4
+2 Check Lo 				D677551-6	S 		4
+3 Check He 				D677000-6	S 		0
+Y1500 				D677000-6	S 		0
+Y1900 				D677000-6	S 		0
+
+1105 Starting Data	Dene	2220	Torm	C556445-9	S 		1
+1 Check Ni 				C556445-9	S 		1
+2 Check Lo 				C556445-9	S 		1
+3 Check He 				C556445-9	S 		1
+4 Halve PM 				C556345-9	S 		5
+5 Reduce TL 				C556345-7	S 		5
+Y1500 				C556300-6	S 		4
+Y1900 				C556310-6	S 		5
+
+1105 Starting Data	Dene	2223	Byblos	C6738BD-7	S 	A	6
+1 Check Ni 				C6738BD-7	S 	A	6
+2 Check Lo 				C6738BD-7	S 	A	6
+3 Check He 				D673000-7	S 	A	0
+Y1500 				D673000-7	S 	A	0
+Y1900 				D673000-7	S 	A	0
+
+1105 Starting Data	Dene	2224	Revoc	C9AA577-A	S 		5
+1 Check Ni 				C9AA177-A	S 		5
+2 Check Lo 				D9AA000-A	S 		0
+3 Check He 				D9AA000-A	S 		0
+Y1500 				D9AA000-A	S 		0
+Y1900 				D9AA000-A	S 		0
+
+1105 Starting Data	Dene	2225	Usani	A552699-C	SN		2
+1 Check Ni 				A552699-C	SN		2
+2 Check Lo 				A552699-C	SN		2
+3 Check He 				A552699-C	SN		2
+4 Halve PM 				A552699-C	SN		1
+5 Reduce TL 				A552699-A	SN		1
+Y1500 				A552587-9	SN		9
+Y1900 				A5526A8-A	SN		1
+
+1105 Starting Data	Dene	2234	Catacomb	A8A7551-B	  		2
+1 Check Ni 				A8A7451-B	  		2
+2 Check Lo 				A8A7451-B	  		2
+3 Check He 				D8A7000-B	  		0
+Y1500 				D8A7000-B	  		0
+Y1900 				D8A7000-B	  		0
+
+1105 Starting Data	Dene	2309	Malory	C420774-7	S 		2
+1 Check Ni 				C420774-7	S 		2
+2 Check Lo 				C420774-7	S 		2
+3 Check He 				C420774-7	S 		2
+4 Halve PM 				C420774-7	S 		1
+5 Reduce TL 				C420774-5	S 		1
+Y1500 				C420648-4	S 		9
+Y1900 				C4207BC-3	S 		1
+
+1105 Starting Data	Dene	2316	Giikusu	E647ABC-A	  	A	1
+1 Check Ni 				E647ABC-A	  	A	1
+2 Check Lo 				E647ABC-A	  	A	1
+3 Check He 				E6479BC-A	  	A	1
+4 Halve PM 				E6478BC-A	  	A	5
+5 Reduce TL 				E6478BC-8	  	A	5
+Y1500 				E647877-7	  	A	4
+Y1900 				E647896-7	  	A	3
+
+1105 Starting Data	Dene	2317	Lan-chou	D855788-6	S 		1
+1 Check Ni 				D855788-6	S 		1
+2 Check Lo 				D855788-6	S 		1
+3 Check He 				D855788-6	S 		1
+4 Halve PM 				D855688-6	S 		5
+5 Reduce TL 				D855688-4	S 		5
+Y1500 				D8556BA-3	S 		6
+Y1900 				D855676-4	S 		7
+
+1105 Starting Data	Dene	2322	Sage	D563310-7	  		1
+1 Check Ni 				D563310-7	  		1
+2 Check Lo 				D563000-7	  		0
+3 Check He 				D563000-7	  		0
+Y1500 				D563000-7	  		0
+Y1900 				D563000-7	  		0
+
+1105 Starting Data	Dene	2323	Azed Bek	C766300-A	S 		6
+1 Check Ni 				C766300-A	S 		6
+2 Check Lo 				D766000-A	S 		0
+3 Check He 				D766000-A	S 		0
+Y1500 				D766000-A	S 		0
+Y1900 				D766000-A	S 		0
+
+1105 Starting Data	Dene	2403	Tchien	B696266-A	 N		6
+1 Check Ni 				B696266-A	 N		6
+2 Check Lo 				D696000-A	 N		0
+3 Check He 				D696000-A	 N		0
+Y1500 				D696000-A	 N		0
+Y1900 				D696000-A	 N		0
+
+1105 Starting Data	Dene	2405	Gagaridir	B420310-A	 N		2
+1 Check Ni 				B420310-A	 N		2
+2 Check Lo 				D420000-A	 N		0
+3 Check He 				D420000-A	 N		0
+Y1500 				D420000-A	 N		0
+Y1900 				D420000-A	 N		0
+
+1105 Starting Data	Dene	2406	Insi Kar	B311454-B	  		6
+1 Check Ni 				B311454-B	  		6
+2 Check Lo 				B311454-B	  		6
+3 Check He 				B311454-B	  		6
+4 Halve PM 				B311454-B	  		3
+5 Reduce TL 				B311454-9	  		3
+Y1500 				B311445-8	  		4
+Y1900 				B311446-7	  		4
+
+1105 Starting Data	Dene	2407	Syrenaica	C669464-9	  		5
+1 Check Ni 				C669064-9	  		5
+2 Check Lo 				D669000-9	  		0
+3 Check He 				D669000-9	  		0
+Y1500 				D669000-9	  		0
+Y1900 				D669000-9	  		0
+
+1105 Starting Data	Dene	2409	Haggard	C777224-6	S 		6
+1 Check Ni 				C777224-6	S 		6
+2 Check Lo 				D777000-6	S 		0
+3 Check He 				D777000-6	S 		0
+Y1500 				D777000-6	S 		0
+Y1900 				D777000-6	S 		0
+
+1105 Starting Data	Dene	2411	Nibel	E688303-4	  		7
+1 Check Ni 				E688303-4	  		7
+2 Check Lo 				E688000-4	  		0
+3 Check He 				E688000-4	  		0
+Y1500 				E688000-4	  		0
+Y1900 				E688000-4	  		0
+
+1105 Starting Data	Dene	2412	Pagamin	C571114-8	  		5
+1 Check Ni 				C571114-8	  		5
+2 Check Lo 				D571000-8	  		0
+3 Check He 				D571000-8	  		0
+Y1500 				D571000-8	  		0
+Y1900 				D571000-8	  		0
+
+1105 Starting Data	Dene	2413	Dunmag	A427138-C	 N		2
+1 Check Ni 				A427138-C	 N		2
+2 Check Lo 				D427000-C	 N		0
+3 Check He 				D427000-C	 N		0
+Y1500 				D427000-C	 N		0
+Y1900 				D427000-C	 N		0
+
+1105 Starting Data	Dene	2414	Jurburk	B554233-B	 N		8
+1 Check Ni 				B554233-B	 N		8
+2 Check Lo 				D554000-B	 N		0
+3 Check He 				D554000-B	 N		0
+Y1500 				D554000-B	 N		0
+Y1900 				D554000-B	 N		0
+
+1105 Starting Data	Dene	2424	Ayers	C430668-A	S 		3
+1 Check Ni 				C430468-A	S 		3
+2 Check Lo 				C430468-A	S 		3
+3 Check He 				C430468-A	S 		3
+4 Halve PM 				C430468-A	S 		1
+5 Reduce TL 				C430468-8	S 		1
+Y1500 				C430312-9	S 		9
+Y1900 				C430351-8	S 		8
+
+1105 Starting Data	Dene	2425	Hysyl	C5407A9-7	S 		7
+1 Check Ni 				C5407A9-7	S 		7
+2 Check Lo 				C5407A9-7	S 		7
+3 Check He 				C5407A9-7	S 		7
+4 Halve PM 				C5407A9-7	S 		3
+5 Reduce TL 				C5407A9-5	S 		3
+Y1500 				C540789-4	S 		4
+Y1900 				C5407BB-5	S 		3
+
+1105 Starting Data	Dene	2502	Tubb	C89A799-9	  		7
+1 Check Ni 				C89A799-9	  		7
+2 Check Lo 				C89A799-9	  		7
+3 Check He 				C89A799-9	  		7
+4 Halve PM 				C89A799-9	  		3
+5 Reduce TL 				C89A799-7	  		3
+Y1500 				C89A75A-8	  		2
+Y1900 				C89A774-8	  		3
+
+1105 Starting Data	Dene	2506	Moskene	E200101-A	  		6
+1 Check Ni 				E200101-A	  		6
+2 Check Lo 				E200000-A	  		0
+3 Check He 				E200000-A	  		0
+Y1500 				E200000-A	  		0
+Y1900 				E200000-A	  		0
+
+1105 Starting Data	Dene	2512	Niven	E9C4237-9	  	A	5
+1 Check Ni 				E9C4237-9	  	A	5
+2 Check Lo 				E9C4000-9	  	A	0
+3 Check He 				E9C4000-9	  	A	0
+Y1500 				E9C4000-9	  	A	0
+Y1900 				E9C4000-9	  	A	0
+
+1105 Starting Data	Dene	2515	Kasmar	E631754-8	  		1
+1 Check Ni 				E631754-8	  		1
+2 Check Lo 				E631754-8	  		1
+3 Check He 				E631754-8	  		1
+4 Halve PM 				E631654-8	  		5
+5 Reduce TL 				E631654-6	  		5
+Y1500 				E63168A-5	  		4
+Y1900 				E631653-5	  		5
+
+1105 Starting Data	Dene	2519	Erita	E99A575-8	  		1
+1 Check Ni 				E99A475-8	  		1
+2 Check Lo 				E99A475-8	  		1
+3 Check He 				E99A000-8	  		0
+Y1500 				E99A000-8	  		0
+Y1900 				E99A000-8	  		0
+
+1105 Starting Data	Dene	2520	Kiirindor	B546666-A	SN		3
+1 Check Ni 				B546666-A	SN		3
+2 Check Lo 				B546666-A	SN		3
+3 Check He 				D546000-A	SN		0
+Y1500 				D546000-A	SN		0
+Y1900 				D546000-A	SN		0
+
+1105 Starting Data	Dene	2521	Geniishir	A310123-D	 N		3
+1 Check Ni 				A310123-D	 N		3
+2 Check Lo 				D310000-D	 N		0
+3 Check He 				D310000-D	 N		0
+Y1500 				D310000-D	 N		0
+Y1900 				D310000-D	 N		0
+
+1105 Starting Data	Dene	2522	Maelstrom	B79A855-D	  		7
+1 Check Ni 				B79A855-D	  		7
+2 Check Lo 				B79A855-D	  		7
+3 Check He 				B79A855-D	  		7
+4 Halve PM 				B79A855-D	  		3
+5 Reduce TL 				B79A855-B	  		3
+Y1500 				B79A863-B	  		4
+Y1900 				B79A887-C	  		5
+
+1105 Starting Data	Dene	2523	Exotrope	D300674-7	S 		4
+1 Check Ni 				D300674-7	S 		4
+2 Check Lo 				D300674-7	S 		4
+3 Check He 				D300674-7	S 		4
+4 Halve PM 				D300674-7	S 		2
+5 Reduce TL 				D300674-5	S 		2
+Y1500 				D300631-4	S 		3
+Y1900 				D300688-5	S 		2
+
+1105 Starting Data	Dene	2603	Unekh	C20088B-7	  		5
+1 Check Ni 				C20088B-7	  		5
+2 Check Lo 				C20088B-7	  		5
+3 Check He 				C20088B-7	  		5
+4 Halve PM 				C20088B-7	  		2
+5 Reduce TL 				C20088B-5	  		2
+Y1500 				C200830-6	  		1
+Y1900 				C200741-6	  		9
+
+1105 Starting Data	Dene	2615	Berora	B100672-D	  		8
+1 Check Ni 				B100672-D	  		8
+2 Check Lo 				B100672-D	  		8
+3 Check He 				B100672-D	  		8
+4 Halve PM 				B100672-D	  		4
+5 Reduce TL 				B100672-B	  		4
+Y1500 				B100698-B	  		4
+Y1900 				B100696-A	  		3
+
+1105 Starting Data	Dene	2702	Fosfog	A57559C-9	  	A	1
+1 Check Ni 				A57559C-9	  	A	1
+2 Check Lo 				A57559C-9	  	A	1
+3 Check He 				D575000-9	  	A	0
+Y1500 				D575000-9	  	A	0
+Y1900 				D575000-9	  	A	0
+
+1105 Starting Data	Dene	2704	Talon	C543976-A	  		2
+1 Check Ni 				C543976-A	  		2
+2 Check Lo 				C543976-A	  		2
+3 Check He 				C543976-A	  		2
+4 Halve PM 				C543976-A	  		1
+5 Reduce TL 				C543976-8	  		1
+Y1500 				C5439A8-9	  		1
+Y1900 				C54399B-8	  		2
+
+1105 Starting Data	Dene	2713	Wal-ta-ka	C560431-9	  		6
+1 Check Ni 				C560131-9	  		6
+2 Check Lo 				D560000-9	  		0
+3 Check He 				D560000-9	  		0
+Y1500 				D560000-9	  		0
+Y1900 				D560000-9	  		0
+
+1105 Starting Data	Dene	2715	Dophkah	B647777-8	 N		3
+1 Check Ni 				B647777-8	 N		3
+2 Check Lo 				B647777-8	 N		3
+3 Check He 				B647777-8	 N		3
+4 Halve PM 				B647777-8	 N		1
+5 Reduce TL 				B647777-6	 N		1
+Y1500 				B6476AA-7	 N		9
+Y1900 				B647779-7	 N		1
+
+1105 Starting Data	Dene	2716	Errogel	B550554-A	 N		7
+1 Check Ni 				B550454-A	 N		7
+2 Check Lo 				B550454-A	 N		7
+3 Check He 				B550454-A	 N		7
+4 Halve PM 				B550454-A	 N		3
+5 Reduce TL 				B550454-8	 N		3
+Y1500 				B550465-8	 N		4
+Y1900 				B550435-9	 N		5
+
+1105 Starting Data	Dene	2717	Segan	B5509AB-C	 N	A	5
+1 Check Ni 				B5509AB-C	 N	A	5
+2 Check Lo 				B5509AB-C	 N	A	5
+3 Check He 				B5509AB-C	 N	A	5
+4 Halve PM 				B5509AB-C	 N	A	2
+5 Reduce TL 				B5509AB-A	 N	A	2
+Y1500 				B550999-B	 N	A	3
+Y1900 				B5509AB-C	 N	A	2
+
+1105 Starting Data	Dene	2721	Newpenton	C595321-9	  		7
+1 Check Ni 				C595321-9	  		7
+2 Check Lo 				D595000-9	  		0
+3 Check He 				D595000-9	  		0
+Y1500 				D595000-9	  		0
+Y1900 				D595000-9	  		0
+
+1105 Starting Data	Dene	2734	Lorin Antune	D525877-7	  		4
+1 Check Ni 				D525877-7	  		4
+2 Check Lo 				D525877-7	  		4
+3 Check He 				D525877-7	  		4
+4 Halve PM 				D525877-7	  		2
+5 Reduce TL 				D525877-5	  		2
+Y1500 				D525877-4	  		3
+Y1900 				D5258AC-5	  		4
+
+1105 Starting Data	Dene	2802	495-524	D785300-4	  		4
+1 Check Ni 				D785300-4	  		4
+2 Check Lo 				D785000-4	  		0
+3 Check He 				D785000-4	  		0
+Y1500 				D785000-4	  		0
+Y1900 				D785000-4	  		0
+
+1105 Starting Data	Dene	2804	Akkip	C5426B7-8	  		5
+1 Check Ni 				C5426B7-8	  		5
+2 Check Lo 				C5426B7-8	  		5
+3 Check He 				D542000-8	  		0
+Y1500 				D542000-8	  		0
+Y1900 				D542000-8	  		0
+
+1105 Starting Data	Dene	2807	Gabrael	A573646-C	  		4
+1 Check Ni 				A573346-C	  		4
+2 Check Lo 				D573000-C	  		0
+3 Check He 				D573000-C	  		0
+Y1500 				D573000-C	  		0
+Y1900 				D573000-C	  		0
+
+1105 Starting Data	Dene	2810	Tensas	C556550-6	  		5
+1 Check Ni 				C556150-6	  		5
+2 Check Lo 				D556000-6	  		0
+3 Check He 				D556000-6	  		0
+Y1500 				D556000-6	  		0
+Y1900 				D556000-6	  		0
+
+1105 Starting Data	Dene	2812	Og Bere'	B564512-8	  		2
+1 Check Ni 				B564512-8	  		2
+2 Check Lo 				B564512-8	  		2
+3 Check He 				B564512-8	  		2
+4 Halve PM 				B564512-8	  		1
+5 Reduce TL 				B564512-6	  		1
+Y1500 				B5645A8-5	  		2
+Y1900 				B564564-4	  		2
+
+1105 Starting Data	Dene	2813	Doho	A696444-C	  		6
+1 Check Ni 				A696444-C	  		6
+2 Check Lo 				A696444-C	  		6
+3 Check He 				D696000-C	  		0
+Y1500 				D696000-C	  		0
+Y1900 				D696000-C	  		0
+
+1105 Starting Data	Dene	2820	Gampin	D668644-6	S 		5
+1 Check Ni 				D668444-6	S 		5
+2 Check Lo 				D668444-6	S 		5
+3 Check He 				D668444-6	S 		5
+4 Halve PM 				D668444-6	S 		2
+5 Reduce TL 				D668444-4	S 		2
+Y1500 				D668469-3	S 		3
+Y1900 				D668450-2	S 		2
+
+1105 Starting Data	Dene	2903	Metare	A42465A-E	  		8
+1 Check Ni 				A42465A-E	  		8
+2 Check Lo 				A42465A-E	  		8
+3 Check He 				D424000-E	  		0
+Y1500 				D424000-E	  		0
+Y1900 				D424000-E	  		0
+
+1105 Starting Data	Dene	2904	Fel	A7A7898-A	  		6
+1 Check Ni 				A7A7898-A	  		6
+2 Check Lo 				A7A7898-A	  		6
+3 Check He 				A7A7898-A	  		6
+4 Halve PM 				A7A7898-A	  		3
+5 Reduce TL 				A7A7898-8	  		3
+Y1500 				A7A78AC-9	  		4
+Y1900 				A7A788B-A	  		3
+
+1105 Starting Data	Dene	2905	Ikhaba	C675512-8	  	A	9
+1 Check Ni 				C675512-8	  	A	9
+2 Check Lo 				C675512-8	  	A	9
+3 Check He 				D675000-8	  	A	0
+Y1500 				D675000-8	  	A	0
+Y1900 				D675000-8	  	A	0
+
+1105 Starting Data	Dene	2906	Nurara	C5A5422-A	S 		6
+1 Check Ni 				C5A5322-A	S 		6
+2 Check Lo 				D5A5000-A	S 		0
+3 Check He 				D5A5000-A	S 		0
+Y1500 				D5A5000-A	S 		0
+Y1900 				D5A5000-A	S 		0
+
+1105 Starting Data	Dene	2907	Hammand	E736132-6	  	A	1
+1 Check Ni 				E736132-6	  	A	1
+2 Check Lo 				E736000-6	  	A	0
+3 Check He 				E736000-6	  	A	0
+Y1500 				E736000-6	  	A	0
+Y1900 				E736000-6	  	A	0
+
+1105 Starting Data	Dene	2908	Wyn	C546444-5	  		7
+1 Check Ni 				C546444-5	  		7
+2 Check Lo 				C546444-5	  		7
+3 Check He 				D546000-5	  		0
+Y1500 				D546000-5	  		0
+Y1900 				D546000-5	  		0
+
+1105 Starting Data	Dene	2910	Crozat	C410424-7	  		4
+1 Check Ni 				C410424-7	  		4
+2 Check Lo 				C410424-7	  		4
+3 Check He 				C410424-7	  		4
+4 Halve PM 				C410424-7	  		2
+5 Reduce TL 				C410424-5	  		2
+Y1500 				C410474-4	  		3
+Y1900 				C410423-3	  		3
+
+1105 Starting Data	Dene	2913	Atsah	A656750-D	W 		7
+1 Check Ni 				A656750-D	W 		7
+2 Check Lo 				A656750-D	W 		7
+3 Check He 				A656750-D	W 		7
+4 Halve PM 				A656750-D	W 		3
+5 Reduce TL 				A656750-B	W 		3
+Y1500 				A65678C-C	W 		2
+Y1900 				A6567AD-B	W 		2
+
+1105 Starting Data	Dene	2918	Khishuda	C856340-5	  		2
+1 Check Ni 				C856340-5	  		2
+2 Check Lo 				D856000-5	  		0
+3 Check He 				D856000-5	  		0
+Y1500 				D856000-5	  		0
+Y1900 				D856000-5	  		0
+
+1105 Starting Data	Dene	3004	Oluk Dzas	B563521-7	  		8
+1 Check Ni 				B563521-7	  		8
+2 Check Lo 				B563521-7	  		8
+3 Check He 				B563521-7	  		8
+4 Halve PM 				B563521-7	  		4
+5 Reduce TL 				B563521-5	  		4
+Y1500 				B563546-6	  		5
+Y1900 				B563566-7	  		4
+
+1105 Starting Data	Dene	3005	Arleshanu	A562333-D	 N		4
+1 Check Ni 				A562333-D	 N		4
+2 Check Lo 				D562000-D	 N		0
+3 Check He 				D562000-D	 N		0
+Y1500 				D562000-D	 N		0
+Y1900 				D562000-D	 N		0
+
+1105 Starting Data	Dene	3008	Taproban	B8A8787-B	 N	A	7
+1 Check Ni 				B8A8787-B	 N	A	7
+2 Check Lo 				B8A8787-B	 N	A	7
+3 Check He 				B8A8787-B	 N	A	7
+4 Halve PM 				B8A8787-B	 N	A	3
+5 Reduce TL 				B8A8787-9	 N	A	3
+Y1500 				B8A8778-9	 N	A	4
+Y1900 				B8A8752-9	 N	A	5
+
+1105 Starting Data	Dene	3011	Corfinium	B543634-8	  		5
+1 Check Ni 				B543334-8	  		5
+2 Check Lo 				D543000-8	  		0
+3 Check He 				D543000-8	  		0
+Y1500 				D543000-8	  		0
+Y1900 				D543000-8	  		0
+
+1105 Starting Data	Dene	3013	Ivora	E999533-5	  		4
+1 Check Ni 				E999433-5	  		4
+2 Check Lo 				E999433-5	  		4
+3 Check He 				E999000-5	  		0
+Y1500 				E999000-5	  		0
+Y1900 				E999000-5	  		0
+
+1105 Starting Data	Dene	3015	Atadl	B3109C7-E	  		2
+1 Check Ni 				B3109C7-E	  		2
+2 Check Lo 				B3109C7-E	  		2
+3 Check He 				B3109C7-E	  		2
+4 Halve PM 				B3109C7-E	  		1
+5 Reduce TL 				B3109C7-C	  		1
+Y1500 				B3108CD-C	  		9
+Y1900 				B31097A-B	  		1
+
+1105 Starting Data	Dene	3016	Zerderu	B541685-A	  		4
+1 Check Ni 				B541685-A	  		4
+2 Check Lo 				B541685-A	  		4
+3 Check He 				D541000-A	  		0
+Y1500 				D541000-A	  		0
+Y1900 				D541000-A	  		0
+
+1105 Starting Data	Dene	3031	Asharam	C76279A-4	  		6
+1 Check Ni 				C76279A-4	  		6
+2 Check Lo 				C76279A-4	  		6
+3 Check He 				C76279A-4	  		6
+4 Halve PM 				C76279A-4	  		3
+5 Reduce TL 				C76279A-2	  		3
+Y1500 				C762767-3	  		4
+Y1900 				C762788-2	  		3
+
+1105 Starting Data	Dene	3104	Aerfor	A584520-D	  		5
+1 Check Ni 				A584520-D	  		5
+2 Check Lo 				A584520-D	  		5
+3 Check He 				A584520-D	  		5
+4 Halve PM 				A584520-D	  		2
+5 Reduce TL 				A584520-B	  		2
+Y1500 				A584578-C	  		1
+Y1900 				A584559-C	  		1
+
+1105 Starting Data	Dene	3110	Olokono	E6A5211-8	  		8
+1 Check Ni 				E6A5211-8	  		8
+2 Check Lo 				E6A5000-8	  		0
+3 Check He 				E6A5000-8	  		0
+Y1500 				E6A5000-8	  		0
+Y1900 				E6A5000-8	  		0
+
+1105 Starting Data	Dene	3111	Lamar	C410410-7	S 		2
+1 Check Ni 				C410410-7	S 		2
+2 Check Lo 				C410410-7	S 		2
+3 Check He 				C410410-7	S 		2
+4 Halve PM 				C410410-7	S 		1
+5 Reduce TL 				C410410-5	S 		1
+Y1500 				C410374-4	S 		9
+Y1900 				C410335-3	S 		9
+
+1105 Starting Data	Dene	3112	Berth	B547345-B	SN		9
+1 Check Ni 				B547345-B	SN		9
+2 Check Lo 				D547000-B	SN		0
+3 Check He 				D547000-B	SN		0
+Y1500 				D547000-B	SN		0
+Y1900 				D547000-B	SN		0
+
+1105 Starting Data	Dene	3113	Prevsla	D543300-8	  		4
+1 Check Ni 				D543300-8	  		4
+2 Check Lo 				D543000-8	  		0
+3 Check He 				D543000-8	  		0
+Y1500 				D543000-8	  		0
+Y1900 				D543000-8	  		0
+
+1105 Starting Data	Dene	3115	Arabah	C877233-5	S 		8
+1 Check Ni 				C877233-5	S 		8
+2 Check Lo 				D877000-5	S 		0
+3 Check He 				D877000-5	S 		0
+Y1500 				D877000-5	S 		0
+Y1900 				D877000-5	S 		0
+
+1105 Starting Data	Dene	3116	Sherad	A000447-E	 N		9
+1 Check Ni 				A000447-E	 N		9
+2 Check Lo 				A000447-E	 N		9
+3 Check He 				A000447-E	 N		9
+4 Halve PM 				A000447-E	 N		4
+5 Reduce TL 				A000447-C	 N		4
+Y1500 				A000410-D	 N		4
+Y1900 				A000446-E	 N		5
+
+1105 Starting Data	Dene	3201	Goukhsar	C563224-5	  		3
+1 Check Ni 				C563224-5	  		3
+2 Check Lo 				D563000-5	  		0
+3 Check He 				D563000-5	  		0
+Y1500 				D563000-5	  		0
+Y1900 				D563000-5	  		0
+
+1105 Starting Data	Dene	3213	Salaam	D576300-5	S 		2
+1 Check Ni 				D576300-5	S 		2
+2 Check Lo 				D576000-5	S 		0
+3 Check He 				D576000-5	S 		0
+Y1500 				D576000-5	S 		0
+Y1900 				D576000-5	S 		0
+

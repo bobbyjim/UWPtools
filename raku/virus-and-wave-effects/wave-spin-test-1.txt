@@ -1,0 +1,3591 @@
+Stage 	 Sector 	 Hex 	 Name 	 UWP 	 Bases 	 Zone 	 Pop Mult
+1105 Starting Data	Spin	0101	Zeycude	C430698-9	  		6
+1 Check Ni 				C430498-9	  		6
+2 Check Lo 				C430498-9	  		6
+3 Check He 				C430498-9	  		6
+4 Halve PM 				C430498-9	  		3
+5 Reduce TL 				C430498-7	  		3
+Y1380 				C430433-7	  		4
+Y1900 				C430433-7	  		4
+
+1105 Starting Data	Spin	0102	Reno	C4207B9-A	  	A	6
+1 Check Ni 				C4207B9-A	  	A	6
+2 Check Lo 				C4207B9-A	  	A	6
+3 Check He 				C4207B9-A	  	A	6
+4 Halve PM 				C4207B9-A	  	A	3
+5 Reduce TL 				C4207B9-7	  	A	3
+Y1272 				C420774-7	  	A	4
+Y1344 				C420762-7	  	A	5
+Y1416 				C4207BC-7	  	A	6
+Y1452 				C4207C8-7	  	A	7
+Y1506 				C420759-7	  	A	8
+Y1614 				C420798-7	  	A	9
+Y1668 				C420837-7	  	A	1
+Y1686 				C42088C-7	  	A	2
+Y1740 				C4208BE-7	  	A	3
+Y1758 				C4208AA-7	  	A	4
+Y1776 				C420888-7	  	A	5
+Y1848 				C4208C7-7	  	A	6
+Y1866 				C4208CE-7	  	A	7
+Y1900 				C4208CE-7	  	A	7
+
+1105 Starting Data	Spin	0103	Errere	B563664-B	  		9
+1 Check Ni 				B563664-B	  		9
+2 Check Lo 				B563664-B	  		9
+3 Check He 				B563664-B	  		9
+4 Halve PM 				B563664-B	  		4
+5 Reduce TL 				B563664-9	  		4
+Y1900 				B563664-9	  		4
+
+1105 Starting Data	Spin	0104	Cantrel	C566243-9	  		5
+1 Check Ni 				C566243-9	  		5
+2 Check Lo 				D566000-9	  		0
+3 Check He 				D566000-9	  		0
+Y1900 				D566000-9	  		0
+
+1105 Starting Data	Spin	0108	Gyomar	C8B2889-8	  		8
+1 Check Ni 				C8B2889-8	  		8
+2 Check Lo 				C8B2889-8	  		8
+3 Check He 				C8B2889-8	  		8
+4 Halve PM 				C8B2889-8	  		4
+5 Reduce TL 				C8B2889-2	  		4
+Y1900 				C8B2889-2	  		4
+
+1105 Starting Data	Spin	0111	Atson	B310598-8	  		9
+1 Check Ni 				B310598-8	  		9
+2 Check Lo 				B310598-8	  		9
+3 Check He 				B310598-8	  		9
+4 Halve PM 				B310598-8	  		4
+5 Reduce TL 				B310598-6	  		4
+Y1272 				B310576-6	  		5
+Y1344 				B310566-6	  		6
+Y1398 				B310500-6	  		7
+Y1434 				B310514-6	  		8
+Y1488 				B310530-6	  		9
+Y1560 				B310631-6	  		1
+Y1650 				B310687-6	  		2
+Y1704 				B310688-6	  		3
+Y1740 				B310698-6	  		4
+Y1812 				B3106B6-6	  		5
+Y1884 				B3106AD-6	  		6
+Y1900 				B3106AD-6	  		6
+
+1105 Starting Data	Spin	0114	Yiktor	C6B6431-A	  		1
+1 Check Ni 				C6B6431-A	  		1
+2 Check Lo 				C6B6431-A	  		1
+3 Check He 				C6B6431-A	  		1
+4 Halve PM 				C6B6331-A	  		5
+5 Reduce TL 				C6B6331-9	  		5
+Y1900 				C6B6331-9	  		5
+
+1105 Starting Data	Spin	0115	Xhosa	EA95124-5	  		9
+1 Check Ni 				EA95124-5	  		9
+2 Check Lo 				EA95000-5	  		0
+3 Check He 				EA95000-5	  		0
+Y1900 				EA95000-5	  		0
+
+1105 Starting Data	Spin	0122	Junction	D550441-4	  		2
+1 Check Ni 				D550441-4	  		2
+2 Check Lo 				D550441-4	  		2
+3 Check He 				D550441-4	  		2
+4 Halve PM 				D550441-4	  		1
+5 Reduce TL 				D550441-0	  		1
+Y1900 				D550441-0	  		1
+
+1105 Starting Data	Spin	0129	Uniqua	E62556B-7	  		2
+1 Check Ni 				E62556B-7	  		2
+2 Check Lo 				E62556B-7	  		2
+3 Check He 				E625000-7	  		0
+Y1900 				E625000-7	  		0
+
+1105 Starting Data	Spin	0130	Garoo	A2008CB-A	  	A	2
+1 Check Ni 				A2008CB-A	  	A	2
+2 Check Lo 				A2008CB-A	  	A	2
+3 Check He 				A2008CB-A	  	A	2
+4 Halve PM 				A2008CB-A	  	A	1
+5 Reduce TL 				A2008CB-9	  	A	1
+Y1218 				A200866-9	  	A	2
+Y1254 				A2008A8-9	  	A	3
+Y1308 				A2008BB-9	  	A	4
+Y1398 				A2008B9-9	  	A	5
+Y1452 				A200865-9	  	A	6
+Y1542 				A200864-9	  	A	7
+Y1560 				A20089C-9	  	A	8
+Y1632 				A2008B7-9	  	A	9
+Y1650 				A200995-9	  	A	1
+Y1722 				A2009AE-9	  	A	2
+Y1740 				A200985-9	  	A	3
+Y1776 				A200978-9	  	A	4
+Y1812 				A2009AB-9	  	A	5
+Y1900 				A2009AB-9	  	A	5
+
+1105 Starting Data	Spin	0133	Emape	B564500-B	 N	A	5
+1 Check Ni 				B564500-B	 N	A	5
+2 Check Lo 				B564500-B	 N	A	5
+3 Check He 				B564500-B	 N	A	5
+4 Halve PM 				B564500-B	 N	A	2
+5 Reduce TL 				B564500-9	 N	A	2
+Y1900 				B564500-9	 N	A	2
+
+1105 Starting Data	Spin	0139	Raweh	B430300-B	 N	A	9
+1 Check Ni 				B430300-B	 N	A	9
+2 Check Lo 				D430000-B	 N	A	0
+3 Check He 				D430000-B	 N	A	0
+Y1900 				D430000-B	 N	A	0
+
+1105 Starting Data	Spin	0140	876-574	E687200-3	  		7
+1 Check Ni 				E687200-3	  		7
+2 Check Lo 				E687000-3	  		0
+3 Check He 				E687000-3	  		0
+Y1900 				E687000-3	  		0
+
+1105 Starting Data	Spin	0202	Thengo	C868586-5	  		8
+1 Check Ni 				C868286-5	  		8
+2 Check Lo 				D868000-5	  		0
+3 Check He 				D868000-5	  		0
+Y1900 				D868000-5	  		0
+
+1105 Starting Data	Spin	0212	Prinx	C436635-6	  		7
+1 Check Ni 				C436635-6	  		7
+2 Check Lo 				C436635-6	  		7
+3 Check He 				C436635-6	  		7
+4 Halve PM 				C436635-6	  		3
+5 Reduce TL 				C436635-3	  		3
+Y1900 				C436635-3	  		3
+
+1105 Starting Data	Spin	0215	Rushu	E766674-4	  		9
+1 Check Ni 				E766574-4	  		9
+2 Check Lo 				E766574-4	  		9
+3 Check He 				E766574-4	  		9
+4 Halve PM 				E766574-4	  		4
+5 Reduce TL 				E766574-0	  		4
+Y1900 				E766574-0	  		4
+
+1105 Starting Data	Spin	0218	Bael	E200100-8	  		8
+1 Check Ni 				E200100-8	  		8
+2 Check Lo 				E200000-8	  		0
+3 Check He 				E200000-8	  		0
+Y1900 				E200000-8	  		0
+
+1105 Starting Data	Spin	0223	Stern-Stern	B421558-B	  		7
+1 Check Ni 				B421158-B	  		7
+2 Check Lo 				D421000-B	  		0
+3 Check He 				D421000-B	  		0
+Y1900 				D421000-B	  		0
+
+1105 Starting Data	Spin	0230	886-945	E833000-0	  		0
+1 Check Ni 				E833000-0	  		0
+2 Check Lo 				E833000-0	  		0
+3 Check He 				E833000-0	  		0
+Y1900 				E833000-0	  		0
+
+1105 Starting Data	Spin	0231	Saxe	EAA5543-8	  		9
+1 Check Ni 				EAA5543-8	  		9
+2 Check Lo 				EAA5543-8	  		9
+3 Check He 				EAA5543-8	  		9
+4 Halve PM 				EAA5543-8	  		4
+5 Reduce TL 				EAA5543-2	  		4
+Y1900 				EAA5543-2	  		4
+
+1105 Starting Data	Spin	0236	Andor	C695735-9	  	R	6
+1 Check Ni 				C695735-9	  	R	6
+2 Check Lo 				C695735-9	  	R	6
+3 Check He 				D695000-9	  	R	0
+Y1900 				D695000-9	  	R	0
+
+1105 Starting Data	Spin	0240	769-422	E754401-8	  		9
+1 Check Ni 				E754401-8	  		9
+2 Check Lo 				E754401-8	  		9
+3 Check He 				E754401-8	  		9
+4 Halve PM 				E754401-8	  		4
+5 Reduce TL 				E754401-6	  		4
+Y1900 				E754401-6	  		4
+
+1105 Starting Data	Spin	0301	Rio	C686648-8	  		2
+1 Check Ni 				C686448-8	  		2
+2 Check Lo 				C686448-8	  		2
+3 Check He 				C686448-8	  		2
+4 Halve PM 				C686448-8	  		1
+5 Reduce TL 				C686448-6	  		1
+Y1308 				C686454-6	  		2
+Y1398 				C686488-6	  		3
+Y1506 				C686475-6	  		4
+Y1900 				C686475-6	  		4
+
+1105 Starting Data	Spin	0303	Gesentown	B31169B-C	  	A	8
+1 Check Ni 				B31139B-C	  	A	8
+2 Check Lo 				D311000-C	  	A	0
+3 Check He 				D311000-C	  	A	0
+Y1900 				D311000-C	  	A	0
+
+1105 Starting Data	Spin	0304	Chronor	A6369A5-D	  		8
+1 Check Ni 				A6369A5-D	  		8
+2 Check Lo 				A6369A5-D	  		8
+3 Check He 				A6369A5-D	  		8
+4 Halve PM 				A6369A5-D	  		4
+5 Reduce TL 				A6369A5-8	  		4
+Y1218 				A6369BB-8	  		5
+Y1236 				A636956-8	  		6
+Y1290 				A636968-8	  		7
+Y1380 				A6369AB-8	  		8
+Y1452 				A6369CE-8	  		9
+Y1542 				A636AAA-8	  		1
+Y1632 				A636AFH-8	  		2
+Y1740 				A636A76-8	  		3
+Y1900 				A636A76-8	  		3
+
+1105 Starting Data	Spin	0307	Atsa	B4337CA-A	  	A	8
+1 Check Ni 				B4337CA-A	  	A	8
+2 Check Lo 				B4337CA-A	  	A	8
+3 Check He 				B4337CA-A	  	A	8
+4 Halve PM 				B4337CA-A	  	A	4
+5 Reduce TL 				B4337CA-9	  	A	4
+Y1900 				B4337CA-9	  	A	4
+
+1105 Starting Data	Spin	0311	Mizan-fel	B56258A-8	  		3
+1 Check Ni 				B56228A-8	  		3
+2 Check Lo 				D562000-8	  		0
+3 Check He 				D562000-8	  		0
+Y1900 				D562000-8	  		0
+
+1105 Starting Data	Spin	0321	Nonym	C433898-A	  		6
+1 Check Ni 				C433898-A	  		6
+2 Check Lo 				C433898-A	  		6
+3 Check He 				C433898-A	  		6
+4 Halve PM 				C433898-A	  		3
+5 Reduce TL 				C433898-7	  		3
+Y1380 				C4338AD-7	  		4
+Y1900 				C4338AD-7	  		4
+
+1105 Starting Data	Spin	0325	Laberv	B554443-7	  		8
+1 Check Ni 				B554243-7	  		8
+2 Check Lo 				D554000-7	  		0
+3 Check He 				D554000-7	  		0
+Y1900 				D554000-7	  		0
+
+1105 Starting Data	Spin	0326	Ektron	C432652-9	  		4
+1 Check Ni 				C432652-9	  		4
+2 Check Lo 				C432652-9	  		4
+3 Check He 				C432652-9	  		4
+4 Halve PM 				C432652-9	  		2
+5 Reduce TL 				C432652-6	  		2
+Y1900 				C432652-6	  		2
+
+1105 Starting Data	Spin	0332	Gothe	E42159B-7	  	A	3
+1 Check Ni 				E42159B-7	  	A	3
+2 Check Lo 				E42159B-7	  	A	3
+3 Check He 				E421000-7	  	A	0
+Y1900 				E421000-7	  	A	0
+
+1105 Starting Data	Spin	0333	Mirriam	B9998A6-A	WN	A	5
+1 Check Ni 				B9998A6-A	WN	A	5
+2 Check Lo 				B9998A6-A	WN	A	5
+3 Check He 				B9998A6-A	WN	A	5
+4 Halve PM 				B9998A6-A	WN	A	2
+5 Reduce TL 				B9998A6-9	WN	A	2
+Y1254 				B999873-9	WN	A	3
+Y1308 				B9998A6-9	WN	A	4
+Y1362 				B999851-9	WN	A	5
+Y1380 				B999887-9	WN	A	6
+Y1488 				B99987A-9	WN	A	7
+Y1900 				B99987A-9	WN	A	7
+
+1105 Starting Data	Spin	0336	Candory	C593634-8	  	R	9
+1 Check Ni 				C593434-8	  	R	9
+2 Check Lo 				C593434-8	  	R	9
+3 Check He 				D593000-8	  	R	0
+Y1900 				D593000-8	  	R	0
+
+1105 Starting Data	Spin	0340	Wonderay	E88A47A-4	  		2
+1 Check Ni 				E88A37A-4	  		2
+2 Check Lo 				E88A000-4	  		0
+3 Check He 				E88A000-4	  		0
+Y1900 				E88A000-4	  		0
+
+1105 Starting Data	Spin	0412	Sansibar	B200310-A	  		7
+1 Check Ni 				B200310-A	  		7
+2 Check Lo 				D200000-A	  		0
+3 Check He 				D200000-A	  		0
+Y1900 				D200000-A	  		0
+
+1105 Starting Data	Spin	0414	Attica	C400546-8	  		8
+1 Check Ni 				C400546-8	  		8
+2 Check Lo 				C400546-8	  		8
+3 Check He 				C400546-8	  		8
+4 Halve PM 				C400546-8	  		4
+5 Reduce TL 				C400546-3	  		4
+Y1900 				C400546-3	  		4
+
+1105 Starting Data	Spin	0416	Retinae	E8C69AA-9	  	A	9
+1 Check Ni 				E8C69AA-9	  	A	9
+2 Check Lo 				E8C69AA-9	  	A	9
+3 Check He 				E8C6000-9	  	A	0
+Y1900 				E8C6000-9	  	A	0
+
+1105 Starting Data	Spin	0421	Zamine	C897977-A	  		2
+1 Check Ni 				C897977-A	  		2
+2 Check Lo 				C897977-A	  		2
+3 Check He 				C897977-A	  		2
+4 Halve PM 				C897977-A	  		1
+5 Reduce TL 				C897977-6	  		1
+Y1740 				C8979C9-6	  		2
+Y1900 				C8979C9-6	  		2
+
+1105 Starting Data	Spin	0425	Engrange	C554769-8	  		7
+1 Check Ni 				C554769-8	  		7
+2 Check Lo 				C554769-8	  		7
+3 Check He 				C554769-8	  		7
+4 Halve PM 				C554769-8	  		3
+5 Reduce TL 				C554769-6	  		3
+Y1900 				C554769-6	  		3
+
+1105 Starting Data	Spin	0426	Ilium	B544831-9	  		4
+1 Check Ni 				B544831-9	  		4
+2 Check Lo 				B544831-9	  		4
+3 Check He 				B544831-9	  		4
+4 Halve PM 				B544831-9	  		2
+5 Reduce TL 				B544831-6	  		2
+Y1218 				B54489A-6	  		3
+Y1272 				B544886-6	  		4
+Y1362 				B544888-6	  		5
+Y1398 				B544889-6	  		6
+Y1434 				B54489C-6	  		7
+Y1506 				B5448BA-6	  		8
+Y1560 				B544884-6	  		9
+Y1632 				B5449CC-6	  		1
+Y1686 				B5449CD-6	  		2
+Y1776 				B544978-6	  		3
+Y1884 				B544956-6	  		4
+Y1900 				B544956-6	  		4
+
+1105 Starting Data	Spin	0427	Roget	B566777-9	  		4
+1 Check Ni 				B566777-9	  		4
+2 Check Lo 				B566777-9	  		4
+3 Check He 				B566777-9	  		4
+4 Halve PM 				B566777-9	  		2
+5 Reduce TL 				B566777-4	  		2
+Y1218 				B5667A6-4	  		3
+Y1272 				B566788-4	  		4
+Y1362 				B566744-4	  		5
+Y1434 				B566752-4	  		6
+Y1470 				B56678A-4	  		7
+Y1488 				B5667CB-4	  		8
+Y1542 				B56678A-4	  		9
+Y1650 				B56688A-4	  		1
+Y1900 				B56688A-4	  		1
+
+1105 Starting Data	Spin	0429	Kardin	E553123-6	  		4
+1 Check Ni 				E553123-6	  		4
+2 Check Lo 				E553000-6	  		0
+3 Check He 				E553000-6	  		0
+Y1900 				E553000-6	  		0
+
+1105 Starting Data	Spin	0430	Bularia	C774622-5	  		3
+1 Check Ni 				C774622-5	  		3
+2 Check Lo 				C774622-5	  		3
+3 Check He 				D774000-5	  		0
+Y1900 				D774000-5	  		0
+
+1105 Starting Data	Spin	0433	Jone	B792785-9	 N	A	8
+1 Check Ni 				B792785-9	 N	A	8
+2 Check Lo 				B792785-9	 N	A	8
+3 Check He 				B792785-9	 N	A	8
+4 Halve PM 				B792785-9	 N	A	4
+5 Reduce TL 				B792785-7	 N	A	4
+Y1900 				B792785-7	 N	A	4
+
+1105 Starting Data	Spin	0440	Jinx	D100133-7	  	A	2
+1 Check Ni 				D100133-7	  	A	2
+2 Check Lo 				D100000-7	  	A	0
+3 Check He 				D100000-7	  	A	0
+Y1900 				D100000-7	  	A	0
+
+1105 Starting Data	Spin	0503	Whenge	D648500-8	  		6
+1 Check Ni 				D648100-8	  		6
+2 Check Lo 				D648000-8	  		0
+3 Check He 				D648000-8	  		0
+Y1900 				D648000-8	  		0
+
+1105 Starting Data	Spin	0511	Terra Nova	C786342-9	  		8
+1 Check Ni 				C786342-9	  		8
+2 Check Lo 				D786000-9	  		0
+3 Check He 				D786000-9	  		0
+Y1900 				D786000-9	  		0
+
+1105 Starting Data	Spin	0512	Asmodeus	E596400-5	  		2
+1 Check Ni 				E596400-5	  		2
+2 Check Lo 				E596400-5	  		2
+3 Check He 				E596000-5	  		0
+Y1900 				E596000-5	  		0
+
+1105 Starting Data	Spin	0518	Faisal	D545436-5	  		8
+1 Check Ni 				D545336-5	  		8
+2 Check Lo 				D545000-5	  		0
+3 Check He 				D545000-5	  		0
+Y1900 				D545000-5	  		0
+
+1105 Starting Data	Spin	0526	Rorre	D765657-3	  		1
+1 Check Ni 				D765557-3	  		1
+2 Check Lo 				D765557-3	  		1
+3 Check He 				D765557-3	  		1
+4 Halve PM 				D765457-3	  		5
+5 Reduce TL 				D765457-0	  		5
+Y1900 				D765457-0	  		5
+
+1105 Starting Data	Spin	0527	Mire	A665A95-C	  		1
+1 Check Ni 				A665A95-C	  		1
+2 Check Lo 				A665A95-C	  		1
+3 Check He 				A665A95-C	  		1
+4 Halve PM 				A665995-C	  		5
+5 Reduce TL 				A665995-8	  		5
+Y1560 				A6659B7-8	  		6
+Y1900 				A6659B7-8	  		6
+
+1105 Starting Data	Spin	0528	Condaria	E54779B-5	  	A	9
+1 Check Ni 				E54779B-5	  	A	9
+2 Check Lo 				E54779B-5	  	A	9
+3 Check He 				E54779B-5	  	A	9
+4 Halve PM 				E54779B-5	  	A	4
+5 Reduce TL 				E54779B-2	  	A	4
+Y1560 				E547764-2	  	A	5
+Y1900 				E547764-2	  	A	5
+
+1105 Starting Data	Spin	0530	Dorannia	E42158A-8	  		5
+1 Check Ni 				E42148A-8	  		5
+2 Check Lo 				E42148A-8	  		5
+3 Check He 				E421000-8	  		0
+Y1900 				E421000-8	  		0
+
+1105 Starting Data	Spin	0532	Ucella	D574654-7	  		4
+1 Check Ni 				D574254-7	  		4
+2 Check Lo 				D574000-7	  		0
+3 Check He 				D574000-7	  		0
+Y1900 				D574000-7	  		0
+
+1105 Starting Data	Spin	0533	Penelope	C560642-4	  		3
+1 Check Ni 				C560642-4	  		3
+2 Check Lo 				C560642-4	  		3
+3 Check He 				C560642-4	  		3
+4 Halve PM 				C560642-4	  		1
+5 Reduce TL 				C560642-1	  		1
+Y1900 				C560642-1	  		1
+
+1105 Starting Data	Spin	0534	Karin	A767768-C	SN	A	4
+1 Check Ni 				A767768-C	SN	A	4
+2 Check Lo 				A767768-C	SN	A	4
+3 Check He 				A767768-C	SN	A	4
+4 Halve PM 				A767768-C	SN	A	2
+5 Reduce TL 				A767768-B	SN	A	2
+Y1900 				A767768-B	SN	A	2
+
+1105 Starting Data	Spin	0538	Wonstar	B555741-7	 N	A	9
+1 Check Ni 				B555741-7	 N	A	9
+2 Check Lo 				B555741-7	 N	A	9
+3 Check He 				B555741-7	 N	A	9
+4 Halve PM 				B555741-7	 N	A	4
+5 Reduce TL 				B555741-5	 N	A	4
+Y1900 				B555741-5	 N	A	4
+
+1105 Starting Data	Spin	0539	Froin	C535225-9	  		6
+1 Check Ni 				C535225-9	  		6
+2 Check Lo 				D535000-9	  		0
+3 Check He 				D535000-9	  		0
+Y1900 				D535000-9	  		0
+
+1105 Starting Data	Spin	0601	Enlas-du	E975776-6	  		3
+1 Check Ni 				E975776-6	  		3
+2 Check Lo 				E975776-6	  		3
+3 Check He 				E975000-6	  		0
+Y1900 				E975000-6	  		0
+
+1105 Starting Data	Spin	0605	Algebaster	C665658-9	  		4
+1 Check Ni 				C665158-9	  		4
+2 Check Lo 				D665000-9	  		0
+3 Check He 				D665000-9	  		0
+Y1900 				D665000-9	  		0
+
+1105 Starting Data	Spin	0607	Rasatt	E883401-7	  		9
+1 Check Ni 				E883001-7	  		9
+2 Check Lo 				E883000-7	  		0
+3 Check He 				E883000-7	  		0
+Y1900 				E883000-7	  		0
+
+1105 Starting Data	Spin	0608	Ninjar	A311666-C	  		4
+1 Check Ni 				A311666-C	  		4
+2 Check Lo 				A311666-C	  		4
+3 Check He 				A311666-C	  		4
+4 Halve PM 				A311666-C	  		2
+5 Reduce TL 				A311666-6	  		2
+Y1900 				A311666-6	  		2
+
+1105 Starting Data	Spin	0610	Sheyou	B756779-A	  		1
+1 Check Ni 				B756779-A	  		1
+2 Check Lo 				B756779-A	  		1
+3 Check He 				B756779-A	  		1
+4 Halve PM 				B756679-A	  		5
+5 Reduce TL 				B756679-4	  		5
+Y1308 				B756689-4	  		6
+Y1416 				B756657-4	  		7
+Y1524 				B756656-4	  		8
+Y1900 				B756656-4	  		8
+
+1105 Starting Data	Spin	0613	Lebeau	B869554-C	  		9
+1 Check Ni 				B869554-C	  		9
+2 Check Lo 				B869554-C	  		9
+3 Check He 				B869554-C	  		9
+4 Halve PM 				B869554-C	  		4
+5 Reduce TL 				B869554-B	  		4
+Y1254 				B869595-B	  		5
+Y1290 				B869520-B	  		6
+Y1398 				B869568-B	  		7
+Y1900 				B869568-B	  		7
+
+1105 Starting Data	Spin	0614	Querion	B554788-9	  		8
+1 Check Ni 				B554788-9	  		8
+2 Check Lo 				B554788-9	  		8
+3 Check He 				B554788-9	  		8
+4 Halve PM 				B554788-9	  		4
+5 Reduce TL 				B554788-7	  		4
+Y1272 				B554756-7	  		5
+Y1290 				B554777-7	  		6
+Y1398 				B554764-7	  		7
+Y1416 				B554767-7	  		8
+Y1434 				B554769-7	  		9
+Y1542 				B554858-7	  		1
+Y1900 				B554858-7	  		1
+
+1105 Starting Data	Spin	0618	Dekalb	EA8A799-6	  		3
+1 Check Ni 				EA8A799-6	  		3
+2 Check Lo 				EA8A799-6	  		3
+3 Check He 				EA8A799-6	  		3
+4 Halve PM 				EA8A799-6	  		1
+5 Reduce TL 				EA8A799-2	  		1
+Y1900 				EA8A799-2	  		1
+
+1105 Starting Data	Spin	0620	Winston	E887573-6	  		5
+1 Check Ni 				E887373-6	  		5
+2 Check Lo 				E887000-6	  		0
+3 Check He 				E887000-6	  		0
+Y1900 				E887000-6	  		0
+
+1105 Starting Data	Spin	0622	Terant 340	D5405A7-9	  		5
+1 Check Ni 				D5402A7-9	  		5
+2 Check Lo 				D540000-9	  		0
+3 Check He 				D540000-9	  		0
+Y1900 				D540000-9	  		0
+
+1105 Starting Data	Spin	0624	Jacent	A433744-D	  		7
+1 Check Ni 				A433744-D	  		7
+2 Check Lo 				A433744-D	  		7
+3 Check He 				A433744-D	  		7
+4 Halve PM 				A433744-D	  		3
+5 Reduce TL 				A433744-8	  		3
+Y1254 				A433753-8	  		4
+Y1344 				A43378A-8	  		5
+Y1362 				A433798-8	  		6
+Y1380 				A433733-8	  		7
+Y1488 				A4337AC-8	  		8
+Y1900 				A4337AC-8	  		8
+
+1105 Starting Data	Spin	0625	494-908	X893000-0	  	R	0
+1 Check Ni 				X893000-0	  	R	0
+2 Check Lo 				X893000-0	  	R	0
+3 Check He 				X893000-0	  	R	0
+Y1900 				X893000-0	  	R	0
+
+1105 Starting Data	Spin	0627	Darrian	A463955-G	  		2
+1 Check Ni 				A463955-G	  		2
+2 Check Lo 				A463955-G	  		2
+3 Check He 				A463955-G	  		2
+4 Halve PM 				A463955-G	  		1
+5 Reduce TL 				A463955-B	  		1
+Y1900 				A463955-B	  		1
+
+1105 Starting Data	Spin	0632	Gohature	C754766-7	S 		5
+1 Check Ni 				C754766-7	S 		5
+2 Check Lo 				C754766-7	S 		5
+3 Check He 				C754766-7	S 		5
+4 Halve PM 				C754766-7	S 		2
+5 Reduce TL 				C754766-4	S 		2
+Y1218 				C75477C-4	S 		3
+Y1308 				C754755-4	S 		4
+Y1398 				C754733-4	S 		5
+Y1470 				C754745-4	S 		6
+Y1524 				C754755-4	S 		7
+Y1542 				C754742-4	S 		8
+Y1650 				C754798-4	S 		9
+Y1758 				C7548AC-4	S 		1
+Y1900 				C7548AC-4	S 		1
+
+1105 Starting Data	Spin	0637	Quhaiathat	C31479B-9	  	A	2
+1 Check Ni 				C31479B-9	  	A	2
+2 Check Lo 				C31479B-9	  	A	2
+3 Check He 				C31479B-9	  	A	2
+4 Halve PM 				C31479B-9	  	A	1
+5 Reduce TL 				C31479B-8	  	A	1
+Y1290 				C314744-8	  	A	2
+Y1326 				C31478A-8	  	A	3
+Y1362 				C314798-8	  	A	4
+Y1452 				C314742-8	  	A	5
+Y1560 				C314758-8	  	A	6
+Y1900 				C314758-8	  	A	6
+
+1105 Starting Data	Spin	0638	Lakou	E779454-7	  	A	6
+1 Check Ni 				E779054-7	  	A	6
+2 Check Lo 				E779000-7	  	A	0
+3 Check He 				E779000-7	  	A	0
+Y1900 				E779000-7	  	A	0
+
+1105 Starting Data	Spin	0703	Indo	E434662-6	  		3
+1 Check Ni 				E434662-6	  		3
+2 Check Lo 				E434662-6	  		3
+3 Check He 				E434662-6	  		3
+4 Halve PM 				E434662-6	  		1
+5 Reduce TL 				E434662-0	  		1
+Y1900 				E434662-0	  		1
+
+1105 Starting Data	Spin	0704	Nerewhon	E738475-7	  		8
+1 Check Ni 				E738275-7	  		8
+2 Check Lo 				E738000-7	  		0
+3 Check He 				E738000-7	  		0
+Y1900 				E738000-7	  		0
+
+1105 Starting Data	Spin	0705	Cipango	A886865-C	  		1
+1 Check Ni 				A886865-C	  		1
+2 Check Lo 				A886865-C	  		1
+3 Check He 				A886865-C	  		1
+4 Halve PM 				A886765-C	  		5
+5 Reduce TL 				A886765-A	  		5
+Y1900 				A886765-A	  		5
+
+1105 Starting Data	Spin	0710	Stave	E7667A8-2	  		8
+1 Check Ni 				E7667A8-2	  		8
+2 Check Lo 				E7667A8-2	  		8
+3 Check He 				E7667A8-2	  		8
+4 Halve PM 				E7667A8-2	  		4
+5 Reduce TL 				E7667A8-0	  		4
+Y1900 				E7667A8-0	  		4
+
+1105 Starting Data	Spin	0712	Rapp's World	C592320-8	  		4
+1 Check Ni 				C592320-8	  		4
+2 Check Lo 				D592000-8	  		0
+3 Check He 				D592000-8	  		0
+Y1900 				D592000-8	  		0
+
+1105 Starting Data	Spin	0717	Thanber	B543653-C	  		2
+1 Check Ni 				B543653-C	  		2
+2 Check Lo 				B543653-C	  		2
+3 Check He 				D543000-C	  		0
+Y1900 				D543000-C	  		0
+
+1105 Starting Data	Spin	0720	Entrope	E436AAA-B	  	A	1
+1 Check Ni 				E436AAA-B	  	A	1
+2 Check Lo 				E436AAA-B	  	A	1
+3 Check He 				E436AAA-B	  	A	1
+4 Halve PM 				E4369AA-B	  	A	5
+5 Reduce TL 				E4369AA-6	  	A	5
+Y1218 				E436984-6	  	A	6
+Y1272 				E436998-6	  	A	7
+Y1344 				E4369A7-6	  	A	8
+Y1362 				E436962-6	  	A	9
+Y1416 				E436A88-6	  	A	1
+Y1470 				E436AAB-6	  	A	2
+Y1488 				E436AEA-6	  	A	3
+Y1506 				E436AA8-6	  	A	4
+Y1524 				E436ABC-6	  	A	5
+Y1632 				E436ABB-6	  	A	6
+Y1900 				E436ABB-6	  	A	6
+
+1105 Starting Data	Spin	0721	Torment	X433268-6	  	R	8
+1 Check Ni 				X433268-6	  	R	8
+2 Check Lo 				X433000-6	  	R	0
+3 Check He 				X433000-6	  	R	0
+Y1900 				X433000-6	  	R	0
+
+1105 Starting Data	Spin	0723	Trifuge	C546556-9	  		2
+1 Check Ni 				C546556-9	  		2
+2 Check Lo 				C546556-9	  		2
+3 Check He 				D546000-9	  		0
+Y1900 				D546000-9	  		0
+
+1105 Starting Data	Spin	0724	Nosea	B4326BB-C	  	A	6
+1 Check Ni 				B4323BB-C	  	A	6
+2 Check Lo 				D432000-C	  	A	0
+3 Check He 				D432000-C	  	A	0
+Y1900 				D432000-C	  	A	0
+
+1105 Starting Data	Spin	0727	Spume	C540200-A	  		4
+1 Check Ni 				C540200-A	  		4
+2 Check Lo 				D540000-A	  		0
+3 Check He 				D540000-A	  		0
+Y1900 				D540000-A	  		0
+
+1105 Starting Data	Spin	0729	Ator	D426258-7	  		8
+1 Check Ni 				D426258-7	  		8
+2 Check Lo 				D426000-7	  		0
+3 Check He 				D426000-7	  		0
+Y1900 				D426000-7	  		0
+
+1105 Starting Data	Spin	0731	Ralhe	E424574-8	  		8
+1 Check Ni 				E424574-8	  		8
+2 Check Lo 				E424574-8	  		8
+3 Check He 				E424000-8	  		0
+Y1900 				E424000-8	  		0
+
+1105 Starting Data	Spin	0732	Iderati	A887798-C	 N		2
+1 Check Ni 				A887798-C	 N		2
+2 Check Lo 				A887798-C	 N		2
+3 Check He 				A887798-C	 N		2
+4 Halve PM 				A887798-C	 N		1
+5 Reduce TL 				A887798-8	 N		1
+Y1740 				A887740-8	 N		2
+Y1900 				A887740-8	 N		2
+
+1105 Starting Data	Spin	0739	Tondoul	E5136A7-7	  		7
+1 Check Ni 				E5135A7-7	  		7
+2 Check Lo 				E5135A7-7	  		7
+3 Check He 				E5135A7-7	  		7
+4 Halve PM 				E5135A7-7	  		3
+5 Reduce TL 				E5135A7-4	  		3
+Y1218 				E513523-4	  		4
+Y1254 				E513535-4	  		5
+Y1308 				E513532-4	  		6
+Y1362 				E513598-4	  		7
+Y1452 				E513555-4	  		8
+Y1470 				E513541-4	  		9
+Y1560 				E513685-4	  		1
+Y1632 				E513686-4	  		2
+Y1740 				E513643-4	  		3
+Y1900 				E513643-4	  		3
+
+1105 Starting Data	Spin	0805	Narval	D525688-7	  	A	6
+1 Check Ni 				D525688-7	  	A	6
+2 Check Lo 				D525688-7	  	A	6
+3 Check He 				D525000-7	  	A	0
+Y1900 				D525000-7	  	A	0
+
+1105 Starting Data	Spin	0807	Plaven	E845300-5	  		9
+1 Check Ni 				E845300-5	  		9
+2 Check Lo 				E845000-5	  		0
+3 Check He 				E845000-5	  		0
+Y1900 				E845000-5	  		0
+
+1105 Starting Data	Spin	0808	Quar	B532720-B	 N	A	4
+1 Check Ni 				B532720-B	 N	A	4
+2 Check Lo 				B532720-B	 N	A	4
+3 Check He 				B532720-B	 N	A	4
+4 Halve PM 				B532720-B	 N	A	2
+5 Reduce TL 				B532720-5	 N	A	2
+Y1236 				B532798-5	 N	A	3
+Y1308 				B532742-5	 N	A	4
+Y1344 				B532787-5	 N	A	5
+Y1434 				B532756-5	 N	A	6
+Y1488 				B532755-5	 N	A	7
+Y1596 				B5327BA-5	 N	A	8
+Y1900 				B5327BA-5	 N	A	8
+
+1105 Starting Data	Spin	0810	Frond	E9C3300-9	  		1
+1 Check Ni 				E9C3300-9	  		1
+2 Check Lo 				E9C3000-9	  		0
+3 Check He 				E9C3000-9	  		0
+Y1900 				E9C3000-9	  		0
+
+1105 Starting Data	Spin	0820	Anselhome	C310588-8	  		6
+1 Check Ni 				C310388-8	  		6
+2 Check Lo 				D310000-8	  		0
+3 Check He 				D310000-8	  		0
+Y1900 				D310000-8	  		0
+
+1105 Starting Data	Spin	0822	Cunnonic	E65767A-3	  		5
+1 Check Ni 				E65767A-3	  		5
+2 Check Lo 				E65767A-3	  		5
+3 Check He 				E65767A-3	  		5
+4 Halve PM 				E65767A-3	  		2
+5 Reduce TL 				E65767A-0	  		2
+Y1900 				E65767A-0	  		2
+
+1105 Starting Data	Spin	0830	Debarre	B854123-9	  		8
+1 Check Ni 				B854123-9	  		8
+2 Check Lo 				D854000-9	  		0
+3 Check He 				D854000-9	  		0
+Y1900 				D854000-9	  		0
+
+1105 Starting Data	Spin	0834	875-496	E888421-7	S 	A	5
+1 Check Ni 				E888421-7	S 	A	5
+2 Check Lo 				E888421-7	S 	A	5
+3 Check He 				E888421-7	S 	A	5
+4 Halve PM 				E888421-7	S 	A	2
+5 Reduce TL 				E888421-4	S 	A	2
+Y1900 				E888421-4	S 	A	2
+
+1105 Starting Data	Spin	0837	Ochecate	E747569-7	  		2
+1 Check Ni 				E747069-7	  		2
+2 Check Lo 				E747000-7	  		0
+3 Check He 				E747000-7	  		0
+Y1900 				E747000-7	  		0
+
+1105 Starting Data	Spin	0838	Mewey	D786799-5	  		7
+1 Check Ni 				D786799-5	  		7
+2 Check Lo 				D786799-5	  		7
+3 Check He 				D786799-5	  		7
+4 Halve PM 				D786799-5	  		3
+5 Reduce TL 				D786799-0	  		3
+Y1900 				D786799-0	  		3
+
+1105 Starting Data	Spin	0840	975-452	E100316-9	  		8
+1 Check Ni 				E100316-9	  		8
+2 Check Lo 				E100000-9	  		0
+3 Check He 				E100000-9	  		0
+Y1900 				E100000-9	  		0
+
+1105 Starting Data	Spin	0901	Condyole	E7A1522-8	  		9
+1 Check Ni 				E7A1322-8	  		9
+2 Check Lo 				E7A1000-8	  		0
+3 Check He 				E7A1000-8	  		0
+Y1900 				E7A1000-8	  		0
+
+1105 Starting Data	Spin	0902	Puparkin	C7B3386-9	  		5
+1 Check Ni 				C7B3386-9	  		5
+2 Check Lo 				D7B3000-9	  		0
+3 Check He 				D7B3000-9	  		0
+Y1900 				D7B3000-9	  		0
+
+1105 Starting Data	Spin	0904	Chwistyoch	B766766-A	  		4
+1 Check Ni 				B766766-A	  		4
+2 Check Lo 				B766766-A	  		4
+3 Check He 				B766766-A	  		4
+4 Halve PM 				B766766-A	  		2
+5 Reduce TL 				B766766-5	  		2
+Y1900 				B766766-5	  		2
+
+1105 Starting Data	Spin	0909	Gougeste	C572510-A	  	A	4
+1 Check Ni 				C572410-A	  	A	4
+2 Check Lo 				C572410-A	  	A	4
+3 Check He 				D572000-A	  	A	0
+Y1900 				D572000-A	  	A	0
+
+1105 Starting Data	Spin	0911	Caloran	C796746-5	  		5
+1 Check Ni 				C796746-5	  		5
+2 Check Lo 				C796746-5	  		5
+3 Check He 				D796000-5	  		0
+Y1900 				D796000-5	  		0
+
+1105 Starting Data	Spin	0912	899-076	E201300-8	  		5
+1 Check Ni 				E201300-8	  		5
+2 Check Lo 				E201000-8	  		0
+3 Check He 				E201000-8	  		0
+Y1900 				E201000-8	  		0
+
+1105 Starting Data	Spin	0915	Quare	B200545-9	  		2
+1 Check Ni 				B200545-9	  		2
+2 Check Lo 				B200545-9	  		2
+3 Check He 				B200545-9	  		2
+4 Halve PM 				B200545-9	  		1
+5 Reduce TL 				B200545-4	  		1
+Y1900 				B200545-4	  		1
+
+1105 Starting Data	Spin	0919	Zeta 2	X6B0000-0	  	R	0
+1 Check Ni 				X6B0000-0	  	R	0
+2 Check Lo 				X6B0000-0	  	R	0
+3 Check He 				X6B0000-0	  	R	0
+Y1900 				X6B0000-0	  	R	0
+
+1105 Starting Data	Spin	0921	Hrunting	B563747-9	  		3
+1 Check Ni 				B563747-9	  		3
+2 Check Lo 				B563747-9	  		3
+3 Check He 				B563747-9	  		3
+4 Halve PM 				B563747-9	  		1
+5 Reduce TL 				B563747-6	  		1
+Y1254 				B563787-6	  		2
+Y1362 				B563754-6	  		3
+Y1380 				B563753-6	  		4
+Y1452 				B563777-6	  		5
+Y1560 				B563745-6	  		6
+Y1740 				B5637AC-6	  		7
+Y1900 				B5637AC-6	  		7
+
+1105 Starting Data	Spin	0922	Tizon	B586887-A	  		3
+1 Check Ni 				B586887-A	  		3
+2 Check Lo 				B586887-A	  		3
+3 Check He 				B586887-A	  		3
+4 Halve PM 				B586887-A	  		1
+5 Reduce TL 				B586887-7	  		1
+Y1900 				B586887-7	  		1
+
+1105 Starting Data	Spin	0927	Narsil	B574A55-A	  		2
+1 Check Ni 				B574A55-A	  		2
+2 Check Lo 				B574A55-A	  		2
+3 Check He 				B574A55-A	  		2
+4 Halve PM 				B574A55-A	  		1
+5 Reduce TL 				B574A55-8	  		1
+Y1254 				B574A88-8	  		2
+Y1308 				B574ADB-8	  		3
+Y1362 				B574A88-8	  		4
+Y1434 				B574AA9-8	  		5
+Y1488 				B574ACA-8	  		6
+Y1578 				B574ACC-8	  		7
+Y1650 				B574ABB-8	  		8
+Y1686 				B574A99-8	  		9
+Y1722 				B574BBC-8	  		1
+Y1830 				B574B66-8	  		2
+Y1900 				B574B66-8	  		2
+
+1105 Starting Data	Spin	0930	Flammarion	A623514-B	WN		7
+1 Check Ni 				A623014-B	WN		7
+2 Check Lo 				D623000-B	WN		0
+3 Check He 				D623000-B	WN		0
+Y1900 				D623000-B	WN		0
+
+1105 Starting Data	Spin	0931	Asteltine	B7A7402-A	  		2
+1 Check Ni 				B7A7402-A	  		2
+2 Check Lo 				B7A7402-A	  		2
+3 Check He 				B7A7402-A	  		2
+4 Halve PM 				B7A7402-A	  		1
+5 Reduce TL 				B7A7402-8	  		1
+Y1900 				B7A7402-8	  		1
+
+1105 Starting Data	Spin	0938	Inchin	D42035A-A	  		8
+1 Check Ni 				D42035A-A	  		8
+2 Check Lo 				D420000-A	  		0
+3 Check He 				D420000-A	  		0
+Y1900 				D420000-A	  		0
+
+1105 Starting Data	Spin	0940	Singer	D553774-6	  		9
+1 Check Ni 				D553774-6	  		9
+2 Check Lo 				D553774-6	  		9
+3 Check He 				D553774-6	  		9
+4 Halve PM 				D553774-6	  		4
+5 Reduce TL 				D553774-0	  		4
+Y1900 				D553774-0	  		4
+
+1105 Starting Data	Spin	1004	Esalin	C565673-8	  	A	2
+1 Check Ni 				C565373-8	  	A	2
+2 Check Lo 				D565000-8	  	A	0
+3 Check He 				D565000-8	  	A	0
+Y1900 				D565000-8	  	A	0
+
+1105 Starting Data	Spin	1005	Ruby	B400445-B	S 		2
+1 Check Ni 				B400445-B	S 		2
+2 Check Lo 				B400445-B	S 		2
+3 Check He 				B400445-B	S 		2
+4 Halve PM 				B400445-B	S 		1
+5 Reduce TL 				B400445-8	S 		1
+Y1236 				B40048A-8	S 		2
+Y1272 				B400424-8	S 		3
+Y1362 				B400445-8	S 		4
+Y1416 				B400430-8	S 		5
+Y1488 				B400400-8	S 		6
+Y1560 				B400464-8	S 		7
+Y1614 				B400498-8	S 		8
+Y1668 				B40046A-8	S 		9
+Y1740 				B400540-8	S 		1
+Y1794 				B400577-8	S 		2
+Y1866 				B400510-8	S 		3
+Y1900 				B400510-8	S 		3
+
+1105 Starting Data	Spin	1006	Emerald	B766555-B	S 		5
+1 Check Ni 				B766555-B	S 		5
+2 Check Lo 				B766555-B	S 		5
+3 Check He 				B766555-B	S 		5
+4 Halve PM 				B766555-B	S 		2
+5 Reduce TL 				B766555-7	S 		2
+Y1900 				B766555-7	S 		2
+
+1105 Starting Data	Spin	1010	Zenopit	D430546-7	  		6
+1 Check Ni 				D430546-7	  		6
+2 Check Lo 				D430546-7	  		6
+3 Check He 				D430546-7	  		6
+4 Halve PM 				D430546-7	  		3
+5 Reduce TL 				D430546-2	  		3
+Y1900 				D430546-2	  		3
+
+1105 Starting Data	Spin	1011	Arden	B5549CB-9	  	A	1
+1 Check Ni 				B5549CB-9	  	A	1
+2 Check Lo 				B5549CB-9	  	A	1
+3 Check He 				B5549CB-9	  	A	1
+4 Halve PM 				B5548CB-9	  	A	5
+5 Reduce TL 				B5548CB-8	  	A	5
+Y1380 				B55487A-8	  	A	6
+Y1560 				B55486B-8	  	A	7
+Y1900 				B55486B-8	  	A	7
+
+1105 Starting Data	Spin	1018	Choleosti	C200100-9	  		1
+1 Check Ni 				C200100-9	  		1
+2 Check Lo 				D200000-9	  		0
+3 Check He 				D200000-9	  		0
+Y1900 				D200000-9	  		0
+
+1105 Starting Data	Spin	1020	Margesi	C575677-6	  	A	9
+1 Check Ni 				C575677-6	  	A	9
+2 Check Lo 				C575677-6	  	A	9
+3 Check He 				D575000-6	  	A	0
+Y1900 				D575000-6	  	A	0
+
+1105 Starting Data	Spin	1022	Colada	B564685-B	  		2
+1 Check Ni 				B564485-B	  		2
+2 Check Lo 				B564485-B	  		2
+3 Check He 				B564485-B	  		2
+4 Halve PM 				B564485-B	  		1
+5 Reduce TL 				B564485-A	  		1
+Y1900 				B564485-A	  		1
+
+1105 Starting Data	Spin	1026	Anduril	B985855-B	  		2
+1 Check Ni 				B985855-B	  		2
+2 Check Lo 				B985855-B	  		2
+3 Check He 				B985855-B	  		2
+4 Halve PM 				B985855-B	  		1
+5 Reduce TL 				B985855-8	  		1
+Y1900 				B985855-8	  		1
+
+1105 Starting Data	Spin	1031	567-908	E532000-0	  		0
+1 Check Ni 				E532000-0	  		0
+2 Check Lo 				E532000-0	  		0
+3 Check He 				E532000-0	  		0
+Y1900 				E532000-0	  		0
+
+1105 Starting Data	Spin	1037	Avastan	C433520-A	  		7
+1 Check Ni 				C433520-A	  		7
+2 Check Lo 				C433520-A	  		7
+3 Check He 				C433520-A	  		7
+4 Halve PM 				C433520-A	  		3
+5 Reduce TL 				C433520-6	  		3
+Y1900 				C433520-6	  		3
+
+1105 Starting Data	Spin	1040	Kuai Qing	C503758-A	  		3
+1 Check Ni 				C503758-A	  		3
+2 Check Lo 				C503758-A	  		3
+3 Check He 				C503758-A	  		3
+4 Halve PM 				C503758-A	  		1
+5 Reduce TL 				C503758-6	  		1
+Y1254 				C50378A-6	  		2
+Y1326 				C503756-6	  		3
+Y1398 				C503775-6	  		4
+Y1470 				C503764-6	  		5
+Y1524 				C503758-6	  		6
+Y1614 				C503773-6	  		7
+Y1668 				C50379B-6	  		8
+Y1758 				C503767-6	  		9
+Y1866 				C50388A-6	  		1
+Y1900 				C50388A-6	  		1
+
+1105 Starting Data	Spin	1102	Riverland	C566A99-9	  	A	2
+1 Check Ni 				C566A99-9	  	A	2
+2 Check Lo 				C566A99-9	  	A	2
+3 Check He 				C566A99-9	  	A	2
+4 Halve PM 				C566A99-9	  	A	1
+5 Reduce TL 				C566A99-6	  	A	1
+Y1236 				C566A8D-6	  	A	2
+Y1272 				C566A8B-6	  	A	3
+Y1380 				C566AAC-6	  	A	4
+Y1560 				C566A73-6	  	A	5
+Y1900 				C566A73-6	  	A	5
+
+1105 Starting Data	Spin	1103	Clan	B672899-A	  	A	9
+1 Check Ni 				B672899-A	  	A	9
+2 Check Lo 				B672899-A	  	A	9
+3 Check He 				B672899-A	  	A	9
+4 Halve PM 				B672899-A	  	A	4
+5 Reduce TL 				B672899-4	  	A	4
+Y1900 				B672899-4	  	A	4
+
+1105 Starting Data	Spin	1106	Jewell	A777999-C	SN		6
+1 Check Ni 				A777999-C	SN		6
+2 Check Lo 				A777999-C	SN		6
+3 Check He 				A777899-C	SN		6
+4 Halve PM 				A777899-C	SN		3
+5 Reduce TL 				A777899-7	SN		3
+Y1740 				A7778CC-7	SN		4
+Y1900 				A7778CC-7	SN		4
+
+1105 Starting Data	Spin	1110	Zircon	C792668-8	  		6
+1 Check Ni 				C792568-8	  		6
+2 Check Lo 				C792568-8	  		6
+3 Check He 				D792000-8	  		0
+Y1900 				D792000-8	  		0
+
+1105 Starting Data	Spin	1116	Frenzie	A200436-A	 N		1
+1 Check Ni 				A200336-A	 N		1
+2 Check Lo 				D200000-A	 N		0
+3 Check He 				D200000-A	 N		0
+Y1900 				D200000-A	 N		0
+
+1105 Starting Data	Spin	1118	Garda-Vilis	B978868-A	S 		5
+1 Check Ni 				B978868-A	S 		5
+2 Check Lo 				B978868-A	S 		5
+3 Check He 				B978868-A	S 		5
+4 Halve PM 				B978868-A	S 		2
+5 Reduce TL 				B978868-8	S 		2
+Y1380 				B9788CA-8	S 		3
+Y1900 				B9788CA-8	S 		3
+
+1105 Starting Data	Spin	1119	Vilis	A593943-A	  		8
+1 Check Ni 				A593943-A	  		8
+2 Check Lo 				A593943-A	  		8
+3 Check He 				A593843-A	  		8
+4 Halve PM 				A593843-A	  		4
+5 Reduce TL 				A593843-4	  		4
+Y1900 				A593843-4	  		4
+
+1105 Starting Data	Spin	1121	Mjolnir	B530544-A	  		5
+1 Check Ni 				B530544-A	  		5
+2 Check Lo 				B530544-A	  		5
+3 Check He 				B530544-A	  		5
+4 Halve PM 				B530544-A	  		2
+5 Reduce TL 				B530544-5	  		2
+Y1236 				B530562-5	  		3
+Y1254 				B530541-5	  		4
+Y1344 				B530555-5	  		5
+Y1380 				B530547-5	  		6
+Y1398 				B530556-5	  		7
+Y1452 				B530597-5	  		8
+Y1524 				B530544-5	  		9
+Y1578 				B530679-5	  		1
+Y1632 				B530632-5	  		2
+Y1686 				B530621-5	  		3
+Y1776 				B530633-5	  		4
+Y1884 				B530697-5	  		5
+Y1900 				B530697-5	  		5
+
+1105 Starting Data	Spin	1123	Joyeuse	B564778-A	  	A	4
+1 Check Ni 				B564778-A	  	A	4
+2 Check Lo 				B564778-A	  	A	4
+3 Check He 				B564778-A	  	A	4
+4 Halve PM 				B564778-A	  	A	2
+5 Reduce TL 				B564778-4	  	A	2
+Y1900 				B564778-4	  	A	2
+
+1105 Starting Data	Spin	1126	Orcrist	B8A6733-A	  		4
+1 Check Ni 				B8A6733-A	  		4
+2 Check Lo 				B8A6733-A	  		4
+3 Check He 				B8A6733-A	  		4
+4 Halve PM 				B8A6733-A	  		2
+5 Reduce TL 				B8A6733-4	  		2
+Y1900 				B8A6733-4	  		2
+
+1105 Starting Data	Spin	1130	Enos	E35059B-4	  	A	7
+1 Check Ni 				E35059B-4	  	A	7
+2 Check Lo 				E35059B-4	  	A	7
+3 Check He 				E35059B-4	  	A	7
+4 Halve PM 				E35059B-4	  	A	3
+5 Reduce TL 				E35059B-0	  	A	3
+Y1900 				E35059B-0	  	A	3
+
+1105 Starting Data	Spin	1131	Faldor	E5936A7-5	  		5
+1 Check Ni 				E5936A7-5	  		5
+2 Check Lo 				E5936A7-5	  		5
+3 Check He 				E593000-5	  		0
+Y1900 				E593000-5	  		0
+
+1105 Starting Data	Spin	1132	Bowman	D000300-9	S 		8
+1 Check Ni 				D000300-9	S 		8
+2 Check Lo 				D000000-9	S 		0
+3 Check He 				D000000-9	S 		0
+Y1900 				D000000-9	S 		0
+
+1105 Starting Data	Spin	1133	Squallia	C438679-9	  		3
+1 Check Ni 				C438479-9	  		3
+2 Check Lo 				C438479-9	  		3
+3 Check He 				C438479-9	  		3
+4 Halve PM 				C438479-9	  		1
+5 Reduce TL 				C438479-7	  		1
+Y1308 				C438433-7	  		2
+Y1362 				C438411-7	  		3
+Y1398 				C438474-7	  		4
+Y1434 				C438467-7	  		5
+Y1470 				C438497-7	  		6
+Y1578 				C438461-7	  		7
+Y1900 				C438461-7	  		7
+
+1105 Starting Data	Spin	1138	Tarsus	B584620-A	  		2
+1 Check Ni 				B584620-A	  		2
+2 Check Lo 				B584620-A	  		2
+3 Check He 				B584620-A	  		2
+4 Halve PM 				B584620-A	  		1
+5 Reduce TL 				B584620-8	  		1
+Y1560 				B584665-8	  		2
+Y1900 				B584665-8	  		2
+
+1105 Starting Data	Spin	1201	Ao-dai	E410644-7	  		3
+1 Check Ni 				E410644-7	  		3
+2 Check Lo 				E410644-7	  		3
+3 Check He 				E410644-7	  		3
+4 Halve PM 				E410644-7	  		1
+5 Reduce TL 				E410644-6	  		1
+Y1900 				E410644-6	  		1
+
+1105 Starting Data	Spin	1204	Mongo	A568685-A	SN		6
+1 Check Ni 				A568685-A	SN		6
+2 Check Lo 				A568685-A	SN		6
+3 Check He 				A568685-A	SN		6
+4 Halve PM 				A568685-A	SN		3
+5 Reduce TL 				A568685-7	SN		3
+Y1308 				A568674-7	SN		4
+Y1416 				A56869B-7	SN		5
+Y1900 				A56869B-7	SN		5
+
+1105 Starting Data	Spin	1209	Utoland	C573464-7	  		4
+1 Check Ni 				C573464-7	  		4
+2 Check Lo 				C573464-7	  		4
+3 Check He 				D573000-7	  		0
+Y1900 				D573000-7	  		0
+
+1105 Starting Data	Spin	1210	Pequan	E5656B9-4	  	A	7
+1 Check Ni 				E5652B9-4	  	A	7
+2 Check Lo 				E565000-4	  	A	0
+3 Check He 				E565000-4	  	A	0
+Y1900 				E565000-4	  	A	0
+
+1105 Starting Data	Spin	1212	Digitis	E53668A-6	  		9
+1 Check Ni 				E53668A-6	  		9
+2 Check Lo 				E53668A-6	  		9
+3 Check He 				E53668A-6	  		9
+4 Halve PM 				E53668A-6	  		4
+5 Reduce TL 				E53668A-1	  		4
+Y1900 				E53668A-1	  		4
+
+1105 Starting Data	Spin	1213	Edinina	E400220-7	  	A	4
+1 Check Ni 				E400220-7	  	A	4
+2 Check Lo 				E400000-7	  	A	0
+3 Check He 				E400000-7	  	A	0
+Y1900 				E400000-7	  	A	0
+
+1105 Starting Data	Spin	1214	728-907	E955000-0	  		0
+1 Check Ni 				E955000-0	  		0
+2 Check Lo 				E955000-0	  		0
+3 Check He 				E955000-0	  		0
+Y1900 				E955000-0	  		0
+
+1105 Starting Data	Spin	1216	Stellatio	D5A4420-8	  		2
+1 Check Ni 				D5A4020-8	  		2
+2 Check Lo 				D5A4000-8	  		0
+3 Check He 				D5A4000-8	  		0
+Y1900 				D5A4000-8	  		0
+
+1105 Starting Data	Spin	1217	Arkadia	E546845-6	  		4
+1 Check Ni 				E546845-6	  		4
+2 Check Lo 				E546845-6	  		4
+3 Check He 				E546845-6	  		4
+4 Halve PM 				E546845-6	  		2
+5 Reduce TL 				E546845-0	  		2
+Y1900 				E546845-0	  		2
+
+1105 Starting Data	Spin	1221	Gungnir	B544779-8	  		4
+1 Check Ni 				B544779-8	  		4
+2 Check Lo 				B544779-8	  		4
+3 Check He 				D544000-8	  		0
+Y1900 				D544000-8	  		0
+
+1105 Starting Data	Spin	1223	Gram	A895957-C	  		6
+1 Check Ni 				A895957-C	  		6
+2 Check Lo 				A895957-C	  		6
+3 Check He 				A895957-C	  		6
+4 Halve PM 				A895957-C	  		3
+5 Reduce TL 				A895957-B	  		3
+Y1560 				A895972-B	  		4
+Y1900 				A895972-B	  		4
+
+1105 Starting Data	Spin	1225	Excalibur	B424755-A	  		4
+1 Check Ni 				B424755-A	  		4
+2 Check Lo 				B424755-A	  		4
+3 Check He 				B424755-A	  		4
+4 Halve PM 				B424755-A	  		2
+5 Reduce TL 				B424755-6	  		2
+Y1900 				B424755-6	  		2
+
+1105 Starting Data	Spin	1232	Walston	C544338-8	S 		3
+1 Check Ni 				C544338-8	S 		3
+2 Check Lo 				D544000-8	S 		0
+3 Check He 				D544000-8	S 		0
+Y1900 				D544000-8	S 		0
+
+1105 Starting Data	Spin	1233	Flexos	E5A1422-8	  		6
+1 Check Ni 				E5A1322-8	  		6
+2 Check Lo 				E5A1000-8	  		0
+3 Check He 				E5A1000-8	  		0
+Y1900 				E5A1000-8	  		0
+
+1105 Starting Data	Spin	1237	Collace	B628943-D	S 		1
+1 Check Ni 				B628943-D	S 		1
+2 Check Lo 				B628943-D	S 		1
+3 Check He 				B628943-D	S 		1
+4 Halve PM 				B628843-D	S 		5
+5 Reduce TL 				B628843-8	S 		5
+Y1218 				B6288CE-8	S 		6
+Y1308 				B628877-8	S 		7
+Y1344 				B628853-8	S 		8
+Y1416 				B628863-8	S 		9
+Y1452 				B6289AC-8	S 		1
+Y1488 				B6289BC-8	S 		2
+Y1560 				B628989-8	S 		3
+Y1614 				B62898A-8	S 		4
+Y1632 				B62899B-8	S 		5
+Y1668 				B6289A7-8	S 		6
+Y1722 				B628978-8	S 		7
+Y1794 				B6289AA-8	S 		8
+Y1884 				B62899C-8	S 		9
+Y1900 				B62899C-8	S 		9
+
+1105 Starting Data	Spin	1238	Pavabid	C6678D8-6	  	A	7
+1 Check Ni 				C6678D8-6	  	A	7
+2 Check Lo 				C6678D8-6	  	A	7
+3 Check He 				C6678D8-6	  	A	7
+4 Halve PM 				C6678D8-6	  	A	3
+5 Reduce TL 				C6678D8-3	  	A	3
+Y1900 				C6678D8-3	  	A	3
+
+1105 Starting Data	Spin	1305	Nakege	D591314-5	  	A	5
+1 Check Ni 				D591314-5	  	A	5
+2 Check Lo 				D591000-5	  	A	0
+3 Check He 				D591000-5	  	A	0
+Y1900 				D591000-5	  	A	0
+
+1105 Starting Data	Spin	1307	Lysen	B592655-A	S 		6
+1 Check Ni 				B592655-A	S 		6
+2 Check Lo 				B592655-A	S 		6
+3 Check He 				D592000-A	S 		0
+Y1900 				D592000-A	S 		0
+
+1105 Starting Data	Spin	1311	Tremous Dex	B511411-C	  		2
+1 Check Ni 				B511311-C	  		2
+2 Check Lo 				D511000-C	  		0
+3 Check He 				D511000-C	  		0
+Y1900 				D511000-C	  		0
+
+1105 Starting Data	Spin	1315	Mirriam	E572300-8	 N		1
+1 Check Ni 				E572300-8	 N		1
+2 Check Lo 				E572000-8	 N		0
+3 Check He 				E572000-8	 N		0
+Y1900 				E572000-8	 N		0
+
+1105 Starting Data	Spin	1320	Saurus	D888588-7	  		8
+1 Check Ni 				D888588-7	  		8
+2 Check Lo 				D888588-7	  		8
+3 Check He 				D888588-7	  		8
+4 Halve PM 				D888588-7	  		4
+5 Reduce TL 				D888588-4	  		4
+Y1560 				D888563-4	  		5
+Y1900 				D888563-4	  		5
+
+1105 Starting Data	Spin	1324	Tyrfing	B637735-A	  		7
+1 Check Ni 				B637735-A	  		7
+2 Check Lo 				B637735-A	  		7
+3 Check He 				B637735-A	  		7
+4 Halve PM 				B637735-A	  		3
+5 Reduce TL 				B637735-4	  		3
+Y1218 				B637777-4	  		4
+Y1236 				B637758-4	  		5
+Y1344 				B637764-4	  		6
+Y1900 				B637764-4	  		6
+
+1105 Starting Data	Spin	1325	Sacnoth	A775956-C	  		8
+1 Check Ni 				A775956-C	  		8
+2 Check Lo 				A775956-C	  		8
+3 Check He 				A775956-C	  		8
+4 Halve PM 				A775956-C	  		4
+5 Reduce TL 				A775956-A	  		4
+Y1560 				A775945-A	  		5
+Y1900 				A775945-A	  		5
+
+1105 Starting Data	Spin	1329	Caladbolg	B565776-A	S 		7
+1 Check Ni 				B565776-A	S 		7
+2 Check Lo 				B565776-A	S 		7
+3 Check He 				B565776-A	S 		7
+4 Halve PM 				B565776-A	S 		3
+5 Reduce TL 				B565776-7	S 		3
+Y1900 				B565776-7	S 		3
+
+1105 Starting Data	Spin	1331	Datrillian	E427633-8	  		8
+1 Check Ni 				E427633-8	  		8
+2 Check Lo 				E427633-8	  		8
+3 Check He 				E427000-8	  		0
+Y1900 				E427000-8	  		0
+
+1105 Starting Data	Spin	1332	Nirton	X500000-0	  	R	0
+1 Check Ni 				X500000-0	  	R	0
+2 Check Lo 				X500000-0	  	R	0
+3 Check He 				X500000-0	  	R	0
+Y1900 				X500000-0	  	R	0
+
+1105 Starting Data	Spin	1337	Judice	E9B2000-0	  		0
+1 Check Ni 				E9B2000-0	  		0
+2 Check Lo 				E9B2000-0	  		0
+3 Check He 				E9B2000-0	  		0
+Y1900 				E9B2000-0	  		0
+
+1105 Starting Data	Spin	1339	Trexalon	B561851-C	  		9
+1 Check Ni 				B561851-C	  		9
+2 Check Lo 				B561851-C	  		9
+3 Check He 				B561851-C	  		9
+4 Halve PM 				B561851-C	  		4
+5 Reduce TL 				B561851-8	  		4
+Y1740 				B561879-8	  		5
+Y1900 				B561879-8	  		5
+
+1105 Starting Data	Spin	1340	Motmos	B68468B-5	 N		7
+1 Check Ni 				B68458B-5	 N		7
+2 Check Lo 				B68458B-5	 N		7
+3 Check He 				B68458B-5	 N		7
+4 Halve PM 				B68458B-5	 N		3
+5 Reduce TL 				B68458B-0	 N		3
+Y1900 				B68458B-0	 N		3
+
+1105 Starting Data	Spin	1401	Foelen	B638665-8	  	A	9
+1 Check Ni 				B638565-8	  	A	9
+2 Check Lo 				B638565-8	  	A	9
+3 Check He 				B638565-8	  	A	9
+4 Halve PM 				B638565-8	  	A	4
+5 Reduce TL 				B638565-4	  	A	4
+Y1380 				B63858B-4	  	A	5
+Y1900 				B63858B-4	  	A	5
+
+1105 Starting Data	Spin	1402	Farreach	A200400-B	  	A	4
+1 Check Ni 				A200400-B	  	A	4
+2 Check Lo 				A200400-B	  	A	4
+3 Check He 				A200400-B	  	A	4
+4 Halve PM 				A200400-B	  	A	2
+5 Reduce TL 				A200400-9	  	A	2
+Y1236 				A200445-9	  	A	3
+Y1254 				A200457-9	  	A	4
+Y1362 				A200433-9	  	A	5
+Y1900 				A200433-9	  	A	5
+
+1105 Starting Data	Spin	1411	Rangent	E67A612-7	  		5
+1 Check Ni 				E67A312-7	  		5
+2 Check Lo 				E67A000-7	  		0
+3 Check He 				E67A000-7	  		0
+Y1900 				E67A000-7	  		0
+
+1105 Starting Data	Spin	1413	Denotam	B739573-A	 N		3
+1 Check Ni 				B739473-A	 N		3
+2 Check Lo 				B739473-A	 N		3
+3 Check He 				B739473-A	 N		3
+4 Halve PM 				B739473-A	 N		1
+5 Reduce TL 				B739473-9	 N		1
+Y1236 				B739412-9	 N		2
+Y1308 				B739413-9	 N		3
+Y1416 				B739449-9	 N		4
+Y1776 				B739444-9	 N		5
+Y1900 				B739444-9	 N		5
+
+1105 Starting Data	Spin	1417	Ficant	E567353-5	  		9
+1 Check Ni 				E567353-5	  		9
+2 Check Lo 				E567000-5	  		0
+3 Check He 				E567000-5	  		0
+Y1900 				E567000-5	  		0
+
+1105 Starting Data	Spin	1424	Beater	B685686-A	  		6
+1 Check Ni 				B685686-A	  		6
+2 Check Lo 				B685686-A	  		6
+3 Check He 				B685686-A	  		6
+4 Halve PM 				B685686-A	  		3
+5 Reduce TL 				B685686-8	  		3
+Y1560 				B6856A7-8	  		4
+Y1740 				B685665-8	  		5
+Y1900 				B685665-8	  		5
+
+1105 Starting Data	Spin	1429	Gunn	E544110-8	  	A	6
+1 Check Ni 				E544110-8	  	A	6
+2 Check Lo 				E544000-8	  	A	0
+3 Check He 				E544000-8	  	A	0
+Y1900 				E544000-8	  	A	0
+
+1105 Starting Data	Spin	1430	Caliburn	E000514-A	  		9
+1 Check Ni 				E000214-A	  		9
+2 Check Lo 				E000000-A	  		0
+3 Check He 				E000000-A	  		0
+Y1900 				E000000-A	  		0
+
+1105 Starting Data	Spin	1433	Noctocol	E7A5747-8	  		6
+1 Check Ni 				E7A5747-8	  		6
+2 Check Lo 				E7A5747-8	  		6
+3 Check He 				E7A5747-8	  		6
+4 Halve PM 				E7A5747-8	  		3
+5 Reduce TL 				E7A5747-6	  		3
+Y1254 				E7A577A-6	  		4
+Y1308 				E7A5737-6	  		5
+Y1326 				E7A5783-6	  		6
+Y1362 				E7A5788-6	  		7
+Y1452 				E7A5769-6	  		8
+Y1542 				E7A5757-6	  		9
+Y1596 				E7A589B-6	  		1
+Y1614 				E7A5842-6	  		2
+Y1686 				E7A5897-6	  		3
+Y1722 				E7A5885-6	  		4
+Y1740 				E7A5899-6	  		5
+Y1794 				E7A5840-6	  		6
+Y1884 				E7A5845-6	  		7
+Y1900 				E7A5845-6	  		7
+
+1105 Starting Data	Spin	1434	Tarkine	C566662-7	S 	A	3
+1 Check Ni 				C566662-7	S 	A	3
+2 Check Lo 				C566662-7	S 	A	3
+3 Check He 				C566662-7	S 	A	3
+4 Halve PM 				C566662-7	S 	A	1
+5 Reduce TL 				C566662-1	S 	A	1
+Y1900 				C566662-1	S 	A	1
+
+1105 Starting Data	Spin	1435	Dallia	B885883-9	  		6
+1 Check Ni 				B885883-9	  		6
+2 Check Lo 				B885883-9	  		6
+3 Check He 				B885883-9	  		6
+4 Halve PM 				B885883-9	  		3
+5 Reduce TL 				B885883-5	  		3
+Y1900 				B885883-5	  		3
+
+1105 Starting Data	Spin	1436	Talos	E433532-9	  		8
+1 Check Ni 				E433532-9	  		8
+2 Check Lo 				E433532-9	  		8
+3 Check He 				E433532-9	  		8
+4 Halve PM 				E433532-9	  		4
+5 Reduce TL 				E433532-5	  		4
+Y1900 				E433532-5	  		4
+
+1105 Starting Data	Spin	1510	871-438	E722000-0	  		0
+1 Check Ni 				E722000-0	  		0
+2 Check Lo 				E722000-0	  		0
+3 Check He 				E722000-0	  		0
+Y1900 				E722000-0	  		0
+
+1105 Starting Data	Spin	1511	Tionale	C674321-8	  	A	9
+1 Check Ni 				C674321-8	  	A	9
+2 Check Lo 				D674000-8	  	A	0
+3 Check He 				D674000-8	  	A	0
+Y1900 				D674000-8	  	A	0
+
+1105 Starting Data	Spin	1515	Calit	C434887-7	  		5
+1 Check Ni 				C434887-7	  		5
+2 Check Lo 				C434887-7	  		5
+3 Check He 				C434887-7	  		5
+4 Halve PM 				C434887-7	  		2
+5 Reduce TL 				C434887-3	  		2
+Y1900 				C434887-3	  		2
+
+1105 Starting Data	Spin	1519	Asgard	X5437C7-5	  	R	5
+1 Check Ni 				X5437C7-5	  	R	5
+2 Check Lo 				X5437C7-5	  	R	5
+3 Check He 				X543000-5	  	R	0
+Y1900 				X543000-5	  	R	0
+
+1105 Starting Data	Spin	1520	Tavonni	E567000-0	  		0
+1 Check Ni 				E567000-0	  		0
+2 Check Lo 				E567000-0	  		0
+3 Check He 				E567000-0	  		0
+Y1900 				E567000-0	  		0
+
+1105 Starting Data	Spin	1522	Dyrnwyn	B958812-A	  		2
+1 Check Ni 				B958812-A	  		2
+2 Check Lo 				B958812-A	  		2
+3 Check He 				B958812-A	  		2
+4 Halve PM 				B958812-A	  		1
+5 Reduce TL 				B958812-7	  		1
+Y1900 				B958812-7	  		1
+
+1105 Starting Data	Spin	1523	Durendal	B687734-B	  		7
+1 Check Ni 				B687734-B	  		7
+2 Check Lo 				B687734-B	  		7
+3 Check He 				B687734-B	  		7
+4 Halve PM 				B687734-B	  		3
+5 Reduce TL 				B687734-6	  		3
+Y1272 				B687745-6	  		4
+Y1344 				B687746-6	  		5
+Y1380 				B68779C-6	  		6
+Y1416 				B68777A-6	  		7
+Y1470 				B687756-6	  		8
+Y1524 				B68779A-6	  		9
+Y1596 				B687859-6	  		1
+Y1668 				B687889-6	  		2
+Y1776 				B687831-6	  		3
+Y1900 				B687831-6	  		3
+
+1105 Starting Data	Spin	1524	Hofud	B666853-A	  		6
+1 Check Ni 				B666853-A	  		6
+2 Check Lo 				B666853-A	  		6
+3 Check He 				B666853-A	  		6
+4 Halve PM 				B666853-A	  		3
+5 Reduce TL 				B666853-7	  		3
+Y1900 				B666853-7	  		3
+
+1105 Starting Data	Spin	1525	Sting	B645796-A	  		7
+1 Check Ni 				B645796-A	  		7
+2 Check Lo 				B645796-A	  		7
+3 Check He 				B645796-A	  		7
+4 Halve PM 				B645796-A	  		3
+5 Reduce TL 				B645796-5	  		3
+Y1900 				B645796-5	  		3
+
+1105 Starting Data	Spin	1526	Biter	B354623-A	  		3
+1 Check Ni 				B354523-A	  		3
+2 Check Lo 				B354523-A	  		3
+3 Check He 				B354523-A	  		3
+4 Halve PM 				B354523-A	  		1
+5 Reduce TL 				B354523-6	  		1
+Y1900 				B354523-6	  		1
+
+1105 Starting Data	Spin	1529	Steel	E655000-0	  		0
+1 Check Ni 				E655000-0	  		0
+2 Check Lo 				E655000-0	  		0
+3 Check He 				E655000-0	  		0
+Y1900 				E655000-0	  		0
+
+1105 Starting Data	Spin	1531	Dawnworld	E885000-0	  		0
+1 Check Ni 				E885000-0	  		0
+2 Check Lo 				E885000-0	  		0
+3 Check He 				E885000-0	  		0
+Y1900 				E885000-0	  		0
+
+1105 Starting Data	Spin	1532	Elixabeth	B426467-8	 N		2
+1 Check Ni 				B426167-8	 N		2
+2 Check Lo 				D426000-8	 N		0
+3 Check He 				D426000-8	 N		0
+Y1900 				D426000-8	 N		0
+
+1105 Starting Data	Spin	1533	Forine	D3129B8-A	  		6
+1 Check Ni 				D3129B8-A	  		6
+2 Check Lo 				D3129B8-A	  		6
+3 Check He 				D3129B8-A	  		6
+4 Halve PM 				D3129B8-A	  		3
+5 Reduce TL 				D3129B8-9	  		3
+Y1900 				D3129B8-9	  		3
+
+1105 Starting Data	Spin	1537	Mertactor	B562732-B	S 		1
+1 Check Ni 				B562732-B	S 		1
+2 Check Lo 				B562732-B	S 		1
+3 Check He 				B562732-B	S 		1
+4 Halve PM 				B562632-B	S 		5
+5 Reduce TL 				B562632-A	S 		5
+Y1900 				B562632-A	S 		5
+
+1105 Starting Data	Spin	1604	Louzy	D422A88-8	  		1
+1 Check Ni 				D422A88-8	  		1
+2 Check Lo 				D422A88-8	  		1
+3 Check He 				D422000-8	  		0
+Y1900 				D422000-8	  		0
+
+1105 Starting Data	Spin	1607	Grant	X664100-3	  	R	2
+1 Check Ni 				X664100-3	  	R	2
+2 Check Lo 				X664000-3	  	R	0
+3 Check He 				X664000-3	  	R	0
+Y1900 				X664000-3	  	R	0
+
+1105 Starting Data	Spin	1611	Phlume	C887624-8	  		7
+1 Check Ni 				C887224-8	  		7
+2 Check Lo 				D887000-8	  		0
+3 Check He 				D887000-8	  		0
+Y1900 				D887000-8	  		0
+
+1105 Starting Data	Spin	1626	Iron	E529000-0	  		0
+1 Check Ni 				E529000-0	  		0
+2 Check Lo 				E529000-0	  		0
+3 Check He 				E529000-0	  		0
+Y1900 				E529000-0	  		0
+
+1105 Starting Data	Spin	1627	Bronze	E201000-0	  		0
+1 Check Ni 				E201000-0	  		0
+2 Check Lo 				E201000-0	  		0
+3 Check He 				E201000-0	  		0
+Y1900 				E201000-0	  		0
+
+1105 Starting Data	Spin	1628	Mithril	E568000-0	  		0
+1 Check Ni 				E568000-0	  		0
+2 Check Lo 				E568000-0	  		0
+3 Check He 				E568000-0	  		0
+Y1900 				E568000-0	  		0
+
+1105 Starting Data	Spin	1631	Talchek	C7B1442-8	  	A	6
+1 Check Ni 				C7B1442-8	  	A	6
+2 Check Lo 				C7B1442-8	  	A	6
+3 Check He 				C7B1442-8	  	A	6
+4 Halve PM 				C7B1442-8	  	A	3
+5 Reduce TL 				C7B1442-4	  	A	3
+Y1900 				C7B1442-4	  	A	3
+
+1105 Starting Data	Spin	1632	Milagro	E31178A-7	  		9
+1 Check Ni 				E31178A-7	  		9
+2 Check Lo 				E31178A-7	  		9
+3 Check He 				E31178A-7	  		9
+4 Halve PM 				E31178A-7	  		4
+5 Reduce TL 				E31178A-6	  		4
+Y1380 				E311742-6	  		5
+Y1900 				E311742-6	  		5
+
+1105 Starting Data	Spin	1634	Pagaton	C769873-4	  		9
+1 Check Ni 				C769873-4	  		9
+2 Check Lo 				C769873-4	  		9
+3 Check He 				C769873-4	  		9
+4 Halve PM 				C769873-4	  		4
+5 Reduce TL 				C769873-0	  		4
+Y1900 				C769873-0	  		4
+
+1105 Starting Data	Spin	1635	Binges	A500231-A	  		7
+1 Check Ni 				A500231-A	  		7
+2 Check Lo 				D500000-A	  		0
+3 Check He 				D500000-A	  		0
+Y1900 				D500000-A	  		0
+
+1105 Starting Data	Spin	1637	Mille Falcs	B9A2469-C	SN		3
+1 Check Ni 				B9A2469-C	SN		3
+2 Check Lo 				B9A2469-C	SN		3
+3 Check He 				B9A2469-C	SN		3
+4 Halve PM 				B9A2469-C	SN		1
+5 Reduce TL 				B9A2469-6	SN		1
+Y1560 				B9A2426-6	SN		2
+Y1900 				B9A2426-6	SN		2
+
+1105 Starting Data	Spin	1705	Efate	A646930-D	WN		8
+1 Check Ni 				A646930-D	WN		8
+2 Check Lo 				A646930-D	WN		8
+3 Check He 				D646000-D	WN		0
+Y1900 				D646000-D	WN		0
+
+1105 Starting Data	Spin	1706	Alell	B56789C-A	  	A	2
+1 Check Ni 				B56789C-A	  	A	2
+2 Check Lo 				B56789C-A	  	A	2
+3 Check He 				B56789C-A	  	A	2
+4 Halve PM 				B56789C-A	  	A	1
+5 Reduce TL 				B56789C-6	  	A	1
+Y1900 				B56789C-6	  	A	1
+
+1105 Starting Data	Spin	1711	Extolay	B55589A-A	 N		1
+1 Check Ni 				B55589A-A	 N		1
+2 Check Lo 				B55589A-A	 N		1
+3 Check He 				B55589A-A	 N		1
+4 Halve PM 				B55579A-A	 N		5
+5 Reduce TL 				B55579A-6	 N		5
+Y1900 				B55579A-6	 N		5
+
+1105 Starting Data	Spin	1719	Lanth	A879533-B	SN		7
+1 Check Ni 				A879033-B	SN		7
+2 Check Lo 				D879000-B	SN		0
+3 Check He 				D879000-B	SN		0
+Y1900 				D879000-B	SN		0
+
+1105 Starting Data	Spin	1721	Arba	C200200-C	  		6
+1 Check Ni 				C200200-C	  		6
+2 Check Lo 				D200000-C	  		0
+3 Check He 				D200000-C	  		0
+Y1900 				D200000-C	  		0
+
+1105 Starting Data	Spin	1727	Wardn	B756486-B	S 		5
+1 Check Ni 				B756186-B	S 		5
+2 Check Lo 				D756000-B	S 		0
+3 Check He 				D756000-B	S 		0
+Y1900 				D756000-B	S 		0
+
+1105 Starting Data	Spin	1728	Olympia	C428342-7	  		1
+1 Check Ni 				C428342-7	  		1
+2 Check Lo 				D428000-7	  		0
+3 Check He 				D428000-7	  		0
+Y1900 				D428000-7	  		0
+
+1105 Starting Data	Spin	1729	Smoug	C54078A-9	  		9
+1 Check Ni 				C54078A-9	  		9
+2 Check Lo 				C54078A-9	  		9
+3 Check He 				C54078A-9	  		9
+4 Halve PM 				C54078A-9	  		4
+5 Reduce TL 				C54078A-3	  		4
+Y1900 				C54078A-3	  		4
+
+1105 Starting Data	Spin	1731	Grote	A400404-B	  		1
+1 Check Ni 				A400404-B	  		1
+2 Check Lo 				A400404-B	  		1
+3 Check He 				A400404-B	  		1
+4 Halve PM 				A400304-B	  		5
+5 Reduce TL 				A400304-7	  		5
+Y1272 				A400323-7	  		6
+Y1362 				A400345-7	  		7
+Y1434 				A400320-7	  		8
+Y1506 				A400342-7	  		9
+Y1578 				A400474-7	  		1
+Y1614 				A40046A-7	  		2
+Y1686 				A400432-7	  		3
+Y1776 				A400457-7	  		4
+Y1866 				A40047C-7	  		5
+Y1900 				A40047C-7	  		5
+
+1105 Starting Data	Spin	1733	Lydia	E310430-7	  		9
+1 Check Ni 				E310330-7	  		9
+2 Check Lo 				E310000-7	  		0
+3 Check He 				E310000-7	  		0
+Y1900 				E310000-7	  		0
+
+1105 Starting Data	Spin	1736	Melior	D540466-7	  	A	7
+1 Check Ni 				D540466-7	  	A	7
+2 Check Lo 				D540466-7	  	A	7
+3 Check He 				D540466-7	  	A	7
+4 Halve PM 				D540466-7	  	A	3
+5 Reduce TL 				D540466-3	  	A	3
+Y1900 				D540466-3	  	A	3
+
+1105 Starting Data	Spin	1737	Egypt	BAC6567-9	 N		5
+1 Check Ni 				BAC6167-9	 N		5
+2 Check Lo 				DAC6000-9	 N		0
+3 Check He 				DAC6000-9	 N		0
+Y1900 				DAC6000-9	 N		0
+
+1105 Starting Data	Spin	1739	Aster	C86A410-9	  		4
+1 Check Ni 				C86A410-9	  		4
+2 Check Lo 				C86A410-9	  		4
+3 Check He 				C86A410-9	  		4
+4 Halve PM 				C86A410-9	  		2
+5 Reduce TL 				C86A410-6	  		2
+Y1900 				C86A410-6	  		2
+
+1105 Starting Data	Spin	1802	Yres	BAC6773-9	  		3
+1 Check Ni 				BAC6773-9	  		3
+2 Check Lo 				BAC6773-9	  		3
+3 Check He 				BAC6773-9	  		3
+4 Halve PM 				BAC6773-9	  		1
+5 Reduce TL 				BAC6773-3	  		1
+Y1900 				BAC6773-3	  		1
+
+1105 Starting Data	Spin	1803	Menorb	C652998-7	  		3
+1 Check Ni 				C652998-7	  		3
+2 Check Lo 				C652998-7	  		3
+3 Check He 				C652998-7	  		3
+4 Halve PM 				C652998-7	  		1
+5 Reduce TL 				C652998-4	  		1
+Y1380 				C6529CH-4	  		2
+Y1900 				C6529CH-4	  		2
+
+1105 Starting Data	Spin	1805	Uakye	B439598-D	  		3
+1 Check Ni 				B439098-D	  		3
+2 Check Lo 				D439000-D	  		0
+3 Check He 				D439000-D	  		0
+Y1900 				D439000-D	  		0
+
+1105 Starting Data	Spin	1806	Whanga	E676126-7	  		2
+1 Check Ni 				E676126-7	  		2
+2 Check Lo 				E676000-7	  		0
+3 Check He 				E676000-7	  		0
+Y1900 				E676000-7	  		0
+
+1105 Starting Data	Spin	1807	Knorbes	E888765-2	  		8
+1 Check Ni 				E888765-2	  		8
+2 Check Lo 				E888765-2	  		8
+3 Check He 				E888765-2	  		8
+4 Halve PM 				E888765-2	  		4
+5 Reduce TL 				E888765-0	  		4
+Y1900 				E888765-0	  		4
+
+1105 Starting Data	Spin	1808	Forboldn	D893614-5	  		3
+1 Check Ni 				D893614-5	  		3
+2 Check Lo 				D893614-5	  		3
+3 Check He 				D893000-5	  		0
+Y1900 				D893000-5	  		0
+
+1105 Starting Data	Spin	1809	Ruie	C776977-7	  	A	7
+1 Check Ni 				C776977-7	  	A	7
+2 Check Lo 				C776977-7	  	A	7
+3 Check He 				C776977-7	  	A	7
+4 Halve PM 				C776977-7	  	A	3
+5 Reduce TL 				C776977-2	  	A	3
+Y1900 				C776977-2	  	A	3
+
+1105 Starting Data	Spin	1810	Jenghe	C799663-9	S 		3
+1 Check Ni 				C799463-9	S 		3
+2 Check Lo 				C799463-9	S 		3
+3 Check He 				D799000-9	S 		0
+Y1900 				D799000-9	S 		0
+
+1105 Starting Data	Spin	1811	Dinom	D300535-A	  		2
+1 Check Ni 				D300535-A	  		2
+2 Check Lo 				D300535-A	  		2
+3 Check He 				D300535-A	  		2
+4 Halve PM 				D300535-A	  		1
+5 Reduce TL 				D300535-9	  		1
+Y1308 				D300558-9	  		2
+Y1380 				D300557-9	  		3
+Y1398 				D300534-9	  		4
+Y1434 				D300510-9	  		5
+Y1488 				D300541-9	  		6
+Y1542 				D300541-9	  		7
+Y1650 				D300554-9	  		8
+Y1900 				D300554-9	  		8
+
+1105 Starting Data	Spin	1815	Ghandi	B311455-A	 N		3
+1 Check Ni 				B311355-A	 N		3
+2 Check Lo 				D311000-A	 N		0
+3 Check He 				D311000-A	 N		0
+Y1900 				D311000-A	 N		0
+
+1105 Starting Data	Spin	1817	Victoria	D6D7772-2	  	R	1
+1 Check Ni 				D6D7772-2	  	R	1
+2 Check Lo 				D6D7772-2	  	R	1
+3 Check He 				D6D7772-2	  	R	1
+4 Halve PM 				D6D7672-2	  	R	5
+5 Reduce TL 				D6D7672-1	  	R	5
+Y1900 				D6D7672-1	  	R	5
+
+1105 Starting Data	Spin	1822	Rabwhar	D5448BA-6	S 	A	3
+1 Check Ni 				D5448BA-6	S 	A	3
+2 Check Lo 				D5448BA-6	S 	A	3
+3 Check He 				D5447BA-6	S 	A	3
+4 Halve PM 				D5447BA-6	S 	A	1
+5 Reduce TL 				D5447BA-0	S 	A	1
+Y1900 				D5447BA-0	S 	A	1
+
+1105 Starting Data	Spin	1824	Adabicci	A57189B-B	 N	A	8
+1 Check Ni 				A57189B-B	 N	A	8
+2 Check Lo 				A57189B-B	 N	A	8
+3 Check He 				D571000-B	 N	A	0
+Y1900 				D571000-B	 N	A	0
+
+1105 Starting Data	Spin	1825	Zaibon	B000544-B	  		5
+1 Check Ni 				B000544-B	  		5
+2 Check Lo 				B000544-B	  		5
+3 Check He 				B000544-B	  		5
+4 Halve PM 				B000544-B	  		2
+5 Reduce TL 				B000544-A	  		2
+Y1560 				B000585-A	  		3
+Y1900 				B000585-A	  		3
+
+1105 Starting Data	Spin	1826	Tenalphi	A774722-E	  		6
+1 Check Ni 				A774722-E	  		6
+2 Check Lo 				A774722-E	  		6
+3 Check He 				A774722-E	  		6
+4 Halve PM 				A774722-E	  		3
+5 Reduce TL 				A774722-9	  		3
+Y1900 				A774722-9	  		3
+
+1105 Starting Data	Spin	1836	Callia	E550852-6	  		8
+1 Check Ni 				E550852-6	  		8
+2 Check Lo 				E550852-6	  		8
+3 Check He 				E550852-6	  		8
+4 Halve PM 				E550852-6	  		4
+5 Reduce TL 				E550852-3	  		4
+Y1900 				E550852-3	  		4
+
+1105 Starting Data	Spin	1903	Pixie	A100103-D	 N		9
+1 Check Ni 				A100103-D	 N		9
+2 Check Lo 				D100000-D	 N		0
+3 Check He 				D100000-D	 N		0
+Y1900 				D100000-D	 N		0
+
+1105 Starting Data	Spin	1904	Boughene	A8B3531-D	S 		6
+1 Check Ni 				A8B3531-D	S 		6
+2 Check Lo 				A8B3531-D	S 		6
+3 Check He 				A8B3531-D	S 		6
+4 Halve PM 				A8B3531-D	S 		3
+5 Reduce TL 				A8B3531-C	S 		3
+Y1308 				A8B3559-C	S 		4
+Y1344 				A8B3530-C	S 		5
+Y1380 				A8B3547-C	S 		6
+Y1452 				A8B3564-C	S 		7
+Y1488 				A8B3530-C	S 		8
+Y1560 				A8B3522-C	S 		9
+Y1632 				A8B3687-C	S 		1
+Y1722 				A8B367B-C	S 		2
+Y1740 				A8B3637-C	S 		3
+Y1830 				A8B3666-C	S 		4
+Y1900 				A8B3666-C	S 		4
+
+1105 Starting Data	Spin	1909	Hefry	C200423-7	S 		3
+1 Check Ni 				C200423-7	S 		3
+2 Check Lo 				C200423-7	S 		3
+3 Check He 				C200423-7	S 		3
+4 Halve PM 				C200423-7	S 		1
+5 Reduce TL 				C200423-3	S 		1
+Y1900 				C200423-3	S 		1
+
+1105 Starting Data	Spin	1910	Regina	A788899-C	SN		7
+1 Check Ni 				A788899-C	SN		7
+2 Check Lo 				A788899-C	SN		7
+3 Check He 				A788899-C	SN		7
+4 Halve PM 				A788899-C	SN		3
+5 Reduce TL 				A788899-B	SN		3
+Y1236 				A788879-B	SN		4
+Y1308 				A788858-B	SN		5
+Y1380 				A788888-B	SN		6
+Y1452 				A7888AA-B	SN		7
+Y1560 				A788899-B	SN		8
+Y1900 				A788899-B	SN		8
+
+1105 Starting Data	Spin	1912	Dinomn	B674632-9	S 		2
+1 Check Ni 				B674632-9	S 		2
+2 Check Lo 				B674632-9	S 		2
+3 Check He 				D674000-9	S 		0
+Y1900 				D674000-9	S 		0
+
+1105 Starting Data	Spin	1916	Ylaven	X587552-4	  	R	9
+1 Check Ni 				X587552-4	  	R	9
+2 Check Lo 				X587552-4	  	R	9
+3 Check He 				X587552-4	  	R	9
+4 Halve PM 				X587552-4	  	R	4
+5 Reduce TL 				X587552-1	  	R	4
+Y1900 				X587552-1	  	R	4
+
+1105 Starting Data	Spin	1918	Sonthert	D6266AB-7	  	A	3
+1 Check Ni 				D6266AB-7	  	A	3
+2 Check Lo 				D6266AB-7	  	A	3
+3 Check He 				D626000-7	  	A	0
+Y1900 				D626000-7	  	A	0
+
+1105 Starting Data	Spin	1920	D'Ganzio	B420410-D	 N		3
+1 Check Ni 				B420410-D	 N		3
+2 Check Lo 				B420410-D	 N		3
+3 Check He 				B420410-D	 N		3
+4 Halve PM 				B420410-D	 N		1
+5 Reduce TL 				B420410-C	 N		1
+Y1900 				B420410-C	 N		1
+
+1105 Starting Data	Spin	1924	Ianic	E560697-5	  		9
+1 Check Ni 				E560697-5	  		9
+2 Check Lo 				E560697-5	  		9
+3 Check He 				E560697-5	  		9
+4 Halve PM 				E560697-5	  		4
+5 Reduce TL 				E560697-0	  		4
+Y1900 				E560697-0	  		4
+
+1105 Starting Data	Spin	1927	Spirelle	C766846-8	S 		7
+1 Check Ni 				C766846-8	S 		7
+2 Check Lo 				C766846-8	S 		7
+3 Check He 				C766846-8	S 		7
+4 Halve PM 				C766846-8	S 		3
+5 Reduce TL 				C766846-7	S 		3
+Y1900 				C766846-7	S 		3
+
+1105 Starting Data	Spin	1932	Mithras	C8B5568-8	  		3
+1 Check Ni 				C8B5568-8	  		3
+2 Check Lo 				C8B5568-8	  		3
+3 Check He 				C8B5568-8	  		3
+4 Halve PM 				C8B5568-8	  		1
+5 Reduce TL 				C8B5568-2	  		1
+Y1900 				C8B5568-2	  		1
+
+1105 Starting Data	Spin	1934	Weiss	A626464-B	  	A	7
+1 Check Ni 				A626464-B	  	A	7
+2 Check Lo 				A626464-B	  	A	7
+3 Check He 				D626000-B	  	A	0
+Y1900 				D626000-B	  	A	0
+
+1105 Starting Data	Spin	1935	Windsor	C783511-9	  		2
+1 Check Ni 				C783311-9	  		2
+2 Check Lo 				D783000-9	  		0
+3 Check He 				D783000-9	  		0
+Y1900 				D783000-9	  		0
+
+1105 Starting Data	Spin	1937	Overnale	B55467A-9	  		4
+1 Check Ni 				B55467A-9	  		4
+2 Check Lo 				B55467A-9	  		4
+3 Check He 				B55467A-9	  		4
+4 Halve PM 				B55467A-9	  		2
+5 Reduce TL 				B55467A-7	  		2
+Y1236 				B554674-7	  		3
+Y1308 				B554610-7	  		4
+Y1344 				B554630-7	  		5
+Y1416 				B554678-7	  		6
+Y1452 				B55468B-7	  		7
+Y1542 				B554666-7	  		8
+Y1632 				B554668-7	  		9
+Y1704 				B55478B-7	  		1
+Y1758 				B554779-7	  		2
+Y1866 				B554721-7	  		3
+Y1900 				B554721-7	  		3
+
+1105 Starting Data	Spin	1938	New Rome	B837866-B	 N		7
+1 Check Ni 				B837866-B	 N		7
+2 Check Lo 				B837866-B	 N		7
+3 Check He 				B837866-B	 N		7
+4 Halve PM 				B837866-B	 N		3
+5 Reduce TL 				B837866-5	 N		3
+Y1236 				B8378BC-5	 N		4
+Y1254 				B837886-5	 N		5
+Y1326 				B83787B-5	 N		6
+Y1434 				B837874-5	 N		7
+Y1542 				B837875-5	 N		8
+Y1614 				B837869-5	 N		9
+Y1686 				B8379CC-5	 N		1
+Y1794 				B837964-5	 N		2
+Y1848 				B837944-5	 N		3
+Y1900 				B837944-5	 N		3
+
+1105 Starting Data	Spin	1939	Craw	C573645-5	  		9
+1 Check Ni 				C573645-5	  		9
+2 Check Lo 				C573645-5	  		9
+3 Check He 				D573000-5	  		0
+Y1900 				D573000-5	  		0
+
+1105 Starting Data	Spin	2005	Feri	B584879-B	S 		6
+1 Check Ni 				B584879-B	S 		6
+2 Check Lo 				B584879-B	S 		6
+3 Check He 				B584879-B	S 		6
+4 Halve PM 				B584879-B	S 		3
+5 Reduce TL 				B584879-8	S 		3
+Y1560 				B584843-8	S 		4
+Y1900 				B584843-8	S 		4
+
+1105 Starting Data	Spin	2007	Roup	C77A9A9-7	S 	A	3
+1 Check Ni 				C77A9A9-7	S 	A	3
+2 Check Lo 				C77A9A9-7	S 	A	3
+3 Check He 				D77A000-7	S 	A	0
+Y1900 				D77A000-7	S 	A	0
+
+1105 Starting Data	Spin	2011	Wypoc	E9C4547-9	  	A	9
+1 Check Ni 				E9C4547-9	  	A	9
+2 Check Lo 				E9C4547-9	  	A	9
+3 Check He 				E9C4000-9	  	A	0
+Y1900 				E9C4000-9	  	A	0
+
+1105 Starting Data	Spin	2024	Derchon	C512799-8	S 		9
+1 Check Ni 				C512799-8	S 		9
+2 Check Lo 				C512799-8	S 		9
+3 Check He 				C512799-8	S 		9
+4 Halve PM 				C512799-8	S 		4
+5 Reduce TL 				C512799-2	S 		4
+Y1900 				C512799-2	S 		4
+
+1105 Starting Data	Spin	2035	Aki	B543987-9	  	A	2
+1 Check Ni 				B543987-9	  	A	2
+2 Check Lo 				B543987-9	  	A	2
+3 Check He 				B543987-9	  	A	2
+4 Halve PM 				B543987-9	  	A	1
+5 Reduce TL 				B543987-6	  	A	1
+Y1900 				B543987-6	  	A	1
+
+1105 Starting Data	Spin	2036	Glisten	A000986-F	SN		8
+1 Check Ni 				A000986-F	SN		8
+2 Check Lo 				A000986-F	SN		8
+3 Check He 				A000986-F	SN		8
+4 Halve PM 				A000986-F	SN		4
+5 Reduce TL 				A000986-E	SN		4
+Y1254 				A000965-E	SN		5
+Y1326 				A000963-E	SN		6
+Y1362 				A00099C-E	SN		7
+Y1398 				A00099A-E	SN		8
+Y1470 				A000966-E	SN		9
+Y1524 				A000AE-E	SN		1
+Y1542 				A000AEJ-E	SN		2
+Y1632 				A000ACG-E	SN		3
+Y1686 				A000AB8-E	SN		4
+Y1722 				A000ABA-E	SN		5
+Y1740 				A000ADB-E	SN		6
+Y1794 				A000A66-E	SN		7
+Y1848 				A000A74-E	SN		8
+Y1900 				A000A74-E	SN		8
+
+1105 Starting Data	Spin	2038	Trane	C639422-B	  		7
+1 Check Ni 				C639422-B	  		7
+2 Check Lo 				C639422-B	  		7
+3 Check He 				C639422-B	  		7
+4 Halve PM 				C639422-B	  		3
+5 Reduce TL 				C639422-7	  		3
+Y1900 				C639422-7	  		3
+
+1105 Starting Data	Spin	2106	Pscias	X555423-2	  	R	5
+1 Check Ni 				X555223-2	  	R	5
+2 Check Lo 				X555000-2	  	R	0
+3 Check He 				X555000-2	  	R	0
+Y1900 				X555000-2	  	R	0
+
+1105 Starting Data	Spin	2110	Yori	C560757-A	  		7
+1 Check Ni 				C560757-A	  		7
+2 Check Lo 				C560757-A	  		7
+3 Check He 				C560757-A	  		7
+4 Halve PM 				C560757-A	  		3
+5 Reduce TL 				C560757-8	  		3
+Y1900 				C560757-8	  		3
+
+1105 Starting Data	Spin	2111	Djinni	X559000-0	  	R	0
+1 Check Ni 				X559000-0	  	R	0
+2 Check Lo 				X559000-0	  	R	0
+3 Check He 				X559000-0	  	R	0
+Y1900 				X559000-0	  	R	0
+
+1105 Starting Data	Spin	2112	Rech	D9957AA-6	  	A	5
+1 Check Ni 				D9957AA-6	  	A	5
+2 Check Lo 				D9957AA-6	  	A	5
+3 Check He 				D995000-6	  	A	0
+Y1900 				D995000-6	  	A	0
+
+1105 Starting Data	Spin	2124	Lunion	A995984-D	SN		8
+1 Check Ni 				A995984-D	SN		8
+2 Check Lo 				A995984-D	SN		8
+3 Check He 				A995984-D	SN		8
+4 Halve PM 				A995984-D	SN		4
+5 Reduce TL 				A995984-7	SN		4
+Y1900 				A995984-7	SN		4
+
+1105 Starting Data	Spin	2125	Shirene	B984510-B	S 	A	7
+1 Check Ni 				B984410-B	S 	A	7
+2 Check Lo 				B984410-B	S 	A	7
+3 Check He 				B984410-B	S 	A	7
+4 Halve PM 				B984410-B	S 	A	3
+5 Reduce TL 				B984410-5	S 	A	3
+Y1900 				B984410-5	S 	A	3
+
+1105 Starting Data	Spin	2128	Penkwhar	D978310-5	  	A	3
+1 Check Ni 				D978310-5	  	A	3
+2 Check Lo 				D978000-5	  	A	0
+3 Check He 				D978000-5	  	A	0
+Y1900 				D978000-5	  	A	0
+
+1105 Starting Data	Spin	2129	Harvosette	C430737-9	  		9
+1 Check Ni 				C430737-9	  		9
+2 Check Lo 				C430737-9	  		9
+3 Check He 				C430737-9	  		9
+4 Halve PM 				C430737-9	  		4
+5 Reduce TL 				C430737-6	  		4
+Y1900 				C430737-6	  		4
+
+1105 Starting Data	Spin	2132	Centry	E422447-7	  		2
+1 Check Ni 				E422447-7	  		2
+2 Check Lo 				E422447-7	  		2
+3 Check He 				E422000-7	  		0
+Y1900 				E422000-7	  		0
+
+1105 Starting Data	Spin	2134	Caledonia	C541636-5	  		9
+1 Check Ni 				C541636-5	  		9
+2 Check Lo 				C541636-5	  		9
+3 Check He 				D541000-5	  		0
+Y1900 				D541000-5	  		0
+
+1105 Starting Data	Spin	2137	Sorel	E58569A-2	  		9
+1 Check Ni 				E58569A-2	  		9
+2 Check Lo 				E58569A-2	  		9
+3 Check He 				E58569A-2	  		9
+4 Halve PM 				E58569A-2	  		4
+5 Reduce TL 				E58569A-0	  		4
+Y1900 				E58569A-0	  		4
+
+1105 Starting Data	Spin	2138	Horosho	C4378A6-A	S 		9
+1 Check Ni 				C4378A6-A	S 		9
+2 Check Lo 				C4378A6-A	S 		9
+3 Check He 				C4378A6-A	S 		9
+4 Halve PM 				C4378A6-A	S 		4
+5 Reduce TL 				C4378A6-9	S 		4
+Y1900 				C4378A6-9	S 		4
+
+1105 Starting Data	Spin	2140	Romar	B550456-8	SN		1
+1 Check Ni 				B550456-8	SN		1
+2 Check Lo 				B550456-8	SN		1
+3 Check He 				B550456-8	SN		1
+4 Halve PM 				B550356-8	SN		5
+5 Reduce TL 				B550356-3	SN		5
+Y1900 				B550356-3	SN		5
+
+1105 Starting Data	Spin	2201	Dentus	C979500-A	S 		9
+1 Check Ni 				C979500-A	S 		9
+2 Check Lo 				C979500-A	S 		9
+3 Check He 				D979000-A	S 		0
+Y1900 				D979000-A	S 		0
+
+1105 Starting Data	Spin	2202	Kinorb	A663659-8	  		6
+1 Check Ni 				A663659-8	  		6
+2 Check Lo 				A663659-8	  		6
+3 Check He 				A663659-8	  		6
+4 Halve PM 				A663659-8	  		3
+5 Reduce TL 				A663659-3	  		3
+Y1900 				A663659-3	  		3
+
+1105 Starting Data	Spin	2204	Beck's World	D88349D-4	  	A	7
+1 Check Ni 				D88349D-4	  	A	7
+2 Check Lo 				D88349D-4	  	A	7
+3 Check He 				D88349D-4	  	A	7
+4 Halve PM 				D88349D-4	  	A	3
+5 Reduce TL 				D88349D-0	  	A	3
+Y1900 				D88349D-0	  	A	3
+
+1105 Starting Data	Spin	2205	Enope	C411988-7	  		6
+1 Check Ni 				C411988-7	  		6
+2 Check Lo 				C411988-7	  		6
+3 Check He 				C411988-7	  		6
+4 Halve PM 				C411988-7	  		3
+5 Reduce TL 				C411988-6	  		3
+Y1900 				C411988-6	  		3
+
+1105 Starting Data	Spin	2207	Wochiers	EAC28CC-9	  	A	7
+1 Check Ni 				EAC28CC-9	  	A	7
+2 Check Lo 				EAC28CC-9	  	A	7
+3 Check He 				EAC2000-9	  	A	0
+Y1900 				EAC2000-9	  	A	0
+
+1105 Starting Data	Spin	2212	K'Kirka	CAA5345-8	  		1
+1 Check Ni 				CAA5345-8	  		1
+2 Check Lo 				DAA5000-8	  		0
+3 Check He 				DAA5000-8	  		0
+Y1900 				DAA5000-8	  		0
+
+1105 Starting Data	Spin	2215	Quopist	B551679-A	  	A	7
+1 Check Ni 				B551679-A	  	A	7
+2 Check Lo 				B551679-A	  	A	7
+3 Check He 				B551679-A	  	A	7
+4 Halve PM 				B551679-A	  	A	3
+5 Reduce TL 				B551679-5	  	A	3
+Y1900 				B551679-5	  	A	3
+
+1105 Starting Data	Spin	2224	Carse	C563325-9	  		6
+1 Check Ni 				C563325-9	  		6
+2 Check Lo 				D563000-9	  		0
+3 Check He 				D563000-9	  		0
+Y1900 				D563000-9	  		0
+
+1105 Starting Data	Spin	2228	Persephone	B775833-A	W 		9
+1 Check Ni 				B775833-A	W 		9
+2 Check Lo 				B775833-A	W 		9
+3 Check He 				B775833-A	W 		9
+4 Halve PM 				B775833-A	W 		4
+5 Reduce TL 				B775833-7	W 		4
+Y1308 				B775878-7	W 		5
+Y1344 				B775867-7	W 		6
+Y1380 				B77586B-7	W 		7
+Y1398 				B775863-7	W 		8
+Y1506 				B775852-7	W 		9
+Y1900 				B775852-7	W 		9
+
+1105 Starting Data	Spin	2231	Marastan	D868764-5	S 	A	9
+1 Check Ni 				D868764-5	S 	A	9
+2 Check Lo 				D868764-5	S 	A	9
+3 Check He 				D868764-5	S 	A	9
+4 Halve PM 				D868764-5	S 	A	4
+5 Reduce TL 				D868764-4	S 	A	4
+Y1236 				D868734-4	S 	A	5
+Y1290 				D86878A-4	S 	A	6
+Y1398 				D868764-4	S 	A	7
+Y1900 				D868764-4	S 	A	7
+
+1105 Starting Data	Spin	2232	Crout	E4359CA-7	  	A	3
+1 Check Ni 				E4359CA-7	  	A	3
+2 Check Lo 				E4359CA-7	  	A	3
+3 Check He 				E4359CA-7	  	A	3
+4 Halve PM 				E4359CA-7	  	A	1
+5 Reduce TL 				E4359CA-3	  	A	1
+Y1900 				E4359CA-3	  	A	1
+
+1105 Starting Data	Spin	2233	Tirem	C7B5975-B	  		6
+1 Check Ni 				C7B5975-B	  		6
+2 Check Lo 				C7B5975-B	  		6
+3 Check He 				C7B5975-B	  		6
+4 Halve PM 				C7B5975-B	  		3
+5 Reduce TL 				C7B5975-A	  		3
+Y1254 				C7B5995-A	  		4
+Y1362 				C7B59CH-A	  		5
+Y1900 				C7B59CH-A	  		5
+
+1105 Starting Data	Spin	2234	Inthe	C100598-B	  		9
+1 Check Ni 				C100598-B	  		9
+2 Check Lo 				C100598-B	  		9
+3 Check He 				C100598-B	  		9
+4 Halve PM 				C100598-B	  		4
+5 Reduce TL 				C100598-A	  		4
+Y1290 				C100559-A	  		5
+Y1344 				C100585-A	  		6
+Y1398 				C100542-A	  		7
+Y1470 				C100566-A	  		8
+Y1524 				C100567-A	  		9
+Y1560 				C100688-A	  		1
+Y1632 				C100678-A	  		2
+Y1686 				C100625-A	  		3
+Y1722 				C100631-A	  		4
+Y1812 				C100668-A	  		5
+Y1866 				C100612-A	  		6
+Y1900 				C100612-A	  		6
+
+1105 Starting Data	Spin	2236	Tsarina	D420636-7	  		3
+1 Check Ni 				D420636-7	  		3
+2 Check Lo 				D420636-7	  		3
+3 Check He 				D420636-7	  		3
+4 Halve PM 				D420636-7	  		1
+5 Reduce TL 				D420636-4	  		1
+Y1900 				D420636-4	  		1
+
+1105 Starting Data	Spin	2237	Wurzburg	C795300-A	S 	A	5
+1 Check Ni 				C795300-A	S 	A	5
+2 Check Lo 				D795000-A	S 	A	0
+3 Check He 				D795000-A	S 	A	0
+Y1900 				D795000-A	S 	A	0
+
+1105 Starting Data	Spin	2303	Yorbund	C7C6503-9	  		2
+1 Check Ni 				C7C6303-9	  		2
+2 Check Lo 				D7C6000-9	  		0
+3 Check He 				D7C6000-9	  		0
+Y1900 				D7C6000-9	  		0
+
+1105 Starting Data	Spin	2306	Shionthy	C000742-8	  	R	7
+1 Check Ni 				C000742-8	  	R	7
+2 Check Lo 				C000742-8	  	R	7
+3 Check He 				C000742-8	  	R	7
+4 Halve PM 				C000742-8	  	R	3
+5 Reduce TL 				C000742-2	  	R	3
+Y1900 				C000742-2	  	R	3
+
+1105 Starting Data	Spin	2308	Algine	X766977-4	  	R	7
+1 Check Ni 				X766977-4	  	R	7
+2 Check Lo 				X766977-4	  	R	7
+3 Check He 				X766977-4	  	R	7
+4 Halve PM 				X766977-4	  	R	3
+5 Reduce TL 				X766977-0	  	R	3
+Y1900 				X766977-0	  	R	3
+
+1105 Starting Data	Spin	2309	Yurst	E7B4643-8	  		8
+1 Check Ni 				E7B4643-8	  		8
+2 Check Lo 				E7B4643-8	  		8
+3 Check He 				E7B4643-8	  		8
+4 Halve PM 				E7B4643-8	  		4
+5 Reduce TL 				E7B4643-6	  		4
+Y1900 				E7B4643-6	  		4
+
+1105 Starting Data	Spin	2311	Treece	D432866-8	  		6
+1 Check Ni 				D432866-8	  		6
+2 Check Lo 				D432866-8	  		6
+3 Check He 				D432866-8	  		6
+4 Halve PM 				D432866-8	  		3
+5 Reduce TL 				D432866-5	  		3
+Y1900 				D432866-5	  		3
+
+1105 Starting Data	Spin	2313	Echiste	C53A313-A	  		7
+1 Check Ni 				C53A313-A	  		7
+2 Check Lo 				D53A000-A	  		0
+3 Check He 				D53A000-A	  		0
+Y1900 				D53A000-A	  		0
+
+1105 Starting Data	Spin	2314	Pirema	D691142-5	  		8
+1 Check Ni 				D691142-5	  		8
+2 Check Lo 				D691000-5	  		0
+3 Check He 				D691000-5	  		0
+Y1900 				D691000-5	  		0
+
+1105 Starting Data	Spin	2317	Rhise	C100576-A	  	A	7
+1 Check Ni 				C100576-A	  	A	7
+2 Check Lo 				C100576-A	  	A	7
+3 Check He 				C100576-A	  	A	7
+4 Halve PM 				C100576-A	  	A	3
+5 Reduce TL 				C100576-4	  	A	3
+Y1308 				C100541-4	  	A	4
+Y1362 				C100527-4	  	A	5
+Y1398 				C100532-4	  	A	6
+Y1506 				C100577-4	  	A	7
+Y1596 				C100520-4	  	A	8
+Y1704 				C100587-4	  	A	9
+Y1758 				C100666-4	  	A	1
+Y1812 				C100658-4	  	A	2
+Y1866 				C100626-4	  	A	3
+Y1900 				C100626-4	  	A	3
+
+1105 Starting Data	Spin	2319	Ivendo	B424659-A	SN		1
+1 Check Ni 				B424559-A	SN		1
+2 Check Lo 				B424559-A	SN		1
+3 Check He 				D424000-A	SN		0
+Y1900 				D424000-A	SN		0
+
+1105 Starting Data	Spin	2321	Quiru	B565300-8	  		3
+1 Check Ni 				B565300-8	  		3
+2 Check Lo 				D565000-8	  		0
+3 Check He 				D565000-8	  		0
+Y1900 				D565000-8	  		0
+
+1105 Starting Data	Spin	2322	Gorram	X554220-2	  	R	8
+1 Check Ni 				X554220-2	  	R	8
+2 Check Lo 				X554000-2	  	R	0
+3 Check He 				X554000-2	  	R	0
+Y1900 				X554000-2	  	R	0
+
+1105 Starting Data	Spin	2323	Resten	B310100-B	S 		5
+1 Check Ni 				B310100-B	S 		5
+2 Check Lo 				D310000-B	S 		0
+3 Check He 				D310000-B	S 		0
+Y1900 				D310000-B	S 		0
+
+1105 Starting Data	Spin	2324	Capon	B747748-A	 N		6
+1 Check Ni 				B747748-A	 N		6
+2 Check Lo 				B747748-A	 N		6
+3 Check He 				B747748-A	 N		6
+4 Halve PM 				B747748-A	 N		3
+5 Reduce TL 				B747748-9	 N		3
+Y1380 				B747785-9	 N		4
+Y1560 				B747788-9	 N		5
+Y1900 				B747788-9	 N		5
+
+1105 Starting Data	Spin	2325	Sharrip	C575101-A	  		5
+1 Check Ni 				C575101-A	  		5
+2 Check Lo 				D575000-A	  		0
+3 Check He 				D575000-A	  		0
+Y1900 				D575000-A	  		0
+
+1105 Starting Data	Spin	2327	Strouden	A745988-D	 N		9
+1 Check Ni 				A745988-D	 N		9
+2 Check Lo 				A745988-D	 N		9
+3 Check He 				A745988-D	 N		9
+4 Halve PM 				A745988-D	 N		4
+5 Reduce TL 				A745988-B	 N		4
+Y1900 				A745988-B	 N		4
+
+1105 Starting Data	Spin	2331	Bicornn	E563576-2	  		2
+1 Check Ni 				E563576-2	  		2
+2 Check Lo 				E563576-2	  		2
+3 Check He 				E563576-2	  		2
+4 Halve PM 				E563576-2	  		1
+5 Reduce TL 				E563576-0	  		1
+Y1900 				E563576-0	  		1
+
+1105 Starting Data	Spin	2334	Ffudn	A41489D-C	  	A	9
+1 Check Ni 				A41489D-C	  	A	9
+2 Check Lo 				A41489D-C	  	A	9
+3 Check He 				A41489D-C	  	A	9
+4 Halve PM 				A41489D-C	  	A	4
+5 Reduce TL 				A41489D-B	  	A	4
+Y1740 				A4148D9-B	  	A	5
+Y1900 				A4148D9-B	  	A	5
+
+1105 Starting Data	Spin	2336	Bendor	A756656-C	SN		8
+1 Check Ni 				A756556-C	SN		8
+2 Check Lo 				A756556-C	SN		8
+3 Check He 				A756556-C	SN		8
+4 Halve PM 				A756556-C	SN		4
+5 Reduce TL 				A756556-7	SN		4
+Y1560 				A756553-7	SN		5
+Y1900 				A756553-7	SN		5
+
+1105 Starting Data	Spin	2402	Heya	B687745-5	  		7
+1 Check Ni 				B687745-5	  		7
+2 Check Lo 				B687745-5	  		7
+3 Check He 				B687745-5	  		7
+4 Halve PM 				B687745-5	  		3
+5 Reduce TL 				B687745-0	  		3
+Y1900 				B687745-0	  		3
+
+1105 Starting Data	Spin	2405	Keng	E5718CA-5	  	A	8
+1 Check Ni 				E5718CA-5	  	A	8
+2 Check Lo 				E5718CA-5	  	A	8
+3 Check He 				E571000-5	  	A	0
+Y1900 				E571000-5	  	A	0
+
+1105 Starting Data	Spin	2406	Moughas	CA5A588-B	  		8
+1 Check Ni 				CA5A588-B	  		8
+2 Check Lo 				CA5A588-B	  		8
+3 Check He 				CA5A588-B	  		8
+4 Halve PM 				CA5A588-B	  		4
+5 Reduce TL 				CA5A588-8	  		4
+Y1900 				CA5A588-8	  		4
+
+1105 Starting Data	Spin	2408	Rethe	E430AA8-8	  		3
+1 Check Ni 				E430AA8-8	  		3
+2 Check Lo 				E430AA8-8	  		3
+3 Check He 				E430AA8-8	  		3
+4 Halve PM 				E430AA8-8	  		1
+5 Reduce TL 				E430AA8-7	  		1
+Y1900 				E430AA8-7	  		1
+
+1105 Starting Data	Spin	2410	Inthe	B575776-9	SN		4
+1 Check Ni 				B575776-9	SN		4
+2 Check Lo 				B575776-9	SN		4
+3 Check He 				D575000-9	SN		0
+Y1900 				D575000-9	SN		0
+
+1105 Starting Data	Spin	2411	Keanou	C792348-7	S 		2
+1 Check Ni 				C792348-7	S 		2
+2 Check Lo 				D792000-7	S 		0
+3 Check He 				D792000-7	S 		0
+Y1900 				D792000-7	S 		0
+
+1105 Starting Data	Spin	2414	Tureded	C565540-9	  		6
+1 Check Ni 				C565440-9	  		6
+2 Check Lo 				C565440-9	  		6
+3 Check He 				C565440-9	  		6
+4 Halve PM 				C565440-9	  		3
+5 Reduce TL 				C565440-4	  		3
+Y1900 				C565440-4	  		3
+
+1105 Starting Data	Spin	2415	Vreibefger	E581542-3	  		9
+1 Check Ni 				E581442-3	  		9
+2 Check Lo 				E581442-3	  		9
+3 Check He 				E581442-3	  		9
+4 Halve PM 				E581442-3	  		4
+5 Reduce TL 				E581442-1	  		4
+Y1900 				E581442-1	  		4
+
+1105 Starting Data	Spin	2416	La'Belle	C564112-4	  		7
+1 Check Ni 				C564112-4	  		7
+2 Check Lo 				D564000-4	  		0
+3 Check He 				D564000-4	  		0
+Y1900 				D564000-4	  		0
+
+1105 Starting Data	Spin	2417	Equus	B55A858-B	S 		2
+1 Check Ni 				B55A858-B	S 		2
+2 Check Lo 				B55A858-B	S 		2
+3 Check He 				B55A858-B	S 		2
+4 Halve PM 				B55A858-B	S 		1
+5 Reduce TL 				B55A858-7	S 		1
+Y1236 				B55A865-7	S 		2
+Y1308 				B55A878-7	S 		3
+Y1326 				B55A888-7	S 		4
+Y1416 				B55A878-7	S 		5
+Y1470 				B55A898-7	S 		6
+Y1488 				B55A840-7	S 		7
+Y1542 				B55A866-7	S 		8
+Y1596 				B55A8BB-7	S 		9
+Y1632 				B55A9BB-7	S 		1
+Y1650 				B55A989-7	S 		2
+Y1758 				B55A952-7	S 		3
+Y1776 				B55A99A-7	S 		4
+Y1866 				B55A98B-7	S 		5
+Y1900 				B55A98B-7	S 		5
+
+1105 Starting Data	Spin	2418	Icetina	B5245A9-7	 N		3
+1 Check Ni 				B5245A9-7	 N		3
+2 Check Lo 				B5245A9-7	 N		3
+3 Check He 				D524000-7	 N		0
+Y1900 				D524000-7	 N		0
+
+1105 Starting Data	Spin	2419	Cogri	CA6A643-9	  		4
+1 Check Ni 				CA6A643-9	  		4
+2 Check Lo 				CA6A643-9	  		4
+3 Check He 				CA6A643-9	  		4
+4 Halve PM 				CA6A643-9	  		2
+5 Reduce TL 				CA6A643-8	  		2
+Y1290 				CA6A6AA-8	  		3
+Y1344 				CA6A651-8	  		4
+Y1362 				CA6A68B-8	  		5
+Y1434 				CA6A640-8	  		6
+Y1488 				CA6A698-8	  		7
+Y1578 				CA6A667-8	  		8
+Y1650 				CA6A645-8	  		9
+Y1668 				CA6A774-8	  		1
+Y1704 				CA6A7AA-8	  		2
+Y1740 				CA6A766-8	  		3
+Y1812 				CA6A78A-8	  		4
+Y1900 				CA6A78A-8	  		4
+
+1105 Starting Data	Spin	2420	Skull	C4237C7-9	 N		6
+1 Check Ni 				C4237C7-9	 N		6
+2 Check Lo 				C4237C7-9	 N		6
+3 Check He 				D423000-9	 N		0
+Y1900 				D423000-9	 N		0
+
+1105 Starting Data	Spin	2425	Gandr	E000347-8	  		8
+1 Check Ni 				E000347-8	  		8
+2 Check Lo 				E000000-8	  		0
+3 Check He 				E000000-8	  		0
+Y1900 				E000000-8	  		0
+
+1105 Starting Data	Spin	2426	Drolraw	EAB6311-8	  		9
+1 Check Ni 				EAB6311-8	  		9
+2 Check Lo 				EAB6000-8	  		0
+3 Check He 				EAB6000-8	  		0
+Y1900 				EAB6000-8	  		0
+
+1105 Starting Data	Spin	2509	Paya	A655241-9	 N		6
+1 Check Ni 				A655241-9	 N		6
+2 Check Lo 				D655000-9	 N		0
+3 Check He 				D655000-9	 N		0
+Y1900 				D655000-9	 N		0
+
+1105 Starting Data	Spin	2510	Dhian	C9A769D-8	  	A	2
+1 Check Ni 				C9A769D-8	  	A	2
+2 Check Lo 				C9A769D-8	  	A	2
+3 Check He 				C9A769D-8	  	A	2
+4 Halve PM 				C9A769D-8	  	A	1
+5 Reduce TL 				C9A769D-4	  	A	1
+Y1900 				C9A769D-4	  	A	1
+
+1105 Starting Data	Spin	2512	Kinorb	C549433-9	  		5
+1 Check Ni 				C549133-9	  		5
+2 Check Lo 				D549000-9	  		0
+3 Check He 				D549000-9	  		0
+Y1900 				D549000-9	  		0
+
+1105 Starting Data	Spin	2514	Gileden	C583103-6	  		2
+1 Check Ni 				C583103-6	  		2
+2 Check Lo 				D583000-6	  		0
+3 Check He 				D583000-6	  		0
+Y1900 				D583000-6	  		0
+
+1105 Starting Data	Spin	2519	Pannet	E9C5677-9	  		2
+1 Check Ni 				E9C5577-9	  		2
+2 Check Lo 				E9C5577-9	  		2
+3 Check He 				E9C5000-9	  		0
+Y1900 				E9C5000-9	  		0
+
+1105 Starting Data	Spin	2520	Garrincski	B632520-7	S 		4
+1 Check Ni 				B632520-7	S 		4
+2 Check Lo 				B632520-7	S 		4
+3 Check He 				B632520-7	S 		4
+4 Halve PM 				B632520-7	S 		2
+5 Reduce TL 				B632520-1	S 		2
+Y1900 				B632520-1	S 		2
+
+1105 Starting Data	Spin	2521	Heroni	B6449B9-8	  	A	7
+1 Check Ni 				B6449B9-8	  	A	7
+2 Check Lo 				B6449B9-8	  	A	7
+3 Check He 				B6449B9-8	  	A	7
+4 Halve PM 				B6449B9-8	  	A	3
+5 Reduce TL 				B6449B9-7	  	A	3
+Y1900 				B6449B9-7	  	A	3
+
+1105 Starting Data	Spin	2523	Byret	B585697-6	  		8
+1 Check Ni 				B585697-6	  		8
+2 Check Lo 				B585697-6	  		8
+3 Check He 				B585697-6	  		8
+4 Halve PM 				B585697-6	  		4
+5 Reduce TL 				B585697-5	  		4
+Y1900 				B585697-5	  		4
+
+1105 Starting Data	Spin	2527	Pimane	E500343-7	  		9
+1 Check Ni 				E500343-7	  		9
+2 Check Lo 				E500000-7	  		0
+3 Check He 				E500000-7	  		0
+Y1900 				E500000-7	  		0
+
+1105 Starting Data	Spin	2534	Burtson	C562667-8	  		4
+1 Check Ni 				C562667-8	  		4
+2 Check Lo 				C562667-8	  		4
+3 Check He 				C562667-8	  		4
+4 Halve PM 				C562667-8	  		2
+5 Reduce TL 				C562667-7	  		2
+Y1900 				C562667-7	  		2
+
+1105 Starting Data	Spin	2536	Squanine	A300550-B	  		3
+1 Check Ni 				A300550-B	  		3
+2 Check Lo 				A300550-B	  		3
+3 Check He 				A300550-B	  		3
+4 Halve PM 				A300550-B	  		1
+5 Reduce TL 				A300550-9	  		1
+Y1218 				A300573-9	  		2
+Y1308 				A300563-9	  		3
+Y1398 				A300532-9	  		4
+Y1506 				A300545-9	  		5
+Y1900 				A300545-9	  		5
+
+1105 Starting Data	Spin	2537	Dobham	A550457-A	S 		5
+1 Check Ni 				A550257-A	S 		5
+2 Check Lo 				D550000-A	S 		0
+3 Check He 				D550000-A	S 		0
+Y1900 				D550000-A	S 		0
+
+1105 Starting Data	Spin	2538	Pyramus	E566335-2	  		2
+1 Check Ni 				E566335-2	  		2
+2 Check Lo 				E566000-2	  		0
+3 Check He 				E566000-2	  		0
+Y1900 				E566000-2	  		0
+
+1105 Starting Data	Spin	2539	Thisbe	E4305AD-6	  	A	3
+1 Check Ni 				E4305AD-6	  	A	3
+2 Check Lo 				E4305AD-6	  	A	3
+3 Check He 				E4305AD-6	  	A	3
+4 Halve PM 				E4305AD-6	  	A	1
+5 Reduce TL 				E4305AD-0	  	A	1
+Y1900 				E4305AD-0	  	A	1
+
+1105 Starting Data	Spin	2540	Aramis	B659772-6	  		9
+1 Check Ni 				B659772-6	  		9
+2 Check Lo 				B659772-6	  		9
+3 Check He 				B659772-6	  		9
+4 Halve PM 				B659772-6	  		4
+5 Reduce TL 				B659772-3	  		4
+Y1900 				B659772-3	  		4
+
+1105 Starting Data	Spin	2602	Corfu	C895674-8	  	A	2
+1 Check Ni 				C895474-8	  	A	2
+2 Check Lo 				C895474-8	  	A	2
+3 Check He 				D895000-8	  	A	0
+Y1900 				D895000-8	  	A	0
+
+1105 Starting Data	Spin	2607	Focaline	EA88544-7	  		7
+1 Check Ni 				EA88544-7	  		7
+2 Check Lo 				EA88544-7	  		7
+3 Check He 				EA88544-7	  		7
+4 Halve PM 				EA88544-7	  		3
+5 Reduce TL 				EA88544-4	  		3
+Y1272 				EA88533-4	  		4
+Y1326 				EA8857B-4	  		5
+Y1362 				EA88521-4	  		6
+Y1452 				EA88552-4	  		7
+Y1524 				EA88556-4	  		8
+Y1578 				EA88500-4	  		9
+Y1596 				EA88643-4	  		1
+Y1686 				EA8869D-4	  		2
+Y1704 				EA88653-4	  		3
+Y1794 				EA8865A-4	  		4
+Y1812 				EA88666-4	  		5
+Y1900 				EA88666-4	  		5
+
+1105 Starting Data	Spin	2612	Macene	B000453-E	 N		9
+1 Check Ni 				B000253-E	 N		9
+2 Check Lo 				D000000-E	 N		0
+3 Check He 				D000000-E	 N		0
+Y1900 				D000000-E	 N		0
+
+1105 Starting Data	Spin	2613	Fulacin	A674210-D	  		8
+1 Check Ni 				A674210-D	  		8
+2 Check Lo 				D674000-D	  		0
+3 Check He 				D674000-D	  		0
+Y1900 				D674000-D	  		0
+
+1105 Starting Data	Spin	2620	Natoko	C8879AB-9	  	A	2
+1 Check Ni 				C8879AB-9	  	A	2
+2 Check Lo 				C8879AB-9	  	A	2
+3 Check He 				C8879AB-9	  	A	2
+4 Halve PM 				C8879AB-9	  	A	1
+5 Reduce TL 				C8879AB-4	  	A	1
+Y1380 				C887963-4	  	A	2
+Y1740 				C887978-4	  	A	3
+Y1900 				C887978-4	  	A	3
+
+1105 Starting Data	Spin	2621	Fosey	A633656-A	  		6
+1 Check Ni 				A633656-A	  		6
+2 Check Lo 				A633656-A	  		6
+3 Check He 				A633656-A	  		6
+4 Halve PM 				A633656-A	  		3
+5 Reduce TL 				A633656-7	  		3
+Y1900 				A633656-7	  		3
+
+1105 Starting Data	Spin	2624	Mercury	B658663-8	SN		3
+1 Check Ni 				B658363-8	SN		3
+2 Check Lo 				D658000-8	SN		0
+3 Check He 				D658000-8	SN		0
+Y1900 				D658000-8	SN		0
+
+1105 Starting Data	Spin	2627	Tivid	C534477-8	  		4
+1 Check Ni 				C534477-8	  		4
+2 Check Lo 				C534477-8	  		4
+3 Check He 				C534477-8	  		4
+4 Halve PM 				C534477-8	  		2
+5 Reduce TL 				C534477-4	  		2
+Y1308 				C534453-4	  		3
+Y1344 				C53446A-4	  		4
+Y1452 				C534424-4	  		5
+Y1542 				C534435-4	  		6
+Y1614 				C534434-4	  		7
+Y1704 				C534485-4	  		8
+Y1776 				C534442-4	  		9
+Y1812 				C534520-4	  		1
+Y1900 				C534520-4	  		1
+
+1105 Starting Data	Spin	2637	Robin	C00059C-C	  	A	2
+1 Check Ni 				C00059C-C	  	A	2
+2 Check Lo 				C00059C-C	  	A	2
+3 Check He 				C00059C-C	  	A	2
+4 Halve PM 				C00059C-C	  	A	1
+5 Reduce TL 				C00059C-A	  	A	1
+Y1290 				C000556-A	  	A	2
+Y1398 				C000542-A	  	A	3
+Y1900 				C000542-A	  	A	3
+
+1105 Starting Data	Spin	2638	D'Mara	E75A798-5	  		9
+1 Check Ni 				E75A798-5	  		9
+2 Check Lo 				E75A798-5	  		9
+3 Check He 				E75A798-5	  		9
+4 Halve PM 				E75A798-5	  		4
+5 Reduce TL 				E75A798-4	  		4
+Y1218 				E75A759-4	  		5
+Y1236 				E75A795-4	  		6
+Y1272 				E75A766-4	  		7
+Y1362 				E75A7A5-4	  		8
+Y1470 				E75A777-4	  		9
+Y1900 				E75A777-4	  		9
+
+1105 Starting Data	Spin	2639	Keltchner	C525567-9	  		6
+1 Check Ni 				C525567-9	  		6
+2 Check Lo 				C525567-9	  		6
+3 Check He 				D525000-9	  		0
+Y1900 				D525000-9	  		0
+
+1105 Starting Data	Spin	2701	Lablon	B646589-A	  		5
+1 Check Ni 				B646289-A	  		5
+2 Check Lo 				D646000-A	  		0
+3 Check He 				D646000-A	  		0
+Y1900 				D646000-A	  		0
+
+1105 Starting Data	Spin	2706	Heguz	E66A224-9	  		5
+1 Check Ni 				E66A224-9	  		5
+2 Check Lo 				E66A000-9	  		0
+3 Check He 				E66A000-9	  		0
+Y1900 				E66A000-9	  		0
+
+1105 Starting Data	Spin	2708	Violante	C669452-A	  		4
+1 Check Ni 				C669352-A	  		4
+2 Check Lo 				D669000-A	  		0
+3 Check He 				D669000-A	  		0
+Y1900 				D669000-A	  		0
+
+1105 Starting Data	Spin	2712	Risek	A425579-A	 N		4
+1 Check Ni 				A425579-A	 N		4
+2 Check Lo 				A425579-A	 N		4
+3 Check He 				D425000-A	 N		0
+Y1900 				D425000-A	 N		0
+
+1105 Starting Data	Spin	2715	Porozlo	A867A74-B	  		2
+1 Check Ni 				A867A74-B	  		2
+2 Check Lo 				A867A74-B	  		2
+3 Check He 				A867A74-B	  		2
+4 Halve PM 				A867A74-B	  		1
+5 Reduce TL 				A867A74-9	  		1
+Y1560 				A867A53-9	  		2
+Y1900 				A867A53-9	  		2
+
+1105 Starting Data	Spin	2716	Rhylanor	A434934-F	SN		8
+1 Check Ni 				A434934-F	SN		8
+2 Check Lo 				A434934-F	SN		8
+3 Check He 				A434934-F	SN		8
+4 Halve PM 				A434934-F	SN		4
+5 Reduce TL 				A434934-B	SN		4
+Y1290 				A434976-B	SN		5
+Y1308 				A434997-B	SN		6
+Y1344 				A434941-B	SN		7
+Y1434 				A4349AA-B	SN		8
+Y1542 				A4349CE-B	SN		9
+Y1596 				A434ABC-B	SN		1
+Y1650 				A434AAA-B	SN		2
+Y1722 				A434ABF-B	SN		3
+Y1830 				A434AA9-B	SN		4
+Y1900 				A434AA9-B	SN		4
+
+1105 Starting Data	Spin	2720	Loneseda	C86A215-7	  		7
+1 Check Ni 				C86A215-7	  		7
+2 Check Lo 				D86A000-7	  		0
+3 Check He 				D86A000-7	  		0
+Y1900 				D86A000-7	  		0
+
+1105 Starting Data	Spin	2726	Carey	C579221-9	  		9
+1 Check Ni 				C579221-9	  		9
+2 Check Lo 				D579000-9	  		0
+3 Check He 				D579000-9	  		0
+Y1900 				D579000-9	  		0
+
+1105 Starting Data	Spin	2728	Duale	A5437BF-B	  	A	4
+1 Check Ni 				A5437BF-B	  	A	4
+2 Check Lo 				A5437BF-B	  	A	4
+3 Check He 				A5437BF-B	  	A	4
+4 Halve PM 				A5437BF-B	  	A	2
+5 Reduce TL 				A5437BF-9	  	A	2
+Y1900 				A5437BF-9	  	A	2
+
+1105 Starting Data	Spin	2731	Tussinian	B678324-7	  		5
+1 Check Ni 				B678324-7	  		5
+2 Check Lo 				D678000-7	  		0
+3 Check He 				D678000-7	  		0
+Y1900 				D678000-7	  		0
+
+1105 Starting Data	Spin	2733	Edenelt	A5638BD-B	  	A	9
+1 Check Ni 				A5638BD-B	  	A	9
+2 Check Lo 				A5638BD-B	  	A	9
+3 Check He 				A5638BD-B	  	A	9
+4 Halve PM 				A5638BD-B	  	A	4
+5 Reduce TL 				A5638BD-5	  	A	4
+Y1218 				A563885-5	  	A	5
+Y1308 				A563853-5	  	A	6
+Y1362 				A5638BF-5	  	A	7
+Y1470 				A563846-5	  	A	8
+Y1900 				A563846-5	  	A	8
+
+1105 Starting Data	Spin	2735	Conway	D894586-7	S 		3
+1 Check Ni 				D894486-7	S 		3
+2 Check Lo 				D894486-7	S 		3
+3 Check He 				D894000-7	S 		0
+Y1900 				D894000-7	S 		0
+
+1105 Starting Data	Spin	2739	Dodds	C5439DF-7	S 	A	4
+1 Check Ni 				C5439DF-7	S 	A	4
+2 Check Lo 				C5439DF-7	S 	A	4
+3 Check He 				C5439DF-7	S 	A	4
+4 Halve PM 				C5439DF-7	S 	A	2
+5 Reduce TL 				C5439DF-6	S 	A	2
+Y1900 				C5439DF-6	S 	A	2
+
+1105 Starting Data	Spin	2811	Valhalla	E565432-5	  		6
+1 Check Ni 				E565432-5	  		6
+2 Check Lo 				E565432-5	  		6
+3 Check He 				E565432-5	  		6
+4 Halve PM 				E565432-5	  		3
+5 Reduce TL 				E565432-0	  		3
+Y1900 				E565432-0	  		3
+
+1105 Starting Data	Spin	2812	Zivije	C6B199C-B	  	A	4
+1 Check Ni 				C6B199C-B	  	A	4
+2 Check Lo 				C6B199C-B	  	A	4
+3 Check He 				C6B199C-B	  	A	4
+4 Halve PM 				C6B199C-B	  	A	2
+5 Reduce TL 				C6B199C-8	  	A	2
+Y1900 				C6B199C-8	  	A	2
+
+1105 Starting Data	Spin	2814	Jae Tellona	A560565-8	 N		9
+1 Check Ni 				A560565-8	 N		9
+2 Check Lo 				A560565-8	 N		9
+3 Check He 				A560565-8	 N		9
+4 Halve PM 				A560565-8	 N		4
+5 Reduce TL 				A560565-2	 N		4
+Y1900 				A560565-2	 N		4
+
+1105 Starting Data	Spin	2818	Gerome	X573000-0	  	R	0
+1 Check Ni 				X573000-0	  	R	0
+2 Check Lo 				X573000-0	  	R	0
+3 Check He 				X573000-0	  	R	0
+Y1900 				X573000-0	  	R	0
+
+1105 Starting Data	Spin	2824	Catuz	C42048C-9	  	A	5
+1 Check Ni 				C42048C-9	  	A	5
+2 Check Lo 				C42048C-9	  	A	5
+3 Check He 				C42048C-9	  	A	5
+4 Halve PM 				C42048C-9	  	A	2
+5 Reduce TL 				C42048C-5	  	A	2
+Y1900 				C42048C-5	  	A	2
+
+1105 Starting Data	Spin	2827	Meleto	C675100-5	S 		7
+1 Check Ni 				C675100-5	S 		7
+2 Check Lo 				D675000-5	S 		0
+3 Check He 				D675000-5	S 		0
+Y1900 				D675000-5	S 		0
+
+1105 Starting Data	Spin	2828	Hexos	B534420-8	 N		1
+1 Check Ni 				B534420-8	 N		1
+2 Check Lo 				B534420-8	 N		1
+3 Check He 				B534420-8	 N		1
+4 Halve PM 				B534320-8	 N		5
+5 Reduce TL 				B534320-6	 N		5
+Y1740 				B534304-6	 N		6
+Y1900 				B534304-6	 N		6
+
+1105 Starting Data	Spin	2830	Pedase	C415346-7	S 		1
+1 Check Ni 				C415346-7	S 		1
+2 Check Lo 				D415000-7	S 		0
+3 Check He 				D415000-7	S 		0
+Y1900 				D415000-7	S 		0
+
+1105 Starting Data	Spin	2832	Leander	E695244-5	  		8
+1 Check Ni 				E695244-5	  		8
+2 Check Lo 				E695000-5	  		0
+3 Check He 				E695000-5	  		0
+Y1900 				E695000-5	  		0
+
+1105 Starting Data	Spin	2833	Pepernium	D567530-3	  		5
+1 Check Ni 				D567430-3	  		5
+2 Check Lo 				D567430-3	  		5
+3 Check He 				D567430-3	  		5
+4 Halve PM 				D567430-3	  		2
+5 Reduce TL 				D567430-0	  		2
+Y1900 				D567430-0	  		2
+
+1105 Starting Data	Spin	2834	Traltha	B590630-6	  		4
+1 Check Ni 				B590630-6	  		4
+2 Check Lo 				B590630-6	  		4
+3 Check He 				B590630-6	  		4
+4 Halve PM 				B590630-6	  		2
+5 Reduce TL 				B590630-3	  		2
+Y1900 				B590630-3	  		2
+
+1105 Starting Data	Spin	2839	Farquahar	C625543-7	S 		2
+1 Check Ni 				C625543-7	S 		2
+2 Check Lo 				C625543-7	S 		2
+3 Check He 				D625000-7	S 		0
+Y1900 				D625000-7	S 		0
+
+1105 Starting Data	Spin	2905	Pavanne	E310000-0	  		0
+1 Check Ni 				E310000-0	  		0
+2 Check Lo 				E310000-0	  		0
+3 Check He 				E310000-0	  		0
+Y1900 				E310000-0	  		0
+
+1105 Starting Data	Spin	2906	Carsten	C427402-B	  		8
+1 Check Ni 				C427402-B	  		8
+2 Check Lo 				C427402-B	  		8
+3 Check He 				D427000-B	  		0
+Y1900 				D427000-B	  		0
+
+1105 Starting Data	Spin	2908	Zila	E556727-7	  	A	7
+1 Check Ni 				E556727-7	  	A	7
+2 Check Lo 				E556727-7	  	A	7
+3 Check He 				E556727-7	  	A	7
+4 Halve PM 				E556727-7	  	A	3
+5 Reduce TL 				E556727-3	  	A	3
+Y1900 				E556727-3	  	A	3
+
+1105 Starting Data	Spin	2912	Henoz	A545543-B	  		8
+1 Check Ni 				A545343-B	  		8
+2 Check Lo 				D545000-B	  		0
+3 Check He 				D545000-B	  		0
+Y1900 				D545000-B	  		0
+
+1105 Starting Data	Spin	2913	Celepina	B434456-9	SN		2
+1 Check Ni 				B434456-9	SN		2
+2 Check Lo 				B434456-9	SN		2
+3 Check He 				B434456-9	SN		2
+4 Halve PM 				B434456-9	SN		1
+5 Reduce TL 				B434456-4	SN		1
+Y1308 				B434420-4	SN		2
+Y1380 				B434457-4	SN		3
+Y1398 				B434486-4	SN		4
+Y1416 				B434447-4	SN		5
+Y1524 				B434462-4	SN		6
+Y1632 				B434452-4	SN		7
+Y1722 				B434447-4	SN		8
+Y1740 				B434444-4	SN		9
+Y1794 				B434513-4	SN		1
+Y1830 				B434557-4	SN		2
+Y1848 				B43459E-4	SN		3
+Y1900 				B43459E-4	SN		3
+
+1105 Starting Data	Spin	2918	Gitosy	B000676-9	  		6
+1 Check Ni 				B000676-9	  		6
+2 Check Lo 				B000676-9	  		6
+3 Check He 				B000676-9	  		6
+4 Halve PM 				B000676-9	  		3
+5 Reduce TL 				B000676-7	  		3
+Y1740 				B00068C-7	  		4
+Y1900 				B00068C-7	  		4
+
+1105 Starting Data	Spin	2924	Moran	C567300-8	 N		2
+1 Check Ni 				C567300-8	 N		2
+2 Check Lo 				D567000-8	 N		0
+3 Check He 				D567000-8	 N		0
+Y1900 				D567000-8	 N		0
+
+1105 Starting Data	Spin	2927	Maitz	A201511-B	  		1
+1 Check Ni 				A201011-B	  		1
+2 Check Lo 				D201000-B	  		0
+3 Check He 				D201000-B	  		0
+Y1900 				D201000-B	  		0
+
+1105 Starting Data	Spin	2930	Mainz	C553352-A	S 		8
+1 Check Ni 				C553352-A	S 		8
+2 Check Lo 				D553000-A	S 		0
+3 Check He 				D553000-A	S 		0
+Y1900 				D553000-A	S 		0
+
+1105 Starting Data	Spin	2933	Raydrad	E99467A-6	  		3
+1 Check Ni 				E99457A-6	  		3
+2 Check Lo 				E99457A-6	  		3
+3 Check He 				E994000-6	  		0
+Y1900 				E994000-6	  		0
+
+1105 Starting Data	Spin	2934	Zyra	B555448-7	  		6
+1 Check Ni 				B555248-7	  		6
+2 Check Lo 				D555000-7	  		0
+3 Check He 				D555000-7	  		0
+Y1900 				D555000-7	  		0
+
+1105 Starting Data	Spin	2935	Murchison	B544433-6	 N		3
+1 Check Ni 				B544433-6	 N		3
+2 Check Lo 				B544433-6	 N		3
+3 Check He 				D544000-6	 N		0
+Y1900 				D544000-6	 N		0
+
+1105 Starting Data	Spin	2936	Hammermium	A5525AB-B	  	A	5
+1 Check Ni 				A5525AB-B	  	A	5
+2 Check Lo 				A5525AB-B	  	A	5
+3 Check He 				A5525AB-B	  	A	5
+4 Halve PM 				A5525AB-B	  	A	2
+5 Reduce TL 				A5525AB-9	  	A	2
+Y1900 				A5525AB-9	  	A	2
+
+1105 Starting Data	Spin	2940	Thornnastor	D534443-8	S 		8
+1 Check Ni 				D534343-8	S 		8
+2 Check Lo 				D534000-8	S 		0
+3 Check He 				D534000-8	S 		0
+Y1900 				D534000-8	S 		0
+
+1105 Starting Data	Spin	3001	Jesedipere	C775300-7	  		6
+1 Check Ni 				C775300-7	  		6
+2 Check Lo 				D775000-7	  		0
+3 Check He 				D775000-7	  		0
+Y1900 				D775000-7	  		0
+
+1105 Starting Data	Spin	3002	Yebab	C9A489A-8	  		7
+1 Check Ni 				C9A489A-8	  		7
+2 Check Lo 				C9A489A-8	  		7
+3 Check He 				C9A489A-8	  		7
+4 Halve PM 				C9A489A-8	  		3
+5 Reduce TL 				C9A489A-6	  		3
+Y1900 				C9A489A-6	  		3
+
+1105 Starting Data	Spin	3003	Nasemin	B98A422-B	S 		6
+1 Check Ni 				B98A322-B	S 		6
+2 Check Lo 				D98A000-B	S 		0
+3 Check He 				D98A000-B	S 		0
+Y1900 				D98A000-B	S 		0
+
+1105 Starting Data	Spin	3004	Zykoca	D994542-6	  	A	3
+1 Check Ni 				D994442-6	  	A	3
+2 Check Lo 				D994442-6	  	A	3
+3 Check He 				D994000-6	  	A	0
+Y1900 				D994000-6	  	A	0
+
+1105 Starting Data	Spin	3005	Aramanx	B657974-7	  	A	2
+1 Check Ni 				B657974-7	  	A	2
+2 Check Lo 				B657974-7	  	A	2
+3 Check He 				B657974-7	  	A	2
+4 Halve PM 				B657974-7	  	A	1
+5 Reduce TL 				B657974-4	  	A	1
+Y1560 				B6579AF-4	  	A	2
+Y1900 				B6579AF-4	  	A	2
+
+1105 Starting Data	Spin	3008	Pysadi	C5766D8-5	  	A	2
+1 Check Ni 				C5762D8-5	  	A	2
+2 Check Lo 				D576000-5	  	A	0
+3 Check He 				D576000-5	  	A	0
+Y1900 				D576000-5	  	A	0
+
+1105 Starting Data	Spin	3010	L'oeul d'Dieu	B98A510-B	 N		5
+1 Check Ni 				B98A510-B	 N		5
+2 Check Lo 				B98A510-B	 N		5
+3 Check He 				B98A510-B	 N		5
+4 Halve PM 				B98A510-B	 N		2
+5 Reduce TL 				B98A510-9	 N		2
+Y1290 				B98A563-9	 N		3
+Y1362 				B98A562-9	 N		4
+Y1398 				B98A556-9	 N		5
+Y1416 				B98A577-9	 N		6
+Y1452 				B98A584-9	 N		7
+Y1488 				B98A512-9	 N		8
+Y1506 				B98A544-9	 N		9
+Y1524 				B98A634-9	 N		1
+Y1560 				B98A659-9	 N		2
+Y1596 				B98A642-9	 N		3
+Y1704 				B98A684-9	 N		4
+Y1794 				B98A667-9	 N		5
+Y1866 				B98A665-9	 N		6
+Y1900 				B98A665-9	 N		6
+
+1105 Starting Data	Spin	3015	Belizo	B895646-5	  		9
+1 Check Ni 				B895346-5	  		9
+2 Check Lo 				D895000-5	  		0
+3 Check He 				D895000-5	  		0
+Y1900 				D895000-5	  		0
+
+1105 Starting Data	Spin	3016	Kegena	E869569-3	  	A	2
+1 Check Ni 				E869569-3	  	A	2
+2 Check Lo 				E869569-3	  	A	2
+3 Check He 				E869569-3	  	A	2
+4 Halve PM 				E869569-3	  	A	1
+5 Reduce TL 				E869569-0	  	A	1
+Y1900 				E869569-0	  	A	1
+
+1105 Starting Data	Spin	3017	Heroni	E7A0614-8	  		8
+1 Check Ni 				E7A0614-8	  		8
+2 Check Lo 				E7A0614-8	  		8
+3 Check He 				E7A0614-8	  		8
+4 Halve PM 				E7A0614-8	  		4
+5 Reduce TL 				E7A0614-6	  		4
+Y1900 				E7A0614-6	  		4
+
+1105 Starting Data	Spin	3019	457-973	X572776-5	  	R	3
+1 Check Ni 				X572776-5	  	R	3
+2 Check Lo 				X572776-5	  	R	3
+3 Check He 				X572776-5	  	R	3
+4 Halve PM 				X572776-5	  	R	1
+5 Reduce TL 				X572776-3	  	R	1
+Y1740 				X572756-3	  	R	2
+Y1900 				X572756-3	  	R	2
+
+1105 Starting Data	Spin	3020	Somem	C301340-B	  		2
+1 Check Ni 				C301340-B	  		2
+2 Check Lo 				D301000-B	  		0
+3 Check He 				D301000-B	  		0
+Y1900 				D301000-B	  		0
+
+1105 Starting Data	Spin	3021	Brodie	C410468-7	  		1
+1 Check Ni 				C410468-7	  		1
+2 Check Lo 				C410468-7	  		1
+3 Check He 				C410468-7	  		1
+4 Halve PM 				C410368-7	  		5
+5 Reduce TL 				C410368-3	  		5
+Y1900 				C410368-3	  		5
+
+1105 Starting Data	Spin	3022	Rorise	C994100-A	  		5
+1 Check Ni 				C994100-A	  		5
+2 Check Lo 				D994000-A	  		0
+3 Check He 				D994000-A	  		0
+Y1900 				D994000-A	  		0
+
+1105 Starting Data	Spin	3024	Jokotre	B6548D9-7	  	A	8
+1 Check Ni 				B6548D9-7	  	A	8
+2 Check Lo 				B6548D9-7	  	A	8
+3 Check He 				B6548D9-7	  	A	8
+4 Halve PM 				B6548D9-7	  	A	4
+5 Reduce TL 				B6548D9-1	  	A	4
+Y1900 				B6548D9-1	  	A	4
+
+1105 Starting Data	Spin	3025	Fornice	A554A87-C	  		2
+1 Check Ni 				A554A87-C	  		2
+2 Check Lo 				A554A87-C	  		2
+3 Check He 				A554A87-C	  		2
+4 Halve PM 				A554A87-C	  		1
+5 Reduce TL 				A554A87-9	  		1
+Y1900 				A554A87-9	  		1
+
+1105 Starting Data	Spin	3026	Grille	E410335-7	  		7
+1 Check Ni 				E410335-7	  		7
+2 Check Lo 				E410000-7	  		0
+3 Check He 				E410000-7	  		0
+Y1900 				E410000-7	  		0
+
+1105 Starting Data	Spin	3029	Palique	A511965-E	  	A	3
+1 Check Ni 				A511965-E	  	A	3
+2 Check Lo 				A511965-E	  	A	3
+3 Check He 				A511965-E	  	A	3
+4 Halve PM 				A511965-E	  	A	1
+5 Reduce TL 				A511965-B	  	A	1
+Y1272 				A511988-B	  	A	2
+Y1308 				A5119B9-B	  	A	3
+Y1398 				A5119AC-B	  	A	4
+Y1434 				A511956-B	  	A	5
+Y1506 				A511966-B	  	A	6
+Y1542 				A5119A9-B	  	A	7
+Y1632 				A511988-B	  	A	8
+Y1668 				A5119A7-B	  	A	9
+Y1686 				A511A89-B	  	A	1
+Y1776 				A511ABD-B	  	A	2
+Y1848 				A511A9E-B	  	A	3
+Y1866 				A511ADH-B	  	A	4
+Y1900 				A511ADH-B	  	A	4
+
+1105 Starting Data	Spin	3030	Nexine	C97A443-8	S 		8
+1 Check Ni 				C97A443-8	S 		8
+2 Check Lo 				C97A443-8	S 		8
+3 Check He 				D97A000-8	S 		0
+Y1900 				D97A000-8	S 		0
+
+1105 Starting Data	Spin	3032	Katarulu	B552665-B	WN		2
+1 Check Ni 				B552665-B	WN		2
+2 Check Lo 				B552665-B	WN		2
+3 Check He 				B552665-B	WN		2
+4 Halve PM 				B552665-B	WN		1
+5 Reduce TL 				B552665-5	WN		1
+Y1290 				B552612-5	WN		2
+Y1380 				B552637-5	WN		3
+Y1398 				B552656-5	WN		4
+Y1434 				B5526B9-5	WN		5
+Y1470 				B552689-5	WN		6
+Y1542 				B552675-5	WN		7
+Y1578 				B552655-5	WN		8
+Y1596 				B552658-5	WN		9
+Y1632 				B55276B-5	WN		1
+Y1668 				B552755-5	WN		2
+Y1722 				B5527BB-5	WN		3
+Y1830 				B552761-5	WN		4
+Y1866 				B55277A-5	WN		5
+Y1900 				B55277A-5	WN		5
+
+1105 Starting Data	Spin	3035	Prilissa	B985588-6	  		5
+1 Check Ni 				B985388-6	  		5
+2 Check Lo 				D985000-6	  		0
+3 Check He 				D985000-6	  		0
+Y1900 				D985000-6	  		0
+
+1105 Starting Data	Spin	3038	Tee-Tee-Tee	C310530-9	  		9
+1 Check Ni 				C310530-9	  		9
+2 Check Lo 				C310530-9	  		9
+3 Check He 				C310530-9	  		9
+4 Halve PM 				C310530-9	  		4
+5 Reduce TL 				C310530-3	  		4
+Y1900 				C310530-3	  		4
+
+1105 Starting Data	Spin	3039	Youghal	AA95345-B	  		2
+1 Check Ni 				AA95345-B	  		2
+2 Check Lo 				DA95000-B	  		0
+3 Check He 				DA95000-B	  		0
+Y1900 				DA95000-B	  		0
+
+1105 Starting Data	Spin	3040	Tenelphi	D76A579-9	S 		9
+1 Check Ni 				D76A579-9	S 		9
+2 Check Lo 				D76A579-9	S 		9
+3 Check He 				D76A579-9	S 		9
+4 Halve PM 				D76A579-9	S 		4
+5 Reduce TL 				D76A579-5	S 		4
+Y1900 				D76A579-5	S 		4
+
+1105 Starting Data	Spin	3102	Rugbird	BAC5634-A	  	A	8
+1 Check Ni 				BAC5634-A	  	A	8
+2 Check Lo 				BAC5634-A	  	A	8
+3 Check He 				DAC5000-A	  	A	0
+Y1900 				DAC5000-A	  	A	0
+
+1105 Starting Data	Spin	3103	Towers	B544448-A	S 	A	7
+1 Check Ni 				B544448-A	S 	A	7
+2 Check Lo 				B544448-A	S 	A	7
+3 Check He 				D544000-A	S 	A	0
+Y1900 				D544000-A	S 	A	0
+
+1105 Starting Data	Spin	3104	Feneteman	C422200-C	  		9
+1 Check Ni 				C422200-C	  		9
+2 Check Lo 				D422000-C	  		0
+3 Check He 				D422000-C	  		0
+Y1900 				D422000-C	  		0
+
+1105 Starting Data	Spin	3107	Lewis	D427402-7	  	R	7
+1 Check Ni 				D427402-7	  	R	7
+2 Check Lo 				D427402-7	  	R	7
+3 Check He 				D427000-7	  	R	0
+Y1900 				D427000-7	  	R	0
+
+1105 Starting Data	Spin	3110	Aramis	A5A0556-B	SN		7
+1 Check Ni 				A5A0556-B	SN		7
+2 Check Lo 				A5A0556-B	SN		7
+3 Check He 				A5A0556-B	SN		7
+4 Halve PM 				A5A0556-B	SN		3
+5 Reduce TL 				A5A0556-7	SN		3
+Y1308 				A5A0500-7	SN		4
+Y1362 				A5A0586-7	SN		5
+Y1452 				A5A0534-7	SN		6
+Y1470 				A5A0555-7	SN		7
+Y1542 				A5A0524-7	SN		8
+Y1596 				A5A0565-7	SN		9
+Y1686 				A5A0623-7	SN		1
+Y1794 				A5A0640-7	SN		2
+Y1900 				A5A0640-7	SN		2
+
+1105 Starting Data	Spin	3111	Vinorian	B879610-9	  		6
+1 Check Ni 				B879510-9	  		6
+2 Check Lo 				B879510-9	  		6
+3 Check He 				D879000-9	  		0
+Y1900 				D879000-9	  		0
+
+1105 Starting Data	Spin	3112	Nutema	B864310-8	 N		8
+1 Check Ni 				B864310-8	 N		8
+2 Check Lo 				D864000-8	 N		0
+3 Check He 				D864000-8	 N		0
+Y1900 				D864000-8	 N		0
+
+1105 Starting Data	Spin	3114	Huderu	X575000-0	  	R	0
+1 Check Ni 				X575000-0	  	R	0
+2 Check Lo 				X575000-0	  	R	0
+3 Check He 				X575000-0	  	R	0
+Y1900 				X575000-0	  	R	0
+
+1105 Starting Data	Spin	3118	Cipatwe	B55879A-6	  		6
+1 Check Ni 				B55879A-6	  		6
+2 Check Lo 				B55879A-6	  		6
+3 Check He 				B55879A-6	  		6
+4 Halve PM 				B55879A-6	  		3
+5 Reduce TL 				B55879A-5	  		3
+Y1900 				B55879A-5	  		3
+
+1105 Starting Data	Spin	3119	Vanejen	C686854-5	  		5
+1 Check Ni 				C686854-5	  		5
+2 Check Lo 				C686854-5	  		5
+3 Check He 				C686854-5	  		5
+4 Halve PM 				C686854-5	  		2
+5 Reduce TL 				C686854-0	  		2
+Y1900 				C686854-0	  		2
+
+1105 Starting Data	Spin	3123	Nadrin	D420203-7	S 		9
+1 Check Ni 				D420203-7	S 		9
+2 Check Lo 				D420000-7	S 		0
+3 Check He 				D420000-7	S 		0
+Y1900 				D420000-7	S 		0
+
+1105 Starting Data	Spin	3124	Mora	AA99AC7-F	SN		1
+1 Check Ni 				AA99AC7-F	SN		1
+2 Check Lo 				AA99AC7-F	SN		1
+3 Check He 				AA998C7-F	SN		1
+4 Halve PM 				AA997C7-F	SN		5
+5 Reduce TL 				AA997C7-9	SN		5
+Y1218 				AA99775-9	SN		6
+Y1326 				AA9978B-9	SN		7
+Y1900 				AA9978B-9	SN		7
+
+1105 Starting Data	Spin	3138	Zephyr	C89556A-5	  	A	4
+1 Check Ni 				C89546A-5	  	A	4
+2 Check Lo 				C89546A-5	  	A	4
+3 Check He 				D895000-5	  	A	0
+Y1900 				D895000-5	  	A	0
+
+1105 Starting Data	Spin	3139	Chamois	B544642-5	S 		7
+1 Check Ni 				B544442-5	S 		7
+2 Check Lo 				B544442-5	S 		7
+3 Check He 				D544000-5	S 		0
+Y1900 				D544000-5	S 		0
+
+1105 Starting Data	Spin	3202	Junidy	B434ABD-B	W 	A	3
+1 Check Ni 				B434ABD-B	W 	A	3
+2 Check Lo 				B434ABD-B	W 	A	3
+3 Check He 				B434ABD-B	W 	A	3
+4 Halve PM 				B434ABD-B	W 	A	1
+5 Reduce TL 				B434ABD-8	W 	A	1
+Y1254 				B434ABB-8	W 	A	2
+Y1308 				B434ADF-8	W 	A	3
+Y1326 				B434A79-8	W 	A	4
+Y1416 				B434AEF-8	W 	A	5
+Y1506 				B434ABB-8	W 	A	6
+Y1596 				B434AAC-8	W 	A	7
+Y1668 				B434A9D-8	W 	A	8
+Y1776 				B434A9D-8	W 	A	9
+Y1900 				B434A9D-8	W 	A	9
+
+1105 Starting Data	Spin	3207	Patinir	C000632-9	  		2
+1 Check Ni 				C000632-9	  		2
+2 Check Lo 				C000632-9	  		2
+3 Check He 				C000632-9	  		2
+4 Halve PM 				C000632-9	  		1
+5 Reduce TL 				C000632-5	  		1
+Y1218 				C000656-5	  		2
+Y1308 				C0006B8-5	  		3
+Y1362 				C0006AB-5	  		4
+Y1416 				C000679-5	  		5
+Y1524 				C000624-5	  		6
+Y1900 				C000624-5	  		6
+
+1105 Starting Data	Spin	3209	Natoko	B582211-8	 N		8
+1 Check Ni 				B582211-8	 N		8
+2 Check Lo 				D582000-8	 N		0
+3 Check He 				D582000-8	 N		0
+Y1900 				D582000-8	 N		0
+
+1105 Starting Data	Spin	3210	Reacher	C9A8542-8	  	A	2
+1 Check Ni 				C9A8542-8	  	A	2
+2 Check Lo 				C9A8542-8	  	A	2
+3 Check He 				C9A8542-8	  	A	2
+4 Halve PM 				C9A8542-8	  	A	1
+5 Reduce TL 				C9A8542-3	  	A	1
+Y1900 				C9A8542-3	  	A	1
+
+1105 Starting Data	Spin	3212	Margesi	A576257-C	SN		9
+1 Check Ni 				A576257-C	SN		9
+2 Check Lo 				D576000-C	SN		0
+3 Check He 				D576000-C	SN		0
+Y1900 				D576000-C	SN		0
+
+1105 Starting Data	Spin	3216	Bevey	D4209CC-A	S 	A	2
+1 Check Ni 				D4209CC-A	S 	A	2
+2 Check Lo 				D4209CC-A	S 	A	2
+3 Check He 				D4209CC-A	S 	A	2
+4 Halve PM 				D4209CC-A	S 	A	1
+5 Reduce TL 				D4209CC-4	S 	A	1
+Y1900 				D4209CC-4	S 	A	1
+
+1105 Starting Data	Spin	3218	Tacaxeb	C430411-B	  		8
+1 Check Ni 				C430211-B	  		8
+2 Check Lo 				D430000-B	  		0
+3 Check He 				D430000-B	  		0
+Y1900 				D430000-B	  		0
+
+1105 Starting Data	Spin	3220	Powaza	C787566-5	  		3
+1 Check Ni 				C787266-5	  		3
+2 Check Lo 				D787000-5	  		0
+3 Check He 				D787000-5	  		0
+Y1900 				D787000-5	  		0
+
+1105 Starting Data	Spin	3223	Dojodo	C512311-7	S 		7
+1 Check Ni 				C512311-7	S 		7
+2 Check Lo 				D512000-7	S 		0
+3 Check He 				D512000-7	S 		0
+Y1900 				D512000-7	S 		0
+
+1105 Starting Data	Spin	3228	Fenl's Gren	C647346-9	  	A	4
+1 Check Ni 				C647346-9	  	A	4
+2 Check Lo 				D647000-9	  	A	0
+3 Check He 				D647000-9	  	A	0
+Y1900 				D647000-9	  	A	0
+
+1105 Starting Data	Spin	3233	Ramiva	B3107A7-8	  		9
+1 Check Ni 				B3107A7-8	  		9
+2 Check Lo 				B3107A7-8	  		9
+3 Check He 				B3107A7-8	  		9
+4 Halve PM 				B3107A7-8	  		4
+5 Reduce TL 				B3107A7-5	  		4
+Y1900 				B3107A7-5	  		4
+
+1105 Starting Data	Spin	3235	Trin	A894A96-F	SN		1
+1 Check Ni 				A894A96-F	SN		1
+2 Check Lo 				A894A96-F	SN		1
+3 Check He 				A894A96-F	SN		1
+4 Halve PM 				A894996-F	SN		5
+5 Reduce TL 				A894996-D	SN		5
+Y1900 				A894996-D	SN		5
+
+1105 Starting Data	Spin	3236	Hazel	C645747-5	  	A	1
+1 Check Ni 				C645747-5	  	A	1
+2 Check Lo 				C645747-5	  	A	1
+3 Check He 				C645747-5	  	A	1
+4 Halve PM 				C645647-5	  	A	5
+5 Reduce TL 				C645647-3	  	A	5
+Y1900 				C645647-3	  	A	5
+
