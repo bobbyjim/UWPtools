@@ -1,5 +1,0 @@
----
-default: wave-only
-inflection-ring: 9855
-preserve-by-allegiance: [ 'RrGx', 'DuMx' ]
-preserve-by-sector-and-hex: [ Spin: [ 1223 ] ]

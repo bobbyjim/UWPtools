@@ -1,10 +1,14 @@
 
-#  subset UwpType of Str where * ~~ /^<[ABCDEFGHXY]>\d\d\d\d\d\d\-\w$/;
-
 class UWP is export {
 
+    has Str $!sector;
+	has Str $!SS;
     has Str $!hex;
 	has Str $!name;
+
+	has Int $!HZ is default(0);
+
+	has Str $!cached-uwp;
 
 	has Str $!starport;
 	has Int $!siz;
@@ -19,8 +23,8 @@ class UWP is export {
 
     has Str @!specialRemarks;
 
-	has Bool $!hasNIL;
 	has Str  $!NIL;
+	has Str  $!calculatedNIL;
 
 	has Str $!scout-base;
 	has Str $!navy-base;
@@ -31,7 +35,7 @@ class UWP is export {
 	has Str $!allegiance;
 
 	has Str $!stars;
-	has Str $!ix;
+	has Int $!ix;
 	
 	has Int $!resources;
 	has Int $!base-resources;
@@ -39,15 +43,14 @@ class UWP is export {
 	has Int $!infrastructure;
 	has Int $!efficiency;
 
-	has Str $!cx;	
-	has Str $!nobility;
-	has Str $!otherWorlds;
-	has Str $!RU;
+	has Str $!cx;
 
-	my %hdh = ( 0=>0, 1=>1, 2=>2, 3=>3, 4=>4, 5=>5, 6=>6, 7=>7, 8=>8,
-	9=>9, A=>10, B=>11, C=>12, D=>13, E=>14, F=>15, G=>16, H=>17, J=>18,
-	10=>'A', 11=>'B', 12=>'C', 13=>'D', 14=>'E', 15=>'F', 16=>'G', 17=>'H', 18=>'J',
-	);
+	has Str $!nobility;
+	has Int $!otherWorlds;
+	has Int $!RU;
+
+	my %h2d = ((0..9),('A'..'H'),('J'..'N'),('P'..'Z')).flat Z=> (0..33);
+	my %d2h = ((0..33) Z=> ((0..9),('A'..'H'),('J'..'N'),('P'..'Z')).flat);
 
 	method minflux {
 		my $f1 = (^6).pick - (^6).pick;
@@ -55,10 +58,14 @@ class UWP is export {
 		$f1 = 1  if $f1 > 0;
 		return $f1;
 	}
+	
+	method init-remarks {
+		$!cached-uwp = '';
+	}
 
     method get-planetary-remarks {
 		my @r;
-		my $str = &.show;
+		my $str = &.study-uwp;
 
 		push @r, 'As' if $str ~~ /^.000/;
 		push @r, 'De' if $str ~~ /^..<[2..9]>0/;
@@ -67,47 +74,53 @@ class UWP is export {
 		push @r, 'He' if $str ~~ /^.<[3..9ABC]><[2479ABC]><[012]>/;
 		push @r, 'Ic' if $str ~~ /^..<[01]><[1..9A]>/;
 		push @r, 'Oc' if $str ~~ /^.<[A..F]><[3..9DEF]>A/;
-		push @r, 'Va' if $str ~~ /^.<[^0]>0/;
+		push @r, 'Va' if $!atm == 0;
 		push @r, 'Wa' if $str ~~ /^.<[3..9]><[3..9DEF]>A/;
 
-		return @r.join(' ');
+		return @r;
 	}
 
 	method get-population-remarks {
 		my @r;
-		my $str = &.show;
+		my $str = &.study-uwp;
 
         push @r, 'Cy' if $str ~~ /^....<[5..9A]>6<[0123]>/; # COLONY ADDED HERE.
-		push @r, 'Di' if $str ~~ /^....000\-<[^0]>/;
-		push @r, 'Ba' if $str ~~ /^....000\-0/;
-		push @r, 'Lo' if $str ~~ /^....<[123]>/;
-		push @r, 'Ni' if $str ~~ /^....<[456]>/;
-		push @r, 'Ph' if $str ~~ /^....8/;
+		push @r, 'Di' if $!pop == 0 && $!tl > 0;
+		push @r, 'Ba' if $!pop == 0 && $!tl == 0;
+		push @r, 'Lo' if 0 < $!pop <= 3;
+		push @r, 'Ni' if 4 <= $!pop <= 6;
+		push @r, 'Ph' if $!pop == 8;
 		push @r, 'Hi' if $!pop >= 9;
 
-		return @r.join(' ');
+		return @r;
 	}
 
 	method get-economic-remarks {
 		my @r;
-		my $str = &.show;
+		my $str = &.study-uwp;
 
-		push @r, 'Pa' if $str ~~ /^..<[4..9]><[4..8]><[48]>/;
-		push @r, 'Ag' if $str ~~ /^..<[4..9]><[4..8]><[567]>/;
+		if 4 <= $!atm <= 9 && 4 <= $!hyd <= 8 {
+			push @r, 'Pa' if $!pop == 4 || $!pop == 8;
+			push @r, 'Ag' if 5 <= $!pop <= 7;
+		}
+
 		push @r, 'Na' if $str ~~ /^..<[0123]><[0123]><[6789A..F]>/;
 		push @r, 'Px' if $str ~~ /^..<[23AB]><[1..5]><[3456]>.<[6789]>/;
 		push @r, 'Pi' if $str ~~ /^..<[012479]>.<[78]>/;
 		push @r, 'In' if $str ~~ /^..<[012479ABC]>.<[9A..F]>/;
 		push @r, 'Po' if $str ~~ /^..<[2345]><[0123]>/;
-		push @r, 'Pr' if $str ~~ /^..<[68]>.<[59]>/;
-		push @r, 'Ri' if $str ~~ /^..<[68]>.<[678]>/;
 
-		return @r.join(' ');
+		if $!atm == 6 || $!atm == 8 {
+			push @r, 'Pr' if $!pop == 5 || $!pop == 9;
+			push @r, 'Ri' if 6 <= $!pop <= 8;
+		}
+
+		return @r;
 	}
 
 	method get-climate-remarks( Int $hz ) {
 		my @r;
-		my $str = &.show;
+		my $str = &.study-uwp;
 
 		push @r, 'Fr' if $hz > 1 && $str ~~ /^.<[2..9]>.<[1..9A]>/;
 		push @r, 'Ho' if $hz < 0;
@@ -115,48 +128,25 @@ class UWP is export {
 		push @r, 'Tr' if $hz < 0 && $str ~~ /^.<[6789]><[4..9]><[3..7]>/;
 		push @r, 'Tu' if $hz > 0 && $str ~~ /^.<[6789]><[4..9]><[3..7]>/;
 
-		return @r.join(' ');
+		return @r;
 	}
 
-    #
-	#  If we don't already know, then respond based on the data. 
-	#
-    method determine-NIL {
-		my $str = &.show;
-
-		return "(XN)"   if $str ~~ /^..0<[2..9DEF]>.0..\-0$/;
-		return "(EXN)"  if $str ~~ /^..<[ABC]>.0..\-0$/;    
-		return "(CXN)"  if $str ~~ /^..0<[2..9DEF]>.0..\-<[^0]>$/;
-		return "(CEXN)" if $str ~~ /^..<[ABC]>.0..\-<[^0]>$/;    
-
-        return "" if $!pop < 7;
-
-		return "(ENIL)" if $str ~~ /^..<[ABC]>/;
-		return "(NIL)"  if $str ~~ /^..<[2..9DEF]>/;
-
-		return ""; # finally
+    method show-bases {
+		my $bases = '';
+		return ($!navy-base  ?? $!navy-base  !! '')
+		     ~ ($!scout-base ?? $!scout-base !! ' ');
 	}
 
-    method set-NIL( Bool $b ) {
-		$!hasNIL = $b;
-	}
-	
-	method set-pm( Int $pm ) {
-		$!pop-mult = $pm;
+	method show-PBG {
+		return $!pop-mult ~ $!belts ~ $!ggs;
 	}
 
-	method set-zone( Str $z ) {
-		$!zone = $z;
-	}
-
-    method get-bases {
-		return ($!scout-base ?? $!scout-base !! ' ')
-		     ~ ($!navy-base  ?? $!navy-base  !! '');
-	}
-
+    method get-name { $!name }
+    method get-hex { $!hex }
     method get-tl { $!tl }
 	method get-pm { $!pop-mult }
 	method get-zone { $!zone }
+	method get-allegiance { $!allegiance || '' }
 
     method is-dieback(-->Bool) {
 		if ($!pop == 0)
@@ -164,11 +154,29 @@ class UWP is export {
 			$!pop-mult = 0;
 			$!gov      = 0;
 			$!law      = 0;
-			$!starport = 'D' if $!starport ~~ /<[ABC]>/;
-			$!starport = 'G' if $!starport ~~ /<[F]>/;
+			if $!starport ~~ /<[ABC]>/ {
+				$!starport = ('D','E','X')[(^3).pick];
+				#
+				#  Let's kill the bases and set the zone to "Ruin"
+				#
+				$!navy-base = 'T' if $!navy-base || $!scout-base; # ruins
+				$!scout-base = '';
+			}
+			if $!starport ~~ /<[F]>/ {
+				$!starport = ('G','H','Y')[(^3).pick];
+			}
 			return True;
 		}
 		return False;
+	}
+
+	method kill-bases {
+		$!navy-base = '';
+		$!scout-base = '';
+	}
+
+    method set-allegiance( $alleg ) {
+		$!allegiance = $alleg;
 	}
 
 #
@@ -193,57 +201,77 @@ class UWP is export {
 #	RU
 #
     method build( %uwpLine ) {
+		$!sector 		= %uwpLine{'Sector'};
+		$!SS     		= %uwpLine{'SS'};
+		$!hex			= %uwpLine{'Hex'};
+		$!name			= %uwpLine{'Name'};
+
 		&.parse( %uwpLine{'UWP'} );
 		&.parseBases( %uwpLine{'Bases'} );
 		&.parseNIL( %uwpLine{'Remarks'});
 		&.parseSpecialRemarks( %uwpLine{'Remarks'});
-		$!zone         = %uwpLine{'Zone'};
+		$!zone			= %uwpLine{'Zone'};
 		&.parsePBG( %uwpLine{'PBG'});
-		$!allegiance   = %uwpLine{'Allegiance'};
-		$!stars        = %uwpLine{'Stars'};
+		$!allegiance	= %uwpLine{'Allegiance'};
+		$!stars			= %uwpLine{'Stars'};
 		&.parseIx( %uwpLine{'{Ix}'});
 	    &.parseEx( %uwpLine{'(Ex)'}, $!tl, $!belts, $!ggs ); 
-	    $!cx           = %uwpLine{'[Cx]'};
-	    $!nobility     = %uwpLine{'Nobility'};
-	    $!otherWorlds  = %uwpLine{'W'};   
-	    $!RU           = %uwpLine{'RU'};
+	    &.parseCx( %uwpLine{'[Cx]'} );
+	    $!nobility		= %uwpLine{'Nobility'};
+	    $!otherWorlds	= %uwpLine{'W'}.Int;   
+	    $!RU			= %uwpLine{'RU'}.Int;
+
+		&.calc-NIL; # before we do things to the data!
 	}
 
     method parseIx( $ix ) {
-		$!ix = $ix;
-		$!ix ~~ s:g/<[{} ]>//;
+		my $tmp = $ix;
+		$tmp ~~ s:g/<[{}\s]>//;
+		$!ix = $tmp.Int;
 	}
 
 	method parseEx( $ex, $tl, $belts, $ggs ) {
 		#
 		#  NNNsN, where s is sign + or -
-		#
+		#		
 		my $sign;
 		my $temp-ex = $ex;
 		$temp-ex ~~ s:g/<[()\s]>//;
 		my @temp-ex = $temp-ex.split('');
-	    
-		$!resources 	 = %hdh{ @temp-ex[1] };
-		$!labor     	 = %hdh{ @temp-ex[2] };
-		$!infrastructure = %hdh{ @temp-ex[3] };
-		$!efficiency     = @temp-ex[5].Int;
-		$!efficiency = -$!efficiency if @temp-ex[4] eq '-';
 
-		$!base-resources = $!resources;
-		$!base-resources = $!base-resources - $belts - $ggs if $tl < 8;
-		$!base-resources = 2 if $!base-resources < 2;  # Sanity check.  2 is the lowest roll on 2D
+		if @temp-ex {
+			$!resources 	 = %h2d{ @temp-ex[1] };
+			$!labor     	 = %h2d{ @temp-ex[2] };
+			$!infrastructure = %h2d{ @temp-ex[3] };
+			$!efficiency     = @temp-ex[5].Int;
+			$!efficiency = -$!efficiency if @temp-ex[4] eq '-';
+			$!base-resources = $!resources;              # if tl < 8
+			$!base-resources = $!resources - $belts - $ggs if $!tl >= 8;
+			$!base-resources = 2 if $!base-resources < 2;  # Sanity check.  2 is the lowest roll on 2D
+		} else {
+			$!base-resources = (^6).pick + (^6).pick + 2;
+			&.calc-resources;
+			&.calc-labor;
+			&.calc-infrastructure;
+			&.calc-efficiency;
+		}
+	}
+
+	method parseCx( $cx ) {
+		$!cx = $cx;
+		$!cx ~~ s:g/\W//;
 	}
 
 	method parse( $uwp ) {
 		my ($garbage, $starport, $siz, $atm, $hyd, $pop, $gov, $law, $dash, $tl) = $uwp.split('');
 		$!starport = $starport;
-		$!siz = %hdh{ $siz };
-		$!atm = %hdh{ $atm };
-		$!hyd = %hdh{ $hyd };
-		$!pop = %hdh{ $pop }; 
-		$!gov = %hdh{ $gov };
-		$!law = %hdh{ $law };
-		$!tl  = %hdh{ $tl };
+		$!siz = %h2d{ $siz };
+		$!atm = %h2d{ $atm };
+		$!hyd = %h2d{ $hyd };
+		$!pop = %h2d{ $pop }; 
+		$!gov = %h2d{ $gov };
+		$!law = %h2d{ $law };
+		$!tl  = %h2d{ $tl };
 
 		# determine initial TL roll
 		$!initial-tl-roll = $!tl;
@@ -275,8 +303,7 @@ class UWP is export {
 	}
 
 	method parseBases( $bases ) {
-		$!scout-base = '';
-		$!navy-base  = '';
+		&.kill-bases;
 
 		$!scout-base = 'S' if $bases ~~ /S/;
 		$!scout-base = 'W' if $bases ~~ /W/;
@@ -299,17 +326,34 @@ class UWP is export {
 	method parseSpecialRemarks( $remarks ) {
 		# we're looking for any of:ab an cp cs cx sa lk mr re 
 		@!specialRemarks = ();
-		my $str = &.show;
+		my $str = &.study-uwp;
 
-        for 'ab', 'an', 'cp', 'cs', 'cx', 'lk', 'mr', 're', 'sa' {
-			push @!specialRemarks, $_ if $remarks ~~ /$_ /;
-		}				
+        for 'Ab', 'An', 'Cp', 'Cs', 'Cx', 'Lk', 'Mr', 'Re', 'Sa' -> $code {
+			push @!specialRemarks, $code if $remarks ~~ /$code /;
+		}
 	}
 
-	method recalc-tl {
+    #
+	#  Calculate based on the data. 
+	#
+    method calc-NIL {
+		my $str = &.study-uwp;
+
+		$!calculatedNIL = "";
+
+		#$!calculatedNIL = "(XN)"   if $str ~~ /^..0<[2..9DEF]>.0..\-0$/;			# extinct
+		#$!calculatedNIL = "(EXN)"  if $str ~~ /^..<[ABC]>.0..\-0$/;    			# extinct
+		#$!calculatedNIL = "(CXN)"  if $str ~~ /^..0<[2..9DEF]>.0..\-<[^0]>$/;		# extinct
+		#$!calculatedNIL = "(CEXN)" if $str ~~ /^..<[ABC]>.0..\-<[^0]>$/;    		# extinct
+
+		$!calculatedNIL = "(ENIL)" if $str ~~ /^..<[ABC]>.<[789A..F]>/;
+		$!calculatedNIL = "(NIL)"  if $str ~~ /^..<[2..9DEF]>.<[789A..F]>/;
+	}
+
+	method calc-tl( $tldm ) {
 		return if $!pop == 0;
 
-		$!tl = $!initial-tl-roll;
+		$!tl = $!initial-tl-roll + $tldm;
 		$!tl += 6 if $!starport eq 'A';
 		$!tl += 4 if $!starport eq 'B';
 		$!tl += 2 if $!starport eq 'C';
@@ -327,60 +371,115 @@ class UWP is export {
 		$!tl += 4 if $!pop >= 10;
 		$!tl += 1 if $!gov == 0 || $!gov == 5;
 		$!tl += 2 if $!gov == 13;
+
+		$!tl = 0 if $!tl < 0;
 	}
 
-	method calc-extensions-and-RU {
-		#
-		#  First, re-calc Importance
-		#
+    method calc-resources {
+		$!resources = $!base-resources if $!tl < 8;
+		$!resources = $!base-resources + $!belts + $!ggs if $!tl >= 8;
+	}
+
+    method calc-importance {
 		$!ix = 0;
-		$!ix = 1 if $!.starport ~~ /<[AB]>/;
+
+		$!ix = 1 if $!starport ~~ /<[AB]>/;
 		++$!ix   if $!tl >= 10;
 		++$!ix   if $!tl >= 16;  # bump for TLG+
-		--$!ix   if $!.starport ~~ /<[DEX]>/;
-		--$!ix   if $!.tl <= 8;
-		--$!ix   if $.pop <= 6;
+		--$!ix   if $!starport ~~ /<[DEX]>/;
+		--$!ix   if $!tl <= 8;
+		--$!ix   if $!pop <= 6;
 
-		my $str = $.show;
+		my $str = &.get-population-remarks
+		        ~ &.get-economic-remarks;
 
 		++$!ix   if $str ~~ /Ag/;
 		++$!ix   if $str ~~ /Hi/;
 		++$!ix   if $str ~~ /In/;
 		++$!ix   if $str ~~ /Ri/;
 
-		my $bases = &.get-bases;
-		++$!ix    if $bases ~~ /(NS|W|CK)/;
+		my $bases = &.show-bases;
+		++$!ix    if $bases ~~ /(NS|W|CK|D)/;
+	}
 
-		#
-		#  Second, re-calculate RU
-		#
-		$!resources = $!base-resources;
-		$!resources += $!belts + $!ggs if $!tl >= 8;
-
+	method calc-labor {
 		$!labor = $!pop - 1;
 		$!labor = 0 if $!pop == 0;
+	}
 
-		$!infrastructure = $!ix;                           # pop 123
+    method calc-infrastructure {
+		$!infrastructure = $!ix;                          # pop 123
 		$!infrastructure += ((^6).pick+1) if $!pop >= 4;  # pop 456 = +1D
 		$!infrastructure += ((^6).pick+1) if $!pop >= 7;  # pop 7+  = +2D total
 		$!infrastructure = 0 if $!pop == 0;
 		$!infrastructure = 0 if $!infrastructure < 0;
+	}
 
+	method calc-efficiency {
 		$!efficiency = (^6).pick - (^6).pick;
 		$!efficiency = 1 if $!efficiency == 0;	           # convenience
+	}
 
+	method calc-extensions-and-RU {
+		&.calc-importance;
+		&.calc-resources;
+		&.calc-labor;
+		&.calc-infrastructure;
+		&.calc-efficiency;
 		&.calc-RU;
+		&.calc-cx;
 	}
 
 	method calc-RU {
 		$!RU  = $!resources;			# R
 		$!RU *= $!labor || 1;			# L
 		$!RU *= $!infrastructure || 1;	# I 
-		$!RU *= $!efficiency;
+		$!RU *= $!efficiency;			# E
+	}
+
+	method calc-cx {
+
+		$!cx = "0000" if $!pop == 0;
+		return if $!pop == 0;
+
+		my $heterogeneity = $!pop + (^6).pick - (^6).pick;
+		my $acceptance    = $!pop + $!ix;
+		my $strangeness   = (^6).pick - (^6).pick + 5;
+		my $symbols		  = (^6).pick - (^6).pick + $!tl;
+
+		$heterogeneity = 1 if $heterogeneity < 1;
+		$acceptance    = 1 if $acceptance < 1;
+		$strangeness   = 1 if $strangeness < 1;
+		$symbols  	   = 1 if $symbols < 1;
+
+		$!cx =  %d2h{ $heterogeneity }.Str;
+		$!cx ~= %d2h{ $acceptance }.Str;
+		$!cx ~= %d2h{ $strangeness }.Str;
+		$!cx ~= %d2h{ $symbols }.Str;
 	}
 	
-	method calc-nobility {
+	method show-nobility {
 
+		&.study-uwp;
+		my @remarks = &.get-planetary-remarks.flat,
+				     &.get-population-remarks.flat,
+				     &.get-economic-remarks.flat,
+				     &.get-climate-remarks($!HZ).flat,
+ 				     @!specialRemarks.flat;
+
+		my $remarks = @remarks.join( ' ' );
+
+		my @nobility = ('B');
+		@nobility.push('c') if $remarks ~~ /Pa|Pr/;
+		@nobility.push('C') if $remarks ~~ /Ag|Ri/;
+		@nobility.push('D') if $remarks ~~ /Pi/;
+		@nobility.push('e') if $remarks ~~ /Ph/;
+		@nobility.push('E') if $remarks ~~ /In|Hi/;
+		@nobility.push('f') if $!ix >= 4 && $remarks !~~ /Cp|Cs|Cx/;
+		@nobility.push('F') if $remarks ~~ /Cp|Cs/;
+
+		$!nobility = @nobility.join('');
+		return $!nobility;
 	}
 
     method adjust-pop( Int $amount ) {
@@ -444,7 +543,8 @@ class UWP is export {
 
     method reroll-gov {
 		return if $!pop == 0;
-		$!gov = $!pop - 7 + (^6).pick + 1 + (^6).pick + 1;
+ 	    $!gov = $!pop - 7 + (^6).pick + 1 + (^6).pick + 1;
+		$!gov = 7 if $!gov == 6;	# we're not going to allow a Colony Gov.
 		$!gov = 0 if $!gov < 0;
 	}
 
@@ -457,41 +557,71 @@ class UWP is export {
 	method reroll-gov-and-law {
 		&.reroll-gov;
 		&.reroll-law(0);
+		$!cached-uwp = '';
 	}
 
-	method show {
-		my $out = $!starport;
-		$out ~= %hdh{ $!siz };
-		$out ~= %hdh{ $!atm };
-		$out ~= %hdh{ $!hyd };
-		$out ~= %hdh{ $!pop };
-		$out ~= %hdh{ $!gov };
-		$out ~= %hdh{ $!law };
-		$out ~= '-';
-	 	$out ~= %hdh{ $!tl };
-		return $out;
+    #
+	#  Try to cache the call to show-uwp for trade remark use.
+	#
+    method study-uwp {
+		$!cached-uwp = &.show-uwp unless $!cached-uwp;
+		return $!cached-uwp;
+	}
+	
+ 	method show-uwp {
+		my @out;
+		@out.push( $!starport, 
+				%d2h{ $!siz },
+				%d2h{ $!atm },
+		        %d2h{ $!hyd },
+		        %d2h{ $!pop },
+		        %d2h{ $!gov },
+		        %d2h{ $!law },
+		        '-',
+	 	        %d2h{ $!tl } );
+		return @out.join('');
 	}
 
-    method show-Ix {
+    method show-uwp-Ix {
 		return "{$!ix}";
 	}
 
-	method show-Ex {
-		my $out = %hdh{ $!resources };
-		$out ~= %hdh{ $!labor };
-		$out ~= %hdh{ $!infrastructure };
+	method show-uwp-Ex {
+		&.calc-resources;
+		my $out = %d2h{ $!resources };
+		$out ~= %d2h{ $!labor };
+		$out ~= %d2h{ $!infrastructure };
 		$out ~= '-' if $!efficiency < 0;
 		$out ~= '+' if $!efficiency >= 0;
-		$out ~= %hdh{ $!efficiency.abs };
+		$out ~= %d2h{ $!efficiency.abs };
 		return "($out)";
+	}
+
+	method show-uwp-Cx {
+		return "[$!cx]";
 	}
 
     method virus0-init {
 		$!zone = '';
+		$!cx = "0000";
 	}
 
+    #
+	#  MODIFIED:
+	#
+	#  The Virus process is here modified to account for native intelligent life,
+	#  which by T5 is half of the population of a POP 9+ world, and most of the pop
+	#  of a POP 8- world.
+	#
     method virus1a-kill-inhospitable-worlds(-->Bool) {
-		$!pop = 0 if $!atm ~~ /<[0123ABC]>/;
+		return unless $!atm ~~ /<[0123ABC]>/;
+
+		# So NIL here means adapted to the exotic environment.
+
+		$!pop = 0 		unless $!NIL;			# 100% off-worlders
+		&.halve-pm      if $!NIL && $!pop >= 9;	# 50% off-worlders
+		&.adjust-pm(-1) if $!NIL && $!pop <= 8; # 10% off-worlders
+
 		return &.is-dieback;
 	}
 
@@ -598,10 +728,13 @@ class UWP is export {
 		#
 		&.randomize-transient-population if 1 <= $!pop <= 3;
 		&.adjust-pm(1) if $!pop >= 4;
+
+		&.calc-extensions-and-RU;
 	}
 
     method wave0-init {
 		$!zone = '';
+		$!cx = "0000";
 	}
 
 	method wave1-check-ni {
@@ -628,10 +761,12 @@ class UWP is export {
 		&.is-dieback;
 	}
 
-	method wave4-do-one-recovery-epoch {
+	method wave4-do-one-recovery-epoch( $tlmod ) {
 		&.adjust-pm( &.minflux() );
 		&.adjust-tl( &.minflux() );
 		&.reroll-gov-and-law;
+		&.calc-tl( $tlmod );
+		&.calc-extensions-and-RU;
 	}		
 
 	method do-virus-except-recovery {
@@ -643,6 +778,8 @@ class UWP is export {
 	   &.virus4-low-pop;
 	   &.virus56-starport-and-bases;
 	   &.virus78-balkanized-ted;
+
+	   &.calc-extensions-and-RU;
 	}
 
 	method do-wave-except-recovery {
@@ -653,8 +790,61 @@ class UWP is export {
 		
 		if ! &.is-dieback {
 			&.halve-pm;
-			my $tlReduction = 2;
-			&.adjust-tl( -$tlReduction );
+			&.reroll-gov-and-law;
+			&.calc-tl(-2)
 		}
+
+		&.calc-extensions-and-RU;
+	}
+
+	method show-line {
+		my @remarks = &.get-planetary-remarks.flat,
+				     &.get-population-remarks.flat,
+				     &.get-economic-remarks.flat,
+				     &.get-climate-remarks($!HZ).flat,
+				     @!specialRemarks.flat;
+
+		my $remarks = @remarks.sort.join( ' ' ) ~ ' ';
+		$remarks ~= $!NIL || $!calculatedNIL;
+
+		my @out;
+		@out.push( $!sector, 
+			$!SS, 
+			$!hex, 
+			$!name, 
+			&.show-uwp, 
+			&.show-bases, 
+			$remarks,
+			&.get-zone,
+			&.show-PBG,
+			$!allegiance,
+			$!stars,
+			&.show-uwp-Ix,
+			&.show-uwp-Ex,
+			&.show-uwp-Cx,
+			&.show-nobility,
+			$!otherWorlds,
+			$!RU
+		);
+		return @out.join( "\t" );
+
+#		my $out = $!sector;
+#		$out ~= "\t"	~ $!SS;
+#		$out ~= "\t"	~ $!hex;
+#		$out ~= "\t"	~ $!name;
+#		$out ~= "\t"	~ &.show-uwp;
+#		$out ~= "\t"	~ &.show-bases;
+#		$out ~= "\t"	~ $remarks;
+#		$out ~= "\t"	~ &.get-zone;
+#		$out ~= "\t"	~ &.show-PBG;
+#		$out ~= "\t"	~ $!allegiance;
+#		$out ~= "\t"	~ $!stars;
+#		$out ~= "\t"	~ &.show-uwp-Ix;
+#		$out ~= "\t"	~ &.show-uwp-Ex;
+#		$out ~= "\t"	~ &.show-uwp-Cx;
+#		$out ~= "\t"	~ &.show-nobility;
+#		$out ~= "\t"	~ $!otherWorlds;
+#		$out ~= "\t"	~ $!RU;
+#		return $out;
 	}
 }

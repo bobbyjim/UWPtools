@@ -1,0 +1,12 @@
+
+default-order = [ "virus", "wave" ]
+
+[location]
+y = 1
+x = 1
+
+[virus]
+preserve-by-hex = ""
+preserve-by-allegiance = ""
+
+[wave]

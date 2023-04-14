@@ -1,0 +1,425 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Cruc	A	0101	Aiwo	D685721-6	 	   Ag Ri Ga (NIL)	B	602	NaHu	A9 V F0 V	0	(965-3)	[6723]	BC	10	-810
+Cruc	A	0103	Boe	X897858-4	 	   Pa Pi Ph (NIL)	B	301	NaHu	G2 V K7 V	-2	(A76-2)	[8653]	BcDe	12	-840
+Cruc	A	0106	Acier	XAC5000-9	 	   Di Fl 		020	NaHu	F9 V M1 V	-2	(A00+1)	[0000]	B	12	10
+Cruc	A	0109	Yaren	E574430-7	 	   Ni Pa 		310	NaHu	K1 V M2 V	-3	(632-1)	[2184]	Bc	7	-36
+Cruc	E	0113	Jammu	D75A120-7	 	   Lo Wa 		500	NaHu	G6 V	-3	(500-2)	[1182]	B	8	-10
+Cruc	E	0120	Negril	X652675-2	 	   Ni Po 	B	812	NaHu	K4 V	-3	(853-4)	[8334]	B	12	-480
+Cruc	I	0121	Okaya	X629000-A	 	   Di Pi (NIL)		004	GlFe	M3 V	-1	(E00-1)	[0000]	BD	16	-14
+Cruc	I	0123	Suwa	X7C5000-9	 	   Di Fl 		000	NaHu	M1 V	-2	(500-1)	[0000]	B	9	-5
+Cruc	I	0124	Uda	E641135-4	 	  He Lo Po 		403	NaHu	F4 V	-3	(400+1)	[1144]	B	12	4
+Cruc	I	0129	Kilchu	X431000-6	 	   Di Po 		000	NaHu	F3 V M1 V	-3	(300+2)	[0000]	B	11	6
+Cruc	M	0136	Zynki	X78A144-0	 	   Lo Wa 		404	NaHu	K7 V	-3	(500-1)	[4142]	B	13	-5
+Cruc	M	0140	K'Mara	X534000-A	 	    Di (NIL)		011	KaWo	G8 V M1 V	-1	(B00+1)	[0000]	B	10	11
+Cruc	A	0202	Baiti	X57556C-7	 	   Ag Ni 	B	320	NaHu	G5 V M7 V	-2	(740-1)	[4376]	BC	10	-28
+Cruc	A	0204	Anetan	E663778-6	 	    Ri 	B	103	NaHu	M3 V	-1	(86B-1)	[A666]	BC	11	-528
+Cruc	A	0206	Nauru	E599140-5	 	    Lo 		100	NaHu	F6 V M4 V	-3	(500-2)	[3134]	B	6	-10
+Cruc	A	0209	Masinloc	X520000-7	 	  De He Di Po 		001	NaHu	M2 V	-3	(400-2)	[0000]	B	8	-8
+Cruc	E	0214	Fauve	X66576E-3	 	   Ag Ri Ga (NIL)	B	603	GdKa	F7 V	0	(96C+1)	[B741]	BC	6	648
+Cruc	E	0215	Nagar	X545696-5	 	   Ag Ni 		412	GdKa	M7 III	-2	(852-2)	[4426]	BC	9	-160
+Cruc	E	0217	Macroform	E5425A9-6	 	  He Ni Po 		300	NaHu	G9 V	-3	(743+4)	[4257]	B	10	336
+Cruc	E	0219	Ochon	X422000-7	 	  Di He Po 		003	NaHu	M0 V	-3	(600-1)	[0000]	B	11	-6
+Cruc	I	0222	Odate	B541633-6	 	  He Ni Po 	B	400	GlFe	M0 V	-1	(854+1)	[3558]	B	8	160
+Cruc	I	0225	Kobe	C553633-7	 	   Ni Po 		601	NaHu	M1 V M3 V	-2	(854+1)	[A48A]	B	9	160
+Cruc	I	0227	Iida	X8C4000-9	 	   Di Fl (ENIL)		000	NaHu	M3 V M9 V	-2	(A00+3)	[0000]	B	8	30
+Cruc	M	0233	Hmrilma	E562423-5	 	    Ni 		300	NaHu	K6 V	-3	(633-1)	[4139]	B	6	-54
+Cruc	M	0234	Rill	B879777-5	 	    Pi (NIL)	B	211	NaHu	F5 V M1 V	0	(966+2)	[5766]	BD	8	648
+Cruc	M	0238	Sora	X200000-B	 	   Di Va 		004	KaWo	F0 V	-1	(800+1)	[0000]	B	13	8
+Cruc	M	0240	Himrai	X666678-5	 	  Ag Ri Ga Ni 		300	KaWo	M2 III F0 V	-1	(850-5)	[8568]	BC	6	-200
+Cruc	A	0302	Nibok	E554777-8	 	    Ag (NIL)	B	210	NaHu	F5 V	-1	(A68-2)	[4659]	BC	10	-960
+Cruc	A	0304	Masyaf	X756650-5	 	  Ag Ga Ni 		702	NaHu	M3 V	-2	(850-1)	[6428]	BC	7	-40
+Cruc	A	0306	Gali	D797530-6	 	   Ag Ni 		303	NaHu	A8 V	-2	(740-3)	[4377]	BC	9	-84
+Cruc	A	0308	Koniek	X567774-7	 	    Ag Ri (NIL)	B	600	NaHu	K6 V	0	(967+2)	[6724]	BC	8	756
+Cruc	E	0311	Arrah	X543630-6	 	   Ni Po 		310	NaHu	M3 V	-3	(850-1)	[4354]	B	9	-40
+Cruc	E	0314	Kataga	X430000-6	 	  De Di Po 		003	GdKa	M0 V	-3	(600+1)	[0000]	B	14	6
+Cruc	E	0316	Ttrino	C58349C-7	 	    Ni 		310	GdKa	M0 V	-2	(631+1)	[6227]	B	6	18
+Cruc	E	0320	Zhidah	X560176-5	 	   De Lo 		314	NaHu	A3 V	-3	(500+1)	[4135]	B	16	5
+Cruc	I	0321	Nikko	X7648AB-6	 	   Pa Ri Ph (NIL)	B	520	NaHu	M2 V	-1	(A78-5)	[9726]	BcCe	13	-2800
+Cruc	I	0322	Mito	X8B9000-9	 	   Di Fl 		014	NaHu	M0 V	-2	(B00-3)	[0000]	B	15	-33
+Cruc	I	0324	Honjo	X527000-8	 	    Di 		010	NaHu	G0 V M0 V	-3	(800+1)	[0000]	B	12	8
+Cruc	I	0326	Akita	D5687BG-9	 	    Ag Ri (NIL)		704	NaHu	K6 V M3 V	1	(D6B+2)	[587B]	BC	10	1716
+Cruc	I	0330	Oki	X424000-B	 	   Di Px 		000	NaHu	M1 V	-1	(800+1)	[0000]	B	5	8
+Cruc	M	0337	Fmsani	X552526-4	 	   Ni Po 	B	313	NaHu	M1 V M3 V	-3	(740-3)	[1252]	B	10	-84
+Cruc	A	0401	Etzina	D5548CF-6	 	   Pa Ph (NIL)		210	NaHu	M0 V	-2	(A75+3)	[7646]	Bce	12	1050
+Cruc	E	0412	Abony	X544477-6	 	   Ni Pa 		500	GdKa	K8 V	-3	(631+2)	[3137]	Bc	4	36
+Cruc	E	0414	Kronshlot	X554569-1	 	   Ag Ni 	B	202	GdKa	F7 V G0 V	-2	(742+1)	[7371]	BC	13	56
+Cruc	E	0416	Kalradin	X78786A-2	 	 Cx Ga Pa Ri Ph (NIL)	B	500	GdKa	F4 V G4 V	-1	(A76-4)	[9731]	BcCe	9	-1680
+Cruc	E	0418	Flakestar	X425000-8	 	    Di 		011	NaHu	M1 V	-3	(A00+3)	[0000]	B	14	30
+Cruc	I	0421	Biwa	X527000-7	 	   Di Pi (NIL)		022	NaHu	F9 V M0 V	-3	(A00+1)	[0000]	BD	12	10
+Cruc	I	0423	Kuji	D5666BA-8	 	   Ag Ri Ni 		700	NaHu	K8 V	-1	(851-3)	[654A]	BC	8	-120
+Cruc	I	0428	Dogo	X434000-6	 	    Di (NIL)		024	NaHu	G8 V M1 V M3 V	-3	(A00+1)	[0000]	B	14	10
+Cruc	M	0431	Midlo	X69687A-6	 	   Pa Pi Ph (NIL)		200	NaHu	F5 V M7 V	-2	(A72+1)	[8632]	BcDe	8	140
+Cruc	M	0433	Scorch	X420000-7	 	  De He Di Po 		003	NaHu	M0 V	-3	(600+1)	[0000]	B	11	6
+Cruc	M	0439	Sfyri	X55296D-4	 	  Cx Hi Po (NIL)	B	313	KaWo	K5 V	-1	(B8A-1)	[9815]	BE	12	-880
+Cruc	M	0440	Kald	X5A6000-8	 	   Di Fl (ENIL)		005	KaWo	F3 V M1 V M3 V	-3	(F00+2)	[0000]	B	13	30
+Cruc	A	0503	Nashchaug	X000000-A	 	   As Va Di 		034	NaHu	M0 III	-1	(B00-5)	[0000]	B	17	-55
+Cruc	A	0505	Buada	X432000-A	 	   Di Po 		010	NaHu	M3 V	-1	(800-5)	[0000]	B	10	-40
+Cruc	A	0507	Tasmilma	E76878A-8	 	    Ag Ri (NIL)		700	NaHu	F8 V M6 V	0	(965-1)	[B786]	BC	12	-270
+Cruc	A	0508	Arket	X886866-5	 	  Ga Pa Ri Ph (NIL)	B	120	NaHu	G8 V	-1	(A75-1)	[A716]	BcCe	10	-350
+Cruc	A	0510	Vryheid	X400000-A	 	   Di Va 		005	NaHu	G5 V M2 V	-1	(C00+1)	[0000]	B	9	12
+Cruc	E	0515	Oldflight	X563799-9	 	    Ri (NIL)		500	GdKa	F1 V G8 V	0	(968+3)	[679A]	BC	4	1296
+Cruc	E	0520	Shiga	E556238-0	 	    Lo 	B	212	NaHu	K7 V D M9 V	-3	(510+1)	[5141]	B	13	5
+Cruc	I	0521	Kitale	X310000-9	 	    Di 		014	NaHu	M1 V	-2	(B00-1)	[0000]	B	11	-11
+Cruc	I	0526	Mori	E560459-3	 	   De Ni 		600	NaHu	G9 V	-3	(730+2)	[3136]	B	7	42
+Cruc	I	0530	Dozen	E664684-5	 	   Ag Ri Ni 	B	400	NaHu	M3 V	-1	(853+1)	[5565]	BC	9	120
+Cruc	A	0601	Uaboe	C965735-8	 	    Ag Ri (NIL)	B	210	MiCo	F8 V M2 V	1	(A6B-1)	[A84B]	BC	7	-660
+Cruc	A	0606	Martre	E543535-4	 	   Ni Po 	B	200	NaHu	G9 V	-3	(743+2)	[7214]	B	7	168
+Cruc	E	0611	Toboloski	X8B8000-8	 	   Di Fl 		000	NaHu	F8 V M0 V	-3	(600+1)	[0000]	B	7	6
+Cruc	E	0614	Kochi	XA898A6-7	 	   Ph Ri (NIL)	B	700	GdKa	M1 V	-1	(A74+2)	[B769]	BCe	5	560
+Cruc	E	0616	Gifu	XAA9000-8	 	   Di Fl (ENIL)		000	GdKa	M2 V	-3	(A00-3)	[0000]	B	5	-30
+Cruc	E	0617	Mayagi	X736000-8	 	    Di (NIL)		001	GdKa	M1 V	-3	(B00+4)	[0000]	B	8	44
+Cruc	E	0619	Orsu	C76688D-9	 	  Ga Pa Ri Ph (NIL)	B	502	NaHu	K4 V	1	(C7B-1)	[B947]	BcCe	9	-924
+Cruc	I	0621	Maralal	E564754-6	 	    Ag Ri (NIL)	B	404	NaHu	K4 V	0	(963+2)	[B767]	BC	10	324
+Cruc	I	0623	Kure	C544785-6	 	    Ag Pi (NIL)		720	NaHu	M3 V	0	(966+2)	[874B]	BCD	10	648
+Cruc	I	0627	Tsu	X536000-7	 	    Di (NIL)		002	NaHu	K1 V M3 V	-3	(900+3)	[0000]	B	8	27
+Cruc	M	0638	Rasnoe	X423000-8	 	   Di Px Po 		002	NaHu	M1 V	-3	(800+1)	[0000]	B	8	8
+Cruc	M	0640	Tstata	X555535-4	 	   Ag Ni 		213	KaWo	M2 V	-2	(740-1)	[4383]	BC	15	-28
+Cruc	A	0702	Ewa	X200000-C	 	 Cx Di Na Pi Va 		003	MiCo	F8 V M1 V	-1	(D00+2)	[0000]	BD	11	26
+Cruc	A	0704	Abricot	X97A100-8	 	   Lo Wa (NIL)		600	MiCo	K4 V M3 V	-3	(A00+1)	[1173]	B	12	10
+Cruc	A	0707	Babia	X554301-7	 	    Lo 		500	NaHu	M2 V	-3	(420+1)	[2158]	B	4	8
+Cruc	A	0709	Malini	X86A100-5	 	   Lo Wa (NIL)		810	NaHu	K9 V	-3	(A00+1)	[4138]	B	5	10
+Cruc	E	0711	Jaruco	E594878-8	 	   Pa Pi Ph (NIL)		200	NaHu	G8 V	-2	(A7A-5)	[7674]	BcDe	4	-3500
+Cruc	E	0713	Tumuc	X434000-B	 	    Di 		003	NaHu	M3 V	-1	(B00-1)	[0000]	B	8	-11
+Cruc	I	0722	Garba Tula	X696765-4	 	    Ag Pi (NIL)	B	800	NaHu	F8 V M8 V	-1	(964+5)	[9633]	BCD	8	1080
+Cruc	I	0724	Muddo Gashi	X424000-A	 	    Di 		004	NaHu	M2 V	-1	(B00+1)	[0000]	B	10	11
+Cruc	I	0725	Wajir	X310000-B	 	   Di Na 		000	NaHu	A6 V G1 V	-1	(800+1)	[0000]	B	8	8
+Cruc	I	0727	Osaka	B8678CD-A	 	  Ga Pa Ri Ph (NIL)		713	NaHu	M1 V	3	(E7A+1)	[CB99]	BcCe	12	980
+Cruc	I	0729	Ise	X641420-4	 	  He Ni Po 		500	SyRe	F5 V	-3	(731-1)	[1153]	B	5	-21
+Cruc	M	0736	Aldrikin	X656885-4	 	  Ga Pa Ph (NIL)	B	110	SyRe	K7 V	-2	(977+1)	[8686]	Bce	10	441
+Cruc	A	0804	Aldrin	X000000-A	 	   As Va Di 		023	MiCo	M0 V	-1	(B00-2)	[0000]	B	8	-22
+Cruc	A	0807	Genk	E66A774-5	 	   Ri Wa (NIL)		900	NaHu	F5 V	-1	(A68-3)	[9665]	BC	13	-1440
+Cruc	A	0810	Djebeha	X400000-B	 	  Di Na Va 		015	NaHu	K5 V M7 V	-1	(E00+1)	[0000]	B	9	14
+Cruc	E	0811	Berken	E544402-4	 	   Ni Pa 	B	400	NaHu	M3 V	-3	(632+1)	[4161]	Bc	9	36
+Cruc	E	0813	Marada	X58476B-1	 	    Ag Ri (NIL)	B	420	NaHu	G4 V K9 V	0	(968-2)	[8722]	BC	5	-864
+Cruc	E	0817	Serir	X649745-7	 	    Pi (NIL)		810	NaHu	F5 V M7 V	-2	(967-5)	[8576]	BD	10	-1890
+Cruc	E	0818	Tottori	X573230-6	 	    Lo 		503	NaHu	A4 V G8 V	-3	(410+1)	[2155]	B	16	4
+Cruc	I	0823	Kamchina	X000000-7	 	   As Va Di 		020	NaHu	F5 V M1 V M4 V	-3	(600+2)	[0000]	B	7	12
+Cruc	I	0827	Bura	X310000-A	 	    Di 		012	NaHu	M2 V	-1	(900-5)	[0000]	B	6	-45
+Cruc	I	0829	Garissa	X6A9000-B	 	   Di Fl (ENIL)		000	SyRe	M3 V	-1	(A00-1)	[0000]	B	3	-10
+Cruc	I	0830	Tana	X8A7000-9	 	   Di Fl 		004	SyRe	M2 V	-2	(C00+1)	[0000]	B	9	12
+Cruc	M	0831	Syzlin	X64566B-4	 	  Ag Cx Ni (NIL)	B	904	SyRe	G9 V	-2	(952-1)	[1483]	BC	13	-90
+Cruc	M	0833	Zankai	X200000-B	 	  Di Na Va 		003	SyRe	G5 V M3 V	-1	(B00+1)	[0000]	B	12	11
+Cruc	M	0838	Madra	X596489-2	 	   Ni Pa 	B	510	NaHu	G2 V M0 V	-3	(630-1)	[7141]	Bc	5	-18
+Cruc	B	0901	Elsmere	X534000-8	 	   Di Px 		004	MiCo	M1 V	-3	(A00+2)	[0000]	B	13	20
+Cruc	B	0903	Frauten	X767404-5	 	  Ga Ni Pa 		200	MiCo	F1 V M7 V	-3	(630+4)	[1156]	Bc	11	72
+Cruc	B	0904	Dolak	X575774-5	 	    Ag Pi (NIL)	B	704	MiCo	K8 V	-1	(968-1)	[4645]	BCD	9	-432
+Cruc	B	0907	Largo	X55256B-3	 	   Ni Po (NIL)	B	400	NaHu	M3 V	-3	(A40+5)	[6234]	B	6	200
+Cruc	B	0908	Parma	XA87146-6	 	    Lo 	B	700	NaHu	K7 V M4 V	-3	(500-2)	[3124]	B	6	-10
+Cruc	B	0910	Diekirch	E998877-6	 	   Pa Pi Ph (NIL)	B	711	NaHu	M1 V	-2	(A75+1)	[7617]	BcDe	8	350
+Cruc	F	0911	Mangots	X769778-7	 	    Ri (NIL)		301	NaHu	G6 V	-1	(96B-2)	[5699]	BC	6	-1188
+Cruc	F	0913	Kumhwa	D593100-6	 	    Lo 		820	NaHu	F5 V K2 V	-3	(500-4)	[1156]	B	8	-20
+Cruc	F	0915	Ahaggar	X540454-4	 	  De He Ni Po 		604	NaHu	M2 V	-3	(733-5)	[1182]	B	8	-315
+Cruc	F	0918	Koslin	X557854-4	 	   Pa Ph (NIL)		620	NaHu	K2 V M1 V	-2	(A71-3)	[6676]	Bce	7	-210
+Cruc	F	0920	Cheju	X000000-8	 	   As Va Di 		022	NaHu	M2 V	-3	(B00+4)	[0000]	B	11	44
+Cruc	J	0923	Baragoi	X89656B-4	 	   Ag Ni 	B	500	NaHu	K9 V	-2	(740+1)	[3367]	BC	13	28
+Cruc	J	0924	Soroti	D875337-2	 	    Lo 	B	704	NaHu	G6 V	-3	(520-3)	[7181]	B	16	-30
+Cruc	J	0926	Lodwar	X585887-4	 	   Pa Ri Ph (NIL)	B	522	NaHu	G9 V	-1	(A76+1)	[7753]	BcCe	9	420
+Cruc	J	0929	Mbale	E786455-3	 	  Ga Ni Pa 	B	220	SyRe	G2 V M1 V	-3	(630-2)	[6164]	Bc	8	-36
+Cruc	N	0932	Armero	D96A637-8	 	  Ni Ri Wa 	B	510	SyRe	M3 V	-2	(953+1)	[645D]	BC	11	135
+Cruc	N	0934	Slint	E57276C-5	 	   He Pi (NIL)	B	901	SyRe	A6 V	-2	(964+3)	[9559]	BD	10	648
+Cruc	B	1002	Jipujapa	C786865-3	 	  Ga Pa Ri Ph (NIL)	B	814	MiCo	K9 V M1 V	0	(A76-1)	[9881]	BcCe	11	-420
+Cruc	B	1007	Quezon	X76A436-4	 	   Ni Wa 		620	NaHu	M3 V	-3	(730-4)	[5116]	B	7	-84
+Cruc	F	1012	Syrte	X587731-4	 	    Ag Ri (NIL)	B	702	NaHu	F9 V G3 V	0	(966-1)	[7756]	BC	9	-324
+Cruc	F	1014	Kufra	X581794-4	 	    Ri (NIL)	B	800	NaHu	A7 V	-1	(965-3)	[B651]	BC	7	-810
+Cruc	F	1015	Ulid	X5839BD-6	 	   Hi Pr (NIL)		404	NaHu	F1 V K8 V	-1	(B8B-2)	[7866]	BcE	14	-1936
+Cruc	F	1019	Sangju	E657778-8	 	   Ag Ga (NIL)		800	NaHu	G1 V G9 V	-1	(968+1)	[7669]	BC	12	432
+Cruc	J	1023	Tororo	E566646-7	 	   Ag Ri Ni 		505	NaHu	M0 V M3 V	-1	(853-2)	[5565]	BC	16	-240
+Cruc	J	1027	Kagamega	X566768-1	 	    Ag Ri (NIL)	B	300	NaHu	G7 V	0	(964+1)	[3731]	BC	12	216
+Cruc	J	1030	Kisil	E566300-4	 	    Lo 		710	SyRe	K8 V	-3	(520+1)	[1157]	B	10	10
+Cruc	N	1034	Pavlet	X776638-5	 	   Ag Ni 	B	310	SyRe	G7 V	-2	(851+1)	[8498]	BC	8	40
+Cruc	N	1038	Meshed	X543797-4	 	    Pi Po (NIL)	B	324	SyRe	A1 V	-2	(964+4)	[B592]	BD	13	864
+Cruc	B	1102	Slatni	X68556B-5	 	  Ag Pr Ga Ni 	B	402	MiCo	A5 V	-2	(742-3)	[7351]	BcC	9	-168
+Cruc	B	1107	Eich	XA8A455-2	 	   Ni Oc 	B	501	NaHu	G7 V	-3	(631+1)	[2151]	B	10	18
+Cruc	F	1111	Ghnema	C573676-4	 	    Ni 		700	NaHu	G0 V G4 V	-2	(852-2)	[4454]	B	9	-160
+Cruc	F	1113	Idehan	E576577-7	 	   Ag Ni 		203	NaHu	K5 V	-2	(744+1)	[1389]	BC	9	112
+Cruc	F	1117	Derj	E563675-8	 	   Ni Ri 		702	NaXX	M3 V	-2	(A53-1)	[843B]	BC	12	-150
+Cruc	J	1122	Narok	X575721-4	 	    Ag Pi (NIL)	B	403	NaHu	G6 V M0 V	-1	(96A-2)	[7681]	BCD	8	-1080
+Cruc	J	1124	Ngong	X578277-3	 	    Lo 		900	NaHu	M1 V	-3	(510-5)	[2175]	B	6	-25
+Cruc	J	1125	Tsavo	C57486E-6	 	   Pa Pi Ph (NIL)	B	900	NaHu	K6 V	-1	(A77-2)	[D799]	BcDe	11	-980
+Cruc	J	1126	Konza	X000000-B	 	  As Va Di Na Pi 		033	NaHu	K7 V	-1	(G00-3)	[0000]	BD	13	-48
+Cruc	J	1128	Thikan	X756687-2	 	  Ag Ga Ni 		403	NaHu	F0 V K4 V	-2	(850-4)	[2441]	BC	7	-160
+Cruc	J	1130	Embu	D8447AB-8	 	    Ag Pi (NIL)		600	SyRe	F8 V M2 V	-1	(964-1)	[7665]	BCD	7	-216
+Cruc	N	1132	Kutenai	X548889-7	 	   Pa Pi Ph (NIL)		100	SyRe	F8 V	-2	(978-3)	[8656]	BcDe	6	-1512
+Cruc	N	1135	Stefen	X547314-6	 	    Lo (NIL)		802	SyRe	G6 V	-3	(A20+2)	[3137]	B	13	40
+Cruc	N	1137	Monsoom	X65A888-4	 	   Ph Wa 	B	720	SyRe	F9 V G2 V	-2	(877+3)	[7612]	Be	11	1176
+Cruc	B	1203	Chitek	E76A975-8	 	  Hi Pr Wa (NIL)	B	520	NaHu	G5 V	-1	(B87-2)	[787D]	BcE	10	-1232
+Cruc	B	1206	Prudnik	X200000-0	 	   Ba Va 		000	NaHu	M2 V	-3	(200+4)	[0000]	B	13	8
+Cruc	B	1208	Marden	X000000-C	 	  As Va Di Na 		021	NaHu	F3 V M3 V	-1	(B00-2)	[0000]	B	13	-22
+Cruc	B	1209	Lycabettus	X563758-4	 	    Ri 		120	NaHu	M1 V	-1	(867+1)	[9651]	BC	10	336
+Cruc	F	1213	Iri	X563568-4	 	   Ni Pr 		313	NaHu	F9 V M3 V	-3	(743+1)	[5294]	Bc	9	84
+Cruc	F	1215	Achmetha	X426000-A	 	   Di Pi (NIL)		004	NaHu	F7 V M2 V	-1	(D00-1)	[0000]	BD	11	-13
+Cruc	F	1217	Indang	D868768-5	 	    Ag Ri (NIL)	B	200	NaXX	K0 V M2 V	0	(968+1)	[7753]	BC	5	432
+Cruc	F	1220	Masan	X655886-4	 	  Ga Pa Ph (NIL)		513	NaHu	F6 V	-2	(A75+4)	[9613]	Bce	13	1400
+Cruc	J	1226	Nyeri	X587544-6	 	   Ag Pr Ni 	B	503	NaHu	G5 V M9 V	-2	(742-2)	[9354]	BcC	10	-112
+Cruc	N	1233	Pelly	X423000-8	 	   Di Na Pi Po (NIL)		010	SyRe	F7 V M0 V M2 V	-3	(B00+1)	[0000]	BD	9	11
+Cruc	N	1238	Tsama	E563532-7	 	   Ni Pr 		421	NaHu	M1 V	-3	(741+1)	[5246]	Bc	10	28
+Cruc	N	1240	Seregno	X6A1000-8	 	  Di Fl He Px 		031	NaHu	F4 V M2 V M9 V	-3	(C00-2)	[0000]	B	15	-24
+Cruc	B	1302	Deuel	XAA8000-9	 	   Di Fl (ENIL)		000	NaHu	M6 V	-2	(900+1)	[0000]	B	6	9
+Cruc	B	1304	Parida	X578447-4	 	   Ni Pa 		625	NaHu	K5 V	-3	(730-1)	[6171]	Bc	18	-21
+Cruc	B	1306	Saza	X647000-6	 	   Di Pi (NIL)		023	NaHu	K6 V	-3	(A00+3)	[0000]	BD	14	30
+Cruc	B	1308	Lydda	XAB7000-8	 	   Di Fl 		004	NaHu	M2 V	-3	(C00+3)	[0000]	B	9	36
+Cruc	F	1311	Tarat	X541410-3	 	  He Ni Po 		502	NaHu	K4 V	-3	(730+1)	[3182]	B	7	21
+Cruc	F	1312	Soluk	X553868-4	 	   Ph Po (NIL)	B	401	NaHu	M1 V	-2	(A79+2)	[C625]	Be	10	1260
+Cruc	F	1313	Derna	X6847AA-4	 	    Ag Ri (NIL)	B	720	NaHu	G4 V	0	(968-3)	[8784]	BC	12	-1296
+Cruc	F	1319	Kigye	X6B5000-8	 	  Di Fl Px 		011	NaHu	M3 V	-3	(800-1)	[0000]	B	13	-8
+Cruc	J	1321	Daboya	X555744-2	 	    Ag (NIL)	B	510	NaHu	G4 V	-1	(964-1)	[7663]	BC	6	-216
+Cruc	J	1323	Tamale	E687877-0	 	  Ga Pa Ri Ph (NIL)	B	123	NaHu	G6 V M4 V	-1	(978-2)	[6761]	BcCe	9	-1008
+Cruc	J	1325	Yendi	E573557-4	 	    Ni 	B	421	NaHu	F1 V K9 V	-3	(740+1)	[3261]	B	15	28
+Cruc	J	1327	Yapei	X432000-6	 	   Di Na Po 		000	NaHu	G9 V M1 V	-3	(800+2)	[0000]	B	8	16
+Cruc	J	1330	Bole	E659868-5	 	    Ph (NIL)	B	812	NaHu	K6 V	-2	(A77+4)	[B637]	Be	12	1960
+Cruc	N	1332	K'Kigi	X545795-6	 	    Ag Pi (NIL)	B	500	NaHu	K9 V	-1	(966+1)	[768A]	BCD	6	324
+Cruc	N	1335	Tzitin	X000000-8	 	  As Va Di Na 		044	NaHu	A2 V	-3	(G00+1)	[0000]	B	19	16
+Cruc	N	1337	Lugg	X433000-8	 	   Di Px Po 		004	NaHu	G6 V M1 V M2 V	-3	(B00+1)	[0000]	B	12	11
+Cruc	B	1406	Quindio	X420000-7	 	  De He Di Na Po 		003	NaHu	M1 V	-3	(800+2)	[0000]	B	9	16
+Cruc	B	1410	Holt	X000000-A	 	  As Va Di Na Pi 		034	NaHu	G2 V M3 V	-1	(G00+4)	[0000]	BD	20	64
+Cruc	F	1411	Yesong	E582557-7	 	   Ni Pr 		510	NaHu	K5 V	-3	(740-3)	[9252]	Bc	6	-84
+Cruc	F	1417	Polgyo	X999236-7	 	    Lo 		214	OlWo	F9 V G5 V	-3	(410-1)	[6124]	B	13	-4
+Cruc	J	1426	Wenchi	X100000-8	 	  Di Na Va 		003	NaHu	M7 V	-3	(B00+1)	[0000]	B	9	11
+Cruc	J	1427	Tumu	D555153-5	 	    Lo 		514	NaHu	G4 V K7 V M6 V	-3	(600-1)	[1186]	B	17	-6
+Cruc	J	1428	Navrongo	E593857-5	 	   Ph Pi (NIL)	B	300	NaHu	F7 V G4 V	-2	(A75+3)	[8657]	BDe	9	1050
+Cruc	J	1429	Zuarungu	X200000-8	 	  Di Na Pi Va 		004	NaHu	M5 III G0 V	-3	(E00+2)	[0000]	BD	13	28
+Cruc	J	1430	Akim Oda	X420000-9	 	  De He Di Po 		004	NaHu	F3 V M0 V M2 V	-2	(B00-1)	[0000]	B	13	-11
+Cruc	N	1433	Senlac	XAB6000-8	 	   Di Fl 		013	NaHu	M2 V	-3	(B00-4)	[0000]	B	13	-44
+Cruc	N	1434	Amya	D76979D-6	 	    Ri (NIL)		700	NaHu	M2 V	-1	(969+1)	[264A]	BC	7	486
+Cruc	N	1439	Isparta	X000000-9	 	  As Va Di Na 		023	NaHu	M2 V	-2	(D00+1)	[0000]	B	9	13
+Cruc	B	1502	Prosser	X569477-3	 	    Ni 		500	FeAm	K6 V	-3	(730-1)	[31A1]	B	8	-21
+Cruc	B	1504	Nafud	X554456-0	 	   Ni Pa (NIL)	B	300	NaHu	F4 V	-3	(B30+1)	[7161]	Bc	7	33
+Cruc	B	1507	Rulti	X558653-6	 	   Ag Ni 	B	720	NaHu	G7 V	-2	(850+1)	[5454]	BC	15	40
+Cruc	B	1509	Vianden	E547579-5	 	   Ag Ni (NIL)		500	NaHu	M0 V	-2	(A41+3)	[4364]	BC	9	120
+Cruc	F	1514	Kosice	X544000-A	 	   Di Pi (NIL)		020	NaHu	K5 V	-1	(C00-1)	[0000]	BD	13	-12
+Cruc	F	1516	Nowa Sol	X200000-A	 	   Di Va 		000	OlWo	A6 V	-1	(700-3)	[0000]	B	12	-21
+Cruc	F	1518	Gdansk	B541445-2	 	  He Ni Po 	B	420	OlWo	F5 V M2 V	-1	(635-1)	[3342]	B	9	-90
+Cruc	F	1520	Suwon	X301000-0	 	   Ba Ic Va 		003	OlWo	M2 V	-3	(200+1)	[0000]	B	14	2
+Cruc	J	1523	Sba	D878884-6	 	   Pa Pi Ph (NIL)	B	900	OlWo	G9 V	-2	(A77+4)	[C6A8]	BcDe	7	1960
+Cruc	J	1528	Keta	X526000-8	 	    Di 		014	NaHu	K5 V	-3	(800-1)	[0000]	B	14	-8
+Cruc	J	1530	Accra	X667875-6	 	  Ga Pa Ri Ph (NIL)	B	600	NaHu	G5 V	-1	(A72+1)	[A766]	BcCe	12	140
+Cruc	N	1531	Pelieo	X5627AC-5	 	    Ri (NIL)	B	404	NaHu	M3 V	-1	(961+1)	[B695]	BC	13	54
+Cruc	N	1533	Nigde	X738000-A	 	    Di (NIL)		000	NaHu	G6 V	-1	(900-1)	[0000]	B	9	-9
+Cruc	N	1537	Hzimo	X541410-2	 	  He Ni Po (NIL)		423	NaHu	F1 V	-3	(A30+2)	[5165]	B	16	60
+Cruc	B	1602	Slae	X436000-A	 	    Di (NIL)		012	FeAm	K4 V M2 V	-1	(C00-3)	[0000]	B	7	-36
+Cruc	B	1604	Furnas	X5728BE-4	 	  He Ph Pi (NIL)	B	702	NaHu	G6 V M3 V M9 V	-2	(A71+3)	[C622]	BDe	15	210
+Cruc	B	1606	Sembilen	X533000-8	 	   Di Po 		010	NaHu	M1 V	-3	(600+1)	[0000]	B	9	6
+Cruc	F	1612	Ptock	X565878-6	 	   Pa Ri Ph (NIL)	B	202	NaHu	M3 V	-1	(A72+3)	[B775]	BcCe	5	420
+Cruc	F	1616	Gdynia	X523000-C	 	   Di Na Pi Po (NIL)		000	OlWo	M3 V	-1	(A00+1)	[0000]	BD	6	10
+Cruc	F	1620	Wroclaw	X6A5000-B	 	   Di Fl (ENIL)		004	OlWo	M2 V	-1	(E00+1)	[0000]	B	16	14
+Cruc	J	1621	Kerzaz	X000000-C	 	   As Va Di 		024	OlWo	A7 V G6 V	-1	(D00+1)	[0000]	B	17	13
+Cruc	J	1624	Adrar	X310000-A	 	   Di Na 		013	NaHu	M2 V	-1	(C00+4)	[0000]	B	12	48
+Cruc	J	1626	Guerzim	X7568A9-8	 	  Ga Pa Ph (NIL)		102	NaHu	K6 V M3 V	-2	(B71+4)	[7696]	Bce	13	308
+Cruc	J	1630	Bechar	E553426-7	 	   Ni Po 		512	NaHu	F2 V K6 V	-3	(630+1)	[3116]	B	11	18
+Cruc	N	1631	Remino	X100000-9	 	   Di Va 		002	NaHu	F2 V M3 V	-2	(900+1)	[0000]	B	9	9
+Cruc	N	1632	Stm-Fi	E95A135-5	 	   Lo Wa 		503	NaHu	F4 V G6 V	-3	(500-1)	[1162]	B	15	-5
+Cruc	C	1701	Palompi	X101000-8	 	   Di Ic Va 		000	FeAm	M2 V	-3	(700+1)	[0000]	B	4	7
+Cruc	C	1702	Rickamil	X7A7000-B	 	  Cx Di Fl 		014	FeAm	M2 V	-1	(D00+1)	[0000]	B	10	13
+Cruc	C	1704	Lorne	C696255-7	 	    Lo 		303	NaHu	M1 V	-2	(510+1)	[1137]	B	10	5
+Cruc	C	1706	Doven	X67A000-B	 	   Di Wa 		000	NaHu	G5 V M1 V	-1	(800-4)	[0000]	B	7	-32
+Cruc	G	1712	Kutno	XA98576-3	 	   Ag Ni 	B	403	NaHu	F1 V	-2	(741+1)	[4321]	BC	7	28
+Cruc	G	1717	Rawa Maz	X66578A-6	 	   Ag Ri Ga (NIL)		722	OlWo	M1 V	0	(963+2)	[6749]	BC	13	324
+Cruc	G	1719	Qabalan	D897854-9	 	   Pa Pi Ph (NIL)	B	110	OlWo	K2 V M3 V	-1	(A76-1)	[6778]	BcDe	12	-420
+Cruc	K	1722	Quargla	X552756-6	 	    Po (NIL)		214	OlWo	F9 V G0 V	-2	(963+1)	[7564]	B	11	162
+Cruc	K	1724	Edjeleh	X100000-9	 	   Di Va 		013	NaHu	M2 V	-2	(A00-2)	[0000]	B	11	-20
+Cruc	K	1726	Temassinin	X424000-C	 	   Di Pi (NIL)		000	NaHu	G4 V M3 V	-1	(A00-4)	[0000]	BD	6	-40
+Cruc	K	1727	Tidikelt	X547769-0	 	    Ag Pi (NIL)	B	410	NaHu	K7 V M0 V	-1	(967+1)	[7631]	BCD	9	378
+Cruc	K	1728	Aoulef	X687669-3	 	  Ag Ri Ga Ni 	B	603	NaHu	K1 IV	-1	(850+1)	[6574]	BC	7	40
+Cruc	O	1732	Ocumare	X200000-7	 	   Di Va 		003	NaHu	M4 III	-3	(600-1)	[0000]	B	11	-6
+Cruc	O	1735	Rzhev	X569124-7	 	    Lo 		825	NaHu	F3 V K8 V	-3	(500+1)	[1156]	B	18	5
+Cruc	O	1737	Krandin	X000000-A	 	   As Va Di 		024	NaHu	M1 V	-1	(D00-4)	[0000]	B	14	-52
+Cruc	C	1802	Orwelle	D572577-3	 	   He Ni 		402	FeAm	F9 V M6 V	-3	(743+1)	[2221]	B	8	84
+Cruc	C	1805	Spry	X737000-8	 	    Cy Di (NIL)		010	NaHu	M0 V	-3	(A00+1)	[0000]	B	11	10
+Cruc	C	1808	Eliot	X437000-8	 	    Di (NIL)		000	NaHu	M0 V	-3	(A00-2)	[0000]	B	7	-20
+Cruc	C	1810	Ionae	E579521-7	 	    Ni 		413	NaHu	G5 V M1 V	-3	(740-4)	[1265]	B	12	-112
+Cruc	G	1813	Wielun	D6676BD-5	 	  Ag Ri Ga Ni 	B	520	KaCo	A9 V K8 V	-1	(855-2)	[55A2]	BC	8	-400
+Cruc	G	1816	Kepno	X531000-9	 	   Di Na Po (NIL)		002	OlWo	M1 V	-2	(C00-5)	[0000]	B	10	-60
+Cruc	G	1819	Kharas	X626000-B	 	   Di Pi (NIL)		023	OlWo	G0 V M1 V	-1	(F00-2)	[0000]	BD	11	-30
+Cruc	K	1822	Chenachane	X434000-9	 	    Di (NIL)		000	OlWo	G4 V M0 V	-2	(A00-5)	[0000]	B	5	-50
+Cruc	K	1825	Tindouf	X6A6000-A	 	   Di Fl (ENIL)		014	NaHu	M2 V	-1	(E00+1)	[0000]	B	16	14
+Cruc	K	1829	Tni Haia	X000000-7	 	   As Va Di 		021	NaHu	B8 V	-3	(400+2)	[0000]	B	10	8
+Cruc	O	1834	Margilan	X654403-0	 	   Ni Pa 	B	510	NaHu	G9 V M0 V	-3	(630+4)	[11A1]	Bc	12	72
+Cruc	C	1902	Nye	X528000-9	 	   Di Pi (NIL)		000	FeAm	M3 V	-2	(900-3)	[0000]	BD	8	-27
+Cruc	C	1906	Osowiec	X541434-3	 	  He Ni Po 	B	600	NaHu	F7 V K1 V	-3	(731-4)	[1114]	B	6	-84
+Cruc	C	1910	Tadzhik	X565443-5	 	   Ni Pa 		300	NaHu	F5 V M7 V	-3	(632+1)	[4112]	Bc	6	36
+Cruc	G	1914	Sieradz	X433000-8	 	   Di Po 		002	KaCo	K6 V M0 V	-3	(800-4)	[0000]	B	7	-32
+Cruc	K	1921	Biskra	X593867-1	 	  Cx Ph Pi (NIL)	B	310	OlWo	M1 V	-2	(A72-5)	[C641]	BDe	11	-700
+Cruc	K	1924	Timgad	C576776-7	 	    Ag Pi (NIL)		803	NaHu	A9 V F8 V	0	(968-1)	[6718]	BCD	9	-432
+Cruc	K	1928	Batna	D54775A-6	 	    Ag Pi (NIL)	B	605	NaHu	K8 V M3 V	-1	(96A+1)	[A636]	BCD	11	540
+Cruc	O	1936	Loche	C766568-3	 	  Ag Pr Ga Ni 	B	512	NaHu	K6 V	-1	(742+3)	[4432]	BcC	7	168
+Cruc	O	1938	Erywin	X773544-5	 	    Ni 	B	302	NaHu	K8 V	-3	(740+4)	[6251]	B	10	112
+Cruc	C	2003	Beowawe	X64376B-4	 	    Pi Po (NIL)	B	304	NaHu	G1 V M0 V	-2	(A64+4)	[6511]	BD	10	960
+Cruc	C	2004	Souris	X753540-3	 	   Ni Po 	B	424	NaHu	K6 V	-3	(740-1)	[5211]	B	17	-28
+Cruc	C	2008	Taginae	X666000-0	 	   Ba Ga 		000	NaHu	M2 V	-3	(200+1)	[0000]	B	8	2
+Cruc	C	2010	Sluiskin	X76756B-1	 	  Ag Pr Ga Ni 	B	322	NaHu	F4 V	-2	(740+1)	[5375]	BcC	11	28
+Cruc	G	2012	Konski	X535000-6	 	    Di 		000	KaCo	M1 V	-3	(600+3)	[0000]	B	7	18
+Cruc	G	2014	Katowice	X8A7000-B	 	  Cx Di Fl (ENIL)		022	KaCo	M3 V	-1	(E00-4)	[0000]	B	9	-56
+Cruc	G	2016	Zabrze	X56476C-0	 	    Ag Ri (NIL)	B	500	KaCo	F8 V G8 V	0	(96B-4)	[8721]	BC	7	-2376
+Cruc	G	2018	Rybnik	XAC8000-9	 	   Di Fl 		020	OlWo	M0 V	-2	(900+1)	[0000]	B	10	9
+Cruc	G	2020	Ariha	X000000-A	 	   As Va Di 		032	OlWo	M1 V	-1	(B00+2)	[0000]	B	11	22
+Cruc	K	2021	Langsele	X877541-3	 	   Ag Ni 	B	510	OlWo	G9 V	-2	(744-2)	[7341]	BC	8	-224
+Cruc	K	2024	Msaken	X592304-3	 	   He Lo 		924	NaHu	K5 V M4 V	-3	(420-4)	[6155]	B	15	-32
+Cruc	K	2027	Tlemcen	X745574-2	 	   Ag Ni (NIL)	B	220	NaHu	F9 V M2 V	-2	(A44-3)	[4351]	BC	13	-480
+Cruc	K	2030	Puula	X543425-2	 	   Ni Po 	B	410	NaHu	K4 V	-3	(630-2)	[7113]	B	11	-36
+Cruc	O	2031	Nieuw	C57485A-5	 	   Pa Pi Ph (NIL)	B	410	NaHu	M0 V	-1	(A73-1)	[7785]	BcDe	12	-210
+Cruc	O	2040	Kasmi	X544444-6	 	   Ni Pa 		310	NaHu	A5 V K3 V	-3	(630-2)	[4176]	Bc	11	-36
+Cruc	C	2101	Vamitra	D577444-2	 	   Ni Pa 	B	300	NaHu	K6 V M0 V	-3	(633+3)	[4111]	Bc	4	162
+Cruc	C	2103	Deeth	X431000-8	 	   Di Po 		003	NaHu	G1 V M3 V	-3	(A00+1)	[0000]	B	13	10
+Cruc	C	2106	Moapa	X433000-6	 	   Di Po 		003	NaHu	A9 V G9 V	-3	(600-1)	[0000]	B	13	-6
+Cruc	G	2111	Lubon	X300000-9	 	   Di Va 		013	NaHu	A6 V	-2	(B00-3)	[0000]	B	8	-33
+Cruc	G	2116	Zywiec	E6978A9-8	 	   Pa Pi Ph (NIL)		214	KaCo	G6 V M1 V	-2	(F71+1)	[A628]	BcDe	13	105
+Cruc	K	2122	Ramsele	E755374-6	 	   Ga Lo 		502	OlWo	F4 V M8 V	-3	(420+3)	[1122]	B	10	24
+Cruc	K	2125	Gabesh	E8938CF-5	 	   Ph Pi (NIL)	B	204	NaHu	F6 V G4 V	-2	(A78-1)	[A678]	BDe	11	-560
+Cruc	K	2126	Sfax	X300000-8	 	   Di Va 		014	NaHu	M0 III D	-3	(C00+1)	[0000]	B	17	12
+Cruc	K	2130	Kouvola	X723000-9	 	   Di Po 		000	NaHu	G5 V M0 V	-2	(700-4)	[0000]	B	7	-28
+Cruc	O	2133	Lonoke	E878755-5	 	    Ag Pi (NIL)	B	612	NaHu	M6 III	-1	(969-4)	[9649]	BCD	11	-1944
+Cruc	O	2136	Riad	X546355-3	 	    Lo 	B	320	NaHu	K7 V	-3	(520-2)	[7196]	B	14	-20
+Cruc	C	2205	Denio	C669657-6	 	   Ni Ri 		600	NaHu	G7 V K4 V	-1	(851+1)	[5571]	BC	7	40
+Cruc	C	2206	Inuvik	X9997B9-7	 	    Pi (NIL)	B	201	NaHu	G9 V M2 V	-2	(962+1)	[8526]	BD	12	108
+Cruc	G	2211	Gradzisk	D847669-5	 	   Ag Ni 	B	510	NaHu	K9 V	-2	(854-4)	[5455]	BC	9	-640
+Cruc	G	2214	Opole	X557797-4	 	    Ag (NIL)	B	600	KaCo	G5 V K5 V	-1	(966+2)	[8681]	BC	6	648
+Cruc	G	2215	Bzura	E69A77B-8	 	   Pi Wa 	B	400	KaCo	G6 V K6 V	-2	(862+2)	[9547]	BD	12	192
+Cruc	G	2217	Nysa	D540201-7	 	  De He Lo Po 		421	NaHu	F9 V	-3	(810+3)	[11A7]	B	12	24
+Cruc	G	2220	Damiya	X8C6000-9	 	   Di Fl 		020	NaHu	M6 Ib F9 V	-2	(500-3)	[0000]	B	6	-15
+Cruc	K	2227	Mikkeli	X945868-3	 	   Pa Pi Ph (NIL)	B	103	NaHu	F5 V M7 V	-2	(A76+1)	[B615]	BcDe	12	420
+Cruc	K	2230	Suolahti	X544775-4	 	    Ag Pi (NIL)	B	200	NaHu	M2 V	-1	(A69+2)	[7655]	BCD	6	1080
+Cruc	O	2231	Wald	X99988B-7	 	   Ph Pi (NIL)	B	814	NaHu	F6 V	-2	(A72-1)	[5666]	BDe	12	-140
+Cruc	O	2232	Oconee	C869434-3	 	    Ni 	B	202	NaHu	G6 V	-2	(630+1)	[8221]	B	13	18
+Cruc	O	2237	Khalke	X888432-0	 	   Ni Pa 	B	500	NaHu	A7 V	-3	(630+1)	[2121]	Bc	3	18
+Cruc	O	2239	Penas	X6A4000-8	 	  Di Fl Px 		023	NaHu	M3 V	-3	(D00-4)	[0000]	B	15	-52
+Cruc	C	2302	Wager	X566778-6	 	    Ag Ri (NIL)		410	NaHu	A8 V	0	(967+5)	[A756]	BC	12	1890
+Cruc	C	2304	Adair	X400000-8	 	   Di Va 		000	NaHu	M0 V	-3	(500+1)	[0000]	B	7	5
+Cruc	C	2308	Oita	X000000-A	 	   As Va Di 		032	NaHu	M3 V	-1	(B00+1)	[0000]	B	9	11
+Cruc	C	2310	Pamlico	X675101-4	 	    Lo 		500	NaHu	M3 V	-3	(300+1)	[1176]	B	8	3
+Cruc	G	2313	Nowytarg	E65877A-6	 	    Ag (NIL)		800	NaHu	F1 V M0 V	-1	(967+3)	[6614]	BC	6	1134
+Cruc	G	2316	Warta	X8CA000-B	 	   Di Fl (ENIL)		011	KaCo	M8 V	-1	(C00+1)	[0000]	B	9	12
+Cruc	G	2318	Ajlun	X7C7000-9	 	   Di Fl (ENIL)		004	NaHu	M1 V	-2	(D00+5)	[0000]	B	8	65
+Cruc	G	2319	Majdal	E546774-8	 	    Ag Pi (NIL)		800	NaHu	A5 V	-1	(969+2)	[8635]	BCD	6	972
+Cruc	K	2321	Dorotea	X887443-7	 	  Ga Ni Pa 		405	NaHu	M1 V	-3	(633+1)	[7185]	Bc	11	54
+Cruc	K	2324	Bracke	X558103-2	 	    Lo 		413	NaHu	G0 V K9 V	-3	(400-2)	[1151]	B	12	-8
+Cruc	K	2326	Bergsjo	X77227A-7	 	   He Lo 		203	NaHu	F3 V M2 V	-3	(410+3)	[6166]	B	10	12
+Cruc	K	2329	Turku	X54266A-3	 	 Cx He Ni Po (NIL)	B	200	Reac	G2 V M3 V	-3	(A50+2)	[6352]	B	9	100
+Cruc	O	2333	Flekke	X986443-6	 	   Ni Pa 		310	NaHu	A5 V	-3	(630+1)	[1175]	Bc	10	18
+Cruc	O	2335	Zisteffle	E656786-8	 	   Ag Ga 		114	NaHu	F8 V M1 V	-1	(D68-2)	[C648]	BC	12	-1248
+Cruc	C	2405	Pi	E876835-6	 	   Pa Pi Ph (NIL)	B	124	MrCo	K7 V M2 V	-2	(976-3)	[8656]	BcDe	16	-1134
+Cruc	C	2407	Tsung	X56856E-2	 	   Ag Pr Ni 	B	505	MrCo	F4 V G6 V	-2	(840+1)	[1351]	BcC	15	32
+Cruc	G	2412	Ya'bud	X000000-9	 	  As Va Di Na 		022	NaHu	K5 V M1 V	-2	(C00-1)	[0000]	B	14	-12
+Cruc	G	2417	Iksal	B55486A-4	 	   Pa Ph (NIL)	B	100	NaHu	K5 V	0	(A7B-4)	[6845]	Bce	10	-3080
+Cruc	G	2420	Qana	X540276-3	 	  De He Lo Po 		803	NaHu	M0 V	-3	(410+1)	[4152]	B	16	4
+Cruc	K	2421	Jarpen	X8A4000-8	 	  Di Fl Px 		005	NaHu	F1 V M1 V	-3	(B00+1)	[0000]	B	11	11
+Cruc	K	2425	Mellansel	X200000-7	 	   Di Va 		013	NaHu	F2 V M0 V	-3	(500-2)	[0000]	B	17	-10
+Cruc	K	2428	Kuhmo	X8CA000-9	 	   Di Fl (ENIL)		000	Reac	M2 V	-2	(A00-1)	[0000]	B	5	-10
+Cruc	O	2431	Emis	X69A598-4	 	   Ni Wa (NIL)	B	220	NaHu	G4 V	-3	(A40+1)	[9253]	B	11	40
+Cruc	O	2433	Mimsilmi	E998847-7	 	   Pa Pi Ph (NIL)	B	902	NaHu	K8 V	-2	(A75-3)	[D679]	BcDe	9	-1050
+Cruc	O	2437	T'Kaim	D787122-6	 	   Ga Lo 	B	300	NaHu	G9 V	-3	(500+1)	[4161]	B	7	5
+Cruc	O	2439	Erex	X533000-6	 	   Di Px Po 		013	NaHu	M2 V	-3	(700+2)	[0000]	B	8	14
+Cruc	D	2504	Hun-tun	D648110-7	 	    Lo (NIL)		824	MrCo	F2 V K8 V M7 V	-3	(A00+2)	[1175]	B	11	20
+Cruc	D	2505	Huangho	C66A697-8	 	  Ni Ri Wa 	B	903	MrCo	A6 V	-1	(B55-2)	[753B]	BC	12	-550
+Cruc	H	2518	Ferrol	X438000-B	 	    Di (NIL)		005	NaHu	M0 V	-1	(F00+3)	[0000]	B	12	45
+Cruc	H	2520	Cruz	X55A000-5	 	   Di Wa (NIL)		010	NaHu	M0 V	-3	(900-2)	[0000]	B	9	-18
+Cruc	L	2522	Uterea	E659778-8	 	     (NIL)	B	210	NaHu	K5 V	-2	(A65+1)	[3598]	B	10	300
+Cruc	L	2525	Coin	X543110-4	 	   Lo Po (NIL)		804	NaHu	G7 V M4 V	-3	(A00-2)	[2111]	B	13	-20
+Cruc	L	2528	Ivalo	X433000-6	 	   Di Po 		000	Reac	M8 III	-3	(500+2)	[0000]	B	10	10
+Cruc	L	2530	Tervola	X8B8000-8	 	   Di Fl 		005	NaHu	M2 III G1 V	-3	(A00-3)	[0000]	B	18	-30
+Cruc	P	2532	Kheri	X797769-1	 	    Ag Pi (NIL)	B	403	NaHu	F6 V M3 V	-1	(964-2)	[8621]	BCD	16	-432
+Cruc	P	2535	Atcha	X64A123-2	 	   Lo Wa 		820	NaHu	M0 V M8 V	-3	(500+1)	[2131]	B	12	5
+Cruc	D	2602	Chin Shan	X66766B-4	 	  Ag Ri Ga Ni 	B	420	MrCo	K9 V	-1	(853+1)	[3575]	BC	8	120
+Cruc	D	2605	Shan	X430000-8	 	  De Di Po 		024	MrCo	A6 V	-3	(D00-1)	[0000]	B	14	-13
+Cruc	D	2606	Wu Ti	X779379-3	 	    Lo 		700	MrCo	F7 V M8 V	-3	(520+2)	[8121]	B	5	20
+Cruc	D	2607	Ju-i	X525000-A	 	   Di Pi (NIL)		003	MrCo	K5 V M3 V	-1	(D00+1)	[0000]	BD	12	13
+Cruc	D	2608	Pu Chou	B896966-5	 	  Cx Hi In (NIL)	B	810	MrCo	G5 V M0 V	2	(B87+4)	[DB48]	BE	6	2464
+Cruc	D	2609	Yu-Chhiang	D868335-4	 	    Lo 		410	MrCo	G8 V M1 V	-3	(520+2)	[6128]	B	9	20
+Cruc	D	2610	Kuan Yin	X636000-9	 	    Cy Di (NIL)		004	MrCo	M0 V	-2	(D00-3)	[0000]	B	13	-39
+Cruc	H	2612	Hu	D795543-7	 	   Ag Ni 	B	500	MrCo	A0 V	-2	(740+1)	[2316]	BC	12	28
+Cruc	H	2615	Sedano	X410000-B	 	    Di 		023	NaHu	M2 V	-1	(C00-1)	[0000]	B	15	-12
+Cruc	H	2618	Vivero	X432000-6	 	   Di Po 		013	NaHu	M2 V	-3	(700+3)	[0000]	B	15	21
+Cruc	L	2623	Tubroyllufotyusk	X674432-5	 	   Ni Pa (NIL)		200	NaDr	M0 V	-3	(B30+1)	[3162]	Bc	4	33
+Cruc	L	2625	Ronda	E8558BC-8	 	  Ga Pa Ph (NIL)		304	NaHu	G8 V	-2	(E74-1)	[9698]	Bce	12	-392
+Cruc	L	2627	Pokka	X684777-5	 	    Ag Ri (NIL)	B	200	Reac	F8 V M6 V	0	(968-1)	[8769]	BC	8	-432
+Cruc	L	2630	Vaala	X6879AC-4	 	  Ga Hi Pr (NIL)	B	504	NaHu	F4 V G5 V	-1	(B83+2)	[5834]	BcE	9	528
+Cruc	P	2633	Lismore	X434000-A	 	   Di Px 		000	NaHu	M3 V	-1	(800+2)	[0000]	B	4	16
+Cruc	P	2636	Minles	X300000-8	 	  Di Na Va 		001	NaHu	G0 V	-3	(900+2)	[0000]	B	10	18
+Cruc	P	2638	Olduvai	X55177A-5	 	    Po (NIL)		500	NaHu	F8 V M0 V	-2	(969+2)	[C574]	B	9	972
+Cruc	D	2701	Huan	X849876-7	 	   Ph Pi (NIL)	B	404	MrCo	A3 V	-2	(A75-2)	[A699]	BDe	12	-700
+Cruc	D	2702	Shang Ti	X67A645-5	 	   Ni Wa (NIL)		212	MrCo	F7 V M0 V	-3	(950-2)	[5325]	B	6	-90
+Cruc	D	2703	Yen Ti	X562224-6	 	    Lo 		124	MrCo	M4 V	-3	(510-2)	[1155]	B	17	-10
+Cruc	D	2704	Shen-nung	C94A100-5	 	   Lo Wa (NIL)		610	MrCo	G2 V M1 V	-2	(A00+2)	[2149]	B	7	20
+Cruc	D	2708	Thien-Shen	D69386B-5	 	   Ph Pi (NIL)	B	100	MrCo	A5 V G5 V	-2	(A77-3)	[C699]	BDe	8	-1470
+Cruc	D	2710	Feng Po	D684434-6	 	   Ni Pa 	B	204	MrCo	K8 V	-3	(633-5)	[2117]	Bc	13	-270
+Cruc	H	2713	Heng-o	C748734-7	 	    Ag Pi (NIL)		303	MrCo	F4 V K8 V	0	(968+2)	[4747]	BCD	7	864
+Cruc	H	2718	Laurca	X310000-A	 	   Di Na Pi 		010	NaHu	F1 V M2 V	-1	(A00+1)	[0000]	BD	10	10
+Cruc	H	2719	Oviedo	X6A4000-9	 	   Di Fl 		030	NaHu	M0 V	-2	(700+2)	[0000]	B	9	14
+Cruc	L	2722	Osuna	D84A431-3	 	   Ni Wa 	B	600	NaHu	M9 V	-3	(730-5)	[5196]	B	6	-105
+Cruc	L	2728	Ranua	CA69755-9	 	    Ri (NIL)	B	402	Reac	M2 II	1	(B6A-1)	[7848]	BC	10	-660
+Cruc	P	2731	Paphos	D56169D-7	 	   Ni Ri 		700	NaHu	F0 V M1 V	-2	(854+2)	[3486]	BC	8	320
+Cruc	P	2732	Scabin	D543322-6	 	   Lo Po 		413	NaHu	G5 V	-3	(520+2)	[2173]	B	13	20
+Cruc	P	2733	Raslapsi	X9B6000-9	 	   Di Fl (ENIL)		004	NaHu	M0 V	-2	(D00+2)	[0000]	B	12	26
+Cruc	P	2735	Delago	X799277-6	 	    Lo 		604	NaHu	A6 V	-3	(410+3)	[2177]	B	14	12
+Cruc	P	2738	Falaya	C997755-7	 	    Ag Pi (NIL)	B	503	NaHu	M3 V	0	(968-2)	[2758]	BCD	9	-864
+Cruc	D	2804	Fu Hsi	B657675-5	 	  Ag Ga Ni 		500	MrCo	M0 V	0	(856+1)	[6655]	BC	12	240
+Cruc	D	2805	Nu-kua	X554135-0	 	    Lo 		300	MrCo	K9 V	-3	(600+2)	[1161]	B	5	12
+Cruc	D	2806	Kung-Sang	X000000-C	 	  As Va Di Na Pi 		024	MrCo	M1 V	-1	(F00-1)	[0000]	BD	17	-15
+Cruc	D	2808	Huang Ti	X310000-A	 	    Di 		020	MrCo	F0 V M2 V	-1	(900+2)	[0000]	B	15	18
+Cruc	D	2809	Chuan Hsiun	X65666C-4	 	  Ag Ga Ni 	B	811	MrCo	F9 V K3 V	-2	(852+2)	[3494]	BC	9	160
+Cruc	D	2810	Khun Yao	D578676-5	 	   Ag Ni 		300	MrCo	F0 V G8 V M1 V	-2	(850+2)	[5477]	BC	6	80
+Cruc	H	2811	Shun	D586774-7	 	    Ag Ri (NIL)		812	MrCo	F8 V G5 V	0	(967-4)	[6745]	BC	13	-1512
+Cruc	H	2812	Ming	X552430-2	 	   Ni Po 		411	MrCo	G6 V G9 V M4 V	-3	(630-4)	[4133]	B	10	-72
+Cruc	H	2813	Tsi	E756130-3	 	   Ga Lo 	B	420	MrCo	A1 V K6 V	-3	(600+1)	[2145]	B	14	6
+Cruc	H	2815	Dax	X6A6000-8	 	   Di Fl 		002	NaHu	G7 V M2 V	-3	(800-2)	[0000]	B	7	-16
+Cruc	H	2818	Llanes	X57A451-7	 	   Ni Wa (NIL)		510	NaHu	G4 V K5 V	-3	(A32-2)	[9174]	B	10	-120
+Cruc	H	2820	Sahagun	X9B8000-8	 	   Di Fl 		020	NaHu	M1 V	-3	(800+1)	[0000]	B	11	8
+Cruc	L	2823	Albox	X420000-8	 	  De He Di Na Po 		002	NaHu	M2 V	-3	(A00+3)	[0000]	B	11	30
+Cruc	L	2826	Lorea	X430000-6	 	  De Di Na Po 		004	NaHu	G6 V M1 V	-3	(800-3)	[0000]	B	14	-24
+Cruc	L	2830	Athari	E879750-8	 	    Pi (NIL)	B	400	NaHu	K5 V	-2	(962+1)	[357B]	BD	6	108
+Cruc	P	2832	Kivu	X78486B-4	 	   Pa Ri Ph (NIL)	B	320	CsIm	G8 V	-1	(A77+3)	[9724]	BcCe	10	1470
+Cruc	P	2835	Mani	X6A7000-8	 	   Di Fl (ENIL)		023	NaHu	G7 V M0 V	-3	(E00-1)	[0000]	B	9	-14
+Cruc	P	2840	Rion	X5789CA-8	 	   Hi In (NIL)	B	430	NaHu	M3 V	0	(E82+3)	[791B]	BE	10	672
+Cruc	D	2902	Chu-jung	X859456-3	 	    Ni 	B	602	MrCo	K6 V	-3	(730+1)	[5153]	B	11	21
+Cruc	D	2907	Ho Liu	E652779-8	 	    Po (NIL)		312	MrCo	G6 V K6 V	-2	(C65-1)	[A57D]	B	11	-360
+Cruc	D	2908	Hunan	X9A8000-8	 	   Di Fl (ENIL)		000	MrCo	F1 V	-3	(900+2)	[0000]	B	9	18
+Cruc	H	2916	Aviles	E94A121-5	 	   Lo Wa 	B	704	NaHu	M2 V	-3	(800+1)	[1145]	B	14	8
+Cruc	H	2918	Potes	X576479-7	 	   Ni Pa 		620	NaHu	M2 V	-3	(730-3)	[8147]	Bc	12	-63
+Cruc	H	2920	Micres	X77A669-3	 	   Ni Wa (NIL)		924	NaHu	M3 V	-3	(A52-2)	[7377]	B	11	-200
+Cruc	L	2921	Jaen	D557886-5	 	   Pa Ph (NIL)		613	NaHu	F5 V M2 V	-2	(A76-2)	[8666]	Bce	14	-840
+Cruc	L	2923	Jodar	C6467A9-7	 	    Ag Pi (NIL)		400	NaHu	A5 V	0	(96A-4)	[5717]	BCD	6	-2160
+Cruc	L	2927	Rute	X100000-9	 	   Di Va 		013	NaHu	M1 V	-2	(A00-5)	[0000]	B	9	-50
+Cruc	P	2931	Uku	X794878-6	 	   Pa Pi Ph (NIL)		405	NaHu	A3 V	-2	(A73+1)	[C659]	BcDe	15	210
+Cruc	P	2939	Siut	X510000-8	 	    Di 		000	NaHu	G9 V M2 V	-3	(600+2)	[0000]	B	8	12
+Cruc	D	3003	Ti-mu	X566899-4	 	   Pa Ri Ph (NIL)	B	304	MrCo	G6 V	-1	(A79-2)	[6762]	BcCe	12	-1260
+Cruc	D	3006	Hun-kuo	X410000-8	 	    Di 		010	MrCo	M0 V	-3	(800+2)	[0000]	B	11	16
+Cruc	H	3011	Foix	X200000-9	 	   Di Va 		004	NaHu	F9 V	-2	(900-2)	[0000]	B	12	-18
+Cruc	H	3013	Adour	X555500-6	 	   Ag Ni 		300	NaHu	G7 V	-2	(740+4)	[3386]	BC	10	112
+Cruc	H	3015	Auch	D581683-5	 	   Ni Ri 		413	NaHu	K1 V M3 V	-2	(850+1)	[7423]	BC	15	40
+Cruc	H	3019	Sestao	E6837AB-8	 	    Ri (NIL)		800	NaHu	M0 V	-1	(96A+1)	[6649]	BC	10	540
+Cruc	L	3022	Alcala	X535000-B	 	    Di 		000	NaHu	F3 V M3 V	-1	(700+1)	[0000]	B	8	7
+Cruc	L	3024	Almonte	X6A7000-8	 	   Di Fl 		002	NaHu	M1 V	-3	(800+1)	[0000]	B	12	8
+Cruc	L	3026	Rinlo	X431000-9	 	   Di Na Px Po 		000	NaHu	M2 V	-2	(800+1)	[0000]	B	6	8
+Cruc	L	3027	Varkaus	X310000-8	 	    Di 		003	NaHu	M2 V	-3	(900+4)	[0000]	B	11	36
+Cruc	L	3028	Toijala	X9CA000-9	 	   Di Fl 		010	NaHu	F8 V M0 V	-2	(800+2)	[0000]	B	12	16
+Cruc	L	3030	Lahti	X59786B-5	 	   Pa Pi Ph (NIL)	B	103	NaHu	A5 V G7 V	-2	(A74-1)	[9633]	BcDe	9	-280
+Cruc	P	3031	Ulsan	D567430-3	 	   Ni Pa 		410	NaHu	F7 V	-3	(630+5)	[7185]	Bc	8	90
+Cruc	P	3033	Degh	XAC9000-9	 	   Di Fl 		004	NaHu	M2 V	-2	(900+2)	[0000]	B	13	18
+Cruc	D	3101	Fenho	X66A212-4	 	   Lo Wa (NIL)		610	NaHu	G5 V M0 V	-3	(910-3)	[21A5]	B	13	-27
+Cruc	D	3104	Pa Kua	E585741-6	 	    Ag Ri (NIL)		803	MrCo	M3 V	0	(967+1)	[8796]	BC	8	378
+Cruc	D	3108	Tao	X434000-B	 	    Di (NIL)		000	MrCo	F9 V M2 V	-1	(900+1)	[0000]	B	9	9
+Cruc	D	3110	Madi	X310000-8	 	    Di 		002	NaHu	A8 V K4 V	-3	(900-2)	[0000]	B	5	-18
+Cruc	H	3113	Pau	D6778A9-8	 	   Pa Pi Ph (NIL)	B	300	NaHu	F5 V M0 V	-2	(A74+2)	[866A]	BcDe	11	560
+Cruc	H	3117	Irun	E7687A7-3	 	    Ag Ri (NIL)	B	304	NaHu	G5 V	0	(963+3)	[7783]	BC	11	486
+Cruc	H	3119	Bermeo	X310000-8	 	    Di 		003	NaHu	M0 V M1 V	-3	(900+1)	[0000]	B	12	9
+Cruc	L	3121	Baena	X5847A8-4	 	    Ag Ri (NIL)		704	NaHu	F0 V M0 V	0	(968-1)	[6724]	BC	12	-432
+Cruc	L	3130	Keski	C987589-8	 	   Ag Pr Ni 		200	NaHu	M3 V	-1	(745+1)	[8447]	BcC	9	140
+Cruc	P	3131	Thom	X96A000-5	 	   Di Wa (NIL)		010	NaHu	F5 V K8 V	-3	(A00+1)	[0000]	B	10	10
+Cruc	P	3134	Khuaf	X7A6000-A	 	   Di Fl 		012	NaHu	M2 V	-1	(900-2)	[0000]	B	12	-18
+Cruc	P	3137	Kmmo-im	X5587BF-5	 	    Ag (NIL)	B	602	CsHv	M1 V	-1	(969+1)	[7667]	BC	12	486
+Cruc	P	3138	Rm-y-mi	X534000-B	 	    Di (NIL)		010	CsHv	F1 V M2 V	-1	(B00+1)	[0000]	B	6	11
+Cruc	P	3140	Kixym	D554576-6	 	   Ag Ni 		502	CsHv	F5 V G2 V	-2	(740+1)	[3326]	BC	13	28
+Cruc	D	3202	Shen	X410000-7	 	    Di 		000	MrCo	M3 III G3 V	-3	(400-5)	[0000]	B	5	-20
+Cruc	D	3205	Tsing Tao	X8C9000-9	 	   Di Fl 		004	MrCo	F2 V	-2	(900-2)	[0000]	B	15	-18
+Cruc	D	3207	Krina	E658575-4	 	   Ag Ni 		203	NaHu	G7 V	-2	(740-3)	[3372]	BC	11	-84
+Cruc	H	3211	Sete	X663873-6	 	   Ph Ri (NIL)	B	412	NaHu	M2 V	-1	(A78+1)	[9732]	BCe	13	560
+Cruc	H	3215	Estella	X300000-A	 	   Di Va 		000	NaHu	M3 V	-1	(600+1)	[0000]	B	7	6
+Cruc	H	3217	Tarbes	D589412-6	 	    Ni 		300	NaHu	K4 V	-3	(630-2)	[315B]	B	11	-36
+Cruc	H	3219	Tafalla	E657840-6	 	  Ga Pa Ph (NIL)		100	NaHu	F5 V	-2	(973-3)	[9666]	Bce	7	-567
+Cruc	H	3220	Gijon	X580567-3	 	  De Ni Pr 	B	312	NaHu	M2 V	-3	(740+1)	[3211]	Bc	14	28
+Cruc	L	3221	Rota	X67686A-2	 	   Pa Pi Ph (NIL)	B	102	NaHu	M1 V	-2	(A76+2)	[9671]	BcDe	7	840
+Cruc	L	3223	Vejir	D679457-6	 	    Ni 		400	NaHu	A2 V	-3	(630+1)	[5143]	B	9	18
+Cruc	L	3226	Chiclana	E776645-7	 	   Ag Ni 		702	NaHu	F9 V	-2	(853-1)	[546A]	BC	11	-120
+Cruc	P	3233	Talslad	X7AA000-8	 	   Di Fl 		003	NaHu	M1 V	-3	(800+1)	[0000]	B	14	8
+Cruc	P	3236	473-276	X438000-B	 	    Di 		000	CsHv	M1 V	-1	(800+1)	[0000]	B	10	8
+Cruc	P	3238	Gau-kee	X787767-5	 	   Ag Ri Ga (NIL)	B	911	CsHv	G7 V M4 V	0	(965-2)	[7746]	BC	8	-540
+Cruc	P	3240	Lno-rin	X63A000-9	 	   Di Wa (NIL)		000	CsHv	F4 V M2 V	-2	(900+2)	[0000]	B	6	18

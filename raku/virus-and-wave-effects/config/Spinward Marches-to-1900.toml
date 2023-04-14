@@ -1,0 +1,11 @@
+
+default-order = [ "wave" ]
+
+[location]
+y = -1
+x = -4
+
+[wave]
+[wave.preserve-area]
+center = [27,16]
+radius = 15
