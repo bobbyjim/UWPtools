@@ -1,0 +1,287 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Gate	I	0127	Tanis	XA89678-1	 	   Ni Ri 		120	Wild	F0 V	-2	(850+1)	[6453]	BC	8	40
+Gate	I	0130	Far Portal	X438000-A	 	    Di 		023	Wild	M4 III	-1	(C00+4)	[0000]	B	12	48
+Gate	M	0135	Harper	X647000-2	 	    Di (NIL)		015	Wild	F9 V G9 V	-3	(C00+5)	[0000]	B	14	60
+Gate	M	0140	Brevin	X563000-6	 	    Di 		020	Wild	F7 V	-3	(500-1)	[0000]	B	9	-5
+Gate	I	0230	Costavan	E560486-5	 	   De Ni 		201	Wild	F4 V G0 V	-3	(631+1)	[1174]	B	7	18
+Gate	M	0233	Renaldo	X430000-9	 	  De Di Na Po 		023	Wild	K2 V M6 V	-2	(D00-1)	[0000]	B	16	-13
+Gate	M	0236	Hesperinth	X673000-4	 	    Di 		005	Wild	F3 V	-3	(800-4)	[0000]	B	14	-32
+Gate	M	0239	Hadley Station	XABA000-8	 	   Di Fl 		013	Wild	M3 V	-3	(800+4)	[0000]	B	12	32
+Gate	I	0323	Newpontere	X597000-4	 	    Di 		024	Wild	F2 V M8 V	-3	(600-1)	[0000]	B	16	-6
+Gate	I	0327	Castamaria	E64A000-5	 	   Di Wa 		001	Wild	F6 V	-3	(800-3)	[0000]	B	7	-24
+Gate	M	0332	Caldwell	X401000-A	 	  Di Ic Va Na 		023	Wild	M3 V	-1	(D00+4)	[0000]	B	12	52
+Gate	M	0334	Baker	X876000-5	 	   Di Pi (NIL)		005	Wild	F9 V	-3	(900+3)	[0000]	BD	9	27
+Gate	M	0337	Thomwell	X776853-0	 	   Pa Pi Ph (NIL)		301	Wild	A3 V G3 V	-2	(A74-2)	[A641]	BcDe	13	-560
+Gate	M	0340	Mork	X558000-0	 	    Ba 		011	Wild	F3 V	-3	(600-1)	[0000]	B	12	-6
+Gate	A	0407	Isolation	X7C2000-B	 	   Di Fl He 		014	Wild	K1 V K8 V	-1	(C00-1)	[0000]	B	15	-12
+Gate	I	0425	Redstorm	X626000-7	 	   Di Pi (NIL)		000	Wild	F7 V	-3	(A00+4)	[0000]	BD	11	40
+Gate	I	0430	Tamerij	C5679BA-7	 	   Hi Pr (NIL)		105	Wild	F2 V M9 V	0	(B87+1)	[8913]	BcE	16	616
+Gate	M	0433	Dumnar	E554425-3	 	   Ni Pa 		200	Wild	A3 V F2 V	-3	(731+1)	[6173]	Bc	5	21
+Gate	M	0437	Pendejest	XAB5000-8	 	  Di Fl Px 		021	Wild	M1 V M1 V	-3	(A00-3)	[0000]	B	12	-30
+Gate	A	0502	Winternight	X516000-A	 	   Di Ic 		022	Wild	M6 II D	-1	(800+3)	[0000]	B	8	24
+Gate	E	0515	Splinter	XAAA000-8	 	   Di Fl 		012	Wild	M0 V	-3	(800+2)	[0000]	B	10	16
+Gate	I	0527	Amberinth	E7858A8-4	 	  Ga Pa Ri Ph (NIL)		500	Wild	G1 V	-1	(A72+4)	[5767]	BcCe	4	560
+Gate	I	0528	Tharver	X775000-4	 	    Di (NIL)		011	Wild	F3 V	-3	(B00-3)	[0000]	B	9	-33
+Gate	M	0534	Monopoly	E888876-1	 	   Pa Ri Ph (NIL)		113	Wild	F2 V	-1	(A7B+1)	[8742]	BcCe	14	770
+Gate	M	0536	Grom	XAA5000-8	 	   Di Fl 		001	Wild	M1 V	-3	(600-3)	[0000]	B	7	-18
+Gate	I	0622	Ithelu	X675000-3	 	    Di 		033	Wild	F4 V	-3	(700-2)	[0000]	B	14	-14
+Gate	I	0625	Revonis	X420000-A	 	  De He Di Po 		002	Wild	M1 V	-1	(800+2)	[0000]	B	8	16
+Gate	I	0629	Williwaw	X999000-4	 	    Di 		002	Wild	F3 V	-3	(700+4)	[0000]	B	9	28
+Gate	M	0631	Sanderay	D59A000-5	 	   Di Wa 		011	Wild	F5 V	-3	(700-2)	[0000]	B	11	-14
+Gate	M	0637	Jove	X310000-9	 	   Di Na 		012	Wild	F4 V M0 V	-2	(B00-1)	[0000]	B	12	-11
+Gate	M	0639	Basternevis	E575000-5	 	    Di 		021	Wild	F6 V M4 V	-3	(700+3)	[0000]	B	8	21
+Gate	E	0720	Hollmann	X9B4000-9	 	  Di Fl Px 		013	Wild	M1 V	-2	(A00+3)	[0000]	B	8	30
+Gate	I	0724	Carper	X000000-B	 	   As Va Di 		033	Wild	A4 V F4 V	-1	(C00-5)	[0000]	B	12	-60
+Gate	I	0727	Thermal	X752000-7	 	   Di Po 		024	Wild	F1 V G6 V	-3	(700-2)	[0000]	B	15	-14
+Gate	M	0732	Basilisk	X300000-7	 	  Di Na Va 		002	Wild	F3 V	-3	(800+1)	[0000]	B	8	8
+Gate	M	0735	Shivaree	X768774-0	 	    Ag Ri (NIL)		412	Wild	F7 V	0	(967+1)	[3751]	BC	11	378
+Gate	A	0801	Glee	X430000-A	 	  De Di Na Po 		010	Wild	K4 V	-1	(900-4)	[0000]	B	12	-36
+Gate	A	0804	Fornook	X100000-9	 	   Di Va 		002	Wild	M0 V	-2	(800-1)	[0000]	B	14	-8
+Gate	I	0825	Corstation	X005000-8	 	   Di Ic Va 		011	Wild	M0 V M1 V	-3	(500+2)	[0000]	B	14	10
+Gate	M	0831	Grosbeak	X7C2000-A	 	   Di Fl He 		010	Wild	M3 V M5 V	-1	(500-1)	[0000]	B	8	-5
+Gate	M	0832	Aqua Marina	X58A000-A	 	   Di Wa (NIL)		000	Wild	G7 V M7 V	-1	(A00-3)	[0000]	B	6	-30
+Gate	M	0837	Rock	X420000-7	 	  De He Di Po 		012	Wild	G4 V	-3	(400+4)	[0000]	B	15	16
+Gate	M	0838	Somberview	X310000-7	 	   Di Na Pi 		002	Wild	F2 V	-3	(A00-2)	[0000]	BD	15	-20
+Gate	B	0901	Hishan	X200000-9	 	   Di Va 		011	Wild	G6 V	-2	(800-1)	[0000]	B	12	-8
+Gate	B	0908	Ploor	E553000-6	 	   Di Po 		021	Wild	A6 V F4 V	-3	(500-1)	[0000]	B	13	-5
+Gate	J	0921	Salur	X746786-0	 	    Ag Pi (NIL)		411	Wild	M0 V M2 V	-1	(B63+2)	[7671]	BCD	9	396
+Gate	J	0928	Galesta	X797000-6	 	    Di (NIL)		010	Wild	F3 V	-3	(B00+1)	[0000]	B	7	11
+Gate	N	0934	Vinie's World	X435000-6	 	    Di (NIL)		001	Wild	M3 II D	-3	(900-3)	[0000]	B	7	-27
+Gate	N	0938	Crostan	E543000-5	 	   Di Po 		002	Wild	A3 V F4 V	-3	(800-1)	[0000]	B	15	-8
+Gate	F	1012	Gulf	X679000-6	 	    Di 		013	Wild	F3 V	-3	(600+3)	[0000]	B	11	18
+Gate	F	1016	Pasternak	X301000-A	 	  Di Ic Va Na 		014	Wild	G3 V	-1	(D00+3)	[0000]	B	13	39
+Gate	F	1019	Terrier	X869556-3	 	   Ni Pr 		213	Wild	K9 V	-3	(741-1)	[8282]	Bc	8	-28
+Gate	J	1022	Carver's Range	D6696AB-4	 	   Ni Ri 		412	Wild	G2 V	-2	(854-1)	[7482]	BC	14	-160
+Gate	J	1026	Xandolar	X626000-7	 	   Di Pi (NIL)		014	Wild	F7 V	-3	(A00-4)	[0000]	BD	15	-40
+Gate	J	1030	Hanumisk	X642000-5	 	  Di He Po (NIL)		012	Wild	G6 V	-3	(B00-1)	[0000]	B	10	-11
+Gate	N	1034	Pathway	E748000-7	 	    Di 		013	Wild	G0 V M9 V	-3	(700+2)	[0000]	B	9	14
+Gate	N	1039	Indolence	X585435-1	 	   Ni Pa 		212	Wild	F6 V	-3	(632-1)	[2164]	Bc	7	-36
+Gate	B	1101	Guntar	X896978-0	 	   Hi In (NIL)		122	Wild	G5 V	0	(B84-2)	[8955]	BE	12	-704
+Gate	B	1105	Vandemeerin	E87878C-4	 	    Ag Pi (NIL)		212	Wild	G4 V	-1	(964+3)	[6661]	BCD	12	648
+Gate	B	1108	Aldo	X200000-A	 	  Di Na Va 		012	Wild	M1 V	-1	(B00+3)	[0000]	B	13	33
+Gate	J	1121	Cresta	E768987-6	 	   Hi Pr (NIL)		211	Wild	K0 V	-1	(B85-4)	[A854]	BcE	8	-1760
+Gate	J	1124	Perelaar	X8A8000-9	 	  Di Fl In (ENIL)		023	Wild	F8 V M2 V	-1	(G00-1)	[0000]	BE	13	-16
+Gate	J	1126	Tarabalu	X554473-1	 	   Ni Pa 		211	Wild	F9 V	-3	(630+5)	[4156]	Bc	15	90
+Gate	J	1129	Jastin	E76A677-6	 	  Ni Ri Wa 		125	Wild	F8 V	-2	(851+1)	[6448]	BC	13	40
+Gate	N	1133	Alphaaric	X996000-4	 	    Di 		032	Wild	F4 V	-3	(600+1)	[0000]	B	11	6
+Gate	N	1134	Beshavaram	X426000-B	 	    Di 		035	Wild	G7 V	-1	(G00-4)	[0000]	B	20	-64
+Gate	N	1136	Halik	X432000-8	 	   Di Na Po (NIL)		032	Wild	K2 V M1 V	-3	(E00+1)	[0000]	B	13	14
+Gate	B	1202	Vishanerella	X100000-8	 	   Di Va 		013	Wild	K6 V	-3	(B00+2)	[0000]	B	10	22
+Gate	B	1210	Inast	X663444-0	 	   Mr Ni 		412	Wild	F1 V M9 V	-3	(833-3)	[3121]	B	13	-216
+Gate	F	1213	Dova's World	X100000-7	 	   Di Va 		003	Wild	K4 V	-3	(600-2)	[0000]	B	12	-12
+Gate	F	1215	Cometary	X310000-9	 	    Di 		034	Wild	M2 V M8 V	-2	(D00-1)	[0000]	B	18	-13
+Gate	F	1218	Wolden	X547000-A	 	   Di In (NIL)		015	Wild	F3 V M1 V	0	(H00-2)	[0000]	BE	17	-34
+Gate	F	1220	Gateway	X002000-B	 	 Cx Di Ic Va Na 		022	Wild	A2 V F0 V	-1	(C00+3)	[0000]	B	16	36
+Gate	J	1223	Urel	X88A000-3	 	   Di Wa (NIL)		013	Wild	A7 V F3 V	-3	(B00+1)	[0000]	B	11	11
+Gate	N	1234	Yar	X8D3000-8	 	    Di 		000	Wild	F3 V G8 V	-3	(700+1)	[0000]	B	6	7
+Gate	N	1240	Falray	E544000-5	 	    Di 		015	Wild	F6 V	-3	(800-2)	[0000]	B	17	-16
+Gate	B	1303	Danovan	E79A000-5	 	   Di Wa 		004	Wild	F0 V	-3	(700+1)	[0000]	B	15	7
+Gate	B	1308	Hesh	X565000-5	 	    Di 		012	Wild	F0 V M7 V	-3	(700+4)	[0000]	B	12	28
+Gate	B	1310	Luray	X648000-5	 	   Di Mr 		033	Wild	G1 V K1 V	-3	(500+3)	[0000]	B	15	15
+Gate	F	1319	Galvaren	E748000-8	 	    Di 		012	Wild	A3 V F8 V	-3	(B00+1)	[0000]	B	14	11
+Gate	J	1322	Tovren	X879000-4	 	    Di 		013	Wild	F5 V	-3	(600+1)	[0000]	B	14	6
+Gate	J	1327	Medrealm	D876000-3	 	   Di Pi (NIL)		091	Wild	K1 V	-3	(900+3)	[0000]	BD	14	27
+Gate	J	1330	King	X580000-4	 	   De Di 		004	Wild	F5 V	-3	(500-1)	[0000]	B	13	-5
+Gate	N	1338	Whister	X688000-3	 	    Di 		012	Wild	G8 V	-3	(500+1)	[0000]	B	11	5
+Gate	N	1339	Gronegger	X313000-9	 	   Di Ic 		013	Wild	K2 V	-2	(B00-5)	[0000]	B	15	-55
+Gate	B	1404	Reppler	XA558B9-0	 	   Pa Ph (NIL)		115	Wild	F6 V	-2	(A76-2)	[9681]	Bce	16	-840
+Gate	B	1406	Kaskaria	X624000-9	 	   Di Pi (NIL)		023	Wild	M1 V	-2	(E00-5)	[0000]	BD	14	-70
+Gate	B	1410	Concord	E687675-3	 	  Ag Ri Ga Ni 		500	Wild	F5 V G3 V	-1	(853-2)	[4513]	BC	8	-240
+Gate	F	1412	Tovis	E664000-4	 	    Di 		010	Wild	F3 V F8 V	-3	(700-3)	[0000]	B	11	-21
+Gate	F	1413	Windfleet	X779000-2	 	    Di (NIL)		010	Wild	F5 V M8 V	-3	(B00-2)	[0000]	B	7	-22
+Gate	F	1416	Havary	X553535-0	 	   Ni Po 		212	Wild	F2 V F3 V	-3	(743+2)	[3272]	B	10	168
+Gate	J	1423	Riga	X6758B9-0	 	   Pa Pi Ph (NIL)		410	Wild	G7 V	-2	(A78+1)	[8661]	BcDe	13	560
+Gate	J	1424	Welmertin's Station	X7B5000-9	 	   Di Fl 		012	Wild	A2 V G7 V	-2	(900+3)	[0000]	B	14	27
+Gate	J	1428	Orage	X420000-9	 	  De He Di Na In Po (NIL)		034	Wild	F9 V	-1	(K00+1)	[0000]	BE	14	19
+Gate	N	1432	Namitin	X525000-7	 	    Di 		010	Wild	G2 V M2 V	-3	(500+4)	[0000]	B	9	20
+Gate	N	1436	Clavaba	D566453-1	 	   Ni Pa 		211	Wild	F4 V	-3	(633+1)	[3141]	Bc	5	54
+Gate	B	1501	Therinth	X833000-9	 	   Di Na Po (NIL)		012	Wild	A1 V F0 V	-2	(D00-3)	[0000]	B	11	-39
+Gate	B	1505	Velan	E87A9BE-3	 	  Hi In Wa (NIL)		110	Wild	F5 V K0 V	0	(98B+1)	[7975]	BE	10	792
+Gate	B	1508	Bospin	X556000-7	 	    Di 		000	Wild	K4 V	-3	(600-4)	[0000]	B	9	-24
+Gate	F	1512	Vosrin	X87A000-8	 	   Di Wa (NIL)		023	Wild	K2 V	-3	(G00+3)	[0000]	B	14	48
+Gate	F	1513	Tash	X9688A6-0	 	   Pa Ri Ph (NIL)		210	Wild	F0 V	-1	(A76+1)	[6731]	BcCe	4	420
+Gate	F	1514	Foriv	X772000-3	 	   Di He (NIL)		012	Wild	F0 V	-3	(B00-5)	[0000]	B	12	-55
+Gate	F	1519	Anderson	XACA000-B	 	   Di Fl 		021	Wild	M2 V M9 V	-1	(800-1)	[0000]	B	14	-8
+Gate	F	1520	Halverson's Rocks	X000000-A	 	  As Va Di Na Pi 		032	Wild	F6 V	-1	(F00+3)	[0000]	BD	13	45
+Gate	J	1526	Nadia	X7476A7-3	 	   Ag Ni 		502	Wild	G6 V	-2	(853+1)	[9477]	BC	12	120
+Gate	J	1527	Taravesh	D799000-7	 	    Di (NIL)		024	Wild	G6 V	-3	(B00-2)	[0000]	B	18	-22
+Gate	J	1530	Gaspar Belt	X000000-B	 	  As Va Di Na 		032	Wild	M2 V	-1	(D00-1)	[0000]	B	14	-13
+Gate	N	1531	Ariel	E684558-4	 	   Ag Pr Ni 		213	Wild	F6 V K6 V	-2	(741-2)	[6357]	BcC	8	-56
+Gate	N	1535	Plinth	D553000-5	 	   Di Po 		013	Wild	F8 V M2 V	-3	(500+2)	[0000]	B	8	10
+Gate	B	1601	Granth	X877000-6	 	  Cx Di In (NIL)		010	Wild	F6 V F7 V	-2	(B00-3)	[0000]	BE	7	-33
+Gate	B	1604	Tarvad	X6757A8-0	 	    Ag Pi (NIL)		512	Wild	F3 V M3 V	-1	(A66+2)	[7632]	BCD	10	720
+Gate	B	1609	Duresthan	X623000-A	 	   Di Po 		010	Wild	M1 V M2 V	-1	(800+1)	[0000]	B	10	8
+Gate	F	1612	Ganyvar	E766654-5	 	  Ag Ri Ga Ni 		212	Wild	F9 V	-1	(852-4)	[A515]	BC	13	-320
+Gate	F	1613	Anaxar	E57878B-4	 	    Ag Pi (NIL)		512	Wild	A2 V F3 V	-1	(A63+2)	[A666]	BCD	13	360
+Gate	F	1615	Gavro	X87A000-1	 	   Di Wa 		001	Wild	G3 V	-3	(400+4)	[0000]	B	6	16
+Gate	F	1617	Taneriv	E76A679-4	 	  Ni Ri Wa (NIL)		514	Wild	A9 V G3 V	-2	(A54-1)	[9494]	BC	12	-200
+Gate	J	1622	Haro	E669676-3	 	   Ni Ri 		221	Wild	G8 V	-2	(852+1)	[5446]	BC	9	80
+Gate	J	1624	Paladin	C757410-6	 	  Ga Ni Pa 		212	Wild	G7 V	-2	(630-2)	[6258]	Bc	7	-36
+Gate	J	1627	Drovinthic	E8656BD-4	 	  Ag Ri Ga Ni 		122	Wild	K0 V K8 V	-1	(854+1)	[8543]	BC	9	160
+Gate	J	1629	Coralee	X411000-9	 	 Di Ic Mr Na Pi 		015	Wild	M2 V	-2	(F00+4)	[0000]	BD	13	60
+Gate	N	1633	Junction	D560000-2	 	   De Di 		012	Wild	F3 V	-3	(700+2)	[0000]	B	11	14
+Gate	N	1637	Balaclaron	C867976-4	 	  Ga Hi Pr (NIL)		214	Wild	F4 V M8 V	0	(B85+2)	[B911]	BcE	17	880
+Gate	N	1639	Thanderbrac	X550000-9	 	  De Di Po (NIL)		010	Wild	K6 V	-2	(A00+5)	[0000]	B	5	50
+Gate	C	1706	Caladan	X673783-0	 	    Pi (NIL)		515	Wild	F3 V F5 V	-2	(965+1)	[5531]	BD	12	270
+Gate	C	1709	Valkyr	DA59000-3	 	    Di (NIL)		013	Wild	K0 V	-3	(A00+1)	[0000]	B	7	10
+Gate	G	1715	Quetzal	E682000-4	 	    Di (NIL)		012	Wild	F4 V	-3	(B00+2)	[0000]	B	6	22
+Gate	K	1721	Lanu	X410000-9	 	    Di 		013	Wild	M2 II M8 V	-2	(A00+1)	[0000]	B	9	10
+Gate	K	1724	Marina	X77A000-7	 	  Di Pi Wa (NIL)		012	Wild	A5 V F6 V	-3	(900+2)	[0000]	BD	11	18
+Gate	K	1725	Trindel	X565895-0	 	  Cx Pa Ri Ph (NIL)		514	Wild	K7 V	-1	(B76+3)	[7742]	BcCe	13	1386
+Gate	K	1726	Archipelago	D78A6AB-3	 	  Ni Ri Wa 		316	Wild	A1 V F2 V	-2	(852+3)	[8463]	BC	13	240
+Gate	O	1731	Umbrin	X558000-4	 	    Di 		012	Wild	G9 V	-3	(600+1)	[0000]	B	8	6
+Gate	O	1736	Catanin	X673000-7	 	    Di 		012	Wild	A8 V F6 V	-3	(300+1)	[0000]	B	11	3
+Gate	O	1739	Santee	X777000-4	 	   Di Pi (NIL)		014	Wild	F2 V F8 V	-3	(B00-2)	[0000]	BD	11	-22
+Gate	C	1801	Vanadia	EA877AA-4	 	    Ag Ri (NIL)		301	Wild	F2 V	0	(968+1)	[6757]	BC	9	432
+Gate	C	1802	Agaravand	D66A000-6	 	   Di Wa (NIL)		011	Wild	F5 V	-3	(900-4)	[0000]	B	9	-36
+Gate	C	1807	Duris	E559678-5	 	    Ni 		511	Wild	F3 V	-3	(851+5)	[6385]	B	13	200
+Gate	G	1815	Tristar	X310000-9	 	   Di Na 		000	Wild	M6 III	-2	(800-2)	[0000]	B	7	-16
+Gate	G	1818	Bremen	C693678-4	 	    Ni 		511	Wild	F9 V	-2	(853-2)	[4425]	B	7	-240
+Gate	K	1829	Viyard	C76A878-4	 	 Cx Ph Ri Wa (NIL)		211	Wild	F5 V	0	(977-4)	[6889]	BCe	12	-1764
+Gate	O	1832	Kever	E558000-6	 	    Di 		011	Wild	F4 V	-3	(600+1)	[0000]	B	11	6
+Gate	O	1834	Nederen	X631000-8	 	   Di Na Po (NIL)		010	Wild	M7 II M6 V	-3	(A00+1)	[0000]	B	11	10
+Gate	O	1835	Mast	X200000-A	 	  Di Na Pi Va 		010	Wild	F4 V	-1	(B00-4)	[0000]	BD	11	-44
+Gate	O	1837	Iceball	X318000-9	 	   Di Ic 		012	Wild	M1 V	-2	(800+3)	[0000]	B	11	24
+Gate	O	1839	Hold-Your-Breath	XACA000-A	 	   Di Fl 		011	Wild	F9 V M0 V	-1	(700+4)	[0000]	B	9	28
+Gate	C	1904	Shaneyfelt	X777000-3	 	   Di Pi (NIL)		013	Wild	G4 V	-3	(B00-1)	[0000]	BD	12	-11
+Gate	C	1907	Darmin	X68A000-6	 	   Di Wa 		001	Wild	G0 V	-3	(500+1)	[0000]	B	11	5
+Gate	C	1909	Way	E658630-1	 	   Ag Ni 		511	Wild	F1 V	-2	(854-3)	[A421]	BC	10	-480
+Gate	G	1912	Kaspar	E766545-5	 	  Ag Pr Ga Ni 		324	Wild	F1 V M4 V	-2	(842-1)	[6358]	BcC	11	-64
+Gate	G	1913	Asteron	X855735-0	 	   Ag Ga (NIL)		520	Wild	F5 V K6 V	-1	(966+1)	[2623]	BC	12	324
+Gate	G	1917	Colby	X65989B-0	 	    Ph (NIL)		310	Wild	F8 V	-2	(A77-2)	[B6A1]	Be	9	-980
+Gate	K	1921	Bonnhelm	D651000-5	 	   Di Po 		022	Wild	F3 V M4 V	-3	(500+1)	[0000]	B	8	5
+Gate	K	1924	Starbelt	X000000-B	 	  As Va Di Na 		031	Wild	G0 V M2 V	-1	(C00-2)	[0000]	B	12	-24
+Gate	K	1926	Ashton	D673746-3	 	    Pi (NIL)		514	Wild	A1 V F2 V	-2	(966-1)	[8544]	BD	14	-324
+Gate	K	1928	Red Gulf	X637000-7	 	    Di (NIL)		003	Wild	F6 V	-3	(900+1)	[0000]	B	10	9
+Gate	K	1930	Tangist	X436000-7	 	    Di 		002	Wild	M6 III	-3	(400+4)	[0000]	B	15	16
+Gate	O	1931	Holidin	X420000-A	 	  De He Di Po 		013	Wild	G7 V M0 V	-1	(B00+1)	[0000]	B	15	11
+Gate	C	2002	Renquist	XAA5000-A	 	   Di Fl 		013	Wild	M3 V	-1	(900+3)	[0000]	B	12	27
+Gate	C	2003	Klavien	C795774-2	 	    Ag Pi (NIL)		501	Wild	F2 V	0	(967+1)	[A721]	BCD	7	378
+Gate	C	2008	Galvestar	X778000-2	 	    Di (NIL)		022	Wild	F5 V G5 V	-3	(C00+4)	[0000]	B	14	48
+Gate	C	2010	Prevarren	E555000-8	 	    Di 		013	Wild	G7 V	-3	(B00-3)	[0000]	B	14	-33
+Gate	G	2014	Samuelson	X100000-A	 	  Di Na Pi Va 		014	Wild	K4 V M4 V	-1	(F00-1)	[0000]	BD	12	-15
+Gate	G	2016	Lem	X310000-A	 	   Di Na Pi 		015	Wild	F5 V F9 V	-1	(G00-2)	[0000]	BD	11	-32
+Gate	G	2017	Tavarand	X639000-6	 	    Di 		002	Wild	M3 V	-3	(800+1)	[0000]	B	10	8
+Gate	G	2020	Neopis	X676721-0	 	    Ag Pi (NIL)		221	Wild	G6 V	-1	(967-1)	[3651]	BCD	14	-378
+Gate	K	2022	Desdemone	X554000-5	 	    Di 		012	Wild	F1 V M4 V K6 V	-3	(500-2)	[0000]	B	12	-10
+Gate	O	2035	Caster	X550459-1	 	  De Ni Po 		322	Wild	F6 V	-3	(732+4)	[6172]	B	12	168
+Gate	O	2037	Cloud	X000000-A	 	   As Va Di 		030	Wild	M2 V	-1	(900-2)	[0000]	B	9	-18
+Gate	C	2101	Zoriantra	E77778C-0	 	    Ag Pi (NIL)		413	Wild	A3 V F0 V	-1	(A65+4)	[7611]	BCD	16	1200
+Gate	C	2105	Orcana	X86A000-1	 	   Di Wa 		014	Wild	G2 V M4 V	-3	(700+1)	[0000]	B	12	7
+Gate	C	2107	Tarkaan	E57389E-4	 	   Ph Pi (NIL)		420	Wild	G7 V	-2	(B76+1)	[6653]	BDe	13	462
+Gate	G	2112	Condominium	X867A78-0	 	   Ga Hi (NIL)		110	Wild	F3 V	-1	(C99+1)	[F931]	BE	9	972
+Gate	G	2113	Plavis	X698000-6	 	   Cx Di (NIL)		014	Wild	F3 V	-3	(B00+1)	[0000]	B	15	11
+Gate	K	2125	Oceanis	D67A000-3	 	   Di Wa (NIL)		001	Wild	F9 V	-3	(900-5)	[0000]	B	9	-45
+Gate	K	2127	Agramenx	X837000-6	 	    Di (NIL)		015	Wild	F2 V	-3	(A00-2)	[0000]	B	14	-20
+Gate	O	2133	Flemington	D572000-8	 	  Di He Pi (NIL)		000	Wild	F1 V	-3	(900-3)	[0000]	BD	6	-27
+Gate	O	2138	Thane	E999000-5	 	    Di 		014	Wild	F5 V G0 V	-3	(800+1)	[0000]	B	12	8
+Gate	O	2140	Cinder	X722000-7	 	  Di He Po 		011	Wild	A7 V	-3	(300-4)	[0000]	B	11	-12
+Gate	C	2202	Iosanillia	X747000-5	 	    Di 		000	Wild	G3 V M4 V	-3	(800+1)	[0000]	B	7	8
+Gate	G	2214	Calliver	X435000-6	 	    Di (NIL)		001	Wild	G3 V	-3	(900-2)	[0000]	B	9	-18
+Gate	G	2219	Trevannic	X876000-3	 	   Di Pi (NIL)		004	Wild	F1 V	-3	(900+5)	[0000]	BD	14	45
+Gate	K	2222	Vole	E99498C-6	 	   Hi In (NIL)		111	Wild	F0 V	0	(B8A+3)	[A958]	BE	10	2640
+Gate	K	2224	Hopewell	X584831-0	 	   Pa Ri Ph (NIL)		412	Wild	A7 V F6 V	-1	(A75-5)	[9732]	BcCe	14	-1750
+Gate	O	2231	Paradise of El	E757856-3	 	  Ga Pa Ph (NIL)		513	Wild	A6 V G4 V M8 V	-2	(A76-1)	[7673]	Bce	7	-420
+Gate	O	2233	Ravashar	E544000-5	 	    Di (NIL)		023	Wild	K6 V	-3	(B00+4)	[0000]	B	16	44
+Gate	O	2235	Shin	X400000-A	 	   Di Va 		012	Wild	M2 V M4 V	-1	(600-5)	[0000]	B	15	-30
+Gate	C	2304	D!h-v'n	X311000-B	 	   Di Ic 		022	Wild	G3 V	-1	(900-3)	[0000]	B	12	-27
+Gate	C	2307	Veel	X624000-9	 	   Di Pi (NIL)		001	Wild	M2 V M2 V	-2	(A00+3)	[0000]	BD	8	30
+Gate	C	2310	Smuggler's Hide	X978000-3	 	    Di 		023	Wild	G1 V K5 V	-3	(700-3)	[0000]	B	14	-21
+Gate	G	2312	Freedom Bright	D544000-7	 	    Di 		011	Wild	G7 V K7 V	-3	(700+2)	[0000]	B	9	14
+Gate	G	2317	Varan's Belt	X000000-B	 	  As Va Di Na Pi 		032	Wild	M0 V M9 V	-1	(E00+1)	[0000]	BD	10	14
+Gate	K	2329	Dolmen	X944000-6	 	    Di (NIL)		012	Wild	F9 V	-3	(B00-3)	[0000]	B	8	-33
+Gate	O	2337	Sinest	X5758BC-0	 	   Pa Pi Ph (NIL)		424	Wild	K4 V	-2	(A76+1)	[B6A2]	BcDe	14	420
+Gate	C	2401	Fog	X9B4000-8	 	   Di Fl 		020	Wild	M2 III	-3	(900-5)	[0000]	B	13	-45
+Gate	C	2409	Mung Sa We	X853788-0	 	    Po (NIL)		214	Wild	A6 V F6 V	-2	(966+2)	[6531]	B	12	648
+Gate	G	2413	Hawk	E7658A9-4	 	  Ga Pa Ri Ph (NIL)		312	Wild	G0 V	-1	(A78+4)	[B774]	BcCe	7	2240
+Gate	G	2415	Vestra	X434000-A	 	    Di (NIL)		001	Wild	G0 V M4 V	-1	(A00-1)	[0000]	B	6	-10
+Gate	G	2416	Polacci	E687000-5	 	   Di Ga 		012	Wild	F0 V	-3	(600-2)	[0000]	B	7	-12
+Gate	K	2423	Dover	X89998A-0	 	   Hi In (NIL)		113	Wild	F5 V G1 V	0	(B8B-4)	[C971]	BE	8	-3872
+Gate	K	2424	Gravin	X654000-7	 	    Di 		002	Wild	K1 V	-3	(600+2)	[0000]	B	9	12
+Gate	K	2429	Megucorp Alpha	X779000-2	 	    Di (NIL)		012	Wild	F4 V	-3	(B00+4)	[0000]	B	9	44
+Gate	O	2434	Waystation	X000000-A	 	  As Va Di Na Pi 		030	Wild	K9 V	-1	(C00+2)	[0000]	BD	11	24
+Gate	O	2440	Picard's Belt	X000000-A	 	   As Va Di 		030	Wild	F6 V	-1	(A00-2)	[0000]	B	9	-20
+Gate	D	2503	Alistar	X420000-A	 	  De He Di Po 		010	Wild	G9 V M6 V	-1	(800+1)	[0000]	B	11	8
+Gate	D	2506	Nng Min Sa	X577000-3	 	    Di (NIL)		024	Wild	F3 V	-3	(B00+2)	[0000]	B	11	22
+Gate	D	2508	Nng Min Ha	X554456-2	 	   Ni Pa 		222	Wild	K0 V K1 V	-3	(730+5)	[3142]	Bc	11	105
+Gate	H	2520	Fastness	X310000-8	 	   Di Na Pi 		010	Wild	K0 V M0 V	-3	(A00+3)	[0000]	BD	7	30
+Gate	L	2521	RoughandReady	X789525-2	 	   Ni Pr 		412	Wild	F0 V	-3	(840+3)	[7221]	Bc	13	96
+Gate	L	2527	Kenev	X898000-4	 	    Di 		013	Wild	F0 V	-3	(500+1)	[0000]	B	15	5
+Gate	P	2531	Megucorp Beta	X539000-9	 	    Di (NIL)		003	Wild	F8 V	-2	(E00+1)	[0000]	B	15	14
+Gate	P	2533	Sardinian	X427000-7	 	    Di 		014	Wild	F1 V	-3	(600+4)	[0000]	B	15	24
+Gate	P	2535	Red Grolland	X511000-A	 	   Di Ic 		014	Wild	M1 V	-1	(C00+4)	[0000]	B	16	48
+Gate	P	2537	Baretenit	X629000-9	 	    Di 		001	Wild	M3 V	-2	(500-1)	[0000]	B	9	-5
+Gate	P	2539	Setnil Navarok	X400000-A	 	   Di Va 		010	Wild	A1 V	-1	(800+2)	[0000]	B	10	16
+Gate	D	2605	X'kuur'qu'io Nu	X747000-5	 	    Di 		013	Wild	F6 V	-3	(800+1)	[0000]	B	15	8
+Gate	D	2609	Gneri Mu Nin	E555444-4	 	   Ni Pa 		113	Wild	A8 V F6 V	-3	(733+1)	[5134]	Bc	12	63
+Gate	H	2611	Lanadhu	X423000-A	 	   Di Na Px Po 		000	Wild	F9 IV	-1	(800+1)	[0000]	B	11	8
+Gate	H	2614	Zora	E748000-4	 	    Di 		000	Wild	M3 V	-3	(700+1)	[0000]	B	11	7
+Gate	H	2618	Freehaven	X624000-7	 	   Di Pi (NIL)		001	Wild	M0 V	-3	(900-1)	[0000]	BD	9	-9
+Gate	L	2624	Finestre	X5A2000-9	 	   Di Fl He 		014	Wild	K5 V M3 V	-2	(A00+1)	[0000]	B	15	10
+Gate	L	2628	Randrell	X984000-1	 	    Di 		011	Wild	F7 V	-3	(300+1)	[0000]	B	8	3
+Gate	L	2629	Athene	D689778-2	 	    Ri (NIL)		514	Wild	F7 V	-1	(96A+3)	[8663]	BC	11	1620
+Gate	L	2630	Sardis	X876000-6	 	  Cx Di Pi (NIL)		000	Wild	F8 V M8 V	-3	(B00+3)	[0000]	BD	9	33
+Gate	P	2635	Silveron	X978000-7	 	    Di 		023	Wild	F3 V F7 V	-3	(800-1)	[0000]	B	15	-8
+Gate	P	2639	Megas	XA9A000-7	 	   Di Oc 		024	Wild	F6 V	-3	(700+2)	[0000]	B	16	14
+Gate	D	2701	Drasheveen	X430000-9	 	  De Di Po 		012	Wild	M0 III	-2	(700+1)	[0000]	B	10	7
+Gate	D	2704	Holbert	X543000-4	 	   Di Po 		012	Wild	F9 V K0 V	-3	(600-4)	[0000]	B	14	-24
+Gate	D	2708	Akeen	X66A634-2	 	 Cx Ni Ri Wa 		412	Wild	F5 V M5 V	-2	(850+2)	[6451]	BC	7	80
+Gate	H	2716	Hidden Booty	X100000-0	 	   Ba Va 		013	Wild	A8 V	-3	(200-4)	[0000]	B	9	-8
+Gate	H	2720	Carlton	X667799-0	 	  Ag Ri Cx Ga (NIL)		425	Wild	F2 V M7 V	0	(969-1)	[7771]	BC	15	-486
+Gate	L	2722	Freeport	X646000-3	 	    Di 		023	Wild	F5 V	-3	(600-4)	[0000]	B	15	-24
+Gate	L	2725	Goldstar	X658000-8	 	    Di 		014	Wild	F5 V	-3	(A00+1)	[0000]	B	9	10
+Gate	L	2727	Azuris	X66A000-5	 	   Di Wa 		001	Wild	F4 V	-3	(800+1)	[0000]	B	13	8
+Gate	P	2733	Besarbian	X534000-7	 	    Di (NIL)		013	Wild	O7 V G3 V	-3	(A00+2)	[0000]	B	12	20
+Gate	P	2738	Garther	X536000-A	 	    Di 		014	Wild	M1 III M7 V	-1	(B00+5)	[0000]	B	15	55
+Gate	D	2806	Jh'nng Mu Nu	X683430-0	 	    Ni 		213	Wild	F5 V	-3	(630-2)	[1185]	B	12	-36
+Gate	D	2810	Hespitar	X546000-4	 	    Di 		013	Wild	A7 V F0 V	-3	(600+1)	[0000]	B	16	6
+Gate	H	2813	Coriander	X423000-8	 	   Di Na Px Po 		001	Wild	M0 V	-3	(900-1)	[0000]	B	6	-9
+Gate	H	2817	Runner's Star	E686677-4	 	  Ag Ri Ga Ni 		313	Wild	F3 V	-1	(850-4)	[6513]	BC	9	-160
+Gate	H	2819	Pirate's Haven	X775887-0	 	   Pa Pi Ph (NIL)		426	Wild	F1 V	-2	(A73+2)	[A6A1]	BcDe	13	420
+Gate	L	2823	Lucian	X6A9000-9	 	   Di Fl 		011	Wild	M5 III D	-2	(700+5)	[0000]	B	11	35
+Gate	L	2824	Parmentier	X567678-0	 	   Ag Ri Ni 		425	Wild	G2 V K9 V	-1	(855+2)	[6562]	BC	13	400
+Gate	L	2828	Lov Fennaden	X682434-1	 	    Ni 		213	Wild	K3 V M1 V	-3	(630+1)	[5191]	B	7	18
+Gate	P	2831	Kolan	E757877-4	 	  Ga Pa Ph (NIL)		214	Wild	F4 V	-2	(A72+1)	[A662]	Bce	10	140
+Gate	P	2836	Jasper's Ring	X000000-9	 	  As Va Di Na Pi 		034	Wild	M1 V	-2	(G00+2)	[0000]	BD	10	32
+Gate	D	2903	Fartheron	X564000-3	 	    Di 		023	Wild	F0 V	-3	(500+1)	[0000]	B	13	5
+Gate	H	2915	Gigas	X577000-4	 	    Di 		000	Wild	K3 V	-3	(300+1)	[0000]	B	5	3
+Gate	H	2918	Sandhaven	X000000-A	 	  As Va Di Na Pi 		042	Wild	F8 V	-1	(G00+2)	[0000]	BD	11	32
+Gate	L	2921	Kotar	D554679-4	 	   Ag Ni 		424	Wild	F8 V	-2	(852+5)	[7456]	BC	15	400
+Gate	L	2928	Holande	X534000-A	 	    Di 		000	Wild	A7 V M2 V	-1	(700+1)	[0000]	B	6	7
+Gate	P	2937	Rios	X424000-8	 	    Di 		022	Wild	A8 V	-3	(C00+1)	[0000]	B	11	12
+Gate	P	2940	Castlemaine	X430000-9	 	  De Di Po 		012	Wild	A8 V M2 V	-2	(800+2)	[0000]	B	11	16
+Gate	D	3006	Duranel	X424000-8	 	   Di Pi (NIL)		001	Wild	F6 V	-3	(B00-3)	[0000]	BD	5	-33
+Gate	D	3010	Coma	X100000-7	 	   Di Va 		023	Wild	M9 III M9 V	-3	(700+1)	[0000]	B	12	7
+Gate	H	3012	Mneomon	XA89000-2	 	    Di 		024	Wild	F4 V	-3	(700+2)	[0000]	B	13	14
+Gate	L	3024	Golar	E87A000-6	 	   Di Wa 		003	Wild	G5 V	-3	(700+4)	[0000]	B	12	28
+Gate	L	3029	Vulan	E788426-5	 	   Ni Pa 		324	Wild	F0 V	-3	(830+3)	[4166]	Bc	13	72
+Gate	P	3031	Akabar	E767647-4	 	  Ag Ri Ga Ni 		424	Wild	F9 V	-1	(855+3)	[B525]	BC	9	600
+Gate	P	3034	Icestation	X106000-9	 	  Di Ic Va Pi 		011	Wild	M2 V	-2	(B00-1)	[0000]	BD	14	-11
+Gate	P	3038	Njorni	D651776-4	 	    Po (NIL)		232	Wild	K9 V	-2	(961-2)	[C581]	B	13	-108
+Gate	P	3040	Celeste	D85A7B6-2	 	    Wa (NIL)		211	Wild	F9 V	-2	(A68-2)	[A575]	B	8	-960
+Gate	D	3102	Agarn	D66A000-4	 	   Di Wa (NIL)		012	Wild	F4 V	-3	(900-4)	[0000]	B	10	-36
+Gate	D	3105	Tuckjohn	E567435-2	 	   Ni Pa 		200	Wild	F1 V K0 V F8 V	-3	(632-5)	[5171]	Bc	12	-180
+Gate	D	3108	Randolph	E540735-4	 	   De He Pi Po (NIL)		112	Wild	F0 V K9 V M0 V	-2	(A67-1)	[B514]	BD	10	-420
+Gate	D	3109	Boden	X77A000-3	 	   Di Wa 		012	Wild	G0 V	-3	(700-3)	[0000]	B	14	-21
+Gate	D	3110	Banserada	X512000-B	 	  Di Ic Na 		013	Wild	M2 V	-1	(C00+3)	[0000]	B	11	36
+Gate	H	3117	Emoress	X66A000-5	 	   Di Wa (NIL)		010	Wild	F9 V	-3	(900+2)	[0000]	B	8	18
+Gate	L	3121	Hotemin	X313000-8	 	  Di Ic Na 		011	Wild	M1 V	-3	(A00-2)	[0000]	B	14	-20
+Gate	L	3122	Frantest	D66A998-3	 	  Hi Pr Wa (NIL)		111	Wild	F4 V	-1	(A8B+4)	[C864]	BcE	8	3520
+Gate	L	3125	Quiestreen	X58A674-0	 	  Ni Ri Wa 		300	Wild	F3 V	-2	(851+1)	[4451]	BC	6	40
+Gate	L	3128	Plymar	D554499-4	 	  Mr Ni Pa 		210	Wild	G8 V M3 V M3 V	-3	(630+5)	[3157]	Bc	8	90
+Gate	P	3131	Kent	X434000-7	 	    Di (NIL)		011	Wild	A4 V M3 V	-3	(900-2)	[0000]	B	14	-18
+Gate	P	3132	Barristar	D964000-7	 	    Di 		011	Wild	K4 V	-3	(500+4)	[0000]	B	12	20
+Gate	P	3137	Trondelm	X53A000-A	 	   Di Wa (NIL)		011	Wild	F0 V	-1	(C00+3)	[0000]	B	12	36
+Gate	D	3201	Alechet	X430000-9	 	  De Di Po 		010	Wild	M7 II	-2	(500+1)	[0000]	B	8	5
+Gate	D	3203	Caterplan	E540000-7	 	  De He Di Po (NIL)		000	Wild	F5 V M6 V	-3	(A00+1)	[0000]	B	6	10
+Gate	D	3207	Bem	XADA000-C	 	   Di Oc 		011	Wild	A1 V G9 V	-1	(700-3)	[0000]	B	7	-21
+Gate	H	3213	Chloran	X9C4000-B	 	   Di Fl 		001	Wild	M2 V	-1	(400-3)	[0000]	B	9	-12
+Gate	H	3217	Drumhelda	X310000-9	 	    Di 		032	Wild	M2 V	-2	(A00-2)	[0000]	B	11	-20
+Gate	H	3219	Thipister	B769525-7	 	   Ni Pr 		123	Wild	F3 V	-1	(840-4)	[5425]	Bc	16	-128
+Gate	L	3223	Grovelunda	X439000-B	 	    Di 		023	Wild	A0 III	-1	(D00+1)	[0000]	B	14	13
+Gate	L	3226	Pashendelist	X537000-9	 	    Di (NIL)		001	Wild	F6 V	-2	(B00-1)	[0000]	B	5	-11
+Gate	L	3229	Silest	D99A000-4	 	  Cx Di Wa (NIL)		011	Wild	G2 V	-3	(900+1)	[0000]	B	11	9
+Gate	L	3230	Xabthar	E643000-7	 	   Di Po 		001	Wild	F1 V	-3	(700-5)	[0000]	B	10	-35
+Gate	P	3233	Neomantel	X65A000-4	 	   Di Wa (NIL)		011	Wild	F7 V K7 V	-3	(900-3)	[0000]	B	7	-27
+Gate	P	3235	Povan	X430000-B	 	  De Di Na Po (NIL)		023	Wild	F7 V K1 V	-1	(E00+2)	[0000]	B	12	28
+Gate	P	3239	Hepler	D687000-5	 	   Di Ga 		021	Wild	G8 V K0 V	-3	(400-5)	[0000]	B	14	-20

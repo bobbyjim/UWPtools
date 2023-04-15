@@ -1,0 +1,517 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Magy	A	0102	Oasis	X850753-2	 	   De Po (NIL)		400	Wild	G3 V M2 V	-2	(965+2)	[8525]	B	6	540
+Magy	A	0104	Pity	X301000-C	 	   Di Ic Va 		003	Wild	M0 V	-1	(700-2)	[0000]	B	9	-14
+Magy	A	0105	Reynold	X401000-B	 	   Di Ic Va 		013	Wild	M1 V	-1	(E00+3)	[0000]	B	7	42
+Magy	A	0106	Vala's World	X830000-7	 	  De Di Po 		010	Wild	G2 V	-3	(400-2)	[0000]	B	7	-8
+Magy	E	0113	Schurz	E874000-6	 	    Di 		001	Wild	F1 V G6 V	-3	(500+1)	[0000]	B	9	5
+Magy	E	0115	Pryon	X8897CA-2	 	    Ri (NIL)		302	Wild	K9 V M3 V	-1	(965+1)	[A681]	BC	10	270
+Magy	E	0116	Wair	E89A000-6	 	   Di Wa (NIL)		001	Wild	G2 V M6 V	-3	(B00-4)	[0000]	B	11	-44
+Magy	E	0118	Hool	X421000-A	 	  Di He Po (NIL)		004	Wild	G7 V M4 V	-1	(E00+2)	[0000]	B	10	28
+Magy	E	0119	Mickel	X742000-D	 	  Di He Po (NIL)		003	Wild	F5 V	-1	(D00+1)	[0000]	B	10	13
+Magy	E	0120	Factn	E740000-4	 	  De He Di Po (NIL)		003	Wild	G2 V	-3	(B00-2)	[0000]	B	15	-22
+Magy	I	0122	Vaneken	X7B7000-9	 	   Di Fl (ENIL)		003	Wild	M3 V M7 V	-2	(D00-1)	[0000]	B	9	-13
+Magy	I	0125	Ulm	X548000-5	 	    Di 		014	Wild	G1 V G4 V	-3	(800+1)	[0000]	B	11	8
+Magy	I	0130	Rosefeld	X521000-7	 	  Di He Po (NIL)		021	Wild	G3 V M8 V	-3	(A00+4)	[0000]	B	11	40
+Magy	M	0131	Indet	X7B7000-D	 	   Di Fl (ENIL)		002	Wild	M0 V	-1	(D00+1)	[0000]	B	8	13
+Magy	M	0134	Quizen	X6AA000-D	 	   Di Fl (ENIL)		010	Wild	M1 V	-1	(B00+3)	[0000]	B	9	33
+Magy	M	0135	Regasas	X100000-E	 	  Di Lk Va 		000	Wild	M1 V M2 V	-1	(A00+1)	[0000]	B	8	10
+Magy	M	0136	Wilkerson	X7BA000-E	 	   Di Fl (ENIL)		012	Wild	M0 V M1 V	-1	(C00+3)	[0000]	B	11	36
+Magy	M	0137	Bentley	X422000-C	 	  Di He Po 		004	Wild	M1 V	-1	(C00+1)	[0000]	B	13	12
+Magy	M	0139	Xianjin	X776000-5	 	    Di 		012	Wild	K0 V M0 V	-3	(800-1)	[0000]	B	12	-8
+Magy	M	0140	Falkenthal	X59A000-2	 	  Di Sa Wa 		013	Wild	G7 V M8 V	-3	(400-3)	[0000]	B	15	-12
+Magy	A	0203	Wu	X66A000-0	 	  Ba Cp Wa (NIL)		014	Wild	F9 V G9 V	-3	(B00+4)	[0000]	BF	13	44
+Magy	A	0205	Clan	X640572-2	 	  De He Ni Po (NIL)		103	Wild	G9 V	-3	(B43+1)	[6281]	B	8	132
+Magy	A	0208	Spit	X530000-8	 	 De Di Po Sa (NIL)		022	Wild	F4 V G3 V	-3	(E00-5)	[0000]	B	13	-70
+Magy	A	0210	Chou	X621000-9	 	  Di He Po (NIL)		003	Wild	K1 V	-2	(D00-2)	[0000]	B	12	-26
+Magy	E	0211	Seung	X000000-D	 	   As Va Di 		001	Wild	G7 III G6 V	-1	(900-1)	[0000]	B	10	-9
+Magy	E	0212	Zentara	X201000-C	 	  Di Ic Va Lk 		004	Wild	M2 V	-1	(800+2)	[0000]	B	13	16
+Magy	E	0215	Amonchomchu	E599752-7	 	    Pi (NIL)		401	Wild	K7 V	-2	(966+3)	[356A]	BD	9	972
+Magy	E	0216	Planck	X201000-E	 	  Di Ic Va Sa 		004	Wild	M2 V M9 V	-1	(900-3)	[0000]	B	15	-27
+Magy	E	0220	Anderson	X550000-0	 	  Ba De Po 		003	Wild	K9 V	-3	(400-1)	[0000]	B	8	-4
+Magy	I	0223	Campany	C641733-7	 	   He Pi Po (NIL)		321	Wild	G9 V	-1	(A69+2)	[C63C]	BD	11	1080
+Magy	I	0224	Romm	X531000-D	 	   Di Po 		003	Wild	M2 V	-1	(800+1)	[0000]	B	11	8
+Magy	I	0225	Adopoulos	X100000-C	 	  Di Sa Va 		011	Wild	M0 V	-1	(900-3)	[0000]	B	9	-27
+Magy	I	0227	Ock	X9A8000-E	 	  Cp Di Fl (ENIL)		010	Wild	M2 V M4 V	-1	(B00-1)	[0000]	BF	7	-11
+Magy	I	0229	Tworek	X8AA000-A	 	   Di Fl 		012	Wild	K5 V	-1	(900-2)	[0000]	B	10	-18
+Magy	M	0233	Drang	X543674-1	 	  Cp Ni Po (NIL)		513	Wild	K2 V	-3	(950-5)	[8381]	BF	16	-225
+Magy	M	0239	Crecilius	X6A7000-C	 	   Di Fl 		013	Wild	K8 V M1 V	-1	(700+2)	[0000]	B	9	14
+Magy	A	0303	Placid	X545000-3	 	    Di 		014	Wild	G0 V K9 V	-3	(600+3)	[0000]	B	16	18
+Magy	A	0305	Veller	X546000-6	 	    Di 		010	Wild	F7 V	-3	(600+4)	[0000]	B	10	24
+Magy	A	0308	Tamroff	X775000-7	 	    Di 		013	Wild	G4 V K2 V	-3	(500-1)	[0000]	B	10	-5
+Magy	A	0309	Rudikk	X301000-8	 	  Di Ic Va Lk 		020	Wild	M1 V	-3	(B00-1)	[0000]	B	6	-11
+Magy	A	0310	Carn	X430000-A	 	  De Di Po 		004	Wild	M0 V M2 V	-1	(C00+1)	[0000]	B	10	12
+Magy	E	0315	McManus	X511000-7	 	   Di Ic 		002	Wild	F8 V	-3	(900-1)	[0000]	B	6	-9
+Magy	E	0317	Sawiykao'	X301000-9	 	   Di Ic Va 		014	Wild	K0 V M9 V	-2	(B00+1)	[0000]	B	11	11
+Magy	E	0319	Kelriya	X434000-B	 	    Di 		020	Wild	G1 V M3 V	-1	(800+2)	[0000]	B	5	16
+Magy	I	0321	Usi Ub	X696000-5	 	    Di (NIL)		014	Wild	G5 V K9 V	-3	(B00+1)	[0000]	B	14	11
+Magy	I	0322	Wright	X000000-D	 	   As Va Di 		013	Wild	M2 V	-1	(900-2)	[0000]	B	11	-18
+Magy	I	0327	Ciaconn	X89A000-8	 	   Di Wa 		000	Wild	G0 V	-3	(400+3)	[0000]	B	7	12
+Magy	I	0329	Tenson	X632000-A	 	   Di Po 		002	Wild	F6 V	-1	(900-2)	[0000]	B	12	-18
+Magy	I	0330	Awrenek	X556000-4	 	    Di 		004	Wild	M2 V	-3	(300+1)	[0000]	B	15	3
+Magy	M	0333	Leto	X301000-A	 	  Di Ic Va Sa 		012	Wild	G8 III D	-1	(B00+1)	[0000]	B	12	11
+Magy	M	0337	Zandervort	X874677-1	 	   Ag Ni (NIL)		902	Wild	F4 V	-2	(A53+1)	[5481]	BC	11	150
+Magy	M	0338	Mitava	X540000-5	 	  De He Di Po 		032	Wild	G6 V	-3	(400-1)	[0000]	B	17	-4
+Magy	M	0340	Rundle	X511000-E	 	  Di Ic Mr 		000	Wild	G5 V	-1	(500-3)	[0000]	B	7	-15
+Magy	A	0403	Downfall	D547000-4	 	    Di 		014	Wild	F1 V	-3	(300+5)	[0000]	B	16	15
+Magy	A	0404	Oyama	X5A3000-B	 	   Di Fl 		003	Wild	K3 V	-1	(A00+2)	[0000]	B	13	20
+Magy	A	0409	Gunsan	X645000-5	 	    Di 		013	Wild	G7 V	-3	(700+1)	[0000]	B	13	7
+Magy	E	0411	Yergin	X767697-1	 	  Ag Ri Ga Ni 		220	Wild	G4 V M3 V	-1	(855-3)	[1571]	BC	11	-600
+Magy	E	0413	Kaig	X6AA000-E	 	  Cp Di Fl (ENIL)		002	Wild	M1 V M4 V M3 V	-1	(B00+3)	[0000]	BF	7	33
+Magy	E	0415	Dormant	X650500-3	 	  De Ni Po 		303	Wild	G4 V	-3	(840+1)	[5263]	B	11	32
+Magy	I	0423	Wieaaw	X401000-9	 	  Di Ic Va Sa 		001	Wild	G8 V M5 V	-2	(900-1)	[0000]	B	10	-9
+Magy	I	0425	Mitaro	D895000-7	 	    Di 		000	Wild	G9 V	-3	(500+1)	[0000]	B	8	5
+Magy	I	0427	Yoeahti	X542000-6	 	  Di He Po 		014	Wild	M0 V	-3	(600-1)	[0000]	B	10	-6
+Magy	I	0428	Weiji	X741000-6	 	  Di He Po 		000	Wild	M2 V	-3	(800-4)	[0000]	B	8	-32
+Magy	M	0432	Agari	X58A000-C	 	   Di Wa (NIL)		014	Wild	M1 V	-1	(G00+1)	[0000]	B	12	16
+Magy	M	0440	Sammadar	X557000-3	 	    Di 		010	Wild	M0 V M9 V	-3	(400-4)	[0000]	B	8	-16
+Magy	A	0502	Fairbairn	X630000-7	 	  De Di Po 		003	Wild	K3 V M0 V	-3	(400+1)	[0000]	B	8	4
+Magy	A	0503	New Sol	X501000-7	 	   Di Ic Va 		004	Wild	G3 V	-3	(B00+2)	[0000]	B	13	22
+Magy	A	0504	Greenvald	X864449-2	 	   Ni Pa 		400	Wild	M1 V	-3	(830-2)	[5153]	Bc	11	-48
+Magy	A	0505	Holywell	X7B9000-D	 	   Di Fl 		010	Wild	M1 V	-1	(700-3)	[0000]	B	10	-21
+Magy	A	0509	Redden	E554000-4	 	    Di 		005	Wild	F9 V M8 V	-3	(300-5)	[0000]	B	11	-15
+Magy	E	0516	Papesh	X200000-8	 	  Di Lk Va 		003	Wild	M0 V	-3	(B00+1)	[0000]	B	7	11
+Magy	E	0517	Ewaokh	X556000-3	 	    Di 		002	Wild	F6 V M0 V	-3	(300+1)	[0000]	B	7	3
+Magy	I	0523	Havaiikii	X69A000-6	 	  Di Mr Wa 		004	Wild	K1 V M8 V	-3	(800+1)	[0000]	B	10	8
+Magy	I	0524	Butchko	X301000-A	 	  Di Ic Va Sa 		004	Wild	K3 V M3 V	-1	(B00+1)	[0000]	B	14	11
+Magy	I	0526	Lancess	E677000-7	 	    Di 		020	Wild	G5 V	-3	(600+1)	[0000]	B	9	6
+Magy	I	0528	Gobi	X84087A-1	 	  De He Ph Pi Po (NIL)		300	Wild	M1 V	-2	(A79+2)	[C641]	BDe	8	1260
+Magy	I	0530	Troy	X562000-2	 	    Di 		004	Wild	M1 V	-3	(500+1)	[0000]	B	10	5
+Magy	M	0531	Bhola	X552499-2	 	   Ni Po 		913	Wild	G6 V	-3	(730-5)	[3141]	B	13	-105
+Magy	M	0533	Fukasaku	X300000-9	 	   Di Va 		001	Wild	G7 V M3 V	-2	(800-4)	[0000]	B	8	-32
+Magy	M	0534	Joliff	X585000-6	 	    Di 		000	Wild	F8 V M1 V M6 V	-3	(500-1)	[0000]	B	5	-5
+Magy	M	0536	Dalton	X89A000-9	 	   Di Wa 		003	Wild	G2 V	-2	(B00+1)	[0000]	B	9	11
+Magy	M	0537	Jiaxiang	X000000-E	 	   As Va Di 		013	Wild	M0 V M5 V	-1	(A00+1)	[0000]	B	9	10
+Magy	M	0540	Ziarko	X201000-E	 	   Di Ic Va 		022	Wild	K6 V M4 V	-1	(900+3)	[0000]	B	13	27
+Magy	A	0601	Sharn	B756779-9	 	   Ag Ga (NIL)		900	Wild	G4 V	2	(A67+5)	[698C]	BC	8	2100
+Magy	A	0602	Yamashita	X000000-A	 	   As Va Di 		002	Wild	G8 V M1 V	-1	(900+1)	[0000]	B	10	9
+Magy	A	0605	Dillman	X984479-2	 	   Ni Pa 		113	Wild	G4 V	-3	(630+1)	[3151]	Bc	13	18
+Magy	A	0608	David's Drop	X7B9000-9	 	   Di Fl 		003	Wild	K8 V	-2	(900+3)	[0000]	B	11	27
+Magy	E	0613	Arsdale	X545000-5	 	    Di (NIL)		000	Wild	G8 V	-3	(A00+3)	[0000]	B	7	30
+Magy	E	0614	Wells	E677000-3	 	    Di 		000	Wild	M0 V M6 V	-3	(800-1)	[0000]	B	9	-8
+Magy	E	0615	Pindur	X631000-B	 	   Di Po (NIL)		002	Wild	K8 V	-1	(D00-1)	[0000]	B	6	-13
+Magy	E	0617	Alroarl	X699000-8	 	   Di Sa 		005	Wild	G6 V	-3	(900-1)	[0000]	B	16	-9
+Magy	E	0619	Joce	X540000-2	 	 De He Di Mr Po 		024	Wild	F0 V	-3	(300-2)	[0000]	B	15	-6
+Magy	I	0623	Pathak	X722000-9	 	  Di He Po 		003	Wild	G4 V K8 V M9 V	-2	(900-2)	[0000]	B	14	-18
+Magy	I	0624	Iouo	X79A777-1	 	  Mr Pi Wa (NIL)		200	Wild	K3 V M7 V	-2	(B67+1)	[8571]	BD	4	462
+Magy	I	0625	Esteraj	X7B7000-B	 	   Di Fl 		010	Wild	M0 V	-1	(700+1)	[0000]	B	8	7
+Magy	I	0627	Hekhtye	X311000-B	 	   Di Ic 		000	Wild	M3 V	-1	(400+1)	[0000]	B	6	4
+Magy	M	0633	Nimikh	X301000-9	 	   Di Ic Va 		003	Wild	M0 V	-2	(A00+3)	[0000]	B	16	30
+Magy	M	0635	Adria	X798000-4	 	    Di 		003	Wild	M0 V	-3	(400-4)	[0000]	B	12	-16
+Magy	M	0636	Morsen	X301000-C	 	  Di Ic Va Sa 		004	Wild	K4 V M4 V	-1	(E00+1)	[0000]	B	14	14
+Magy	A	0701	Trikak	E5747BD-5	 	    Ag Pi (NIL)		523	Wild	K6 V	-1	(A63+1)	[6651]	BCD	13	180
+Magy	A	0703	Justin	X310000-9	 	    Di 		022	Wild	M0 V	-2	(B00+3)	[0000]	B	10	33
+Magy	A	0705	Zilla	X567413-2	 	   Ni Pa 		200	Wild	K8 V	-3	(730-2)	[1155]	Bc	6	-42
+Magy	A	0707	Bindas	X730000-7	 	  De Di Po 		015	Wild	G7 V M0 V	-3	(700+1)	[0000]	B	13	7
+Magy	A	0708	Icolka	X997000-0	 	    Ba 		000	Wild	F5 V	-3	(700+3)	[0000]	B	10	21
+Magy	A	0710	Yazi	X750530-2	 	  De Ni Po 		300	Wild	M2 V M2 V	-3	(841-2)	[8283]	B	7	-64
+Magy	E	0712	Fatridge	X998877-1	 	   Pa Pi Ph (NIL)		210	Wild	M2 V	-2	(A78+2)	[B641]	BcDe	9	1120
+Magy	E	0713	Bradley	X620000-A	 	  De He Di Po (NIL)		022	Wild	M1 V M6 V	-1	(E00+2)	[0000]	B	10	28
+Magy	E	0715	Kazilash	X778000-3	 	    Di 		004	Wild	G4 V M2 V	-3	(300-1)	[0000]	B	15	-3
+Magy	E	0716	Hodapp	X689579-3	 	   Ni Pr 		204	Wild	G9 V M4 V	-3	(741+1)	[2255]	Bc	15	28
+Magy	E	0720	Lachlan	X501000-D	 	   Di Ic Va 		002	Wild	B9 III F1 V K3 V	-1	(B00-1)	[0000]	B	8	-11
+Magy	I	0721	Jafar	X559000-7	 	    Di 		000	Wild	G3 V	-3	(300+1)	[0000]	B	8	3
+Magy	I	0722	Damond	X550000-A	 	  De Di Po (NIL)		010	Wild	G0 V	-1	(A00+3)	[0000]	B	8	30
+Magy	I	0723	Boracim	X201000-E	 	   Di Ic Va 		002	Wild	M1 V	-1	(600-3)	[0000]	B	14	-18
+Magy	I	0724	Ristel	X536000-B	 	    Di 		000	Wild	F3 V	-1	(700+1)	[0000]	B	11	7
+Magy	M	0731	Hershel	X7A5000-8	 	   Di Fl 		003	Wild	F9 V	-3	(B00+1)	[0000]	B	6	11
+Magy	M	0732	Oldorf	E555576-6	 	   Ag Ni 		321	Wild	K8 V M4 V	-2	(744-1)	[7377]	BC	10	-112
+Magy	M	0736	Sodra	X434000-8	 	    Di (NIL)		022	Wild	K8 V	-3	(E00-4)	[0000]	B	11	-56
+Magy	M	0737	Kroovand	X438000-B	 	   Di Sa 		025	Wild	M1 V M1 V	-1	(E00-3)	[0000]	B	11	-42
+Magy	M	0740	Fluri	X78A679-3	 	  Ni Ri Wa 		310	Wild	G2 V M5 V	-2	(852+2)	[4434]	BC	11	160
+Magy	A	0804	Bupaj	X420000-9	 	  De He Di Po 		003	Wild	K5 V	-2	(700+1)	[0000]	B	12	7
+Magy	A	0805	Deriabar	X501000-A	 	   Di Ic Va 		000	Wild	M2 V M3 V	-1	(700-2)	[0000]	B	8	-14
+Magy	A	0807	Nova Dune	X410000-B	 	    Di 		003	Wild	M2 V	-1	(700-1)	[0000]	B	12	-7
+Magy	A	0808	Saratela	X985000-6	 	    Di 		013	Wild	G9 V	-3	(700-1)	[0000]	B	9	-7
+Magy	A	0809	Kuxald	X553000-0	 	   Ba Po 		024	Wild	G9 V	-3	(600+1)	[0000]	B	15	6
+Magy	E	0812	Nihonatarashi	X437000-C	 	    Di 		012	Wild	G3 V K9 V M9 V	-1	(900-1)	[0000]	B	13	-9
+Magy	E	0813	Meza	X000000-D	 	   As Va Di 		000	Wild	M2 V	-1	(A00-4)	[0000]	B	9	-40
+Magy	E	0814	Kano	X432000-E	 	  Di Po Sa 		004	Wild	M3 V M6 V	-1	(B00+1)	[0000]	B	12	11
+Magy	E	0815	Hurshel	X7B5000-B	 	   Di Fl 		003	Wild	M0 V	-1	(B00+5)	[0000]	B	13	55
+Magy	I	0824	Feayu	E99A000-6	 	   Di Wa 		020	Wild	K5 V M0 V	-3	(700+3)	[0000]	B	8	21
+Magy	I	0825	Nait	X8C7000-C	 	   Di Fl 		023	Wild	K7 V M3 V	-1	(B00+1)	[0000]	B	17	11
+Magy	I	0827	Sod	E853000-4	 	   Di Po 		000	Wild	G3 V	-3	(600+3)	[0000]	B	3	18
+Magy	I	0829	Britten	X99A000-0	 	   Ba Wa 		014	Wild	G7 V	-3	(400+1)	[0000]	B	12	4
+Magy	I	0830	Haworth	X653542-2	 	  Lk Ni Po 		204	Wild	G6 V	-3	(742+1)	[2253]	B	16	56
+Magy	M	0835	Drocian	X420000-C	 	 De He Di Po Sa 		003	Wild	K4 V M2 V	-1	(A00+2)	[0000]	B	11	20
+Magy	M	0836	Hwisiy	DA9A000-7	 	   Di Oc 		013	Wild	G3 V M7 V	-3	(400+1)	[0000]	B	12	4
+Magy	B	0902	Akludu	D568000-7	 	   Di Mr 		024	Wild	G5 V M4 V	-3	(800-4)	[0000]	B	19	-32
+Magy	B	0903	Daftrew	X78A646-3	 	  Ni Ri Wa (NIL)		100	Wild	F4 V M1 V	-2	(A53-1)	[94A1]	BC	8	-150
+Magy	B	0904	Opoyama	E954000-6	 	    Di 		024	Wild	G4 V	-3	(500+4)	[0000]	B	17	20
+Magy	B	0910	Far Light	X422000-9	 	  Di He Po 		003	Wild	M0 V M8 V	-2	(A00+3)	[0000]	B	12	30
+Magy	F	0913	Baelen	X654834-1	 	   Pa Ph (NIL)		100	Wild	K2 V M5 V	-2	(A73-3)	[6651]	Bce	5	-630
+Magy	F	0915	Valentin	X540000-6	 	  De He Di Po 		003	Wild	M1 V	-3	(600-1)	[0000]	B	10	-6
+Magy	F	0918	Packard	X899000-0	 	    Ba 		023	Wild	G2 V	-3	(600+1)	[0000]	B	15	6
+Magy	F	0919	Simovia	X630000-A	 	  De Di Po 		004	Wild	F1 V	-1	(C00-5)	[0000]	B	9	-60
+Magy	F	0920	Turnwall	X794000-5	 	    Di 		000	Wild	K4 V M0 V	-3	(800+3)	[0000]	B	11	24
+Magy	J	0921	Antaeus	D779000-8	 	    Di (NIL)		003	Wild	K0 V	-3	(C00+1)	[0000]	B	11	12
+Magy	J	0923	Feast	E6788B7-5	 	   Pa Pi Ph (NIL)		113	Wild	K9 V	-2	(A73-1)	[B685]	BcDe	9	-210
+Magy	J	0924	Lavik	XC9A000-5	 	   Di Oc 		004	Wild	F5 V	-3	(500+1)	[0000]	B	12	5
+Magy	J	0926	Shenski	X830000-7	 	  De Di Po 		010	Wild	F9 V	-3	(500-1)	[0000]	B	7	-5
+Magy	J	0928	Tsute	X798735-1	 	    Ag Pi (NIL)		502	Wild	G2 V	-1	(A68+1)	[B631]	BCD	5	480
+Magy	J	0930	Barland	X56777A-1	 	    Ag Ri (NIL)		604	Wild	K1 V	0	(A68-1)	[B751]	BC	14	-480
+Magy	N	0931	Dewal	XA98878-1	 	   Pa Pi Ph (NIL)		900	Wild	K5 V M4 V	-2	(B70+1)	[A652]	BcDe	11	77
+Magy	N	0934	Cea	E864775-5	 	    Ag Ri (NIL)		302	Wild	M0 V	0	(967+5)	[8724]	BC	9	1890
+Magy	N	0939	Red	X201000-9	 	   Di Ic Va 		025	Wild	K0 III	-2	(E00-1)	[0000]	B	15	-14
+Magy	B	1002	Wrath	E550430-6	 	  De Ni Po 		302	Wild	F3 V M1 V K4 V	-3	(730+1)	[1175]	B	13	21
+Magy	B	1003	Relatte	X857000-7	 	   Di Ga 		024	Wild	G0 V M8 V	-3	(600+2)	[0000]	B	19	12
+Magy	B	1004	Jondrea	X545000-4	 	    Di 		004	Wild	M2 V	-3	(500-3)	[0000]	B	9	-15
+Magy	B	1008	Mafred	X538000-A	 	    Di 		003	Wild	K8 V	-1	(900+3)	[0000]	B	16	27
+Magy	F	1016	Icenogle	X676000-4	 	    Di 		022	Wild	G7 V M7 V	-3	(700-2)	[0000]	B	9	-14
+Magy	F	1018	Ekar	E7839B9-3	 	   Hi Pr (NIL)		200	Wild	G7 V	-1	(B86-1)	[D871]	BcE	8	-528
+Magy	J	1021	Kriss	X787453-3	 	 Ga Mr Ni Pa 		312	Wild	M1 V M3 V	-3	(633+1)	[4191]	Bc	13	54
+Magy	J	1022	Hachiman	X620000-C	 	  De He Di Po (NIL)		011	Wild	M2 V	-1	(B00-3)	[0000]	B	10	-33
+Magy	J	1023	Breck	X595888-1	 	   Pa Pi Ph (NIL)		303	Wild	K4 V	-2	(A76+1)	[9631]	BcDe	8	420
+Magy	J	1027	Ethlum	X201000-C	 	  Di Ic Va Sa 		002	Wild	M3 V M4 V	-1	(C00+5)	[0000]	B	10	60
+Magy	J	1029	Perrault	X311000-E	 	   Di Ic 		000	Wild	G3 V	-1	(A00-1)	[0000]	B	12	-10
+Magy	J	1030	Ithaqua	XB89000-1	 	    Di 		012	Wild	K2 V M8 V	-3	(400-1)	[0000]	B	7	-4
+Magy	N	1036	Maxwell	X99A000-4	 	   Di Wa 		010	Wild	G4 V G8 V	-3	(300-1)	[0000]	B	8	-3
+Magy	N	1040	Arid	X549000-4	 	    Di 		004	Wild	G9 V M8 V	-3	(500+4)	[0000]	B	13	20
+Magy	B	1101	Sumio	X311000-A	 	  Di Ic Lk 		002	Wild	M2 V	-1	(A00+1)	[0000]	B	11	10
+Magy	B	1103	Xian	X7B4000-9	 	   Di Fl (ENIL)		004	Wild	G0 V M1 V	-2	(E00+1)	[0000]	B	13	14
+Magy	B	1105	Ko's World	X569631-2	 	   Ni Ri (NIL)		605	Wild	M1 V	-2	(952-1)	[B425]	BC	13	-90
+Magy	B	1106	Mubark	X401000-A	 	   Di Ic Va 		012	Wild	M2 V M9 V	-1	(700-1)	[0000]	B	8	-7
+Magy	B	1109	G'anshum	X654674-1	 	   Ag Ni 		102	Wild	G5 V M6 V	-2	(853-5)	[5481]	BC	9	-600
+Magy	F	1114	Htorakh	D768000-5	 	    Di 		004	Wild	K2 V K8 V	-3	(500+1)	[0000]	B	14	5
+Magy	F	1116	Nishikiori	E55579A-5	 	   Ag Sa (NIL)		903	Wild	F2 V F9 V	-1	(A65+1)	[C648]	BC	11	300
+Magy	F	1119	Mpefu	X833000-C	 	   Di Po (NIL)		003	Wild	G1 V M2 V	-1	(C00+1)	[0000]	B	14	12
+Magy	F	1120	Al-Aziz	X785000-2	 	   Di Ga 		023	Wild	F0 V M0 V	-3	(500+1)	[0000]	B	11	5
+Magy	J	1121	Merida	X898000-2	 	    Di 		005	Wild	G1 V	-3	(400+2)	[0000]	B	15	8
+Magy	J	1123	Hale	X730000-C	 	  De Di Po 		003	Wild	K9 V	-1	(600-4)	[0000]	B	11	-24
+Magy	J	1128	Issekhee	X430000-A	 	  De Di Po 		014	Wild	K4 V M2 V M2 V	-1	(D00+1)	[0000]	B	11	13
+Magy	J	1129	Rasilha	E575000-8	 	    Di (NIL)		003	Wild	G5 V M2 V	-3	(D00+3)	[0000]	B	6	39
+Magy	N	1134	Lazlo's World	E997000-9	 	    Di 		004	Wild	G7 V M4 V	-2	(B00+2)	[0000]	B	13	22
+Magy	N	1136	Krupp	X69A000-A	 	   Di Wa (NIL)		000	Wild	G7 V K0 V	-1	(900+2)	[0000]	B	4	18
+Magy	N	1139	536-876	X536000-6	 	    Di 		013	Wild	K9 V M2 V	-3	(600+2)	[0000]	B	14	12
+Magy	N	1140	Manta	X653444-2	 	   Ni Po 		120	Wild	G9 V M5 V	-3	(632+4)	[7171]	B	9	144
+Magy	B	1207	Seladur	E565655-6	 	   Ag Ri Ni 		113	Wild	F8 V M6 V	-1	(853+2)	[8539]	BC	15	240
+Magy	B	1208	Eery	X7BA000-E	 	   Di Fl 		020	Wild	G5 V K8 V	-1	(900-1)	[0000]	B	7	-9
+Magy	B	1209	Tarn	X747000-5	 	    Di 		004	Wild	G3 V G9 V	-3	(400-3)	[0000]	B	14	-12
+Magy	F	1212	Karma	X54378B-1	 	    Pi Po (NIL)		423	Wild	G9 V	-2	(964-4)	[7532]	BD	11	-864
+Magy	F	1213	Patnode	X420000-E	 	  De He Di Po 		014	Wild	M0 V	-1	(C00-3)	[0000]	B	12	-36
+Magy	F	1214	Kazimir	D555859-6	 	   Pa Ph (NIL)		503	Wild	K1 V	-2	(A73-1)	[7624]	Bce	16	-210
+Magy	F	1217	New Winnipeg	X511000-C	 	   Di Ic 		001	Wild	K3 V M5 V	-1	(800+5)	[0000]	B	9	40
+Magy	F	1218	Cowan	X6A8000-9	 	   Di Fl (ENIL)		000	Wild	M2 V M3 V	-2	(A00+1)	[0000]	B	8	10
+Magy	F	1220	Jolly	X7B9000-9	 	   Di Fl 		002	Wild	M0 V	-2	(A00-3)	[0000]	B	15	-30
+Magy	J	1222	Caldwell	X587777-1	 	    Ag Ri (NIL)		600	Wild	F3 V M7 V	0	(968-1)	[5735]	BC	6	-432
+Magy	J	1230	Girral	X530000-7	 	  De Di Po (NIL)		010	Wild	M0 V	-3	(900+2)	[0000]	B	14	18
+Magy	N	1236	Chuño	X566000-5	 	    Di 		000	Wild	G5 V G8 V	-3	(400+2)	[0000]	B	11	8
+Magy	N	1238	Zuppe	X6A4000-B	 	   Di Fl 		005	Wild	M3 V	-1	(D00-3)	[0000]	B	10	-39
+Magy	N	1240	Drizz	X69A000-3	 	   Di Wa 		003	Wild	M1 V	-3	(700-1)	[0000]	B	9	-7
+Magy	B	1302	Joppa	X201000-D	 	   Di Ic Va 		010	Wild	M1 V	-1	(800+3)	[0000]	B	5	24
+Magy	B	1305	Cueball	X551454-3	 	   Ni Po 		214	Wild	G3 V	-3	(730+5)	[7141]	B	16	105
+Magy	B	1307	Sorang	X311000-A	 	   Di Ic 		013	Wild	M1 V	-1	(C00+4)	[0000]	B	12	48
+Magy	B	1309	Al-Medif	X87A000-3	 	   Di Wa (NIL)		023	Wild	G6 V	-3	(900+1)	[0000]	B	15	9
+Magy	F	1313	Garvey	X59A000-5	 	   Di Wa 		023	Wild	G3 V	-3	(300+4)	[0000]	B	15	12
+Magy	F	1314	Raiou	X300000-D	 	  Di Sa Va 		003	Wild	M3 V	-1	(700+5)	[0000]	B	10	35
+Magy	F	1316	Sylva	E579000-8	 	    Di 		000	Wild	G5 V	-3	(700+3)	[0000]	B	10	21
+Magy	F	1320	Fazio	X576000-5	 	    Di 		000	Wild	K3 V	-3	(400+5)	[0000]	B	10	20
+Magy	J	1321	Truelock	X848000-4	 	    Di 		003	Wild	K1 V K7 V	-3	(500+1)	[0000]	B	15	5
+Magy	J	1323	Yuehtsao	X8C9000-9	 	   Di Fl (ENIL)		000	Wild	K8 V M1 V	-2	(A00+2)	[0000]	B	7	20
+Magy	J	1324	Uebelhor	X566788-1	 	   Ag Ri Cp (NIL)		904	Wild	F0 V	0	(A69-4)	[4745]	BCF	12	-2160
+Magy	J	1326	Ramanar	X643000-4	 	   Di Po (NIL)		010	Wild	G4 V	-3	(900-5)	[0000]	B	6	-45
+Magy	J	1329	Quinn	XB75000-0	 	    Ba 		020	Wild	F5 V	-3	(300-2)	[0000]	B	5	-6
+Magy	N	1332	Falstaff	E89A000-7	 	   Di Wa (NIL)		020	Wild	G0 V	-3	(900-3)	[0000]	B	9	-27
+Magy	N	1333	Spectrum	X558000-7	 	    Di (NIL)		010	Wild	F8 V	-3	(B00-1)	[0000]	B	10	-11
+Magy	B	1403	Chorus	X944786-1	 	   Ag Pi Cp Mr (NIL)		401	Wild	F4 V	-1	(967-1)	[A615]	BCDF	14	-378
+Magy	B	1404	Sapphire	X89A000-6	 	   Di Wa (NIL)		013	Wild	G1 V	-3	(900+4)	[0000]	B	14	36
+Magy	B	1407	Tooma	X555000-6	 	    Di 		004	Wild	G9 V	-3	(500-1)	[0000]	B	14	-5
+Magy	B	1408	Heichel	X7B8000-B	 	   Di Fl 		013	Wild	M2 V M8 V	-1	(C00+1)	[0000]	B	10	12
+Magy	B	1409	Olsson	X578000-6	 	    Di 		003	Wild	K9 V	-3	(700+1)	[0000]	B	13	7
+Magy	B	1410	Kliment	E576000-7	 	    Di (NIL)		000	Wild	G3 V K6 V	-3	(A00+1)	[0000]	B	9	10
+Magy	F	1411	Ogorod	X75588C-1	 	  Ga Pa Ph (NIL)		125	Wild	K6 V M0 V M4 V	-2	(A75-5)	[C623]	Bce	13	-1750
+Magy	F	1412	Volna	X99A000-6	 	   Di Wa (NIL)		023	Wild	K4 V M3 V	-3	(A00+1)	[0000]	B	17	10
+Magy	F	1413	Raleigh	X550540-2	 	  De Ni Po 		510	Wild	K2 V M1 V	-3	(841+1)	[8222]	B	9	32
+Magy	F	1415	Landgrebe	D574000-7	 	    Di 		010	Wild	F6 V M6 V	-3	(800+2)	[0000]	B	11	16
+Magy	F	1416	Finn	X799000-8	 	    Di 		023	Wild	G9 V	-3	(900+1)	[0000]	B	13	9
+Magy	F	1418	Patterson	X577877-1	 	  Mr Pa Pi Ph (NIL)		404	Wild	F5 V M2 V	-2	(A74-3)	[9641]	BcDe	11	-840
+Magy	F	1420	Dahlpacker	X56538B-2	 	    Lo 		900	Wild	G9 V	-3	(620+1)	[3181]	B	3	12
+Magy	J	1423	Vanus	X422000-E	 	  Di He Po 		021	Wild	M1 V M2 V	-1	(700-1)	[0000]	B	12	-7
+Magy	J	1427	Enbaum	E5576A7-5	 	   Ag Ni 		413	Wild	M2 V	-2	(854+2)	[8413]	BC	14	320
+Magy	J	1429	Calvo	X430000-D	 	 De Di Po Sa 		004	Wild	M0 V	-1	(A00+1)	[0000]	B	14	10
+Magy	J	1430	Grimes	X555000-7	 	   Di Lk 		015	Wild	F9 V M5 V	-3	(300-2)	[0000]	B	16	-6
+Magy	N	1438	Blackjack	X511000-E	 	  Cp Di Ic 		014	Wild	K5 V	-1	(G00+4)	[0000]	BF	14	64
+Magy	N	1440	Acqua III	X66A000-5	 	   Di Wa 		013	Wild	K7 V	-3	(400-3)	[0000]	B	12	-12
+Magy	B	1504	Youngland	X596000-6	 	   Di Sa 		003	Wild	G9 V K4 V	-3	(500-3)	[0000]	B	10	-15
+Magy	B	1506	Desolation	X401000-E	 	   Di Ic Va 		002	Wild	M2 V	-1	(600+1)	[0000]	B	12	6
+Magy	F	1511	Vasya	X520000-D	 	  De He Di Po 		010	Wild	G4 V	-1	(500+1)	[0000]	B	10	5
+Magy	F	1512	Minsk	X731000-C	 	  Cp Di Po (NIL)		000	Wild	F2 V	-1	(B00-3)	[0000]	BF	5	-33
+Magy	F	1513	Roblig	X301000-C	 	  Di Ic Va Lk Mr 		002	Wild	K1 V	-1	(C00+1)	[0000]	B	6	12
+Magy	F	1516	Zathaneze	X557000-4	 	   Di Lk 		005	Wild	G6 V	-3	(500-1)	[0000]	B	9	-5
+Magy	F	1517	Quraifi	X000000-9	 	   As Va Di 		010	Wild	M2 V	-2	(900-2)	[0000]	B	12	-18
+Magy	J	1521	Keyor	X201000-E	 	   Di Ic Va 		010	Wild	G4 V M5 V	-1	(B00+1)	[0000]	B	10	11
+Magy	J	1522	Vanauken	X201000-E	 	  Di Ic Va Sa 		003	Wild	M2 V M7 V	-1	(900+4)	[0000]	B	15	36
+Magy	J	1524	Heather	X698000-2	 	    Di 		010	Wild	G7 V M3 V	-3	(700+3)	[0000]	B	10	21
+Magy	J	1529	Trull	X000000-E	 	   As Va Di 		000	Wild	K5 V M0 V	-1	(800+1)	[0000]	B	3	8
+Magy	N	1531	Behave	X544000-5	 	    Di 		013	Wild	F2 V	-3	(600+1)	[0000]	B	12	6
+Magy	N	1532	New Ico	X431000-B	 	   Di Po 		003	Wild	G5 V M2 V	-1	(A00+1)	[0000]	B	14	10
+Magy	N	1534	Kolin	X544000-6	 	    Di 		004	Wild	F8 V K2 V	-3	(700-3)	[0000]	B	8	-21
+Magy	N	1535	Selig	X79A000-7	 	   Di Wa (NIL)		000	Wild	F1 V	-3	(B00-3)	[0000]	B	9	-33
+Magy	N	1537	Bois	X201000-E	 	  Di Ic Va Sa 		002	Wild	K8 V M2 V	-1	(500+3)	[0000]	B	9	15
+Magy	B	1604	Summer's Lot	X8C9000-B	 	   Di Fl 		002	Wild	M1 V	-1	(600-3)	[0000]	B	8	-18
+Magy	B	1605	Goodhurst	X535000-D	 	    Di 		020	Wild	G1 V	-1	(A00+1)	[0000]	B	11	10
+Magy	F	1612	Nethery	X401000-E	 	   Di Ic Va 		001	Wild	F6 V M7 V	-1	(400+2)	[0000]	B	7	8
+Magy	F	1619	Intress	X6A3000-A	 	   Di Fl 		012	Wild	M0 V	-1	(900+2)	[0000]	B	15	18
+Magy	F	1620	Sumerfelt	X655402-3	 	  Ga Ni Pa 		103	Wild	M2 V M6 V	-3	(630-1)	[7181]	Bc	12	-18
+Magy	J	1622	Buschfeld	X698000-6	 	    Di 		000	Wild	G9 V M6 V	-3	(500-3)	[0000]	B	6	-15
+Magy	J	1624	Mervyn	X301000-B	 	   Di Ic Va 		003	Wild	G8 III	-1	(800-2)	[0000]	B	14	-16
+Magy	J	1627	Acara	X679000-D	 	    Di (NIL)		003	Wild	M0 V	-1	(E00+1)	[0000]	B	11	14
+Magy	N	1631	Xuber	X563440-2	 	    Ni 		110	Wild	G4 V	-3	(632-2)	[1112]	B	14	-72
+Magy	N	1632	Free	X201000-A	 	  Di Ic Va Lk 		004	Wild	M3 V	-1	(C00+2)	[0000]	B	14	24
+Magy	N	1637	Brellik	E67A000-6	 	   Di Wa 		000	Wild	K5 V M3 V	-3	(300+2)	[0000]	B	9	6
+Magy	N	1638	Diaque	X599000-5	 	    Di (NIL)		012	Wild	K7 V M8 V	-3	(A00-2)	[0000]	B	15	-20
+Magy	C	1701	Alphard	X88A000-0	 	   Ba Wa (NIL)		001	Wild	K3 V M5 V	-3	(C00+2)	[0000]	B	12	24
+Magy	C	1708	Phipps	X621000-D	 	  Di He Po (NIL)		033	Wild	M2 V	-1	(G00+2)	[0000]	B	17	32
+Magy	G	1713	Namedih	X300000-D	 	   Di Va 		000	Wild	K3 V	-1	(600+3)	[0000]	B	6	18
+Magy	G	1714	Headley	X99A000-7	 	   Di Wa (NIL)		003	Wild	M1 V M3 V	-3	(A00-2)	[0000]	B	16	-20
+Magy	G	1720	Reed	D876000-7	 	    Di 		001	Wild	K9 V M0 V	-3	(700-4)	[0000]	B	9	-28
+Magy	K	1725	Smilgys	X623000-8	 	   Di Po 		004	Wild	K7 V K9 V	-3	(A00-3)	[0000]	B	7	-30
+Magy	K	1728	Bishop	X422000-9	 	  Di He Po 		003	Wild	F9 V	-2	(A00+2)	[0000]	B	16	20
+Magy	K	1730	Creighton	X436000-D	 	    Di 		000	Wild	M3 V M3 V	-1	(400+1)	[0000]	B	4	4
+Magy	O	1735	Genugten	X431000-D	 	   Di Po 		004	Wild	M1 V M1 V	-1	(A00+1)	[0000]	B	15	10
+Magy	O	1736	Ungarn	X897940-3	 	   Hi In (NIL)		110	Wild	G7 V	0	(B88+1)	[8954]	BE	10	704
+Magy	C	1801	Fase	X741855-2	 	  He Ph Pi Po (NIL)		420	Wild	K1 V M7 V	-2	(A75+1)	[6636]	BDe	11	350
+Magy	C	1807	Clown	X431000-E	 	   Di Po (NIL)		004	Wild	G3 V M7 V	-1	(F00+2)	[0000]	B	16	30
+Magy	C	1808	Lowhorn	X647777-1	 	    Ag Pi (NIL)		512	Wild	G6 V M9 V	-1	(966-5)	[5671]	BCD	8	-1620
+Magy	G	1815	Voetsak	X7B8000-B	 	   Di Fl (ENIL)		000	Wild	F4 V	-1	(A00-2)	[0000]	B	7	-20
+Magy	G	1817	Vivian	X421000-D	 	  Di He Po 		004	Wild	G8 V M6 V	-1	(900-2)	[0000]	B	12	-18
+Magy	G	1818	Higdon	E999786-6	 	    Pi (NIL)		102	Wild	G3 V	-2	(967+1)	[8563]	BD	10	378
+Magy	K	1821	Moxbarg	X502000-C	 	   Di Ic Va 		022	Wild	K9 V	-1	(800-3)	[0000]	B	9	-24
+Magy	K	1823	Garniewicz	X630000-7	 	 De Di Po Sa 		025	Wild	F4 V	-3	(500+3)	[0000]	B	15	15
+Magy	K	1824	Saienz	X850000-5	 	  De Di Po (NIL)		011	Wild	G5 V	-3	(A00+4)	[0000]	B	10	40
+Magy	K	1825	Lanchester	X421000-9	 	 Di He Lk Po 		004	Wild	M2 V M2 V	-2	(A00+1)	[0000]	B	13	10
+Magy	K	1826	Annu-u	X560410-2	 	   De Ni 		213	Wild	F4 V	-3	(830+1)	[5122]	B	8	24
+Magy	K	1827	Winterlot	X531000-9	 	   Di Po (NIL)		004	Wild	M2 V M3 V	-2	(E00+5)	[0000]	B	8	70
+Magy	K	1828	Shanjaijing	X6A4000-8	 	   Di Fl 		010	Wild	M1 V	-3	(800-2)	[0000]	B	10	-16
+Magy	K	1830	Kaarna	X841000-3	 	  Di He Po 		001	Wild	G1 V	-3	(700+1)	[0000]	B	8	7
+Magy	O	1831	Coeus	E551642-5	 	  Ni Po Sa 		203	Wild	G0 V	-3	(850-5)	[5354]	B	10	-200
+Magy	O	1832	Harpring	X8C7000-B	 	   Di Fl (ENIL)		003	Wild	K9 V	-1	(D00+1)	[0000]	B	8	13
+Magy	O	1833	Viallalta	X556435-2	 	  Cp Ni Pa 		123	Wild	K4 V M1 V	-3	(733+5)	[4152]	BcF	11	315
+Magy	O	1834	Furuma	XC99000-2	 	    Di 		003	Wild	F5 V	-3	(500+1)	[0000]	B	13	5
+Magy	O	1836	Ratri	E552745-5	 	    Po (NIL)		405	Wild	K1 V	-2	(966+1)	[7589]	B	8	324
+Magy	O	1837	Glenex	X754000-0	 	    Ba 		005	Wild	G3 V	-3	(500+3)	[0000]	B	15	15
+Magy	O	1838	Barnstone	X863000-6	 	    Di 		013	Wild	G5 V	-3	(400+3)	[0000]	B	11	12
+Magy	O	1840	Farringhaus	X6A7000-8	 	   Di Fl 		015	Wild	M2 V M8 V	-3	(E00+2)	[0000]	B	18	28
+Magy	C	1904	Philpott	X422000-7	 	 Di He Po Sa 		003	Wild	M2 V M6 V	-3	(700+2)	[0000]	B	13	14
+Magy	C	1905	Arrid	X300000-A	 	  Di Sa Va 		002	Wild	M0 V	-1	(D00+2)	[0000]	B	14	26
+Magy	C	1907	Double	X541000-4	 	  Di He Po 		014	Wild	F9 V	-3	(700+1)	[0000]	B	12	7
+Magy	G	1911	Pearce	X833000-A	 	   Di Po (NIL)		001	Wild	K7 V	-1	(B00+5)	[0000]	B	10	55
+Magy	G	1912	Dixon	X420000-C	 	  De He Di Po 		013	Wild	G2 V M3 V	-1	(C00+1)	[0000]	B	7	12
+Magy	G	1913	Tralp	X9688DF-3	 	   Pa Ri Ph (NIL)		913	Wild	K5 V	-1	(B79-3)	[3751]	BcCe	10	-2079
+Magy	G	1915	Abrell	X422000-A	 	 Di He Po Sa 		003	Wild	G8 V K7 V	-1	(B00+1)	[0000]	B	10	11
+Magy	G	1916	Dreesen	X201000-E	 	  Cp Di Ic Va 		010	Wild	M3 V	-1	(900+2)	[0000]	BF	12	18
+Magy	G	1917	Ownes	X786512-2	 	  Ag Pr Ga Ni 		103	Wild	K2 V	-2	(744-2)	[5351]	BcC	10	-224
+Magy	G	1918	Wackowsk	X7B5000-D	 	   Di Fl (ENIL)		013	Wild	M1 V	-1	(D00-2)	[0000]	B	10	-26
+Magy	G	1919	Pieper	E566678-5	 	   Ag Ri Ni (NIL)		925	Wild	G1 V M9 V	-1	(955+5)	[3565]	BC	13	1125
+Magy	K	1924	Ebbing	X531000-A	 	   Di Po 		002	Wild	M1 V	-1	(900-3)	[0000]	B	6	-27
+Magy	K	1926	Crius	X999000-7	 	    Di 		023	Wild	K9 V	-3	(700+4)	[0000]	B	12	28
+Magy	K	1927	Ramaniam	X831000-E	 	  Cp Mr Di Po (NIL)		003	Wild	G3 V	-1	(D00+1)	[0000]	BF	10	13
+Magy	K	1928	Yognigath	X86347A-2	 	    Ni 		100	Wild	M2 V	-3	(630+1)	[8141]	B	11	18
+Magy	K	1930	Langas	X436000-D	 	   Di Mr 		001	Wild	M1 V M9 V	-1	(700+1)	[0000]	B	11	7
+Magy	O	1934	Teault	X521000-8	 	  Di He Po 		012	Wild	F4 V K2 V	-3	(900+1)	[0000]	B	11	9
+Magy	O	1935	Dyavai	X8C8000-9	 	   Di Fl (ENIL)		003	Wild	G6 V	-2	(C00+5)	[0000]	B	12	60
+Magy	O	1936	Ebisu	X558000-2	 	    Di 		001	Wild	F9 V	-3	(500-1)	[0000]	B	9	-5
+Magy	O	1939	Salyer	X977000-6	 	    Di (NIL)		002	Wild	G3 V	-3	(900-3)	[0000]	B	8	-27
+Magy	C	2004	Esuan	D545000-7	 	   Di Mr Sa (NIL)		021	Wild	M3 V	-3	(B00-1)	[0000]	B	9	-11
+Magy	C	2007	Justice	E842000-7	 	  Di He Po (NIL)		002	Wild	G3 V	-3	(A00+3)	[0000]	B	10	30
+Magy	C	2008	Plage	X432000-E	 	  Di Mr Po (NIL)		020	Wild	G2 V M6 V	-1	(E00+3)	[0000]	B	10	42
+Magy	C	2009	Brawley	X56A000-4	 	   Di Wa 		015	Wild	M2 V	-3	(300+2)	[0000]	B	12	6
+Magy	G	2012	Tryon	X310000-B	 	    Di 		010	Wild	M2 V	-1	(700+1)	[0000]	B	8	7
+Magy	G	2019	Ensley	X420000-D	 	 De He Di Lk Po 		003	Wild	K4 V	-1	(A00-4)	[0000]	B	12	-40
+Magy	K	2024	Vacob	X433000-A	 	  Di Po Sa 		004	Wild	M1 V	-1	(C00-1)	[0000]	B	16	-12
+Magy	K	2026	McNellen	X541000-3	 	 An Mr Di He Po 		004	Wild	F7 V	-3	(500+4)	[0000]	B	12	20
+Magy	K	2029	Helm	X8748BC-1	 	   Pa Pi Ph (NIL)		104	Wild	F6 V M0 V	-2	(A75-1)	[8683]	BcDe	12	-350
+Magy	K	2030	Koskiku	X57787A-1	 	   Pa Pi Ph (NIL)		103	Wild	K7 V M3 V	-2	(A7A+1)	[8674]	BcDe	8	700
+Magy	O	2032	Ghoryana	X888000-2	 	    Di 		023	Wild	G2 V	-3	(600+3)	[0000]	B	11	18
+Magy	C	2102	Seloo	X431000-E	 	   Di Po (NIL)		000	Wild	G9 V M8 V	-1	(B00-3)	[0000]	B	12	-33
+Magy	C	2103	Kemper	X421000-E	 	  Di He Po (NIL)		005	Wild	M1 V	-1	(E00-3)	[0000]	B	16	-42
+Magy	C	2104	Cordle	X421000-A	 	  Di He Po 		010	Wild	M1 V M3 V	-1	(900+4)	[0000]	B	12	36
+Magy	C	2106	Tolson	X432000-E	 	  Cp Di Po (NIL)		004	Wild	G3 V K9 V	-1	(G00+1)	[0000]	BF	8	16
+Magy	C	2110	Luoh	D875000-6	 	    Di 		004	Wild	K2 V M1 V	-3	(600-3)	[0000]	B	8	-18
+Magy	G	2118	Ftuihtaea	X7B8000-B	 	   Di Fl (ENIL)		003	Wild	M1 V	-1	(C00+1)	[0000]	B	9	12
+Magy	K	2122	Ahto	X67A000-4	 	   Di Wa 		010	Wild	M1 V M8 V	-3	(500+3)	[0000]	B	5	15
+Magy	K	2124	Ginivia	X7A4000-E	 	   Di Fl 		003	Wild	M1 V	-1	(A00-1)	[0000]	B	8	-10
+Magy	K	2126	Paxton	X420000-D	 	  De He Di Po 		002	Wild	M2 V	-1	(500+1)	[0000]	B	12	5
+Magy	K	2127	Yama	X530000-A	 	  De Di Po (NIL)		000	Wild	G1 V G5 V	-1	(A00+1)	[0000]	B	4	10
+Magy	K	2128	Jaro	X555000-4	 	   Di Lk 		014	Wild	F9 V	-3	(600+3)	[0000]	B	14	18
+Magy	K	2130	Burris	X69A000-3	 	  Di Sa Wa 		001	Wild	G0 V M0 V	-3	(500+1)	[0000]	B	9	5
+Magy	O	2132	Tuxhorn	X9B5000-A	 	   Di Fl 		014	Wild	M3 V M8 V	-1	(C00-3)	[0000]	B	15	-36
+Magy	O	2133	Diana	X531000-6	 	   Di Po 		023	Wild	M3 V	-3	(600+5)	[0000]	B	12	30
+Magy	O	2134	Urquiza	X9AA000-C	 	   Di Fl 		001	Wild	G3 V M3 V	-1	(400+1)	[0000]	B	9	4
+Magy	O	2135	Needler	X100000-B	 	  Di Sa Va 		023	Wild	M1 V	-1	(E00+1)	[0000]	B	11	14
+Magy	O	2136	Gastineau	X773000-6	 	    Di 		004	Wild	K4 V M7 V	-3	(600+1)	[0000]	B	8	6
+Magy	O	2139	Stancombe	X000000-B	 	   As Va Di 		022	Wild	K0 III	-1	(C00-4)	[0000]	B	12	-48
+Magy	C	2205	Rita's Place	E766873-5	 	  Ga Pa Ri Ph (NIL)		121	Wild	M2 V M6 V	-1	(A76-2)	[A775]	BcCe	12	-840
+Magy	C	2206	Reichmuth	X434000-B	 	    Di 		003	Wild	M0 V M1 V	-1	(600+1)	[0000]	B	10	6
+Magy	C	2207	Yatooma	X423000-9	 	   Di Po 		022	Wild	M1 V M3 V	-2	(A00+1)	[0000]	B	7	10
+Magy	C	2208	Leriss	X942000-4	 	  Di He Po (NIL)		004	Wild	G0 V G3 V	-3	(A00+1)	[0000]	B	10	10
+Magy	C	2209	Brereton	E546000-8	 	    Di 		034	Wild	G7 V K9 V	-3	(F00+3)	[0000]	B	10	45
+Magy	G	2213	Rogalle	X421000-8	 	  Di He Po 		004	Wild	M0 V	-3	(C00+1)	[0000]	B	9	12
+Magy	G	2214	Coglan	XA9A88A-3	 	  Oc Ph Pi (NIL)		213	Wild	G4 V	-2	(A76-2)	[C652]	BDe	7	-840
+Magy	G	2218	Vaderwall	E652437-6	 	   Ni Po 		203	Wild	M2 V	-3	(630+1)	[5117]	B	10	18
+Magy	G	2219	Eoyang	X545000-3	 	    Di 		002	Wild	G3 V	-3	(700+1)	[0000]	B	8	7
+Magy	K	2223	Elnor	C5546A8-7	 	  Ag Lk Ni 		404	Wild	G4 V	-1	(855+3)	[8557]	BC	13	600
+Magy	K	2229	Fatagin	X667875-1	 	  Ga Pa Ri Ph (NIL)		520	Wild	M3 V M3 V	-1	(A79-4)	[C791]	BcCe	9	-2520
+Magy	K	2230	Tlaloc	X57A000-4	 	   Di Wa 		003	Wild	G5 V M2 V M9 V	-3	(300-1)	[0000]	B	12	-3
+Magy	O	2231	Mazotz	X86679B-1	 	   Ag Ri Ga (NIL)		313	Wild	G3 V K6 V	0	(964-2)	[5753]	BC	8	-432
+Magy	O	2234	Tyche	E554573-6	 	   Ag Ni 		904	Wild	M1 V	-2	(844+2)	[8335]	BC	15	256
+Magy	O	2236	Balajee	X421000-C	 	  Di He Po 		010	Wild	M2 V M9 V	-1	(600-1)	[0000]	B	10	-6
+Magy	O	2238	Frykberg	X310000-B	 	   Di Lk 		004	Wild	G3 V	-1	(900+1)	[0000]	B	10	9
+Magy	O	2239	Wolfram	X6A3000-C	 	   Di Fl 		004	Wild	K4 V K5 V	-1	(A00-4)	[0000]	B	7	-40
+Magy	C	2302	Ziaeehezar	X7B6000-8	 	   Di Fl 		001	Wild	M2 V M7 V	-3	(600+3)	[0000]	B	11	18
+Magy	C	2303	Guskin	X998000-4	 	    Di 		003	Wild	F8 V K1 V	-3	(400+1)	[0000]	B	16	4
+Magy	C	2304	Douglas	X542000-4	 	 Di He Mr Po (NIL)		001	Wild	M1 V	-3	(A00+1)	[0000]	B	11	10
+Magy	G	2312	Last Pine	X556000-5	 	   Di Mr Sa 		004	Wild	G0 V	-3	(700+1)	[0000]	B	8	7
+Magy	G	2314	Boldfulch	X431000-B	 	   Di Po 		000	Wild	M0 V M1 V	-1	(600+5)	[0000]	B	12	30
+Magy	G	2316	Cloverreach	X873000-6	 	    Di 		003	Wild	G7 V M4 V	-3	(800-2)	[0000]	B	11	-16
+Magy	G	2317	Rodriguez	X521000-8	 	  Di He Po 		012	Wild	M0 V	-3	(800-1)	[0000]	B	9	-8
+Magy	G	2319	Otha	X434000-9	 	    Di 		024	Wild	K3 V	-2	(D00+2)	[0000]	B	16	26
+Magy	K	2321	Fyffe	X8C9000-9	 	   Di Fl 		004	Wild	M1 V	-2	(700+1)	[0000]	B	15	7
+Magy	K	2324	Kotada	E559000-5	 	    Di 		024	Wild	G6 V M7 V	-3	(500+4)	[0000]	B	14	20
+Magy	O	2332	Licini	X575000-3	 	    Di 		003	Wild	K1 V M2 V	-3	(600+5)	[0000]	B	8	30
+Magy	O	2334	Lisah	X798000-2	 	    Di 		012	Wild	G2 V	-3	(600-3)	[0000]	B	7	-18
+Magy	O	2335	Roen	X431000-E	 	   Di Po (NIL)		011	Wild	M0 V	-1	(C00+1)	[0000]	B	9	12
+Magy	O	2338	Shigetoshi	X424000-E	 	    Di 		001	Wild	M2 V	-1	(700-3)	[0000]	B	8	-21
+Magy	O	2339	Ebaun	X521000-7	 	  Di He Po 		013	Wild	M1 V	-3	(500-1)	[0000]	B	15	-5
+Magy	C	2403	Nahn	C956875-7	 	   Pa Ph (NIL)		402	Wild	M0 V M2 V	-1	(A75+1)	[8783]	Bce	10	350
+Magy	C	2406	Hagymasi	E550415-6	 	  De Ni Po (NIL)		113	Wild	M1 V M6 V	-3	(A30-1)	[6196]	B	10	-30
+Magy	C	2409	Trechier	X8C9000-B	 	   Di Fl 		002	Wild	M3 V M4 V	-1	(800-1)	[0000]	B	15	-8
+Magy	G	2411	Alto	X541000-2	 	  Di He Po (NIL)		005	Wild	M3 V	-3	(A00-3)	[0000]	B	13	-30
+Magy	G	2412	Boshkoff	X636000-8	 	    Di (NIL)		004	Wild	K3 V M6 V	-3	(E00-1)	[0000]	B	13	-14
+Magy	G	2413	Stevanic	E797686-5	 	   Ag Ni 		404	Wild	G5 V K1 V	-2	(853+3)	[7415]	BC	13	360
+Magy	G	2415	Clarmoment	X543000-0	 	   Ba Po 		000	Wild	M2 V	-3	(600+1)	[0000]	B	13	6
+Magy	G	2416	Dexter	X587435-2	 	   Ni Pa 		925	Wild	K0 V	-3	(730+1)	[4131]	Bc	10	21
+Magy	G	2418	Schaut	X720000-9	 	  De He Di Po 		003	Wild	K1 V	-2	(600+2)	[0000]	B	14	12
+Magy	G	2419	Drang	X651000-6	 	   Di Po 		003	Wild	F6 V	-3	(300+1)	[0000]	B	12	3
+Magy	K	2421	Court	X500000-7	 	   Di Va 		024	Wild	M2 V	-3	(900-2)	[0000]	B	12	-18
+Magy	K	2422	Argon	X55A540-4	 	   Ni Wa (NIL)		104	Wild	G3 V	-3	(941-1)	[8266]	B	9	-36
+Magy	K	2423	Kugle	X522000-E	 	 Di He Po Sa 		004	Wild	M0 V	-1	(C00+1)	[0000]	B	9	12
+Magy	K	2426	Mest	E540000-5	 	  De He Di Po 		002	Wild	K3 V	-3	(600-5)	[0000]	B	6	-30
+Magy	O	2434	Geb	D554000-7	 	    Di 		003	Wild	M0 V	-3	(400+2)	[0000]	B	12	8
+Magy	O	2436	Tuoni	X430000-9	 	  De Di Po 		003	Wild	M2 V	-2	(800-3)	[0000]	B	6	-24
+Magy	O	2439	Wingard	X300000-E	 	  Di Lk Va 		024	Wild	M2 V M9 V	-1	(D00+2)	[0000]	B	13	26
+Magy	D	2503	Austa	X79677B-0	 	    Ag Pi (NIL)		404	Wild	G2 V	-1	(C61-3)	[A662]	BCD	14	-216
+Magy	D	2505	Guenivier	XAE7000-B	 	    Di (NIL)		024	Wild	M2 V	-1	(G00+2)	[0000]	B	9	32
+Magy	D	2506	Sabuda	X632000-E	 	   Di Po 		004	Wild	M2 V M4 V	-1	(700-5)	[0000]	B	12	-35
+Magy	D	2507	Amon	X435000-C	 	    Di (NIL)		014	Wild	M3 V	-1	(G00+4)	[0000]	B	14	64
+Magy	D	2508	Rumley	E79A000-7	 	   Di Wa 		023	Wild	G6 V M4 V	-3	(700+1)	[0000]	B	11	7
+Magy	D	2510	Kench	X310000-9	 	    Di 		023	Wild	F1 V	-2	(C00+1)	[0000]	B	14	12
+Magy	H	2512	Sinott	X431000-E	 	   Di Po (NIL)		033	Wild	M1 V	-1	(F00+5)	[0000]	B	17	75
+Magy	H	2518	Pankow	X561473-1	 	   An Ni 		102	Wild	G1 V G9 V	-3	(632-2)	[1141]	B	15	-72
+Magy	H	2519	Veneet	E742889-5	 	 He Mr Ph Pi Po (NIL)		304	Wild	G9 V	-2	(A76+2)	[6658]	BDe	11	840
+Magy	L	2522	Sturwold	X500000-A	 	   Di Va 		002	Wild	A3 IV F0 V	-1	(700-2)	[0000]	B	5	-14
+Magy	L	2523	Taaksha	X641000-3	 	  Di He Po 		003	Wild	M2 V M9 V	-3	(500+1)	[0000]	B	8	5
+Magy	L	2526	Ghosh	X100000-9	 	  Di Lk Va 		002	Wild	K8 V	-2	(A00-4)	[0000]	B	6	-40
+Magy	L	2528	Laidlaw	X99A000-2	 	   Di Wa 		003	Wild	M0 V	-3	(600+1)	[0000]	B	8	6
+Magy	L	2529	Seker	X310000-8	 	   Di Sa 		004	Wild	M2 V	-3	(E00-4)	[0000]	B	8	-56
+Magy	P	2534	Beldavs	X431000-B	 	  Di Lk Po 		024	Wild	M3 V	-1	(C00-1)	[0000]	B	9	-12
+Magy	P	2536	Ledbetter	X750000-3	 	  De Di Po (NIL)		004	Wild	G0 V	-3	(A00-1)	[0000]	B	13	-10
+Magy	P	2538	Piccione	X5A0000-C	 	   Di He 		012	Wild	K6 V	-1	(800-2)	[0000]	B	9	-16
+Magy	P	2539	McBain	X89A000-9	 	   Di Wa 		004	Wild	F2 V	-2	(C00-2)	[0000]	B	12	-24
+Magy	D	2602	Hyalin	X505000-9	 	   Di Ic Va 		003	Wild	G2 V M6 V	-2	(E00-2)	[0000]	B	8	-28
+Magy	D	2603	Milenky	X587758-2	 	    Ag Ri (NIL)		304	Wild	G2 V	0	(96C+1)	[9731]	BC	16	648
+Magy	D	2605	Waxstetter	X650000-2	 	  De Di Po 		012	Wild	G0 V	-3	(400+2)	[0000]	B	15	8
+Magy	D	2607	Volund	E541000-7	 	  Di He Po (NIL)		000	Wild	K8 V	-3	(A00-3)	[0000]	B	7	-30
+Magy	H	2616	Fornorb	X997000-7	 	    Di (NIL)		004	Wild	M0 V	-3	(C00+1)	[0000]	B	11	12
+Magy	H	2617	Dix	X8C9000-9	 	   Di Fl 		010	Wild	M2 V	-2	(600+1)	[0000]	B	12	6
+Magy	L	2622	Yarling	X899000-7	 	    Di 		010	Wild	M0 V	-3	(500+3)	[0000]	B	13	15
+Magy	L	2625	Morgenstern	X999000-6	 	   An Di 		012	Wild	G0 V	-3	(700+3)	[0000]	B	12	21
+Magy	L	2628	Iatur	X510000-B	 	    Di 		011	Wild	F7 V	-1	(E00-3)	[0000]	B	14	-42
+Magy	P	2631	Gerwalk	X100000-D	 	  Di Sa Va 		014	Wild	M2 V	-1	(G00+3)	[0000]	B	14	48
+Magy	P	2633	Teska	X89A000-4	 	   Di Wa (NIL)		022	Wild	M1 V M2 V	-3	(900-3)	[0000]	B	9	-27
+Magy	P	2638	Lazog	E898000-7	 	    Di 		002	Wild	M3 V M5 V	-3	(600+1)	[0000]	B	6	6
+Magy	D	2701	Pinnock	X8C9000-E	 	   Di Fl (ENIL)		022	Wild	M0 V	-1	(E00-1)	[0000]	B	16	-14
+Magy	D	2704	Dikaku	X000000-B	 	   As Va Di 		005	Wild	B9 V	-1	(E00+2)	[0000]	B	14	28
+Magy	D	2706	Anerin	E9419CD-7	 	  He Hi In Po (NIL)		510	Wild	K7 V	0	(B85+1)	[593A]	BE	14	440
+Magy	D	2709	Doak	X313000-D	 	   Di Ic 		002	Wild	M2 V	-1	(800+5)	[0000]	B	11	40
+Magy	H	2715	Byrley	X687000-2	 	   Di Ga 		002	Wild	K9 V M1 V	-3	(700+4)	[0000]	B	12	28
+Magy	H	2716	Milbrath	X430000-7	 	 De Di Lk Po (NIL)		013	Wild	G5 V	-3	(A00+4)	[0000]	B	10	40
+Magy	H	2717	Herculis	X421000-E	 	  Di He Po 		015	Wild	M1 V	-1	(C00+1)	[0000]	B	10	12
+Magy	H	2718	Udkukhii	X8C6000-9	 	   Di Fl (ENIL)		010	Wild	M1 V	-2	(A00+4)	[0000]	B	10	40
+Magy	L	2724	Raiden	X59A000-6	 	   Di Wa (NIL)		003	Wild	M0 V M7 V	-3	(A00+1)	[0000]	B	8	10
+Magy	L	2725	Parkhill	X6A8000-9	 	   Di Fl 		013	Wild	K9 V	-2	(C00-2)	[0000]	B	12	-24
+Magy	L	2726	Orpurgo	X432000-C	 	   Di Po 		024	Wild	M2 V	-1	(D00+1)	[0000]	B	14	13
+Magy	L	2728	Wicker	X742000-4	 	 Cp Di He Po (NIL)		004	Wild	M0 V M4 V	-3	(A00-2)	[0000]	BF	12	-20
+Magy	L	2729	Namodi	X679000-3	 	    Di (NIL)		003	Wild	G3 V	-3	(A00+1)	[0000]	B	12	10
+Magy	P	2731	Bergvardt	X200000-8	 	  Di Lk Va 		003	Wild	F4 V	-3	(D00-1)	[0000]	B	8	-13
+Magy	P	2736	Fatch	X631000-E	 	   Di Po 		002	Wild	M1 V	-1	(600-2)	[0000]	B	8	-12
+Magy	D	2801	Panar	X563775-1	 	    Ri (NIL)		105	Wild	M0 V	-1	(968-2)	[4653]	BC	11	-864
+Magy	D	2804	Paputsus	X679000-4	 	    Di 		000	Wild	M2 V M7 V	-3	(700-3)	[0000]	B	13	-21
+Magy	D	2806	Messelnap	X735000-9	 	    Di 		005	Wild	M0 V	-2	(D00+1)	[0000]	B	9	13
+Magy	D	2807	Nosret	X897000-0	 	    Ba 		004	Wild	K1 V	-3	(600+1)	[0000]	B	12	6
+Magy	D	2808	Gushwa	X552520-2	 	  Lk Ni Po 		214	Wild	M1 V M8 V	-3	(740+2)	[5241]	B	9	56
+Magy	D	2809	Burvee	X557459-3	 	  Ni Pa Sa 		204	Wild	G8 V	-3	(631+2)	[8163]	Bc	10	36
+Magy	D	2810	Stanko	B555546-A	 	   Ag Ni 		905	Wild	M1 V M9 V	2	(D45-4)	[274B]	BC	10	-1040
+Magy	H	2811	Nakiim	D77768A-5	 	   Ag Ni (NIL)		603	Wild	M2 V	-2	(A50+1)	[5448]	BC	9	50
+Magy	H	2813	Lonelund	X516000-A	 	   Di Ic 		004	Wild	G3 V	-1	(900+3)	[0000]	B	13	27
+Magy	H	2815	Udikaa	X6A5000-A	 	   Di Fl (ENIL)		023	Wild	M2 V	-1	(E00+1)	[0000]	B	8	14
+Magy	H	2816	Tyrrell	X421000-A	 	 Di He Mr Sa Po 		004	Wild	M1 V	-1	(C00+1)	[0000]	B	8	12
+Magy	H	2817	Hrongding	X621000-C	 	  Di He Po 		024	Wild	K0 V	-1	(D00+2)	[0000]	B	11	26
+Magy	L	2822	Butphi	X520000-B	 	  De He Di Po 		022	Wild	K1 V K3 V	-1	(700+1)	[0000]	B	13	7
+Magy	P	2831	Winneauer	X756000-2	 	   Di Ga 		024	Wild	K6 V	-3	(600+1)	[0000]	B	9	6
+Magy	P	2836	Motao	X662000-5	 	    Di 		000	Wild	G3 V	-3	(700+3)	[0000]	B	13	21
+Magy	P	2837	Derjoulian	X674000-4	 	    Di 		012	Wild	K8 V M6 V	-3	(300+1)	[0000]	B	7	3
+Magy	P	2839	Tatsuya	X421000-B	 	  Di He Po 		004	Wild	M0 V	-1	(800-3)	[0000]	B	8	-24
+Magy	D	2901	Sweet	X689879-2	 	   Ph Ri (NIL)		203	Wild	M0 V M7 V	-1	(A76+3)	[B771]	BCe	10	1260
+Magy	D	2903	Gadarur	X75587C-1	 	  Ga Pa Ph (NIL)		312	Wild	K0 V	-2	(A72+1)	[8661]	Bce	6	140
+Magy	D	2904	Anise	X841000-0	 	 Ba Cp He Po (NIL)		014	Wild	K4 V	-3	(B00-2)	[0000]	BF	8	-22
+Magy	D	2905	Bilox	X544000-7	 	   Di Sa 		003	Wild	K9 V	-3	(700+4)	[0000]	B	12	28
+Magy	D	2906	Garner's Luck	X622000-6	 	  Di He Po (NIL)		000	Wild	M0 V M0 V	-3	(900+2)	[0000]	B	9	18
+Magy	D	2908	Kleug	X88A430-4	 	   Ni Wa 		102	Wild	K5 V	-3	(630+4)	[4183]	B	5	72
+Magy	D	2910	Waldrin	X6A7000-9	 	   Di Fl (ENIL)		004	Wild	M0 V	-2	(E00-5)	[0000]	B	7	-70
+Magy	H	2912	Gyurenek	X778000-4	 	   An Di 		002	Wild	M2 V M3 V	-3	(600-1)	[0000]	B	8	-6
+Magy	H	2913	Ramli	X7B5000-A	 	   Di Fl 		015	Wild	M2 V M6 V	-1	(900+2)	[0000]	B	11	18
+Magy	H	2914	Brand	X541000-2	 	  Di He Po 		022	Wild	K4 V	-3	(500-5)	[0000]	B	7	-25
+Magy	H	2915	Norkio	E675000-8	 	    Di (NIL)		014	Wild	K8 V	-3	(E00+1)	[0000]	B	8	14
+Magy	H	2917	Parperides	X765000-5	 	   Di Ga 		004	Wild	F7 V G5 V	-3	(500-2)	[0000]	B	14	-10
+Magy	L	2923	Asorret	X403000-B	 	  Di Ic Va Mr 		003	Wild	F4 V	-1	(D00+1)	[0000]	B	9	13
+Magy	L	2924	Leikung	X798000-3	 	    Di 		003	Wild	G7 V	-3	(700-1)	[0000]	B	12	-7
+Magy	L	2927	Union	E9748BC-3	 	   Pa Pi Ph (NIL)		304	Wild	K6 V M3 V	-2	(C71+1)	[B694]	BcDe	15	84
+Magy	P	2932	Bouzouba	D586000-8	 	    Di 		014	Wild	M1 V	-3	(900-2)	[0000]	B	16	-18
+Magy	P	2933	Pacific	D568777-5	 	   Ag Ri Cp (NIL)		302	Wild	G2 V	0	(967+2)	[B739]	BCF	14	756
+Magy	P	2934	Aclavik	X5597AC-2	 	     (NIL)		122	Wild	K2 V	-2	(966-1)	[5571]	B	8	-324
+Magy	P	2936	Pardini	C754411-8	 	   Ni Pa 		113	Wild	K5 V M1 V	-2	(A30+2)	[6255]	Bc	13	60
+Magy	P	2937	Berardsly	X656577-2	 	  Ag Ga Ni 		204	Wild	G0 V M2 V	-2	(742+2)	[6341]	BC	13	112
+Magy	P	2939	Hesselgrave	EA98000-8	 	    Di 		004	Wild	K1 V	-3	(C00-1)	[0000]	B	15	-12
+Magy	P	2940	Gursky	X738000-B	 	    Di (NIL)		012	Wild	K1 V M2 V	-1	(D00+3)	[0000]	B	6	39
+Magy	D	3002	Reid	X7B8000-A	 	   Di Fl 		003	Wild	M2 V M3 V	-1	(900+1)	[0000]	B	7	9
+Magy	D	3006	Asrow	X598000-3	 	    Di 		002	Wild	G3 V	-3	(700-2)	[0000]	B	8	-14
+Magy	D	3009	Robidou	X532000-8	 	   Di Po 		021	Wild	M2 V	-3	(A00-4)	[0000]	B	9	-40
+Magy	H	3012	Kline	X642000-1	 	 Cp Di He Po (NIL)		004	Wild	M0 V M1 V	-3	(B00-2)	[0000]	BF	10	-22
+Magy	H	3014	Gupta	X422000-7	 	  Di He Po 		002	Wild	F5 V	-3	(400-1)	[0000]	B	10	-4
+Magy	H	3019	Amelbar	X6A4000-9	 	   Di Fl (ENIL)		013	Wild	M1 V	-2	(D00+1)	[0000]	B	10	13
+Magy	H	3020	Einkamp	X864878-1	 	   Pa Ri Ph (NIL)		525	Wild	F4 V	-1	(A76+2)	[57A1]	BcCe	11	840
+Magy	L	3029	Clarmeer	X562414-2	 	    Ni 		314	Wild	K1 V M1 V	-3	(633+1)	[5191]	B	10	54
+Magy	L	3030	Pocatlipcat	X430000-8	 	  De Di Po (NIL)		003	Wild	F8 V K4 V	-3	(D00-3)	[0000]	B	9	-39
+Magy	P	3031	Chouli	XAE8000-A	 	    Di 		000	Wild	G0 V	-1	(600+1)	[0000]	B	10	6
+Magy	P	3036	Hessoun	X7B8000-9	 	   Di Fl (ENIL)		020	Wild	M2 V	-2	(B00-4)	[0000]	B	10	-44
+Magy	P	3037	Wongxia	X765000-3	 	   Di Ga 		004	Wild	M1 V M5 V	-3	(500+1)	[0000]	B	15	5
+Magy	P	3040	Blackhawk	X6A5000-D	 	   Di Fl 		024	Wild	F4 V K7 V	-1	(E00+3)	[0000]	B	12	42
+Magy	D	3101	Scoggan	X720000-7	 	  De He Di Po 		002	Wild	F6 V	-3	(500+1)	[0000]	B	9	5
+Magy	D	3104	Pungitore	X421000-9	 	 An Di He Po 		001	Wild	M2 V M2 V	-2	(700+1)	[0000]	B	8	7
+Magy	D	3109	Stansifer	X000000-C	 	   As Va Di 		001	Wild	A0 V	-1	(900+1)	[0000]	B	11	9
+Magy	H	3113	Curson	X580000-3	 	   De Di 		013	Wild	G2 V	-3	(500-2)	[0000]	B	10	-10
+Magy	H	3114	Melody	X557843-1	 	   Pa Ph (NIL)		310	Wild	G2 V	-2	(A75-2)	[9631]	Bce	8	-700
+Magy	H	3118	Skyhaven	X588531-2	 	   Ag Pr Ni 		202	Wild	G1 V	-2	(743-3)	[1384]	BcC	11	-252
+Magy	L	3123	Gjerdingen	X5758CA-4	 	   Pa Pi Ph (NIL)		413	Wild	K5 V M2 V	-2	(A7A+2)	[B686]	BcDe	11	1400
+Magy	L	3125	Onewen	X310000-8	 	   Di Sa 		002	Wild	M0 V	-3	(A00+1)	[0000]	B	7	10
+Magy	L	3128	Beta	X576000-2	 	    Di (NIL)		003	Wild	G7 V M1 V	-3	(C00+1)	[0000]	B	8	12
+Magy	L	3129	Beagle	X766000-6	 	   Di Ga (NIL)		000	Wild	F5 V	-3	(C00+1)	[0000]	B	10	12
+Magy	P	3135	Strom	X432000-8	 	   Di Po 		004	Wild	G6 V K9 V	-3	(C00+3)	[0000]	B	10	36
+Magy	D	3206	Gustin	X779000-5	 	    Di 		023	Wild	G7 V	-3	(600+1)	[0000]	B	11	6
+Magy	D	3208	Firels	XDAA000-C	 	   Di Fl 		004	Wild	M3 V M7 V	-1	(900+2)	[0000]	B	9	18
+Magy	D	3210	Typoer	X642000-5	 	  Di He Po (NIL)		003	Wild	K0 V	-3	(A00+3)	[0000]	B	11	30
+Magy	H	3212	Sterchi	X697000-6	 	   Di Mr 		003	Wild	G4 V	-3	(800+1)	[0000]	B	8	8
+Magy	H	3213	Rouern	X556889-0	 	   Pa Ph (NIL)		424	Wild	M1 V	-2	(A75+1)	[9641]	Bce	10	350
+Magy	H	3214	Kanamsa	X577000-3	 	    Di 		004	Wild	G1 V G4 V	-3	(500+1)	[0000]	B	7	5
+Magy	H	3219	Vallance	X6B4000-E	 	   Di Fl 		033	Wild	M0 V M4 V	-1	(D00-1)	[0000]	B	10	-13
+Magy	H	3220	Gikir	X6A7000-9	 	   Di Fl (ENIL)		021	Wild	M2 V	-2	(D00-3)	[0000]	B	12	-39
+Magy	L	3222	Montlivan	D688000-5	 	    Di 		025	Wild	F6 V	-3	(600-3)	[0000]	B	10	-18
+Magy	L	3223	Zongwu	X433000-B	 	  Di Lk Po 		013	Wild	M0 V M7 V	-1	(C00+1)	[0000]	B	12	12
+Magy	L	3224	Dirramu	D894000-7	 	    Di 		003	Wild	K9 V	-3	(700+1)	[0000]	B	12	7
+Magy	L	3227	Ersgill	X6A7000-C	 	   Di Fl 		023	Wild	M0 V	-1	(C00-4)	[0000]	B	14	-48
+Magy	L	3230	Hemoth	X641000-4	 	  Di He Po 		002	Wild	K9 V	-3	(600+1)	[0000]	B	9	6
+Magy	P	3231	Mogeen	X435000-E	 	    Di 		013	Wild	G8 V	-1	(B00-5)	[0000]	B	13	-55
+Magy	P	3234	Phua	X430000-6	 	  De Di Po 		015	Wild	M2 V	-3	(500+2)	[0000]	B	14	10
+Magy	P	3235	Aija	X435000-9	 	    Di 		022	Wild	M0 V	-2	(B00+3)	[0000]	B	14	33
+Magy	P	3237	Cammon	X886000-5	 	   Di Ga 		002	Wild	G1 V K8 V	-3	(400+1)	[0000]	B	12	4
+Magy	P	3239	Yukikyu	X430000-C	 	  De Di Po (NIL)		003	Wild	G8 V	-1	(D00-3)	[0000]	B	14	-39

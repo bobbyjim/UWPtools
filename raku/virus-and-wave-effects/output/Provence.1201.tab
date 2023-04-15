@@ -1,0 +1,327 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Prov	A	0101	Ngulruedukh	X8A1000-C	 	   Di Fl He 		012	VLIn	M1 III M2 V	-1	(A00+2)	[0000]	B	13	20
+Prov	A	0102	Gzaerzserorgh	X69A423-5	 	   Ni Wa 		401	VLIn	G9 V D	-3	(632+2)	[21A4]	B	10	72
+Prov	A	0103	Thurraekh	X8A1000-C	 	   Di Fl He (ENIL)		003	VLIn	M3 V	-1	(C00-1)	[0000]	B	9	-12
+Prov	A	0107	Kuerrgoeng	E788677-6	 	   Ag Ri Ni 	B	314	VVar	F5 V	-1	(854-4)	[5547]	BC	13	-640
+Prov	A	0108	Gaeksuergh	D561695-6	 	   Ni Ri 		722	VVar	G4 V M3 V	-2	(850+1)	[5413]	BC	13	40
+Prov	A	0109	Adzoeknogh	X424000-A	 	    Di 		003	VVar	M2 V M5 V	-1	(700+1)	[0000]	B	11	7
+Prov	A	0110	Ang Aeth	E544277-4	 	    Lo 		525	VVar	F1 V D	-3	(510-2)	[1171]	B	12	-10
+Prov	E	0112	Dhotsaeng	X577301-2	 	    Lo 		503	VVar	F9 V	-3	(420+1)	[5131]	B	12	8
+Prov	E	0115	Koudhgzaen	D56397A-9	 	   Hi Pr (NIL)		212	VVar	A5 V	0	(E87+1)	[8968]	BcE	12	784
+Prov	E	0119	Nogh	X566666-0	 	   Ag Ri Ni 	B	705	NaVa	K3 V K6 V	-1	(850-2)	[9545]	BC	11	-80
+Prov	E	0120	Zadz	E88A565-6	 	  Ni Pr Wa 		505	NaVa	G2 V D	-3	(741+2)	[7253]	Bc	8	56
+Prov	I	0127	Thagaers	X553899-5	 	   Ph Po (NIL)		923	VDzF	M2 V	-2	(A75+3)	[6611]	Be	13	1050
+Prov	I	0130	Ghourknodz	X79A420-3	 	   Ni Wa 	B	501	VDzF	G7 V	-3	(630-4)	[2165]	B	9	-72
+Prov	M	0131	Dzaegkaek	X422000-8	 	  Di He Po 		021	VDzF	G0 V M6 V	-3	(600-2)	[0000]	B	11	-12
+Prov	M	0132	Uevoto	D5837BB-9	 	    Ri (NIL)	B	301	VDzF	K4 V M4 V	0	(A64-4)	[9737]	BC	12	-960
+Prov	M	0137	Anthonkfoers	X300000-9	 	   Di Va 		023	VDzF	M1 V	-2	(B00+5)	[0000]	B	11	55
+Prov	M	0140	Aenggvug	X000000-B	 	   As Va Di 		013	VDzF	M0 V	-1	(A00+3)	[0000]	B	9	30
+Prov	A	0203	Aellorr	X756210-1	 	   Ga Lo (NIL)		415	VLIn	G7 V D	-3	(B10-5)	[1134]	B	10	-55
+Prov	A	0204	Kunag	X300000-C	 	  Di Na Pi Va 		012	VLIn	M0 V	-1	(C00-4)	[0000]	BD	12	-48
+Prov	A	0205	Kota	X100000-E	 	  Di Na In Va 		011	VLIn	M1 V M8 V	0	(D00+1)	[0000]	BE	6	13
+Prov	A	0210	Ath Aghe	C685658-4	 	  Ag Ri Ga Ni 	B	224	VVar	F8 V	0	(856+2)	[8681]	BC	17	480
+Prov	E	0212	Ghoghzsorgh	X635000-C	 	    Di 		004	VVar	M0 V	-1	(700+1)	[0000]	B	12	7
+Prov	E	0216	Rataetaenrar	X548278-5	 	    Lo 		405	VVar	M0 V	-3	(510+4)	[4184]	B	11	20
+Prov	E	0219	Oughdzak	X7A6000-8	 	   Di Fl 		025	NaVa	M1 V M7 V	-3	(C00+4)	[0000]	B	13	48
+Prov	I	0222	Llaedkher	E546124-5	 	    Lo 		515	VDzF	G7 V	-3	(500-1)	[1176]	B	15	-5
+Prov	I	0225	Dzarrvaer	X766000-8	 	  Cx Di Ga (NIL)		003	VDzF	G4 IV	-3	(F00+1)	[0000]	B	11	15
+Prov	I	0227	Ghourrgadz	B556897-6	 	   Pa Ph (NIL)	B	303	VDzF	F9 V	0	(A78+4)	[C845]	Bce	16	2240
+Prov	I	0230	Oetsorkeda	X9B7000-A	 	   Di Fl 		014	VDzF	K3 V	-1	(A00+4)	[0000]	B	15	40
+Prov	M	0232	Kuronraer	X556768-5	 	    Ag (NIL)	B	502	VDzF	G1 V	-1	(961+1)	[6655]	BC	7	54
+Prov	M	0237	Gingrue	X502000-9	 	   Di Ic Va 		021	VDzF	F9 V	-2	(900-2)	[0000]	B	12	-18
+Prov	M	0238	Lloezoers	XAC3000-B	 	   Di Fl 		003	VDzF	F4 V	-1	(800+1)	[0000]	B	11	8
+Prov	M	0240	Aeghzisung	X200000-C	 	  Di Na Pi Va 		022	VDzF	F2 II M2 V	-1	(D00-3)	[0000]	BD	10	-39
+Prov	A	0302	Ae Uer	X78756B-4	 	  Ag Pr Ga Ni 	B	513	VLIn	G1 V	-2	(743+2)	[5331]	BcC	11	168
+Prov	A	0303	Vaggvuek	X535000-B	 	    Di 		002	VLIn	G8 IV	-1	(600+1)	[0000]	B	13	6
+Prov	A	0304	Kath	X310000-E	 	   Di Na Pi 		004	VLIn	M1 V	-1	(D00-3)	[0000]	BD	13	-39
+Prov	A	0305	Taktelugh	C558667-8	 	   Ag Ni 		522	VLIn	G7 V	-1	(C51+3)	[255A]	BC	14	180
+Prov	A	0306	Sa Thaen	D68A486-8	 	   Ni Wa 		613	VLIn	K0 V M1 V	-3	(B33+2)	[6167]	B	14	198
+Prov	A	0308	Llaes	E764877-6	 	   Pa Ri Ph (NIL)	B	104	VVar	G5 V M0 V	-1	(97A+1)	[875B]	BcCe	12	630
+Prov	A	0309	Oghzourr	X515000-9	 	   Di Ic 		024	VVar	F9 V	-2	(B00+1)	[0000]	B	16	11
+Prov	E	0314	Dorrar	D573331-7	 	    Lo (NIL)		713	NaVa	G0 V	-3	(B20-2)	[416A]	B	13	-44
+Prov	I	0321	Rrukagae	X529000-A	 	    Di 		014	VDzF	M2 V M4 V	-1	(900+1)	[0000]	B	10	9
+Prov	I	0325	Oth Uegaen	C688556-3	 	   Ag Pr Ni 	B	513	VDzF	G0 V M6 V	-1	(742+1)	[8465]	BcC	9	56
+Prov	I	0328	Ughtuerz	E759232-8	 	    Lo 		401	VDzF	F8 V	-3	(410+2)	[11A5]	B	7	8
+Prov	I	0329	Gvousaegh	EA98200-2	 	    Lo 	B	323	VDzF	K8 V	-3	(510+3)	[5183]	B	16	15
+Prov	M	0331	Errkous	E557200-5	 	    Lo 		705	VDzF	G4 V D	-3	(410-1)	[5165]	B	17	-4
+Prov	M	0335	Lighoz	X555000-C	 	    Di (NIL)		002	VDzF	G4 V	-1	(D00+2)	[0000]	B	9	26
+Prov	A	0401	Urr Orr	X558489-0	 	   Ni Pa 		324	VLIn	G9 V D	-3	(633+3)	[4141]	Bc	13	162
+Prov	A	0402	Ardhaer	X433000-D	 	   Di Po 		013	VLIn	K2 V K7 V	-1	(A00-1)	[0000]	B	16	-10
+Prov	A	0403	Klur	X310000-E	 	   Di Na Pi 		024	VLIn	F4 V M4 V	-1	(F00-2)	[0000]	BD	12	-30
+Prov	A	0406	Ouskathoerz	X558667-1	 	   Ag Ni 	B	722	VLIn	K0 V K2 V	-2	(852+4)	[74A5]	BC	9	320
+Prov	A	0409	Ranghou	X544546-8	 	   Ag Ni 		320	VVar	F8 V D	-2	(943-5)	[2399]	BC	12	-540
+Prov	A	0410	Founeghen	X5818AC-3	 	   Ph Ri (NIL)	B	204	VVar	F3 V	-1	(A73-2)	[8736]	BCe	15	-420
+Prov	E	0414	Oeksaegh	X612000-8	 	   Di Ic 		004	VVar	M2 V	-3	(700+1)	[0000]	B	12	7
+Prov	E	0415	Anghikh	X556200-0	 	   Cp Lo (NIL)	B	304	VVar	K5 V	-3	(C10-1)	[1194]	BF	9	-12
+Prov	E	0416	Uedzaell	E540122-7	 	  De He Lo Po (NIL)		302	VVar	F5 V	-3	(900+1)	[3125]	B	10	9
+Prov	E	0418	Khaghdaeksong	E6746A9-5	 	   Ag Ni 		603	NaVa	M3 V M8 V	-2	(853+1)	[A482]	BC	14	120
+Prov	E	0419	Ughfangkhoeg	E594336-7	 	    Lo 		923	NaVa	A7 IV G7 V	-3	(420+1)	[2116]	B	15	8
+Prov	I	0421	Knunguegaegn	X544000-4	 	    Di (NIL)		001	VDzF	F8 V D	-3	(B00+1)	[0000]	B	11	11
+Prov	I	0422	Knokseng	X78596A-4	 	  Ga Hi Pr (NIL)	B	402	VDzF	K2 V D	-1	(B8B-3)	[A841]	BcE	6	-2904
+Prov	I	0423	Lugh	CA8A444-6	 	   Ni Oc 	B	312	VDzF	G4 V	-2	(632+1)	[5229]	B	11	36
+Prov	I	0427	Turz	D54476A-7	 	    Ag Pi (NIL)		623	VDzF	G1 V	-1	(969-1)	[3694]	BCD	17	-486
+Prov	I	0428	Tuerrg	X575000-E	 	   Di In (NIL)		014	VDzF	K8 V D	0	(H00+1)	[0000]	BE	17	17
+Prov	I	0430	Aezorr	X554458-3	 	   Ni Pa (NIL)		312	VDzF	M2 V	-3	(B33+1)	[1156]	Bc	12	99
+Prov	M	0432	Dzirrsrue	X9B3000-A	 	   Di Fl 		003	VDzF	F0 V	-1	(700+5)	[0000]	B	11	35
+Prov	A	0502	To Oukan	X642472-2	 	  He Ni Po (NIL)		314	VLIn	G9 V	-3	(930+1)	[4116]	B	16	27
+Prov	A	0507	Nurugholi	X634000-B	 	   Di Px 		022	VLIn	K9 V	-1	(C00+1)	[0000]	B	16	12
+Prov	A	0508	Zekhghe	C77917A-9	 	    Lo 		515	VLIn	G5 V	-1	(B00+4)	[115B]	B	14	44
+Prov	E	0516	Oeghzdharok	X979237-0	 	    Lo 	B	204	VVar	K0 V	-3	(510+1)	[1151]	B	10	5
+Prov	I	0523	Anakae	X66A577-3	 	  Ni Pr Wa 	B	425	VDzF	A6 V	-3	(743+3)	[5245]	Bc	17	252
+Prov	I	0526	Oksruenvae	E654400-6	 	   Ni Pa 		404	VDzF	A9 IV	-3	(631-4)	[7197]	Bc	10	-72
+Prov	I	0527	Gnerang	D897945-5	 	   Hi In (NIL)	B	802	VDzF	K3 V	0	(B89-2)	[69A3]	BE	8	-1584
+Prov	M	0532	Ugzugu	X77358A-4	 	    Ni 		324	VDzF	F8 V	-3	(742-1)	[9241]	B	11	-56
+Prov	M	0533	Kaghoekne	X799245-6	 	    Lo 		714	VDzF	F2 III M4 V	-3	(510-3)	[414B]	B	12	-15
+Prov	M	0537	Ug Kanek	C6689A9-7	 	   Hi Pr (NIL)	B	923	VIrM	G5 V M3 V	0	(B87+2)	[8969]	BcE	12	1232
+Prov	A	0603	Vo Dikh	X544413-3	 	   Ni Pa 		622	VLIn	K3 V	-3	(733+4)	[7151]	Bc	13	252
+Prov	A	0604	Llaegharrgh	X66696B-3	 	 Cx Ga Hi Pr (NIL)	B	124	VLIn	G2 V	-1	(B87-1)	[6883]	BcE	18	-616
+Prov	A	0606	Ung Uksa	X68686A-4	 	  Ga Pa Ri Ph (NIL)	B	423	VLIn	G1 IV M8 V	-1	(A78+3)	[B763]	BcCe	14	1680
+Prov	A	0608	Khid	X310000-9	 	    Di 		014	VVar	K8 V D	-2	(900-1)	[0000]	B	13	-9
+Prov	E	0612	Aengour	X312000-D	 	  Di Ic Na In 		022	VVar	M1 V M5 V	0	(F00-1)	[0000]	BE	11	-15
+Prov	E	0614	Ksungkath	X58166C-7	 	   Ni Ri 		203	VVar	F1 V	-2	(850-2)	[A413]	BC	11	-80
+Prov	E	0618	Llorz	X877410-4	 	   Ni Pa 	B	401	NaVa	G0 V M8 V	-3	(632+1)	[3151]	Bc	8	36
+Prov	I	0624	Thezroendzang	C54467A-8	 	   Ag Ni 		914	VDzF	F9 V	-1	(D50+3)	[A515]	BC	14	195
+Prov	I	0627	Kas	X000000-C	 	   As Va Di 		014	VDzF	F6 V D	-1	(A00+1)	[0000]	B	13	10
+Prov	I	0628	Ungokhton	C571689-8	 	   He Ni 		200	VDzF	K3 III M4 V	-2	(852+3)	[8454]	B	8	240
+Prov	I	0629	Kvae	X100000-9	 	   Di Va 		004	VDzF	M1 V	-2	(700-2)	[0000]	B	8	-14
+Prov	M	0631	Aenloegin	E574478-6	 	   Ni Pa 		614	VDzF	G0 V	-3	(730-2)	[3173]	Bc	12	-42
+Prov	M	0632	Thueni	D574322-7	 	    Lo 		103	VDzF	F7 V	-3	(520+1)	[2184]	B	15	10
+Prov	M	0634	Arerzthoe	X56586B-2	 	   Pa Ri Ph (NIL)	B	403	VIrM	F4 V	-1	(C76+1)	[7771]	BcCe	8	504
+Prov	M	0635	Uedtzon	X434000-D	 	    Di 		001	VIrM	K2 V D	-1	(800+4)	[0000]	B	7	32
+Prov	M	0637	Kalongourr	X78A48D-4	 	   Ni Wa (NIL)		523	VIrM	F6 IV	-3	(B32+2)	[9115]	B	13	132
+Prov	A	0701	Urerknun	E95A432-6	 	   Ni Wa 		503	VVar	F0 IV F5 V	-3	(632+1)	[6175]	B	9	36
+Prov	A	0702	Okhoe	X524000-9	 	   Di Px 		024	VVar	M3 V D	-2	(E00+1)	[0000]	B	13	14
+Prov	A	0704	Faarzgaen	X000000-E	 	 As Va Cx Di Na In 		014	VJoF	M0 V M0 V	0	(G00+3)	[0000]	BE	16	48
+Prov	A	0705	Vo Oeg	X664237-5	 	    Lo (NIL)		404	VJoF	F0 V F2 V	-3	(C10-3)	[1194]	B	12	-36
+Prov	A	0706	Inggvuenloek	C648667-4	 	   Ag Ni 		334	VJoF	G6 V	-1	(851+2)	[2515]	BC	14	80
+Prov	A	0707	Vrraknog	D678974-5	 	   Hi In (NIL)	B	604	VJoF	K9 V	0	(B83+1)	[A996]	BE	14	264
+Prov	A	0709	Ngekhong	X7A4000-9	 	   Di Fl 		023	VVar	M2 V M4 V	-2	(B00+4)	[0000]	B	8	44
+Prov	A	0710	Errokdzor	X539000-B	 	    Di 		004	VVar	M9 II	-1	(800+1)	[0000]	B	10	8
+Prov	E	0712	Okhuers	X626000-7	 	    Di 		003	VVar	M2 V D	-3	(300-1)	[0000]	B	8	-3
+Prov	E	0718	Dhaen	X578677-8	 	   Ag Ni 		905	NaVa	F8 IV	-2	(D50+5)	[7456]	BC	11	325
+Prov	I	0723	Fakor	X56578A-8	 	    Ag Ri (NIL)		201	VIrM	F6 V	0	(A63-1)	[5759]	BC	9	-180
+Prov	I	0728	Darz	X65456C-0	 	   Ag Ni (NIL)	B	322	VDzF	K6 V D	-2	(B43+4)	[6361]	BC	13	528
+Prov	I	0729	Rruefaez	X75A275-3	 	   Lo Wa 	B	702	VDzF	G1 V	-3	(310+2)	[1191]	B	8	6
+Prov	M	0733	Okfaeng	X755722-4	 	   Ag Ga (NIL)	B	101	VDzF	F2 V D	-1	(967+4)	[3673]	BC	10	1512
+Prov	M	0735	Ongvoerrg	X525000-B	 	    Di 		004	VIrM	M3 V	-1	(C00-1)	[0000]	B	12	-12
+Prov	M	0736	Irr Zouth	D579677-8	 	    Ni 		803	VIrM	G4 V	-3	(B52-2)	[631A]	B	15	-220
+Prov	M	0737	Toulingitsa	X9A4000-B	 	   Di Fl 		001	VIrM	M0 V	-1	(600+1)	[0000]	B	8	6
+Prov	M	0739	Duethrang	X78866C-2	 	   Ag Ri Ni 	B	504	VIrM	G4 V	-1	(853+3)	[3593]	BC	13	360
+Prov	M	0740	Kukhou	X536000-B	 	    Di 		003	VIrM	M0 V	-1	(A00-1)	[0000]	B	11	-10
+Prov	A	0801	Vungeketh	X759732-6	 	     (NIL)		203	VVar	K4 V	-2	(968+3)	[A589]	B	11	1296
+Prov	A	0805	Tughghorr	X556352-4	 	    Lo (NIL)		323	VJoF	K9 V M0 V	-3	(C20+1)	[1182]	B	15	24
+Prov	A	0809	Rothksigho	D88A642-7	 	  Ni Ri Wa 	B	201	VVar	F6 V	-2	(852+4)	[344A]	BC	9	320
+Prov	A	0810	Alloghz	X9C6000-9	 	   Di Fl 		012	VVar	F4 IV F8 V D	-2	(A00-5)	[0000]	B	9	-50
+Prov	E	0815	Zeng	D64A56A-4	 	   Ni Wa (NIL)		304	VVar	G3 V	-3	(940-3)	[4282]	B	12	-108
+Prov	E	0820	Dhaen	X542212-5	 	  He Lo Po (NIL)		304	VIrM	F8 V	-3	(B10+3)	[4153]	B	15	33
+Prov	I	0822	Khsa	X421000-C	 	  Di He Na In Po (NIL)		004	VIrM	M1 V	0	(F00+1)	[0000]	BE	11	15
+Prov	I	0823	Kouk	X310000-7	 	    Di 		012	VIrM	M1 V	-3	(700+1)	[0000]	B	14	7
+Prov	I	0826	Knoekhs	X424000-A	 	    Di 		004	VIrM	M3 V	-1	(800+3)	[0000]	B	13	24
+Prov	I	0828	Aruekhoe	E676773-8	 	    Ag Pi (NIL)	B	403	VDzF	G0 V	-1	(C69-3)	[7618]	BCD	11	-1944
+Prov	I	0829	Dhoenggo	E6788A7-5	 	   Pa Pi Ph (NIL)	B	904	VDzF	F7 V F7 V	-2	(A74-1)	[6651]	BcDe	13	-280
+Prov	I	0830	Kvoen	X311000-C	 	   Di Ic 		011	VDzF	M0 V M6 V	-1	(500+1)	[0000]	B	7	5
+Prov	M	0831	Kirg	X98A777-8	 	   Ri Wa (NIL)		622	VDzF	K7 V	-1	(D68+5)	[766B]	BC	14	3120
+Prov	M	0837	Tarrthek	E6726AE-6	 	   He Ni 	B	912	VIrM	F9 V M1 V	-3	(850+3)	[3367]	B	14	120
+Prov	M	0838	Orsaethvok	X737000-C	 	    Di 		023	VIrM	F7 V M5 V	-1	(B00-1)	[0000]	B	13	-11
+Prov	B	0901	Aktsthungso	D88A89C-B	 	  Ph Ri Wa (NIL)		122	VVar	G3 V D	1	(D78-3)	[9916]	BCe	14	-2184
+Prov	B	0903	Ghaez-Larrgh	D584676-8	 	   Ag Ri Ni 		304	VJoF	F9 V	-1	(C54+1)	[9597]	BC	9	240
+Prov	B	0904	Aedzuedza	X424000-B	 	    Di 		023	VJoF	M0 V M7 V	-1	(A00-3)	[0000]	B	13	-30
+Prov	B	0906	Doughaerr	XAA9000-8	 	   Di Fl 		022	VJoF	F9 V	-3	(B00+2)	[0000]	B	8	22
+Prov	B	0908	Kuzllonge	E546476-7	 	   Ni Pa 		404	VVar	G6 IV M6 V D	-3	(631+3)	[3147]	Bc	12	54
+Prov	F	0911	Ozkhakhstoul	DA6A100-8	 	   Lo Oc 		704	VVar	G5 V	-3	(C00-1)	[114A]	B	10	-12
+Prov	F	0912	Ozkhakh	X54676A-2	 	    Ag Pi (NIL)	B	815	VVar	F0 V D	-1	(968+3)	[6673]	BCD	15	1296
+Prov	F	0913	Anngang	X6879A7-5	 	  Ga Hi Pr (NIL)	B	912	VVar	G3 V	-1	(B86-1)	[9812]	BcE	11	-528
+Prov	F	0915	Athoekhuerrg	X527000-A	 	    Di 		004	VVar	M0 V	-1	(800-3)	[0000]	B	9	-24
+Prov	F	0916	Gaentsiroell	X999454-6	 	    Ni 	B	222	VVar	K5 V	-3	(630+1)	[3112]	B	10	18
+Prov	F	0920	Aeraerir	C6837AD-6	 	    Ri (NIL)	B	602	VIrM	F2 V	0	(966+1)	[4743]	BC	10	324
+Prov	J	0921	Ous Foroe	X88A441-3	 	   Ni Wa 	B	301	VIrM	K7 V K9 V	-3	(630+1)	[4172]	B	11	18
+Prov	J	0923	Kaegh	X100000-B	 	  Di Na In Va 		013	VIrM	F2 V	0	(F00-3)	[0000]	BE	10	-45
+Prov	J	0924	Ukhsarsoeghe	XA6A477-7	 	   Ni Oc (NIL)		323	VIrM	F9 IV	-3	(933-4)	[3158]	B	16	-324
+Prov	J	0926	Oengdaksuvue	X739000-7	 	    Di 		024	VIrM	F5 V	-3	(600+1)	[0000]	B	15	6
+Prov	N	0931	Oruzoefu	X562649-9	 	   Ni Ri 		603	VIrM	F2 II	-1	(B51+2)	[9588]	BC	14	110
+Prov	N	0935	Sughanduerr	X765967-3	 	  Ga Hi Pr (NIL)	B	501	VIrM	F7 V	-1	(B85-2)	[8862]	BcE	10	-880
+Prov	N	0937	Okfae	X75359D-4	 	   Ni Po 	B	204	VIrM	F2 V M9 V	-3	(742-4)	[7288]	B	9	-224
+Prov	N	0939	Khuekhsgor	X511000-7	 	   Di Ic 		022	VIrM	M0 V	-3	(600-4)	[0000]	B	11	-24
+Prov	B	1002	Kugh	X000000-B	 	  As Va Di Na 		022	VVar	A2 V G8 V	-1	(C00-1)	[0000]	B	12	-12
+Prov	B	1003	Aelues	E553567-6	 	   Ni Po (NIL)		522	VVar	G4 V	-3	(B41-1)	[7285]	B	12	-44
+Prov	B	1008	Vuegva	X556412-6	 	   Ni Pa 		403	VVar	M1 III	-3	(630+2)	[8155]	Bc	10	36
+Prov	B	1009	Viksougu	E547100-6	 	    Lo 		414	VVar	M3 V	-3	(300+2)	[5147]	B	12	6
+Prov	F	1012	Thursou	X5A2000-C	 	  Di Fl He In (ENIL)		001	VVar	K4 V	0	(C00-2)	[0000]	BE	7	-24
+Prov	F	1013	Llurang	E988420-2	 	   Ni Pa 	B	302	VVar	K4 V	-3	(630+1)	[3171]	Bc	6	18
+Prov	F	1020	Ghakong	XA97242-0	 	    Lo 	B	713	VIrM	G6 V	-3	(610+5)	[1123]	B	8	30
+Prov	J	1028	Tuegu	X563767-6	 	    Ri (NIL)		204	VIrM	K5 V D	-1	(C62+1)	[6688]	BC	12	144
+Prov	N	1039	Voudzeur	X88A400-0	 	   Ni Wa (NIL)	B	411	VIrM	G6 V	-3	(C32+3)	[7141]	B	12	216
+Prov	N	1040	Aerragvull	X737000-A	 	    Di 		004	VGoT	F0 V	-1	(A00+3)	[0000]	B	11	30
+Prov	B	1103	Edhsaza	D787356-4	 	   Ga Lo 		313	VVar	G9 V	-3	(520+3)	[7163]	B	16	30
+Prov	B	1106	Aekaedho	X997984-3	 	   Hi In (NIL)	B	203	VVar	K4 V D	0	(B83-2)	[D941]	BE	10	-528
+Prov	B	1108	Eg Orrou	X500000-7	 	   Di Va 		003	VVar	M2 V	-3	(500+3)	[0000]	B	12	15
+Prov	B	1110	Aersathun	D543313-4	 	   Lo Po (NIL)	B	601	VVar	K6 V K9 V	-3	(A20+1)	[5169]	B	12	20
+Prov	F	1111	Ouksdzaenouk	X555575-3	 	   Ag Ni (NIL)		204	VVar	F9 V	-2	(B40-1)	[3345]	BC	12	-44
+Prov	F	1112	Khoengaen	X571432-0	 	   He Ni 	B	624	VVar	F4 V	-3	(731+1)	[4131]	B	15	21
+Prov	F	1113	Aegh Rong	E674634-5	 	   Ag Ni 	B	424	VVar	K9 V	-2	(851-1)	[5496]	BC	14	-40
+Prov	F	1115	Oesaevang	E99A478-6	 	   Ni Wa 		423	VVar	F5 V	-3	(630+1)	[2134]	B	13	18
+Prov	F	1117	Koenalor	X86486C-7	 	   Pa Ri Ph (NIL)	B	102	NaVa	G2 IV	-1	(978+1)	[7764]	BcCe	13	504
+Prov	J	1122	Okhaeg	X433000-D	 	   Di Po 		002	VIrM	M1 V	-1	(700-2)	[0000]	B	8	-14
+Prov	J	1126	Fueghz	X422000-7	 	  Di He Po 		011	VIrM	M2 V	-3	(300+2)	[0000]	B	11	6
+Prov	N	1132	Gnethogh	C542442-4	 	  He Ni Po 		511	VIrM	M3 V D	-2	(733-4)	[5246]	B	7	-252
+Prov	N	1140	Oerrg	X837000-A	 	    Di 		002	VGoT	K9 V	-1	(600-3)	[0000]	B	5	-18
+Prov	B	1201	Adhkfurral	XAD4000-8	 	    Di 		001	VVar	M2 V	-3	(500+1)	[0000]	B	5	5
+Prov	B	1204	Kerro	X000000-D	 	  As Va Di Na Pi 		013	VVar	M3 V	-1	(E00-3)	[0000]	BD	11	-42
+Prov	B	1205	Un Gzang	X9B8000-A	 	   Di Fl 		003	VVar	F8 IV F0 V	-1	(800+1)	[0000]	B	7	8
+Prov	B	1208	Sondhuen	X79466B-4	 	   Ag Ni 	B	334	VVar	F7 V	-2	(851+1)	[4455]	BC	11	40
+Prov	B	1209	Daethrrorrg	X573595-5	 	    Ni 		302	VVar	G8 V	-3	(740-3)	[4248]	B	9	-84
+Prov	F	1214	Kaegrogz	X310000-E	 	  Cp Di Na In 		003	VVar	M1 V	0	(E00+4)	[0000]	BEF	12	56
+Prov	F	1217	Lloedh	C97A456-5	 	   Ni Wa 	B	324	NaVa	G9 V M1 V	-2	(634+2)	[62A5]	B	16	144
+Prov	J	1224	Nokoegz	E569986-6	 	   Hi Pr (NIL)	B	703	VIrM	F2 V	-1	(B88+4)	[8866]	BcE	12	2816
+Prov	J	1226	Llokhaegueg	E676673-7	 	   Ag Ni 		504	VIrM	F8 IV	-2	(850+1)	[7453]	BC	15	40
+Prov	J	1227	Angaergh	X889758-3	 	    Ri (NIL)	B	101	VIrM	G6 V D	-1	(969-4)	[9615]	BC	11	-1944
+Prov	J	1229	Okfuegh	X7B4000-B	 	  Di Fl Px 		014	VIrM	M1 V	-1	(A00-4)	[0000]	B	12	-40
+Prov	N	1233	Urueng	D768412-6	 	   Ni Pa 		301	VIrM	G2 II M9 V	-3	(630-1)	[4159]	Bc	7	-18
+Prov	N	1236	Oez Uekhae	X432000-C	 	   Di Px Po 		021	VIrM	M3 V D	-1	(A00-4)	[0000]	B	9	-40
+Prov	N	1237	Orgukung	X420000-8	 	  De He Di Po 		024	VIrM	F0 III M1 V	-3	(900+1)	[0000]	B	13	9
+Prov	B	1301	Guekouzaeks	X572204-6	 	   He Lo 		301	VVar	F6 V	-3	(410-2)	[3139]	B	10	-8
+Prov	B	1302	Llonknarrluts	X550276-3	 	  De Lo Po 		601	VVar	F0 V F6 V	-3	(610-1)	[3114]	B	10	-6
+Prov	B	1304	Knak	X300000-D	 	  Di Na In Va 		014	VVar	A5 IV G4 V	0	(G00-5)	[0000]	BE	15	-80
+Prov	B	1306	Gaengael	X5447A8-4	 	    Ag Pi (NIL)	B	433	VVar	F7 V M2 V	-1	(A65+1)	[9662]	BCD	15	300
+Prov	F	1314	Gvighue	X8A5000-C	 	  Di Fl In (ENIL)		024	VVar	M2 V D	0	(H00+4)	[0000]	BE	14	68
+Prov	F	1316	Igzinghuell	C573210-7	 	    Lo (NIL)		613	NaVa	F4 V M7 V D	-2	(B10+1)	[1117]	B	7	11
+Prov	F	1317	Vifueks	E786576-4	 	  Ag Pr Ga Ni 	B	301	NaVa	F8 III D	-2	(740+3)	[8361]	BcC	6	84
+Prov	J	1322	Kuz	X000000-9	 	  As Va Di Na 		011	VIrM	M0 V M7 V	-2	(A00+1)	[0000]	B	15	10
+Prov	J	1328	Aenkuk	B67486C-9	 	  Cp Pa Pi Ph (NIL)		213	VIrM	G2 V	1	(G7A+1)	[9979]	BcDeF	12	1120
+Prov	N	1331	Thoelksor	D54379C-7	 	    Pi Po (NIL)		904	VIrM	M0 V D	-2	(961-1)	[8575]	BD	12	-54
+Prov	N	1332	Aengksegz	X627000-7	 	    Di 		013	VIrM	M3 V D	-3	(400+1)	[0000]	B	10	4
+Prov	N	1337	Gastsukhaksi	X553510-4	 	   Ni Po 		404	VIrM	K7 V	-3	(740-3)	[9246]	B	15	-84
+Prov	B	1403	Farrurgneng	X544688-8	 	   Ag Ni 		825	VVar	G7 V	-2	(F52-1)	[346C]	BC	16	-150
+Prov	B	1404	Uengngil	C575401-5	 	   Ni Pa 	B	403	VVar	G4 V	-2	(630+5)	[7277]	Bc	7	90
+Prov	B	1405	Ksarthangtsout	C78A445-6	 	   Ni Wa 		404	VVar	F6 V	-2	(630-1)	[4275]	B	16	-18
+Prov	B	1410	Kathae	X421000-A	 	  Di He Po 		022	VVar	M0 V M5 V	-1	(700+1)	[0000]	B	11	7
+Prov	F	1413	Ueng Fak	C551432-4	 	   Ni Po 		201	VVar	F3 V D	-2	(631+1)	[7235]	B	9	18
+Prov	F	1419	Uerelodza	X58356D-3	 	   Ni Pr 	B	313	VIrM	M6 III	-3	(740+5)	[4291]	Bc	12	140
+Prov	J	1421	Suerz	D648327-6	 	    Lo 		224	VIrM	K6 V	-3	(520+1)	[5176]	B	13	10
+Prov	J	1422	Killagthoghz	X304000-9	 	  Di Ic Va Pi 		004	VIrM	M1 V	-2	(D00+4)	[0000]	BD	10	52
+Prov	J	1424	Nurrok	X551430-5	 	   Ni Po 		514	VIrM	F6 V	-3	(631+1)	[8153]	B	9	18
+Prov	J	1427	Klag	X430000-D	 	  De Di Po 		013	VIrM	M2 V M4 V	-1	(A00+3)	[0000]	B	10	30
+Prov	J	1428	Agkuz	X430000-D	 	  De Di Po 		013	VIrM	M3 V	-1	(A00+2)	[0000]	B	15	20
+Prov	N	1431	Igunfaksa	X667969-2	 	 Cx Ga Hi Pr (NIL)	B	114	VIrM	F7 V D	-1	(B81+2)	[6885]	BcE	13	176
+Prov	N	1432	Thigha	E87A554-7	 	   Ni Wa 	B	414	VIrM	G2 V	-3	(742+1)	[2284]	B	14	56
+Prov	N	1433	Kfueghoeror	D593310-5	 	    Lo 		613	VIrM	K1 V	-3	(520+2)	[1196]	B	15	20
+Prov	N	1434	Knaerghgvou	X77A000-A	 	  Di Pi Wa (NIL)		011	VIrM	F8 IV	-1	(B00+3)	[0000]	BD	12	33
+Prov	N	1439	Gaghkuelek	X552745-5	 	    Po (NIL)		211	VGoT	K8 V	-2	(961-2)	[B553]	B	11	-108
+Prov	N	1440	Gherrg	X655200-6	 	   Ga Lo (NIL)		902	VGoT	F3 V	-3	(B10+2)	[111B]	B	12	22
+Prov	B	1505	Vorvoun	X778668-4	 	  Ag Cp Ni (NIL)		403	VVar	G0 V	-2	(B52-4)	[9447]	BCF	9	-440
+Prov	B	1507	Oungrroll	X8A4000-C	 	   Di Fl 		011	VVar	M2 V D	-1	(900-1)	[0000]	B	8	-9
+Prov	B	1509	Dhoradhue	D576413-4	 	   Ni Pa 		604	VVar	F1 V D	-3	(731+1)	[3164]	Bc	11	21
+Prov	J	1522	Foedargh	E8739CB-5	 	   Hi In (NIL)	B	905	VIrM	M4 II	0	(B86+5)	[8947]	BE	15	2640
+Prov	J	1525	Ezksog	X54956A-5	 	    Ni 		523	VIrM	K3 V K4 V	-3	(740+5)	[4285]	B	9	140
+Prov	J	1527	Uznukhozots	X79618D-2	 	    Lo 	B	422	VIrM	F6 V D	-3	(500+1)	[1141]	B	12	5
+Prov	N	1533	Ue Rrava	X200000-B	 	   Di Va 		001	VIrM	M0 V M6 V	-1	(600-3)	[0000]	B	6	-18
+Prov	N	1540	Ksousuek	D559676-8	 	    Ni 	B	823	VGoT	G1 V D	-3	(D53-2)	[4335]	B	11	-390
+Prov	B	1601	Zaeghaego	C7537AC-4	 	    Po (NIL)	B	403	VVar	G5 V	-1	(966-1)	[2644]	B	9	-324
+Prov	B	1602	Dhurrg	D86376A-6	 	    Ri (NIL)	B	603	VVar	F6 V	-1	(967+2)	[9653]	BC	11	756
+Prov	B	1605	Kaengku	X568766-6	 	    Ag Ri (NIL)		103	VVar	F2 V M3 V	0	(967+1)	[B724]	BC	15	378
+Prov	B	1608	Dholgva	C570212-4	 	   De He Lo 		103	VVar	F3 V F6 V	-2	(410+1)	[11A5]	B	8	4
+Prov	F	1613	Foungdaeghz	X547453-3	 	   Ni Pa 	B	603	VVar	A4 V K5 V D	-3	(730+2)	[5165]	Bc	14	42
+Prov	J	1629	Naetsarraluz	X597634-7	 	   Ag Ni (NIL)		224	VIrM	G7 V	-2	(C53+1)	[A477]	BC	13	180
+Prov	N	1637	Ouraesothk	E768784-4	 	    Ag Ri 	B	123	VGoT	M0 III M0 V	0	(868+1)	[7754]	BC	13	384
+Prov	C	1701	Dhuellzugza	E75556F-5	 	  Ag Ga Ni 	B	221	VVar	G8 V	-2	(740+1)	[739A]	BC	8	28
+Prov	C	1703	Odhrrigh	X7B2000-C	 	   Di Fl He 		022	VVar	M0 V	-1	(A00+3)	[0000]	B	14	30
+Prov	C	1706	Anur	C594154-7	 	    Lo (NIL)		813	VVar	M4 III M0 V	-2	(B00-2)	[115B]	B	12	-22
+Prov	C	1707	Hoenguel	X671488-6	 	   He Ni 		622	VVar	K2 V	-3	(731+1)	[7118]	B	15	21
+Prov	C	1708	Tsueghogrugllo	X996426-0	 	   Ni Pa 	B	503	VVar	F9 V	-3	(730+1)	[5131]	Bc	6	21
+Prov	C	1709	Gzoerghaen	X594651-5	 	   Ag Ni 	B	524	VVar	K3 V K9 V	-2	(851-3)	[2435]	BC	11	-120
+Prov	G	1711	Koudzhsakhgo	C648640-4	 	   Ag Ni 		704	VVar	F0 V D	-1	(852+4)	[9531]	BC	14	320
+Prov	G	1712	Aeghvoekogz	X56486A-1	 	   Pa Ri Ph (NIL)	B	621	VVar	G3 V D	-1	(A72+1)	[C776]	BcCe	10	140
+Prov	K	1729	Karrdzae	X557489-1	 	   Ni Pa (NIL)	B	223	VIrM	K9 V	-3	(C31+2)	[6174]	Bc	17	72
+Prov	O	1731	Khungorr	X989765-6	 	    Ri (NIL)	B	603	VGoT	G0 V D	-1	(966-3)	[A617]	BC	11	-972
+Prov	O	1732	Gangoulaerr	XA8A502-8	 	  Ni Oc Pr 	B	522	VGoT	F6 V	-3	(B40-3)	[428B]	Bc	14	-132
+Prov	O	1735	Kfuega	X434000-9	 	    Di 		001	VGoT	G3 III M9 V	-2	(700-2)	[0000]	B	11	-14
+Prov	O	1738	Ruegvoerr	E78269B-7	 	   Ni Ri 		812	VGoT	G5 V	-2	(852+1)	[A467]	BC	16	80
+Prov	C	1802	Oegninong	X425000-C	 	   Di In (NIL)		001	VVar	M2 V	0	(C00-4)	[0000]	BE	6	-48
+Prov	C	1804	Kfaege	X202000-A	 	  Di Ic Va Na 		011	VVar	M2 V	-1	(A00+3)	[0000]	B	7	30
+Prov	C	1805	Grnouf	X869899-6	 	   Ph Ri (NIL)	B	702	VVar	K0 V D	-1	(A77+1)	[B757]	BCe	9	490
+Prov	C	1806	Sastsuks	X54476E-4	 	    Ag Pi (NIL)		622	VVar	F4 V	-1	(967-2)	[5672]	BCD	13	-756
+Prov	C	1810	Udhagaksuen	X545232-3	 	    Lo 		304	VVar	F6 IV	-3	(510-3)	[4172]	B	11	-15
+Prov	K	1828	Oudzkharz	X566667-1	 	   Ag Ri Ni 	B	524	VIrM	G8 V K0 V	-1	(851+1)	[7541]	BC	14	40
+Prov	O	1834	Urregzang	X434000-C	 	    Di 		001	VGoT	M3 V	-1	(500+2)	[0000]	B	10	10
+Prov	O	1835	Taarskoerzn	X888965-1	 	  Cx Hi Pr (NIL)	B	402	VGoT	F4 V M7 V	-1	(B87-1)	[5871]	BcE	7	-616
+Prov	O	1836	Khgouk	D562768-7	 	    Ri (NIL)	B	403	VGoT	F8 III M1 V	-1	(965-1)	[7666]	BC	10	-270
+Prov	C	1904	Kfakfug	X200000-C	 	  Di Na Pi Va 		011	VVar	M0 V	-1	(C00+3)	[0000]	BD	6	36
+Prov	C	1905	Kfeks	X100000-C	 	  Di Na Va 		025	VVar	G9 V	-1	(F00+1)	[0000]	B	14	15
+Prov	C	1906	Gnerr	X755613-7	 	  Ag Ga Ni 	B	614	VVar	K9 V D	-2	(850+1)	[5477]	BC	17	40
+Prov	C	1907	Ueksouk	X7C2000-C	 	  Di Fl He In (ENIL)		002	VVar	F2 V	0	(D00-4)	[0000]	BE	5	-52
+Prov	C	1909	Uengoz	C556646-9	 	   Ag Ni 		404	VVar	F1 V D	0	(C55-2)	[4656]	BC	12	-600
+Prov	G	1920	Ongrro	X78756A-0	 	  Ag Pr Ga Ni 	B	503	NaVa	F4 IV	-2	(844-4)	[5341]	BcC	11	-512
+Prov	O	1933	Khvusu	D659897-9	 	    Ph (NIL)	B	102	VGoT	F6 V	-1	(B77+1)	[6798]	Be	7	539
+Prov	O	1936	Ang Vueng	D555455-4	 	   Ni Pa 		412	VIrM	K0 V D	-3	(630+2)	[9119]	Bc	12	36
+Prov	C	2001	Zargvaetsr	X76A000-3	 	   Di Wa (NIL)		012	VLPr	G7 V	-3	(900+1)	[0000]	B	10	9
+Prov	C	2004	Kfaengzuen	X312000-A	 	   Di Ic 		013	VVar	M1 V	-1	(B00+1)	[0000]	B	15	11
+Prov	C	2005	Otsaerghuerr	C88A430-5	 	   Ni Wa 	B	603	NaVa	G9 IV	-2	(732+5)	[5214]	B	8	210
+Prov	C	2006	Voukifaerrg	X533000-B	 	   Di Na Po (NIL)		005	VVar	F1 V	-1	(E00+4)	[0000]	B	18	56
+Prov	O	2034	Koen	X000000-8	 	   As Va Di 		011	VGoT	F5 V M8 V	-3	(700+2)	[0000]	B	15	14
+Prov	O	2036	Kuegh Dan	X8B0000-A	 	   Di He 		024	VIrM	F4 V	-1	(B00+3)	[0000]	B	13	33
+Prov	O	2037	Tsaerzouth	X79687A-2	 	   Pa Pi Ph (NIL)	B	314	VIrM	K6 V	-2	(A71-2)	[4671]	BcDe	16	-140
+Prov	C	2101	Aertsvad	B594741-9	 	    Ag Pi (NIL)		805	VLPr	K1 V K6 V	2	(E65-5)	[8956]	BCD	15	-2100
+Prov	C	2102	Oeghzvar	X58676A-1	 	    Ag Ri (NIL)	B	904	VLPr	G4 V	0	(A62+4)	[5741]	BC	14	480
+Prov	C	2107	Kfasaegerr	X423000-D	 	   Di Na In Po (NIL)		012	VVar	F3 V M3 V	0	(E00+2)	[0000]	BE	11	28
+Prov	C	2108	Egzan	X558000-1	 	    Di (NIL)		002	VVar	G6 V	-3	(B00-1)	[0000]	B	11	-11
+Prov	C	2109	Uengva	C581511-5	 	   Ni Pr 		402	VVar	F1 V	-2	(740-2)	[631A]	Bc	8	-56
+Prov	G	2116	Togikhtsurzall	X64556B-6	 	   Ag Ni 		412	NaVa	K3 V D	-2	(744-4)	[9351]	BC	7	-448
+Prov	O	2131	Uedzodhaeg	D544788-7	 	    Ag Pi (NIL)	B	922	NaVa	F8 II M1 V	-1	(963-4)	[3619]	BCD	12	-648
+Prov	O	2135	Aknae	X423000-B	 	   Di Po 		004	VGoT	M2 II	-1	(B00-3)	[0000]	B	15	-33
+Prov	O	2139	Kughoelvor	X657656-9	 	  Ag Ga Ni (NIL)		603	VIrM	F6 V	-1	(E54-4)	[555A]	BC	6	-1120
+Prov	C	2206	Daekhs	X7A1000-B	 	   Di Fl He 		013	VVar	M2 V	-1	(A00-4)	[0000]	B	13	-40
+Prov	C	2208	Saellok	X597865-5	 	   Pa Pi Ph (NIL)	B	804	VVar	M0 V	-2	(A71-2)	[7617]	BcDe	12	-140
+Prov	G	2211	Kfaenggzon	X430000-A	 	  De Di Po 		005	VVar	M3 V	-1	(C00-4)	[0000]	B	11	-48
+Prov	G	2220	Gegllurirse	E586636-8	 	   Ag Ri Ni 	B	213	NaVa	G3 V D	-1	(C50+2)	[557B]	BC	10	120
+Prov	K	2230	Aegerri	X775324-2	 	    Lo 		804	NaVa	K7 V D	-3	(520-1)	[3147]	B	12	-10
+Prov	O	2236	Arrgarrg	E581674-8	 	   Ni Ri 		502	VIrM	F0 V	-2	(A50+1)	[844B]	BC	12	50
+Prov	O	2240	Arr Laen	D79666D-5	 	   Ag Ni (NIL)	B	724	VIrM	K1 V	-2	(B50-3)	[3459]	BC	15	-165
+Prov	C	2301	Zhorurn	X88476A-1	 	    Ag Ri (NIL)	B	213	VLPr	F9 V	0	(96A+1)	[7731]	BC	12	540
+Prov	C	2302	Fraets-Vog	X68576E-4	 	   Ag Ri Ga (NIL)	B	103	VLPr	K1 V	0	(96A-4)	[7774]	BC	9	-2160
+Prov	C	2305	Arrunoer	D596744-9	 	    Ag Pi (NIL)	B	804	VVar	F8 V F8 V	0	(D6B+4)	[6738]	BCD	11	3432
+Prov	C	2306	Geksoen	D55667B-7	 	   Ag Ni 		700	VVar	G0 V	-2	(852-2)	[2466]	BC	11	-160
+Prov	C	2308	Vaesan	X5A1000-C	 	   Di Fl He 		003	VVar	M1 V	-1	(900+1)	[0000]	B	13	9
+Prov	C	2310	Koeldoun	X400000-E	 	  Di Na Pi Va 		003	VVar	K0 V	-1	(C00-1)	[0000]	BD	15	-12
+Prov	G	2319	Farr	E79878C-8	 	    Ag Pi (NIL)		913	NaVa	K7 V	-1	(D67+1)	[9634]	BCD	16	546
+Prov	O	2332	Gvalur	E656201-7	 	   Ga Lo 		103	NaVa	K3 V	-3	(410+1)	[4156]	B	15	4
+Prov	O	2337	On Uenlang	C546799-5	 	    Ag Pi (NIL)	B	603	VIrM	F2 V	0	(967-3)	[8793]	BCD	6	-1134
+Prov	O	2339	Aerraekoukh	X86856B-6	 	   Ag Pr Ni 		304	VIrM	G0 V	-2	(740+1)	[4358]	BcC	11	28
+Prov	C	2401	Firgvaar	X667868-2	 	  Ga Pa Ri Ph (NIL)	B	914	VLPr	G0 V	-1	(B74+1)	[A764]	BcCe	13	308
+Prov	C	2402	Lair	X88596D-4	 	 Cx Ga Hi Pr (NIL)	B	113	VLPr	G5 V	-1	(B86-2)	[8813]	BcE	12	-1056
+Prov	C	2405	Foukakh	X555756-5	 	    Ag (NIL)	B	404	VVar	K3 V K8 V	-1	(967+1)	[7689]	BC	14	378
+Prov	C	2410	Uk Olou	X88466A-5	 	   Ag Ri Ni 		411	VVar	G4 V	-1	(853-1)	[5548]	BC	10	-120
+Prov	O	2437	Uekhourg	X677320-4	 	    Lo (NIL)		523	VIrM	F1 IV	-3	(C20-5)	[3189]	B	9	-120
+Prov	D	2501	Khvhaergvaetso	C54676C-7	 	    Ag Pi (NIL)		204	VLPr	G8 V	0	(96A+1)	[6765]	BCD	13	540
+Prov	D	2509	Ugouksnge	C645449-8	 	   Ni Pa 		613	VVar	M5 III M1 V	-2	(B32+1)	[7288]	Bc	13	66
+Prov	P	2537	Aeltsigaez	X8B6000-9	 	   Di Fl 		001	VIrM	A6 V D	-2	(700-2)	[0000]	B	11	-14
+Prov	P	2538	Voukonaekhs	X430000-A	 	  De Di Po 		013	VIrM	F0 V D	-1	(900+2)	[0000]	B	15	18
+Prov	P	2539	Knol	X000000-8	 	   As Va Di 		013	VIrM	M1 V	-3	(700+1)	[0000]	B	13	7
+Prov	P	2540	Daekvagul	X76966D-5	 	   Ni Ri (NIL)	B	702	VIrM	G6 V K6 V D	-2	(C51+1)	[7475]	BC	10	60
+Prov	D	2603	Okhdzueg	X886676-5	 	  Ag Ri Ga Ni 	B	615	VVar	G1 V G4 V D	-1	(854+1)	[9555]	BC	17	160
+Prov	D	2604	Tsaegag	X55686B-5	 	   Pa Ph (NIL)		414	VVar	K2 V K7 V	-2	(A75-4)	[8637]	Bce	12	-1400
+Prov	H	2611	Laeghkag	E997996-6	 	   Hi In (NIL)	B	803	VVar	F1 V	0	(B88-3)	[C959]	BE	11	-2112
+Prov	P	2634	Okhsilo	X673000-A	 	   Di In (NIL)		024	NaVa	G5 V	0	(H00+1)	[0000]	BE	12	17
+Prov	P	2636	Angoer	X8A3000-C	 	   Di Fl 		014	VIrM	M0 V M0 V	-1	(A00+1)	[0000]	B	14	10
+Prov	P	2638	Theksas	X666A7A-4	 	   Ga Hi (NIL)	B	104	VIrM	F0 V	-1	(B92+1)	[C924]	BE	13	198
+Prov	P	2640	Anglorr	E546300-5	 	    Lo (NIL)		412	VIrM	G5 III M2 V	-3	(A20-1)	[7115]	B	13	-20
+Prov	D	2706	Oekh Dal	X573000-A	 	   Di In (NIL)		022	VVar	F6 V D	0	(F00+1)	[0000]	BE	8	15
+Prov	P	2737	Koezla	X434000-9	 	    Di 		001	VIrM	M2 III	-2	(600+1)	[0000]	B	10	6
+Prov	P	2740	Gzong	C698634-5	 	   Ag Ni 	B	323	VIrM	K2 V D	-1	(854-2)	[7584]	BC	17	-320
+Prov	D	2810	Gvoghaellthoe	X434000-C	 	    Di 		002	VVar	M3 V	-1	(900+1)	[0000]	B	13	9
+Prov	L	2826	Dhorue	X434000-A	 	    Di 		001	NaVa	M3 V M6 V	-1	(500+3)	[0000]	B	9	15
+Prov	P	2832	Vozoekeng	E587879-6	 	   Pa Ri Ph (NIL)		903	NaVa	G0 V	-1	(A78+5)	[3744]	BcCe	12	2800
+Prov	P	2839	Garogag	D764874-8	 	   Pa Ri Ph (NIL)		801	VIrM	F9 V D	-1	(B7A+2)	[7779]	BcCe	9	1540
+Prov	P	2840	Thuezou	X66A175-4	 	   Lo Wa (NIL)		302	VIrM	K1 V	-3	(900+4)	[1154]	B	10	36
+Prov	D	2903	Kugk	X200000-9	 	   Di Va 		002	VVar	M2 V	-2	(500-2)	[0000]	B	9	-10
+Prov	H	2920	Naeztir	E785432-7	 	  Ga Ni Pa 	B	402	NaVa	F0 V	-3	(631+1)	[117A]	Bc	8	18
+Prov	P	2939	Vugkaer	XA89403-1	 	    Ni 	B	405	VIrM	G8 II	-3	(630-2)	[5151]	B	13	-36
+Prov	P	2940	Gnoersuk	X637000-9	 	    Di 		004	VIrM	M2 V M6 V	-2	(C00-1)	[0000]	B	9	-12
+Prov	D	3003	Khok Ae	X203000-B	 	   Di Ic Va 		022	VVar	M1 V M7 V	-1	(B00+1)	[0000]	B	15	11
+Prov	P	3039	Eghgvun	X7B5000-9	 	   Di Fl 		002	NaVa	F7 V	-2	(700-2)	[0000]	B	6	-14
+Prov	D	3101	Larrothaegan	D55727B-8	 	    Lo 		403	VVar	F5 V	-3	(810+2)	[3157]	B	10	16
+Prov	D	3108	Uedh Kal	X310000-D	 	    Di 		004	VVar	M2 V D	-1	(900+2)	[0000]	B	11	18
+Prov	P	3139	Utsi	E562577-7	 	   Ni Pr 		425	NaVa	K1 III	-3	(742+3)	[5219]	Bc	12	168
+Prov	P	3140	Aeson Sog	E585410-5	 	   Ni Pa 		303	NaVa	G5 V	-3	(631+1)	[1173]	Bc	11	18
+Prov	D	3201	Gzorrksaerr	X78876A-2	 	    Ag Ri (NIL)	B	514	VVar	G6 V	0	(969+1)	[4772]	BC	9	486
+Prov	L	3227	Kaerfoz	X78A348-3	 	   Lo Wa 		623	NaVa	G6 V	-3	(420-2)	[1141]	B	13	-16
+Prov	P	3238	Alang	X89656B-0	 	   Ag Ni 	B	324	NaVa	K2 V	-2	(744-3)	[5311]	BC	13	-336

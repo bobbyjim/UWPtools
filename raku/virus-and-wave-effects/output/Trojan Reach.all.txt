@@ -1,0 +1,1636 @@
+Year	Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+1105	Troj	A	0103	Taltern	E530240-6	 	  De Lo Po 		202	NaHu	M2 V M2 V	-3	(410-5)	[1111]	B	7	-20
+1281	Troj	A	0103	Taltern	E530000-6	 	  De Di Po 		002	Wild	M2 V M2 V	-3	(400+2)	[0000]	B	7	8
+1508	Troj	A	0103	Taltern	E530000-6	 	  De Di Po 		002	Wild	M2 V M2 V	-3	(400-1)	[0000]	B	7	-4
+1900	Troj	A	0103	Taltern	E530000-6	 	  De Di Po 		002	Wild	M2 V M2 V	-3	(400-1)	[0000]	B	7	-4
+
+1105	Troj	A	0110	Bilke	D987341-7	 	    Lo 		202	FlLe	F0 V	-3	(520-5)	[1113]	B	6	-50
+1281	Troj	A	0110	Bilke	D987000-7	 	    Di 		002	Wild	F0 V	-3	(500+4)	[0000]	B	6	20
+1508	Troj	A	0110	Bilke	D987000-7	 	    Di 		002	Wild	F0 V	-3	(500-5)	[0000]	B	6	-25
+1900	Troj	A	0110	Bilke	D987000-7	 	    Di 		002	Wild	F0 V	-3	(500+2)	[0000]	B	6	10
+
+1105	Troj	E	0116	Daruf	D540358-5	 	  De He Lo Po 		213	FlLe	F6 V	-3	(520-3)	[3155]	B	12	-30
+1281	Troj	E	0116	Daruf	D540000-5	 	  De He Di Po 		013	Wild	F6 V	-3	(500-1)	[0000]	B	12	-5
+1508	Troj	E	0116	Daruf	D540000-5	 	  De He Di Po 		013	Wild	F6 V	-3	(500-1)	[0000]	B	12	-5
+1900	Troj	E	0116	Daruf	D540000-5	 	  De He Di Po 		013	Wild	F6 V	-3	(500-2)	[0000]	B	12	-10
+
+1105	Troj	E	0119	Bolsush	D585741-6	 	    Ag Ri (NIL)		111	FlLe	F2 V M0 V	0	(967-4)	[3712]	BC	7	-1512
+1281	Troj	E	0119	Bolsush	D585653-5	 	   Ag Ri Ni (NIL)		511	Wild	F2 V M0 V	-1	(954+1)	[457A]	BC	7	180
+1508	Troj	E	0119	Bolsush	D585657-6	 	   Ag Ri Ni (NIL)		611	Wild	F2 V M0 V	-1	(955-1)	[4587]	BC	7	-225
+1900	Troj	E	0119	Bolsush	D585678-6	 	   Ag Ri Ni (NIL)		711	Wild	F2 V M0 V	-1	(955+3)	[5518]	BC	7	675
+
+1105	Troj	I	0122	Aftye	A560343-D	 	   De Lo 		313	AsVc	F8 V	1	(921-2)	[142A]	B	7	-36
+1281	Troj	I	0122	Aftye	X560000-D	 	   De Di 		013	Wild	F8 V	-1	(900+1)	[0000]	B	7	9
+1508	Troj	I	0122	Aftye	X560000-D	 	   De Di 		013	Wild	F8 V	-1	(900+2)	[0000]	B	7	18
+1900	Troj	I	0122	Aftye	X560000-D	 	   De Di 		013	Wild	F8 V	-1	(900-1)	[0000]	B	7	-9
+
+1105	Troj	I	0126	Ahaikhea	B422423-9	 	  He Ni Po 		101	AsMw	F7 III M7 V	0	(733-3)	[1426]	B	14	-189
+1281	Troj	I	0126	Ahaikhea	E422000-9	 	  Di He Po 		001	Wild	F7 III M7 V	-2	(700+1)	[0000]	B	14	7
+1508	Troj	I	0126	Ahaikhea	E422000-9	 	  Di He Po 		001	Wild	F7 III M7 V	-2	(700+1)	[0000]	B	14	7
+1900	Troj	I	0126	Ahaikhea	E422000-9	 	  Di He Po 		001	Wild	F7 III M7 V	-2	(700+4)	[0000]	B	14	28
+
+1105	Troj	I	0127	Eawatrye	B8B5756-C	 	    Fl (ENIL)		903	AsMw	M1 V M7 V	2	(C6C+1)	[694B]	B	12	864
+1281	Troj	I	0127	Eawatrye	X8B5000-C	 	   Di Fl (ENIL)		003	Wild	M1 V M7 V	-1	(C00+1)	[0000]	B	12	12
+1508	Troj	I	0127	Eawatrye	X8B5000-C	 	   Di Fl (ENIL)		003	Wild	M1 V M7 V	-1	(C00+4)	[0000]	B	12	48
+1900	Troj	I	0127	Eawatrye	X8B5000-C	 	   Di Fl (ENIL)		003	Wild	M1 V M7 V	-1	(C00+4)	[0000]	B	12	48
+
+1105	Troj	I	0129	Tyea'ih	B548889-A	 	   Pa Pi Ph (NIL)		705	AsVc	K3 V M5 V	2	(F7B+3)	[9A6B]	BcDe	11	3465
+1281	Troj	I	0129	Tyea'ih	B548833-8	 	   Pa Pi Ph (NIL)		305	Wild	K3 V M5 V	0	(F78-1)	[7813]	BcDe	11	-840
+1508	Troj	I	0129	Tyea'ih	B5488CF-9	 	   Pa Pi Ph (NIL)		205	Wild	K3 V M5 V	1	(F7B-4)	[8925]	BcDe	11	-4620
+1900	Troj	I	0129	Tyea'ih	B548888-A	 	   Pa Pi Ph (NIL)		105	Wild	K3 V M5 V	2	(F77+1)	[9A46]	BcDe	11	735
+
+1105	Troj	I	0130	Oiauh	B1018B8-D	 	  Ic Va Na Pi Ph 		802	AsT2	F4 V	2	(C7D+2)	[8A5D]	BDe	10	2184
+1281	Troj	I	0130	Oiauh	B1018AD-B	 	  Ic Va Na Pi Ph 		402	Wild	F4 V	2	(C77-1)	[5A2A]	BDe	10	-588
+1508	Troj	I	0130	Oiauh	B1018BA-C	 	  Ic Va Na Pi Ph 		302	Wild	F4 V	2	(C76+1)	[4A5C]	BDe	10	504
+1900	Troj	I	0130	Oiauh	B10188C-D	 	  Ic Va Na Pi Ph 		202	Wild	F4 V	2	(C78-1)	[BA6H]	BDe	10	-672
+
+1105	Troj	M	0132	Ftyewirl	B55648A-B	 	   Ni Pa 		120	AsT5	K4 V	1	(834+3)	[657D]	Bc	13	288
+1281	Troj	M	0132	Ftyewirl	B556300-A	 	    Lo 		520	Wild	K4 V	1	(821-4)	[3499]	B	13	-64
+1508	Troj	M	0132	Ftyewirl	B556301-B	 	    Lo 		420	Wild	K4 V	1	(821+3)	[441E]	B	13	48
+1900	Troj	M	0132	Ftyewirl	B556300-C	 	    Lo 		520	Wild	K4 V	1	(821-1)	[548D]	B	13	-16
+
+1105	Troj	M	0134	Elahkoi	C568587-9	 	   Ag Pr Ni 		722	AsVc	K2 V	0	(B44+1)	[5559]	BcC	9	176
+1281	Troj	M	0134	Elahkoi	C568402-8	 	   Ni Pa 		322	Wild	K2 V	-2	(B33-5)	[1219]	Bc	9	-495
+1508	Troj	M	0134	Elahkoi	C568474-8	 	   Ni Pa 		222	Wild	K2 V	-2	(B33+2)	[4276]	Bc	9	198
+1900	Troj	M	0134	Elahkoi	C568477-9	 	   Ni Pa 		122	Wild	K2 V	-1	(B30-3)	[6354]	Bc	9	-99
+
+1105	Troj	M	0135	Uiwuar	B101115-E	 	   Ic Va Lo 		605	AsMw	F1 V M4 V	1	(801-1)	[123C]	B	11	-8
+1281	Troj	M	0135	Uiwuar	E101000-E	 	   Di Ic Va 		005	Wild	F1 V M4 V	-1	(800+2)	[0000]	B	11	16
+1508	Troj	M	0135	Uiwuar	E101000-E	 	   Di Ic Va 		005	Wild	F1 V M4 V	-1	(800-1)	[0000]	B	11	-8
+1900	Troj	M	0135	Uiwuar	E101000-E	 	   Di Ic Va 		005	Wild	F1 V M4 V	-1	(800-2)	[0000]	B	11	-16
+
+1105	Troj	M	0139	Ealea	B576587-9	 	   Ag Ni 		200	AsMw	G5 V D	1	(745+1)	[5659]	BC	8	140
+1281	Troj	M	0139	Ealea	X576000-9	 	    Di 		000	Wild	G5 V D	-2	(700+2)	[0000]	B	8	14
+1508	Troj	M	0139	Ealea	X576000-9	 	    Di 		000	Wild	G5 V D	-2	(700+2)	[0000]	B	8	14
+1900	Troj	M	0139	Ealea	X576000-9	 	    Di 		000	Wild	G5 V D	-2	(700+1)	[0000]	B	8	7
+
+1105	Troj	A	0201	Szirp	A436538-D	 	    Ni 		800	NaHu	M8 V	1	(745+1)	[565D]	B	9	140
+1281	Troj	A	0201	Szirp	A436520-B	 	    Ni 		400	Wild	M8 V	1	(744+1)	[468C]	B	9	112
+1508	Troj	A	0201	Szirp	A436576-C	 	    Ni 		300	Wild	M8 V	1	(742+1)	[7657]	B	9	56
+1900	Troj	A	0201	Szirp	A436542-D	 	    Ni 		400	Wild	M8 V	1	(745+2)	[967E]	B	9	280
+
+1105	Troj	A	0202	Sam's World	E100856-7	 	  Na Pi Ph Va 		803	NaHu	G7 V	-2	(A76-3)	[7646]	BDe	14	-1260
+1281	Troj	A	0202	Sam's World	E100886-4	 	  Na Pi Ph Va 		403	Wild	G7 V	-2	(A76+4)	[9695]	BDe	14	1680
+1508	Troj	A	0202	Sam's World	E100873-5	 	  Na Pi Ph Va 		303	Wild	G7 V	-2	(A72+2)	[B666]	BDe	14	280
+1900	Troj	A	0202	Sam's World	E100888-6	 	  Na Pi Ph Va 		203	Wild	G7 V	-2	(A73+2)	[7653]	BDe	14	420
+
+1105	Troj	A	0204	Dustpan	A550779-9	 	   De Po (NIL)		900	NaHu	F2 V	1	(96A+2)	[886A]	B	12	1080
+1281	Troj	A	0204	Dustpan	A550725-7	 	   De Po (NIL)		400	Wild	F2 V	0	(963+2)	[9712]	B	12	324
+1508	Troj	A	0204	Dustpan	A5507AD-8	 	   De Po (NIL)		300	Wild	F2 V	0	(96B+1)	[B728]	B	12	594
+1900	Troj	A	0204	Dustpan	A55077A-9	 	   De Po (NIL)		200	Wild	F2 V	1	(964+2)	[783A]	B	12	432
+
+1105	Troj	A	0209	Heath	B587532-B	 	   Ag Pr Ni 		622	NaHu	K2 V M6 V	2	(B46-2)	[1717]	BcC	8	-528
+1281	Troj	A	0209	Heath	B5875AA-9	 	   Ag Pr Ni 		322	Wild	K2 V M6 V	1	(B47-2)	[4655]	BcC	8	-616
+1508	Troj	A	0209	Heath	B587578-A	 	   Ag Pr Ni 		422	Wild	K2 V M6 V	2	(B47-1)	[2718]	BcC	8	-308
+1900	Troj	A	0209	Heath	B587523-B	 	   Ag Pr Ni 		522	Wild	K2 V M6 V	2	(B47-1)	[774A]	BcC	8	-308
+
+1105	Troj	A	0210	Vip	A421644-D	 	  He Na Po Ni 		404	FlLe	M8 V	2	(C56+1)	[483B]	B	15	360
+1281	Troj	A	0210	Vip	X421000-D	 	  Di He Na Po 		004	Wild	M8 V	-1	(C00-4)	[0000]	B	15	-48
+1508	Troj	A	0210	Vip	X421000-D	 	  Di He Po 		004	Wild	M8 V	-1	(C00-5)	[0000]	B	15	-60
+1900	Troj	A	0210	Vip	X421000-D	 	  Di He Po 		004	Wild	M8 V	-1	(C00-1)	[0000]	B	15	-12
+
+1105	Troj	E	0213	Floria	A567942-E	 	  An Cx Hi Pr (NIL)		604	FlLe	F5 V M8 V	4	(F8G+1)	[5D1A]	BcE	12	1920
+1281	Troj	E	0213	Floria	A5679A5-C	 	  An Cx Hi Pr (NIL)		304	Wild	F5 V M8 V	3	(F8A-2)	[BC7E]	BcE	12	-2400
+1508	Troj	E	0213	Floria	A567989-D	 	  An Cx Hi Pr (NIL)		204	Wild	F5 V M8 V	3	(F87-1)	[BC4C]	BcE	12	-840
+1900	Troj	E	0213	Floria	A567996-E	 	  An Cx Hi Pr (NIL)		304	Wild	F5 V M8 V	3	(F8A-5)	[9C7G]	BcE	12	-6000
+
+1105	Troj	E	0218	Vorn	B611640-9	 	  Ic Na Ni 		513	FlLe	M0 V	1	(C55-3)	[1714]	B	13	-900
+1281	Troj	E	0218	Vorn	B611677-7	 	  Ic Na Ni 		213	Wild	M0 V	-1	(850+3)	[4528]	B	13	120
+1508	Troj	E	0218	Vorn	B611654-9	 	  Ic Na Ni 		313	Wild	M0 V	0	(C56-2)	[46AA]	B	13	-720
+1900	Troj	E	0218	Vorn	B611652-A	 	  Ic Na Ni 		213	Wild	M0 V	1	(C52+1)	[1748]	B	13	120
+
+1105	Troj	E	0220	Thrush	A436246-C	 	    Lo 		412	FlLe	M1 V	1	(711+1)	[134B]	B	14	7
+1281	Troj	E	0220	Thrush	D436000-C	 	    Di 		012	Wild	M1 V	-1	(700+1)	[0000]	B	14	7
+1508	Troj	E	0220	Thrush	D436000-C	 	    Di 		012	Wild	M1 V	-1	(700-1)	[0000]	B	14	-7
+1900	Troj	E	0220	Thrush	D436000-C	 	    Di 		012	Wild	M1 V	-1	(700+1)	[0000]	B	14	7
+
+1105	Troj	I	0222	Dalfi	C550345-9	 	  De Lo Po 		510	FlLe	F4 V M3 V	-1	(620-3)	[1237]	B	9	-36
+1281	Troj	I	0222	Dalfi	X550000-9	 	  De Di Po 		010	Wild	F4 V M3 V	-2	(600-2)	[0000]	B	9	-12
+1508	Troj	I	0222	Dalfi	X550000-9	 	  De Di Po 		010	Wild	F4 V M3 V	-2	(600-1)	[0000]	B	9	-6
+1900	Troj	I	0222	Dalfi	X550000-9	 	  De Di Po 		010	Wild	F4 V M3 V	-2	(600+5)	[0000]	B	9	30
+
+1105	Troj	I	0223	Khteiatloilr	B423456-C	 	   Ni Px Po 		404	AsWc	F7 V	1	(A34+1)	[354B]	B	9	120
+1281	Troj	I	0223	Khteiatloilr	X423000-C	 	   Di Px Po 		004	Wild	F7 V	-1	(A00-5)	[0000]	B	9	-50
+1508	Troj	I	0223	Khteiatloilr	X423000-C	 	   Di Po 		004	Wild	F7 V	-1	(A00+2)	[0000]	B	9	20
+1900	Troj	I	0223	Khteiatloilr	X423000-C	 	   Di Po 		004	Wild	F7 V	-1	(A00+1)	[0000]	B	9	10
+
+1105	Troj	I	0224	Ewoiftoil	B546646-A	 	   Ag Ni 		510	AsMw	F3 V	2	(956+1)	[5849]	BC	9	270
+1281	Troj	I	0224	Ewoiftoil	D546000-A	 	    Di 		010	Wild	F3 V	-1	(900+1)	[0000]	B	9	9
+1508	Troj	I	0224	Ewoiftoil	D546000-A	 	    Di 		010	Wild	F3 V	-1	(900-1)	[0000]	B	9	-9
+1900	Troj	I	0224	Ewoiftoil	D546000-A	 	    Di 		010	Wild	F3 V	-1	(900+1)	[0000]	B	9	9
+
+1105	Troj	I	0227	H'a	D657449-6	 	  Ga Ni Pa 		802	AsMw	F4 V	-3	(631-2)	[5167]	Bc	13	-36
+1281	Troj	I	0227	H'a	D657000-6	 	   Di Ga 		002	Wild	F4 V	-3	(600-3)	[0000]	B	13	-18
+1508	Troj	I	0227	H'a	D657000-6	 	   Di Ga 		002	Wild	F4 V	-3	(600-2)	[0000]	B	13	-12
+1900	Troj	I	0227	H'a	D657000-6	 	   Di Ga 		002	Wild	F4 V	-3	(600+1)	[0000]	B	13	6
+
+1105	Troj	I	0229	Hreahrya	B433A79-D	 	   Hi Na Po (NIL)		924	AsSc	K0 V	3	(J9F+4)	[BD6E]	BE	12	9720
+1281	Troj	I	0229	Hreahrya	B433A7B-B	 	   Hi Na Po (NIL)		424	Wild	K0 V	3	(J96+3)	[DD5B]	BE	12	2916
+1508	Troj	I	0229	Hreahrya	B433AA5-C	 	   Hi Na Po (NIL)		424	Wild	K0 V	3	(J99+2)	[8D1C]	BE	12	2916
+1900	Troj	I	0229	Hreahrya	B433AAD-D	 	   Hi Na Po (NIL)		424	Wild	K0 V	3	(J99-1)	[AD6D]	BE	12	-1458
+
+1105	Troj	M	0232	Yekhtia	B423376-B	 	   Lo Px Po 		211	AsSc	G0 V M8 V	1	(721+1)	[244A]	B	11	14
+1281	Troj	M	0232	Yekhtia	E423000-B	 	   Di Px Po 		011	Wild	G0 V M8 V	-1	(700-4)	[0000]	B	11	-28
+1508	Troj	M	0232	Yekhtia	E423000-B	 	   Di Po 		011	Wild	G0 V M8 V	-1	(700+3)	[0000]	B	11	21
+1900	Troj	M	0232	Yekhtia	E423000-B	 	   Di Po 		011	Wild	G0 V M8 V	-1	(700+1)	[0000]	B	11	7
+
+1105	Troj	M	0234	Aehahr	B100449-C	 	   Ni Va 		522	AsVc	M7 V M9 V	1	(A34+2)	[556D]	B	15	240
+1281	Troj	M	0234	Aehahr	X100000-C	 	   Di Va 		022	Wild	M7 V M9 V	-1	(A00+2)	[0000]	B	15	20
+1508	Troj	M	0234	Aehahr	X100000-C	 	   Di Va 		022	Wild	M7 V M9 V	-1	(A00-3)	[0000]	B	15	-30
+1900	Troj	M	0234	Aehahr	X100000-C	 	   Di Va 		022	Wild	M7 V M9 V	-1	(A00-4)	[0000]	B	15	-40
+
+1105	Troj	M	0236	Ftoakh	E673A8C-A	 	   Hi In (NIL)	A	200	AsWc	F4 V M9 V M7 V	2	(C9C+5)	[DC8D]	BE	10	6480
+1281	Troj	M	0236	Ftoakh	E673A97-8	 	   Hi In (NIL)		100	Wild	F4 V M9 V M7 V	0	(C99+1)	[8A36]	BE	10	972
+1508	Troj	M	0236	Ftoakh	E673ADE-B	 	   Hi In (NIL)		100	Wild	F4 V M9 V M7 V	2	(C97+5)	[AC2C]	BE	10	3780
+1900	Troj	M	0236	Ftoakh	E673958-9	 	   Hi In (NIL)		900	Wild	F4 V M9 V M7 V	1	(C85-3)	[AA29]	BE	10	-1440
+
+1105	Troj	M	0240	Aohfeau	B998784-A	 	    Ag Pi (NIL)		620	AsVc	F3 V M8 V	3	(B6C+1)	[5A38]	BCD	14	792
+1281	Troj	M	0240	Aohfeau	B9987C9-8	 	    Ag Pi (NIL)		320	Wild	F3 V M8 V	1	(B67+1)	[6864]	BCD	14	462
+1508	Troj	M	0240	Aohfeau	B998776-9	 	    Ag Pi (NIL)		420	Wild	F3 V M8 V	2	(B69+4)	[A919]	BCD	14	2376
+1900	Troj	M	0240	Aohfeau	B998785-A	 	    Ag Pi (NIL)		520	Wild	F3 V M8 V	3	(B65-2)	[4A6B]	BCD	14	-660
+
+1105	Troj	A	0307	Crescent	B420778-7	 	   De He Na Pi Po (NIL)		904	NaHu	M1 V	0	(968+1)	[7757]	BD	16	432
+1281	Troj	A	0307	Crescent	B4207BE-5	 	   De He Na Pi Po (NIL)		404	Wild	M1 V	0	(967+3)	[4751]	BD	16	1134
+1508	Troj	A	0307	Crescent	B420796-6	 	   De He Na Pi Po (NIL)		504	Wild	M1 V	0	(968-2)	[9787]	BD	16	-864
+1900	Troj	A	0307	Crescent	B420783-7	 	   De He Na Pi Po (NIL)		604	Wild	M1 V	0	(967+1)	[6728]	BD	16	378
+
+1105	Troj	A	0310	Trossachs	B897A54-C	 	   Hi In (NIL)		202	FlLe	F6 V	4	(E9F+2)	[8E3A]	BEf	7	3780
+1281	Troj	A	0310	Trossachs	B897ACD-9	 	   Hi In (NIL)		102	Wild	F6 V	3	(E9B-1)	[AD89]	BE	7	-1386
+1508	Troj	A	0310	Trossachs	B897A79-A	 	   Hi In (NIL)		102	Wild	F6 V	4	(E9A+3)	[6E77]	BEf	7	3780
+1900	Troj	A	0310	Trossachs	B8979A9-9	 	   Hi In (NIL)		902	Wild	F6 V	3	(E86+2)	[BC57]	BE	7	1344
+
+1105	Troj	E	0317	Insec	A421542-E	 	  He Ni Po 		903	FlLe	M8 V M9 V	2	(A46-2)	[171A]	B	11	-480
+1281	Troj	E	0317	Insec	D421000-E	 	  Di He Po 		003	Wild	M8 V M9 V	-1	(A00-3)	[0000]	B	11	-30
+1508	Troj	E	0317	Insec	D421000-E	 	  Di He Po 		003	Wild	M8 V M9 V	-1	(A00+2)	[0000]	B	11	20
+1900	Troj	E	0317	Insec	D421000-E	 	  Di He Po 		003	Wild	M8 V M9 V	-1	(A00+2)	[0000]	B	11	20
+
+1105	Troj	E	0318	Fissolon	E69A742-8	 	   Pi Wa (NIL)		105	FlLe	F7 V	-2	(E66-5)	[3514]	BD	13	-2520
+1281	Troj	E	0318	Fissolon	E69A6BD-6	 	   Ni Wa (NIL)		505	Wild	F7 V	-3	(951-3)	[3387]	B	13	-135
+1508	Troj	E	0318	Fissolon	E69A67B-7	 	   Ni Wa (NIL)		605	Wild	F7 V	-3	(952-1)	[8345]	B	13	-90
+1900	Troj	E	0318	Fissolon	E69A679-8	 	   Ni Wa (NIL)		505	Wild	F7 V	-3	(E50-1)	[9346]	B	13	-70
+
+1105	Troj	E	0319	Kabal	B587147-B	 	    Lo 		514	FlLe	F8 V D	2	(802+2)	[135B]	B	16	32
+1281	Troj	E	0319	Kabal	E587000-B	 	    Di 		014	Wild	F8 V D	-1	(800+2)	[0000]	B	16	16
+1508	Troj	E	0319	Kabal	E587000-B	 	    Di 		014	Wild	F8 V D	-1	(800+1)	[0000]	B	16	8
+1900	Troj	E	0319	Kabal	E587000-B	 	    Di 		014	Wild	F8 V D	-1	(800-2)	[0000]	B	16	-16
+
+1105	Troj	E	0320	Cimmen	E7C0140-9	 	   He Lo 		601	FlLe	M2 V M3 V	-2	(400-5)	[1114]	B	9	-20
+1281	Troj	E	0320	Cimmen	E7C0000-9	 	   Di He 		001	Wild	M2 V M3 V	-2	(400+1)	[0000]	B	9	4
+1508	Troj	E	0320	Cimmen	E7C0000-9	 	   Di He 		001	Wild	M2 V M3 V	-2	(400-1)	[0000]	B	9	-4
+1900	Troj	E	0320	Cimmen	E7C0000-9	 	   Di He 		001	Wild	M2 V M3 V	-2	(400+1)	[0000]	B	9	4
+
+1105	Troj	I	0321	Nora'a	A585645-9	 	   Ag Ri Ni 		900	FlLe	K4 V	3	(857+1)	[4937]	BC	11	280
+1281	Troj	I	0321	Nora'a	A585526-8	 	   Ag Pr Ni 		400	Wild	K4 V	0	(843+1)	[5565]	BcC	11	96
+1508	Troj	I	0321	Nora'a	A5855AA-9	 	   Ag Pr Ni 		500	Wild	K4 V	1	(845-3)	[3688]	BcC	11	-480
+1900	Troj	I	0321	Nora'a	A585535-A	 	   Ag Pr Ni 		400	Wild	K4 V	2	(847-3)	[475B]	BcC	11	-672
+
+1105	Troj	I	0322	Iryao	A5588B8-C	 	   Pa Ph (NIL)		420	AsMw	F1 V	2	(C7C+2)	[8A5C]	Bce	14	2016
+1281	Troj	I	0322	Iryao	A558884-A	 	   Pa Ph (NIL)		220	Wild	F1 V	2	(C78-3)	[BA86]	Bce	14	-2016
+1508	Troj	I	0322	Iryao	A5588B8-B	 	   Pa Ph (NIL)		120	Wild	F1 V	2	(C75+3)	[BA7A]	Bce	14	1260
+1900	Troj	I	0322	Iryao	A55877B-C	 	    Ag (NIL)		920	Wild	F1 V	3	(C6D+4)	[3A3E]	BC	14	3744
+
+1105	Troj	I	0328	Suiaoir	B651367-B	 	   Lo Po 		404	AsSc	F6 V	1	(921+1)	[345B]	B	11	18
+1281	Troj	I	0328	Suiaoir	X651000-B	 	   Di Po 		004	Wild	F6 V	-1	(900+2)	[0000]	B	11	18
+1508	Troj	I	0328	Suiaoir	X651000-B	 	   Di Po 		004	Wild	F6 V	-1	(900+1)	[0000]	B	11	9
+1900	Troj	I	0328	Suiaoir	X651000-B	 	   Di Po 		004	Wild	F6 V	-1	(900+2)	[0000]	B	11	18
+
+1105	Troj	I	0329	Hkaha	B897696-A	 	   Ag Ni 		703	AsMw	M4 V M6 V	2	(B56+1)	[5849]	BC	11	330
+1281	Troj	I	0329	Hkaha	E897000-A	 	    Di 		003	Wild	M4 V M6 V	-1	(B00+3)	[0000]	B	11	33
+1508	Troj	I	0329	Hkaha	E897000-A	 	    Di 		003	Wild	M4 V M6 V	-1	(B00+4)	[0000]	B	11	44
+1900	Troj	I	0329	Hkaha	E897000-A	 	    Di 		003	Wild	M4 V M6 V	-1	(B00+1)	[0000]	B	11	11
+
+1105	Troj	M	0332	Hkesuh	B9A4758-B	 	    Fl (ENIL)		122	AsMw	M4 V	2	(D6C+2)	[795B]	B	13	1872
+1281	Troj	M	0332	Hkesuh	B9A4647-8	 	  Fl Ni Px (ENIL)		522	Wild	M4 V	-1	(D54+2)	[456D]	B	13	520
+1508	Troj	M	0332	Hkesuh	B9A4655-A	 	   Fl Ni (ENIL)		522	Wild	M4 V	1	(D57+4)	[3757]	B	13	1820
+1900	Troj	M	0332	Hkesuh	B9A4675-A	 	   Fl Ni (ENIL)		422	Wild	M4 V	1	(D54+2)	[B758]	B	13	520
+
+1105	Troj	M	0335	Eaweiya	A5406B7-A	 	  De He Ni Po 		610	AsT7	K7 V M3 V	1	(955+1)	[675A]	B	11	225
+1281	Troj	M	0335	Eaweiya	A54067C-8	 	  De He Ni Po 		310	Wild	K7 V M3 V	-1	(950-2)	[151C]	B	11	-90
+1508	Troj	M	0335	Eaweiya	A5406A8-9	 	  De He Ni Po 		210	Wild	K7 V M3 V	0	(955+2)	[3687]	B	11	450
+1900	Troj	M	0335	Eaweiya	A540646-A	 	  De He Ni Po 		110	Wild	K7 V M3 V	1	(957-2)	[474D]	B	11	-630
+
+1105	Troj	M	0336	Awo	C530366-A	 	  De Lo Po 		724	AsSc	M2 V	0	(B20-1)	[2349]	B	14	-22
+1281	Troj	M	0336	Awo	X530000-A	 	  De Di Po 		024	Wild	M2 V	-1	(B00-1)	[0000]	B	14	-11
+1508	Troj	M	0336	Awo	X530000-A	 	  De Di Po 		024	Wild	M2 V	-1	(B00-2)	[0000]	B	14	-22
+1900	Troj	M	0336	Awo	X530000-A	 	  De Di Po 		024	Wild	M2 V	-1	(B00+2)	[0000]	B	14	22
+
+1105	Troj	M	0338	Aiyostea	B20068B-9	 	  Na Ni Va 		805	AsWc	M5 V D	0	(D54+2)	[867B]	B	13	520
+1281	Troj	M	0338	Aiyostea	B200674-7	 	  Na Ni Va 		405	Wild	M5 V D	-1	(854+2)	[1568]	B	13	320
+1508	Troj	M	0338	Aiyostea	B200673-8	 	  Na Ni Va 		305	Wild	M5 V D	-1	(D50-1)	[5538]	B	13	-65
+1900	Troj	M	0338	Aiyostea	B200612-9	 	  Na Ni Va 		305	Wild	M5 V D	0	(D51-1)	[7687]	B	13	-65
+
+1105	Troj	A	0403	Marseilles	D540312-7	 	  De He Lo Po 		502	StCl	M4 V M6 V	-3	(520-5)	[1113]	B	8	-50
+1281	Troj	A	0403	Marseilles	D540000-7	 	  De He Di Po 		002	Wild	M4 V M6 V	-3	(500-3)	[0000]	B	8	-15
+1508	Troj	A	0403	Marseilles	D540000-7	 	  De He Di Po 		002	Wild	M4 V M6 V	-3	(500-1)	[0000]	B	8	-5
+1900	Troj	A	0403	Marseilles	D540000-7	 	  De He Di Po 		002	Wild	M4 V M6 V	-3	(500+3)	[0000]	B	8	15
+
+1105	Troj	A	0404	Paques	D9E6400-4	 	    Ni 		323	NaHu	M2 V D	-3	(631-5)	[1111]	B	17	-90
+1281	Troj	A	0404	Paques	D9E6436-1	 	    Ni 		123	Wild	M2 V D	-3	(630+5)	[2171]	B	17	90
+1508	Troj	A	0404	Paques	D9E6334-2	 	    Lo 		923	Wild	M2 V D	-3	(620-1)	[1141]	B	17	-12
+1900	Troj	A	0404	Paques	D9E6431-3	 	    Ni 		123	Wild	M2 V D	-3	(630+1)	[5167]	B	17	18
+
+1105	Troj	A	0408	Viceroy	B8D3515-C	 	    Ni 		604	NaHu	G6 V M1 V	1	(B45-1)	[363A]	B	8	-220
+1281	Troj	A	0408	Viceroy	B8D3447-A	 	    Ni 		304	Wild	G6 V M1 V	1	(B37-2)	[658E]	B	8	-462
+1508	Troj	A	0408	Viceroy	B8D3410-B	 	    Ni 		404	Wild	G6 V M1 V	1	(B32-3)	[157B]	B	8	-198
+1900	Troj	A	0408	Viceroy	B8D3435-C	 	    Ni 		404	Wild	G6 V M1 V	1	(B32+1)	[959B]	B	8	66
+
+1105	Troj	E	0415	Tibolt	C575744-8	 	    Ag Pi (NIL)		600	FlLe	F2 V M3 V	0	(968-2)	[5736]	BCD	12	-864
+1281	Troj	E	0415	Tibolt	C575730-6	 	    Ag Pi (NIL)		300	Wild	F2 V M3 V	0	(96C+1)	[C756]	BCD	12	648
+1508	Troj	E	0415	Tibolt	C575745-7	 	    Ag Pi (NIL)		400	Wild	F2 V M3 V	0	(96A+3)	[5719]	BCD	12	1620
+1900	Troj	E	0415	Tibolt	C575743-8	 	    Ag Pi (NIL)		400	Wild	F2 V M3 V	0	(969+1)	[7798]	BCD	12	486
+
+1105	Troj	E	0416	Lucind	B560642-9	 	  De Ni Ri 		702	FlLe	F4 V	1	(A55-3)	[2715]	BC	9	-750
+1281	Troj	E	0416	Lucind	B560599-8	 	  De Ni Pr 		302	Wild	F4 V	-1	(A40+3)	[5428]	Bc	9	120
+1508	Troj	E	0416	Lucind	B560589-9	 	  De Ni Pr 		302	Wild	F4 V	0	(A42+1)	[555B]	Bc	9	80
+1900	Troj	E	0416	Lucind	B560556-B	 	  De Ni Pr 		202	Wild	F4 V	1	(A42+1)	[763E]	Bc	9	80
+
+1105	Troj	E	0417	Picard	D679646-7	 	    Ni 		602	FlLe	F7 V M4 V	-3	(851-4)	[5346]	B	5	-160
+1281	Troj	E	0417	Picard	D679000-7	 	    Di 		002	Wild	F7 V M4 V	-3	(800+1)	[0000]	B	5	8
+1508	Troj	E	0417	Picard	D679000-7	 	    Di 		002	Wild	F7 V M4 V	-3	(800+1)	[0000]	B	5	8
+1900	Troj	E	0417	Picard	D679000-7	 	    Di 		002	Wild	F7 V M4 V	-3	(800+3)	[0000]	B	5	24
+
+1105	Troj	E	0418	Tefsi	B994449-B	 	   Ni Pa 		215	FlLe	M4 V M6 V	2	(C35+3)	[566C]	Bc	14	540
+1281	Troj	E	0418	Tefsi	E994000-B	 	    Di 		015	Wild	M4 V M6 V	-1	(C00+1)	[0000]	B	14	12
+1508	Troj	E	0418	Tefsi	E994000-B	 	    Di 		015	Wild	M4 V M6 V	-1	(C00-3)	[0000]	B	14	-36
+1900	Troj	E	0418	Tefsi	E994000-B	 	    Di 		015	Wild	M4 V M6 V	-1	(C00-1)	[0000]	B	14	-12
+
+1105	Troj	I	0425	Khtyekt	B200655-9	 	  Na Ni Va 		613	AsWc	M9 V	0	(C54-2)	[4637]	B	12	-480
+1281	Troj	I	0425	Khtyekt	B20069C-6	 	  Na Ni Va 		313	Wild	M9 V	-1	(854-2)	[B555]	B	12	-320
+1508	Troj	I	0425	Khtyekt	B200635-7	 	  Na Ni Va 		413	Wild	M9 V	-1	(850-3)	[4566]	B	12	-120
+1900	Troj	I	0425	Khtyekt	B200679-8	 	  Na Ni Va 		313	Wild	M9 V	-1	(C52-2)	[5524]	B	12	-240
+
+1105	Troj	I	0426	Osototail	E550857-7	 	  De Ph Po (NIL)		404	AsTv	F2 V	-2	(A76-2)	[8657]	Be	8	-840
+1281	Troj	I	0426	Osototail	E5508AE-4	 	  De Ph Po (NIL)		204	Wild	F2 V	-2	(A75+1)	[6674]	Be	8	350
+1508	Troj	I	0426	Osototail	E55087A-5	 	  De Ph Po (NIL)		204	Wild	F2 V	-2	(A76+1)	[8682]	Be	8	420
+1900	Troj	I	0426	Osototail	E5508DD-8	 	  De Ph Po (NIL)		204	Wild	F2 V	-2	(E72-4)	[8656]	Be	8	-784
+
+1105	Troj	I	0429	Aowaih	B5866A7-A	 	   Ag Ri Ni 		323	AsMw	F1 V M4 V	3	(D57+3)	[695A]	BC	15	1365
+1281	Troj	I	0429	Aowaih	B586626-8	 	   Ag Ri Ni 		123	Wild	F1 V M4 V	1	(D52+1)	[6757]	BC	15	130
+1508	Troj	I	0429	Aowaih	B586594-A	 	   Ag Pr Ni 		923	Wild	F1 V M4 V	2	(D45-5)	[772B]	BcC	15	-1300
+1900	Troj	I	0429	Aowaih	B586675-A	 	   Ag Ri Ni 		123	Wild	F1 V M4 V	3	(D54+1)	[597C]	BC	15	260
+
+1105	Troj	I	0430	Khi	B987588-B	 	   Ag Pr Ni 		911	AsTv	F3 V	3	(947+3)	[585B]	BcC	11	756
+1281	Troj	I	0430	Khi	B987522-9	 	   Ag Pr Ni 		411	Wild	F3 V	1	(944+1)	[A69A]	BcC	11	144
+1508	Troj	I	0430	Khi	B987520-A	 	   Ag Pr Ni 		511	Wild	F3 V	2	(944+1)	[9749]	BcC	11	144
+1900	Troj	I	0430	Khi	B9875A8-B	 	   Ag Pr Ni 		411	Wild	F3 V	2	(946+4)	[871D]	BcC	11	864
+
+1105	Troj	M	0431	Hfa'yuweas	B555388-B	 	    Lo 		305	AsWc	F3 V M4 V	1	(A21+1)	[345B]	B	10	20
+1281	Troj	M	0431	Hfa'yuweas	E555000-B	 	    Di 		005	Wild	F3 V M4 V	-1	(A00+5)	[0000]	B	10	50
+1508	Troj	M	0431	Hfa'yuweas	E555000-B	 	    Di 		005	Wild	F3 V M4 V	-1	(A00-3)	[0000]	B	10	-30
+1900	Troj	M	0431	Hfa'yuweas	E555000-B	 	    Di 		005	Wild	F3 V M4 V	-1	(A00+2)	[0000]	B	10	20
+
+1105	Troj	A	0503	Allemagne	X688000-0	 	    Ba 	R	020	StCl	M0 V M1 V	-3	(200-5)	[0000]	B	9	-10
+1281	Troj	A	0503	Allemagne	X688000-0	 	    Ba 		020	Wild	M0 V M1 V	-3	(200+1)	[0000]	B	9	2
+1508	Troj	A	0503	Allemagne	X688000-0	 	    Ba 		020	Wild	M0 V M1 V	-3	(200-1)	[0000]	B	9	-2
+1900	Troj	A	0503	Allemagne	X688000-0	 	    Ba 		020	Wild	M0 V M1 V	-3	(200-3)	[0000]	B	9	-6
+
+1105	Troj	A	0504	Sable des Etoiles	B000899-D	 	  As Va Na Pi Ph 		521	StCl	F8 V M4 V	2	(D7D+3)	[9A6E]	BDe	16	3549
+1281	Troj	A	0504	Sable des Etoiles	B0008AE-B	 	  As Va Na Pi Ph 		221	Wild	F8 V M4 V	2	(D7A+5)	[7A3C]	BDe	16	4550
+1508	Troj	A	0504	Sable des Etoiles	B00089C-C	 	  As Va Na Pi Ph 		321	Wild	F8 V M4 V	2	(D7A-3)	[6A8C]	BDe	16	-2730
+1900	Troj	A	0504	Sable des Etoiles	B000872-D	 	  As Va Na Pi Ph 		421	Wild	F8 V M4 V	2	(D79-3)	[DA4A]	BDe	16	-2457
+
+1105	Troj	A	0505	Strend	B436AFB-E	 	   Cx Hi (NIL)	A	802	StCl	F4 V	3	(E9F+5)	[CD7G]	BE	8	9450
+1281	Troj	A	0505	Strend	B436ACB-C	 	   Cx Hi (NIL)		402	Wild	F4 V	3	(E97+1)	[CD5C]	BE	8	882
+1508	Troj	A	0505	Strend	B436ACD-D	 	   Cx Hi (NIL)		502	Wild	F4 V	3	(E9A+1)	[7D2D]	BE	8	1260
+1900	Troj	A	0505	Strend	B436A98-E	 	   Cx Hi (NIL)		602	Wild	F4 V	3	(E9E-1)	[8D1C]	BE	8	-1764
+
+1105	Troj	A	0510	Halka	B865544-A	 	  Ag Pr Ga Ni 		813	FlLe	M9 III	3	(B47+1)	[3838]	BcC	13	308
+1281	Troj	A	0510	Halka	B865577-8	 	  Ag Pr Ga Ni 		413	Wild	M9 III	0	(B43-1)	[656C]	BcC	13	-132
+1508	Troj	A	0510	Halka	B865574-9	 	  Ag Pr Ga Ni 		413	Wild	M9 III	1	(B45+1)	[765C]	BcC	13	220
+1900	Troj	A	0510	Halka	B865534-A	 	  Ag Pr Ga Ni 		513	Wild	M9 III	2	(B45-1)	[7768]	BcC	13	-220
+
+1105	Troj	E	0516	Garnl	E884940-8	 	   Hi Pr (NIL)		804	FlLe	K0 V M8 V	-1	(F88-5)	[4813]	BcE	11	-4800
+1281	Troj	E	0516	Garnl	E884952-7	 	   Hi Pr (NIL)		404	Wild	K0 V M8 V	-1	(B85-1)	[A894]	BcE	11	-440
+1508	Troj	E	0516	Garnl	E884988-7	 	   Hi Pr (NIL)		504	Wild	K0 V M8 V	-1	(B86-3)	[C827]	BcE	11	-1584
+1900	Troj	E	0516	Garnl	E884976-8	 	   Hi Pr (NIL)		604	Wild	K0 V M8 V	-1	(F8A+1)	[8826]	BcE	11	1200
+
+1105	Troj	I	0523	Vadada	A410944-E	 	   Hi Na In 		802	FlLe	F9 V M5 V	5	(D8H+3)	[7E3C]	BEf	11	5304
+1281	Troj	I	0523	Vadada	A41099A-C	 	   Hi Na In 		402	Wild	F9 V M5 V	4	(D8B+1)	[8D4A]	BEf	11	1144
+1508	Troj	I	0523	Vadada	A410985-D	 	   Hi Na In 		302	Wild	F9 V M5 V	4	(D88+2)	[CD3B]	BEf	11	1664
+1900	Troj	I	0523	Vadada	A41099B-E	 	   Hi Na In 		302	Wild	F9 V M5 V	4	(D8F+1)	[8D8B]	BEf	11	1560
+
+1105	Troj	I	0525	Elihfoirl	A553236-D	 	   Lo Po 		201	AsMw	K0 V	1	(511+1)	[134C]	B	7	5
+1281	Troj	I	0525	Elihfoirl	E553000-D	 	   Di Po 		001	Wild	K0 V	-1	(500+1)	[0000]	B	7	5
+1508	Troj	I	0525	Elihfoirl	E553000-D	 	   Di Po 		001	Wild	K0 V	-1	(500+2)	[0000]	B	7	10
+1900	Troj	I	0525	Elihfoirl	E553000-D	 	   Di Po 		001	Wild	K0 V	-1	(500+2)	[0000]	B	7	10
+
+1105	Troj	I	0528	Ftaleirl	B53038A-8	 	  De Lo Po 		502	AsWc	M8 V	-1	(720+1)	[527A]	B	12	14
+1281	Troj	I	0528	Ftaleirl	E530000-8	 	  De Di Po 		002	Wild	M8 V	-3	(700-4)	[0000]	B	12	-28
+1508	Troj	I	0528	Ftaleirl	E530000-8	 	  De Di Po 		002	Wild	M8 V	-3	(700+3)	[0000]	B	12	21
+1900	Troj	I	0528	Ftaleirl	E530000-8	 	  De Di Po 		002	Wild	M8 V	-3	(700+1)	[0000]	B	12	7
+
+1105	Troj	I	0529	Oihyeti'he	B779775-B	 	    Pi (NIL)		803	AsSc	F4 V	2	(C6C+1)	[5939]	BD	10	864
+1281	Troj	I	0529	Oihyeti'he	B779742-9	 	    Pi (NIL)		403	Wild	F4 V	1	(C6A+2)	[A84A]	BD	10	1440
+1508	Troj	I	0529	Oihyeti'he	B779778-A	 	    Pi (NIL)		403	Wild	F4 V	2	(C68-1)	[8919]	BD	10	-576
+1900	Troj	I	0529	Oihyeti'he	B779776-B	 	    Pi (NIL)		303	Wild	F4 V	2	(C6A-4)	[798D]	BD	10	-2880
+
+1105	Troj	I	0530	Souftea	A551754-D	 	    Po (NIL)		801	AsMw	F9 V M3 V	2	(A6D+1)	[593B]	B	6	780
+1281	Troj	I	0530	Souftea	A551750-B	 	    Po (NIL)		401	Wild	F9 V M3 V	2	(A66+1)	[59A8]	B	6	360
+1508	Troj	I	0530	Souftea	A551732-B	 	    Po (NIL)		501	Wild	F9 V M3 V	2	(A66+1)	[793C]	B	6	360
+1900	Troj	I	0530	Souftea	A551785-C	 	    Po (NIL)		601	Wild	F9 V M3 V	2	(A69+1)	[A99C]	B	6	540
+
+1105	Troj	M	0531	Oseweheal	B79A647-C	 	   Ni Wa 		303	AsTv	F7 V M9 V M0 V	1	(B55+1)	[675C]	B	12	275
+1281	Troj	M	0531	Oseweheal	D79A000-C	 	   Di Wa 		003	Wild	F7 V M9 V M0 V	-1	(B00+1)	[0000]	B	12	11
+1508	Troj	M	0531	Oseweheal	D79A000-C	 	   Di Wa 		003	Wild	F7 V M9 V M0 V	-1	(B00-1)	[0000]	B	12	-11
+1900	Troj	M	0531	Oseweheal	D79A000-C	 	   Di Wa 		003	Wild	F7 V M9 V M0 V	-1	(B00+3)	[0000]	B	12	33
+
+1105	Troj	M	0534	Uaeakhea	B530389-8	 	 An De Lo Po 		214	AsMw	F6 V	-1	(A20+1)	[4269]	B	13	20
+1281	Troj	M	0534	Uaeakhea	D530000-8	 	 An De Di Po 		014	Wild	F6 V	-3	(A00-4)	[0000]	B	13	-40
+1508	Troj	M	0534	Uaeakhea	D530000-8	 	 An De Di Po 		014	Wild	F6 V	-3	(A00-1)	[0000]	B	13	-10
+1900	Troj	M	0534	Uaeakhea	D530000-8	 	 An De Di Po 		014	Wild	F6 V	-3	(A00-2)	[0000]	B	13	-20
+
+1105	Troj	M	0536	Teharl	C654453-A	 	   Ni Pa 		620	AsVc	F3 V M7 V	0	(833-3)	[1427]	Bc	13	-216
+1281	Troj	M	0536	Teharl	D654000-A	 	    Di 		020	Wild	F3 V M7 V	-1	(800+1)	[0000]	B	13	8
+1508	Troj	M	0536	Teharl	D654000-A	 	    Di 		020	Wild	F3 V M7 V	-1	(800-2)	[0000]	B	13	-16
+1900	Troj	M	0536	Teharl	D654000-A	 	    Di 		020	Wild	F3 V M7 V	-1	(800-5)	[0000]	B	13	-40
+
+1105	Troj	A	0608	Armada	A540244-A	 	  De He Lo Po 		400	NaHu	G9 V	1	(411-1)	[1338]	B	5	-4
+1281	Troj	A	0608	Armada	E540000-A	 	  De He Di Po 		000	Wild	G9 V	-1	(400-3)	[0000]	B	5	-12
+1508	Troj	A	0608	Armada	E540000-A	 	  De He Di Po 		000	Wild	G9 V	-1	(400-5)	[0000]	B	5	-20
+1900	Troj	A	0608	Armada	E540000-A	 	  De He Di Po 		000	Wild	G9 V	-1	(400-1)	[0000]	B	5	-4
+
+1105	Troj	A	0609	Adhara	B57A687-8	 	   Ni Wa 		602	NaHu	F2 V M9 V	-1	(A53-1)	[6558]	B	8	-150
+1281	Troj	A	0609	Adhara	E57A000-8	 	   Di Wa 		002	Wild	F2 V M9 V	-3	(A00+3)	[0000]	B	8	30
+1508	Troj	A	0609	Adhara	E57A000-8	 	   Di Wa 		002	Wild	F2 V M9 V	-3	(A00-1)	[0000]	B	8	-10
+1900	Troj	A	0609	Adhara	E57A000-8	 	   Di Wa 		002	Wild	F2 V M9 V	-3	(A00-2)	[0000]	B	8	-20
+
+1105	Troj	E	0614	Boronu	B966741-A	 	    Ag Ri (NIL)		102	FlLe	F4 V M1 V	4	(B6D+1)	[3B16]	BCf	12	858
+1281	Troj	E	0614	Boronu	B966656-9	 	   Ag Ri Ni (NIL)		502	Wild	F4 V M1 V	2	(B58-4)	[9889]	BC	12	-1760
+1508	Troj	E	0614	Boronu	B966677-9	 	   Ag Ri Ni (NIL)		602	Wild	F4 V M1 V	2	(B53+5)	[48A8]	BC	12	825
+1900	Troj	E	0614	Boronu	B966644-A	 	   Ag Ri Ni (NIL)		702	Wild	F4 V M1 V	3	(B59-1)	[79AF]	BC	12	-495
+
+1105	Troj	E	0616	Ilnest	B686347-9	 	   Ga Lo 		703	FlLe	K5 V M8 V	1	(821+1)	[3459]	B	12	16
+1281	Troj	E	0616	Ilnest	E686000-9	 	   Di Ga 		003	Wild	K5 V M8 V	-2	(800+1)	[0000]	B	12	8
+1508	Troj	E	0616	Ilnest	E686000-9	 	   Di Ga 		003	Wild	K5 V M8 V	-2	(800+1)	[0000]	B	12	8
+1900	Troj	E	0616	Ilnest	E686000-9	 	   Di Ga 		003	Wild	K5 V M8 V	-2	(800+3)	[0000]	B	12	24
+
+1105	Troj	I	0628	Sei'eal	B510886-B	 	   Na Pi Ph 		500	AsVc	F2 V M1 V	2	(A7C+1)	[7A4A]	BDe	10	840
+1281	Troj	I	0628	Sei'eal	B510887-9	 	   Na Pi Ph 		200	Wild	F2 V M1 V	1	(A77-4)	[7949]	BDe	10	-1960
+1508	Troj	I	0628	Sei'eal	B510834-A	 	   Na Pi Ph 		100	Wild	F2 V M1 V	2	(A79+1)	[9A7A]	BDe	10	630
+1900	Troj	I	0628	Sei'eal	B5108BC-B	 	   Na Pi Ph 		200	Wild	F2 V M1 V	2	(A7B-2)	[DA6B]	BDe	10	-1540
+
+1105	Troj	M	0633	Ehearye	A588779-C	 	    Ag Ri (NIL)		230	AsSc	F1 V	5	(C6F+5)	[8C6D]	BCf	12	5400
+1281	Troj	M	0633	Ehearye	A58877B-A	 	    Ag Ri (NIL)		130	Wild	F1 V	4	(C6C-1)	[8B69]	BCf	12	-864
+1508	Troj	M	0633	Ehearye	A588679-B	 	   Ag Ri Ni (NIL)		930	Wild	F1 V	3	(C54-1)	[594E]	BC	12	-240
+1900	Troj	M	0633	Ehearye	A588640-C	 	   Ag Ri Ni (NIL)		830	Wild	F1 V	3	(C54-1)	[698B]	BC	12	-240
+
+1105	Troj	M	0640	Iysewekh	A52058A-E	 	  De He Ni Po 		503	AsT6	F2 V	1	(A45+3)	[767G]	B	8	600
+1281	Troj	M	0640	Iysewekh	X520000-E	 	  De He Di Po 		003	Wild	F2 V	-1	(A00-1)	[0000]	B	8	-10
+1508	Troj	M	0640	Iysewekh	X520000-E	 	  De He Di Po 		003	Wild	F2 V	-1	(A00-3)	[0000]	B	8	-30
+1900	Troj	M	0640	Iysewekh	X520000-E	 	  De He Di Po 		003	Wild	F2 V	-1	(A00-3)	[0000]	B	8	-30
+
+1105	Troj	A	0702	Zephyr	B999545-7	 	    Ni 		114	NaHu	F6 V	-1	(743-3)	[3435]	B	15	-252
+1281	Troj	A	0702	Zephyr	D999000-7	 	    Di 		014	Wild	F6 V	-3	(700-3)	[0000]	B	15	-21
+1508	Troj	A	0702	Zephyr	D999000-7	 	    Di 		014	Wild	F6 V	-3	(700+1)	[0000]	B	15	7
+1900	Troj	A	0702	Zephyr	D999000-7	 	    Di 		014	Wild	F6 V	-3	(700+1)	[0000]	B	15	7
+
+1105	Troj	E	0713	Zimt	C547546-9	 	   Ag Ni 		313	FlLe	F3 V	0	(B44-1)	[4548]	BC	14	-176
+1281	Troj	E	0713	Zimt	E547000-9	 	    Di 		013	Wild	F3 V	-2	(B00-2)	[0000]	B	14	-22
+1508	Troj	E	0713	Zimt	E547000-9	 	    Di 		013	Wild	F3 V	-2	(B00+2)	[0000]	B	14	22
+1900	Troj	E	0713	Zimt	E547000-9	 	    Di 		013	Wild	F3 V	-2	(B00+2)	[0000]	B	14	22
+
+1105	Troj	E	0716	Forandin	BA89646-9	 	   Ni Ri 		912	FlLe	M5 V	2	(B56+1)	[5848]	BC	7	330
+1281	Troj	E	0716	Forandin	BA89651-8	 	   Ni Ri 		412	Wild	M5 V	0	(B55+5)	[8649]	BC	7	1375
+1508	Troj	E	0716	Forandin	BA8968B-8	 	   Ni Ri 		512	Wild	M5 V	0	(B52+1)	[7615]	BC	7	110
+1900	Troj	E	0716	Forandin	BA89674-9	 	   Ni Ri 		412	Wild	M5 V	1	(B53-2)	[A738]	BC	7	-330
+
+1105	Troj	I	0722	Tanar	C787640-8	 	 Ag Ri An Ga Ni 		620	FlLe	K1 V	0	(A54-4)	[1613]	BC	6	-800
+1281	Troj	I	0722	Tanar	C787455-8	 	 An Ga Ni Pa 		320	Wild	K1 V	-2	(A33+1)	[823C]	Bc	6	90
+1508	Troj	I	0722	Tanar	C787400-9	 	 An Ga Ni Pa 		420	Wild	K1 V	-1	(A33+3)	[7355]	Bc	6	270
+1900	Troj	I	0722	Tanar	C787400-A	 	 An Ga Ni Pa 		520	Wild	K1 V	0	(A31-3)	[448E]	Bc	6	-90
+
+1105	Troj	I	0724	Lafkin	C77A846-9	 	  Ph Pi Wa (NIL)		402	FlLe	F4 V	0	(C79-1)	[7848]	BDe	8	-756
+1281	Troj	I	0724	Lafkin	C77A874-7	 	  Ph Pi Wa (NIL)		202	Wild	F4 V	-1	(A75-1)	[6777]	BDe	8	-350
+1508	Troj	I	0724	Lafkin	C77A841-8	 	  Ph Pi Wa (NIL)		302	Wild	F4 V	-1	(C78+1)	[4779]	BDe	8	672
+1900	Troj	I	0724	Lafkin	C77A852-A	 	  Ph Pi Wa (NIL)		302	Wild	F4 V	1	(C73+4)	[9947]	BDe	8	1008
+
+1105	Troj	I	0727	Woilreawau	B100855-E	 	  Na Pi Ph Va 		503	AsTv	G0 V D	2	(D7D+1)	[6A3C]	BDe	13	1183
+1281	Troj	I	0727	Woilreawau	B100876-B	 	  Na Pi Ph Va 		203	Wild	G0 V D	2	(D7E-1)	[7A48]	BDe	13	-1274
+1508	Troj	I	0727	Woilreawau	B100887-C	 	  Na Pi Ph Va 		103	Wild	G0 V D	2	(D7B+2)	[3A1E]	BDe	13	2002
+1900	Troj	I	0727	Woilreawau	B100724-D	 	   Na Pi Va 		903	Wild	G0 V D	2	(D68+2)	[797F]	BD	13	1248
+
+1105	Troj	I	0729	Uao	C6A2456-8	 	  Fl He Ni Px 		202	AsT3	M8 V	-2	(831-3)	[3247]	B	6	-72
+1281	Troj	I	0729	Uao	E6A2000-8	 	  Di Fl He Px 		002	Wild	M8 V	-3	(800+2)	[0000]	B	6	16
+1508	Troj	I	0729	Uao	E6A2000-8	 	   Di Fl He 		002	Wild	M8 V	-3	(800+1)	[0000]	B	6	8
+1900	Troj	I	0729	Uao	E6A2000-8	 	   Di Fl He 		002	Wild	M8 V	-3	(800-1)	[0000]	B	6	-8
+
+1105	Troj	M	0738	Eiwakh	D200777-8	 	   Na Pi Va 		200	AsSc	M5 V	-2	(966-2)	[7558]	BD	7	-648
+1281	Troj	M	0738	Eiwakh	D200797-6	 	   Na Pi Va 		100	Wild	M5 V	-2	(969+5)	[6597]	BD	7	2430
+1508	Troj	M	0738	Eiwakh	D200677-7	 	  Na Ni Va 		900	Wild	M5 V	-3	(952-3)	[4334]	B	7	-270
+1900	Troj	M	0738	Eiwakh	D200751-9	 	   Na Pi Va 		100	Wild	M5 V	-1	(969+2)	[66A9]	BD	7	972
+
+1105	Troj	M	0739	Hkeleiakh	E310000-0	 	    Ba 		005	AsXX	K5 V	-3	(200-5)	[0000]	B	15	-10
+1281	Troj	M	0739	Hkeleiakh	E310000-0	 	    Ba 		005	Wild	K5 V	-3	(200-3)	[0000]	B	15	-6
+1508	Troj	M	0739	Hkeleiakh	E310000-0	 	    Ba 		005	Wild	K5 V	-3	(200+3)	[0000]	B	15	6
+1900	Troj	M	0739	Hkeleiakh	E310000-0	 	    Ba 		005	Wild	K5 V	-3	(200+3)	[0000]	B	15	6
+
+1105	Troj	A	0802	Fomalhaut	B510200-D	 	    Lo 		204	NaHu	M7 V	1	(811-3)	[1318]	B	11	-24
+1281	Troj	A	0802	Fomalhaut	E510000-D	 	    Di 		004	Wild	M7 V	-1	(800-4)	[0000]	B	11	-32
+1508	Troj	A	0802	Fomalhaut	E510000-D	 	    Di 		004	Wild	M7 V	-1	(800-1)	[0000]	B	11	-8
+1900	Troj	A	0802	Fomalhaut	E510000-D	 	    Di 		004	Wild	M7 V	-1	(800+1)	[0000]	B	11	8
+
+1105	Troj	A	0809	Hadara	E311796-7	 	   Ic Na Pi 		103	NaHu	A3 V	-2	(966-3)	[6546]	BD	11	-972
+1281	Troj	A	0809	Hadara	E311695-5	 	  Ic Na Ni 		503	Wild	A3 V	-3	(950-1)	[434A]	B	11	-45
+1508	Troj	A	0809	Hadara	E311611-6	 	  Ic Na Ni 		503	Wild	A3 V	-3	(950-1)	[23A2]	B	11	-45
+1900	Troj	A	0809	Hadara	E311634-7	 	  Ic Na Ni 		503	Wild	A3 V	-3	(952-4)	[6329]	B	11	-360
+
+1105	Troj	E	0811	Odin	B20149B-8	 	   Ic Va Ni 	A	504	NaHu	M0 V M5 V	-1	(A32+1)	[637A]	B	13	60
+1281	Troj	E	0811	Odin	B201441-6	 	   Ic Va Ni 		204	Wild	M0 V M5 V	-1	(631-3)	[4379]	B	13	-54
+1508	Troj	E	0811	Odin	B201488-7	 	   Ic Va Ni 		304	Wild	M0 V M5 V	-1	(630-2)	[1344]	B	13	-36
+1900	Troj	E	0811	Odin	B201445-8	 	   Ic Va Ni 		304	Wild	M0 V M5 V	-1	(A30+2)	[2337]	B	13	60
+
+1105	Troj	E	0813	Thor	D669577-5	 	   Ni Pr 		702	NaHu	F6 V M0 V	-3	(741-3)	[5255]	Bc	8	-84
+1281	Troj	E	0813	Thor	D669573-3	 	   Ni Pr 		302	Wild	F6 V M0 V	-3	(741-2)	[7233]	Bc	8	-56
+1508	Troj	E	0813	Thor	D669522-4	 	   Ni Pr 		402	Wild	F6 V M0 V	-3	(741+2)	[3263]	Bc	8	56
+1900	Troj	E	0813	Thor	D669573-5	 	   Ni Pr 		502	Wild	F6 V M0 V	-3	(740-1)	[6254]	Bc	8	-28
+
+1105	Troj	E	0815	Yggdrasil	B5507CD-8	 	   De Po (NIL)	A	310	CsIm	F5 V	0	(A68+4)	[B79C]	B	12	1920
+1281	Troj	E	0815	Yggdrasil	B550777-6	 	   De Po (NIL)		110	Wild	F5 V	0	(967+1)	[574B]	B	12	378
+1508	Troj	E	0815	Yggdrasil	B550750-8	 	   De Po (NIL)		210	Wild	F5 V	0	(A63+3)	[9745]	B	12	540
+1900	Troj	E	0815	Yggdrasil	B550745-8	 	   De Po (NIL)		210	Wild	F5 V	0	(A66-2)	[275A]	B	12	-720
+
+1105	Troj	E	0820	Sif	A765867-7	 	  Ga Pa Ri Ph (NIL)		112	NaHu	K4 V M4 V	1	(A79+1)	[8957]	BcCe	12	630
+1281	Troj	E	0820	Sif	A765751-6	 	   Ag Ri Ga (NIL)		512	Wild	K4 V M4 V	2	(A69-4)	[7922]	BC	12	-2160
+1508	Troj	E	0820	Sif	A765720-6	 	   Ag Ri Ga (NIL)		412	Wild	K4 V M4 V	2	(A69-2)	[7979]	BC	12	-1080
+1900	Troj	E	0820	Sif	A765798-7	 	   Ag Ri Ga (NIL)		512	Wild	K4 V M4 V	2	(A6C+1)	[9987]	BC	12	720
+
+1105	Troj	I	0823	Eahaw	E523000-0	 	   Ba Po 		013	AsXX	M7 V	-3	(200-5)	[0000]	B	12	-10
+1281	Troj	I	0823	Eahaw	E523000-0	 	   Ba Po 		013	Wild	M7 V	-3	(200+1)	[0000]	B	12	2
+1508	Troj	I	0823	Eahaw	E523000-0	 	   Ba Po 		013	Wild	M7 V	-3	(200+1)	[0000]	B	12	2
+1900	Troj	I	0823	Eahaw	E523000-0	 	   Ba Po 		013	Wild	M7 V	-3	(200-5)	[0000]	B	12	-10
+
+1105	Troj	I	0824	Yaeawaokh	B43078B-C	 	   De Na Po (NIL)		400	AsT3	F6 V M8 V	2	(96C+4)	[997E]	B	9	2592
+1281	Troj	I	0824	Yaeawaokh	B430743-A	 	   De Na Po (NIL)		200	Wild	F6 V M8 V	2	(967+1)	[796D]	B	9	378
+1508	Troj	I	0824	Yaeawaokh	B430779-B	 	   De Na Po (NIL)		300	Wild	F6 V M8 V	2	(967+3)	[A96E]	B	9	1134
+1900	Troj	I	0824	Yaeawaokh	B43079E-C	 	   De Na Po (NIL)		200	Wild	F6 V M8 V	2	(969+1)	[598C]	B	9	486
+
+1105	Troj	I	0825	Alirar	A55557A-C	 	   Ag Ni 		913	GlEm	K4 V M4 V	2	(B46+4)	[777E]	BC	17	1056
+1281	Troj	I	0825	Alirar	A555578-A	 	   Ag Ni 		413	Wild	K4 V M4 V	2	(B45+3)	[277A]	BC	17	660
+1508	Troj	I	0825	Alirar	A555534-B	 	   Ag Ni 		513	Wild	K4 V M4 V	2	(B43+4)	[474A]	BC	17	528
+1900	Troj	I	0825	Alirar	A555578-C	 	   Ag Ni 		613	Wild	K4 V M4 V	2	(B47+1)	[174B]	BC	17	308
+
+1105	Troj	I	0829	Ehaealir	B63657B-9	 	    Ni 		210	AsSc	M4 V M8 V	0	(844+2)	[757B]	B	12	256
+1281	Troj	I	0829	Ehaealir	D636000-9	 	    Di 		010	Wild	M4 V M8 V	-2	(800+2)	[0000]	B	12	16
+1508	Troj	I	0829	Ehaealir	D636000-9	 	    Di 		010	Wild	M4 V M8 V	-2	(800+1)	[0000]	B	12	8
+1900	Troj	I	0829	Ehaealir	D636000-9	 	    Di 		010	Wild	M4 V M8 V	-2	(800+4)	[0000]	B	12	32
+
+1105	Troj	M	0835	Stohyus	A567886-C	 	   Pa Ri Ph (NIL)		902	AsTv	F6 V M2 V	3	(C7D+2)	[7B4B]	BcCe	14	2184
+1281	Troj	M	0835	Stohyus	A5678BD-A	 	   Pa Ri Ph (NIL)		402	Wild	F6 V M2 V	3	(C79-1)	[6B8E]	BcCe	14	-756
+1508	Troj	M	0835	Stohyus	A56787A-B	 	   Pa Ri Ph (NIL)		502	Wild	F6 V M2 V	3	(C79-2)	[9B48]	BcCe	14	-1512
+1900	Troj	M	0835	Stohyus	A56787A-C	 	   Pa Ri Ph (NIL)		402	Wild	F6 V M2 V	3	(C7B-1)	[DBAF]	BcCe	14	-924
+
+1105	Troj	M	0837	Hkakh	A424546-E	 	   Ni Px 		704	AsWc	K6 V	1	(B45+1)	[464D]	B	12	220
+1281	Troj	M	0837	Hkakh	X424000-E	 	   Di Px 		004	Wild	K6 V	-1	(B00+5)	[0000]	B	12	55
+1508	Troj	M	0837	Hkakh	X424000-E	 	    Di 		004	Wild	K6 V	-1	(B00+2)	[0000]	B	12	22
+1900	Troj	M	0837	Hkakh	X424000-E	 	    Di 		004	Wild	K6 V	-1	(B00+1)	[0000]	B	12	11
+
+1105	Troj	M	0839	Ohtae	B665168-9	 	   Ga Lo 		903	AsTv	F8 V M6 V	0	(600+1)	[1159]	B	14	6
+1281	Troj	M	0839	Ohtae	X665000-9	 	   Di Ga 		003	Wild	F8 V M6 V	-2	(600+1)	[0000]	B	14	6
+1508	Troj	M	0839	Ohtae	X665000-9	 	   Di Ga 		003	Wild	F8 V M6 V	-2	(600-4)	[0000]	B	14	-24
+1900	Troj	M	0839	Ohtae	X665000-9	 	   Di Ga 		003	Wild	F8 V M6 V	-2	(600+2)	[0000]	B	14	12
+
+1105	Troj	M	0840	Uitasoayaw	B579687-9	 	    Ni 		103	AsWc	F3 V D	0	(B54+1)	[6659]	B	12	220
+1281	Troj	M	0840	Uitasoayaw	E579000-9	 	    Di 		003	Wild	F3 V D	-2	(B00+1)	[0000]	B	12	11
+1508	Troj	M	0840	Uitasoayaw	E579000-9	 	    Di 		003	Wild	F3 V D	-2	(B00-2)	[0000]	B	12	-22
+1900	Troj	M	0840	Uitasoayaw	E579000-9	 	    Di 		003	Wild	F3 V D	-2	(B00-5)	[0000]	B	12	-55
+
+1105	Troj	B	0902	Walei	E7B4776-8	 	    Fl (ENIL)		811	NaHu	K3 V M5 V	-2	(B66-3)	[6547]	B	10	-1188
+1281	Troj	B	0902	Walei	E7B4000-8	 	   Di Fl (ENIL)		011	Wild	K3 V M5 V	-3	(B00-3)	[0000]	B	10	-33
+1508	Troj	B	0902	Walei	E7B4000-8	 	   Di Fl (ENIL)		011	Wild	K3 V M5 V	-3	(B00-2)	[0000]	B	10	-22
+1900	Troj	B	0902	Walei	E7B4000-8	 	   Di Fl (ENIL)		011	Wild	K3 V M5 V	-3	(B00-2)	[0000]	B	10	-22
+
+1105	Troj	B	0909	Pa'an	E649333-5	 	    Lo 		513	CsZh	F3 V M0 V	-3	(520-5)	[1122]	B	15	-50
+1281	Troj	B	0909	Pa'an	E649000-5	 	    Di 		013	Wild	F3 V M0 V	-3	(500+1)	[0000]	B	15	5
+1508	Troj	B	0909	Pa'an	E649000-5	 	    Di 		013	Wild	F3 V M0 V	-3	(500-3)	[0000]	B	15	-15
+1900	Troj	B	0909	Pa'an	E649000-5	 	    Di 		013	Wild	F3 V M0 V	-3	(500+1)	[0000]	B	15	5
+
+1105	Troj	F	0914	Solaria	B665734-8	 	   Ag Ri Ga (NIL)		614	NaHu	F8 V	2	(E6A+1)	[5936]	BC	17	840
+1281	Troj	F	0914	Solaria	B6657A8-6	 	   Ag Ri Ga (NIL)		314	Wild	F8 V	2	(96C-5)	[7976]	BC	17	-3240
+1508	Troj	F	0914	Solaria	B6657BB-7	 	   Ag Ri Ga (NIL)		314	Wild	F8 V	2	(96B-2)	[7995]	BC	17	-1188
+1900	Troj	F	0914	Solaria	B665738-8	 	   Ag Ri Ga (NIL)		414	Wild	F8 V	2	(E6C+1)	[3958]	BC	17	1008
+
+1105	Troj	F	0915	Dpres	B631689-A	N 	   Na Px Po Ni 		122	CsIm	G5 V	1	(C55+2)	[776B]	B	11	600
+1281	Troj	F	0915	Dpres	B631487-9	N 	   Ni Px Po 		522	Wild	G5 V	0	(C33+3)	[4468]	B	11	324
+1508	Troj	F	0915	Dpres	B631412-A	N 	   Ni Po 		422	Wild	G5 V	1	(C34+1)	[654A]	B	11	144
+1900	Troj	F	0915	Dpres	B631430-B	N 	   Ni Po 		522	Wild	G5 V	1	(C35-4)	[253A]	B	11	-720
+
+1105	Troj	J	0929	Alr	A779548-B	 	    Ni 		102	GlEm	F5 V	1	(945+1)	[565B]	B	11	180
+1281	Troj	J	0929	Alr	X779000-B	 	    Di 		002	Wild	F5 V	-1	(900-1)	[0000]	B	11	-9
+1508	Troj	J	0929	Alr	X779000-B	 	    Di 		002	Wild	F5 V	-1	(900-4)	[0000]	B	11	-36
+1900	Troj	J	0929	Alr	X779000-B	 	    Di 		002	Wild	F5 V	-1	(900+3)	[0000]	B	11	27
+
+1105	Troj	J	0930	Ehrafou	B00075A-E	 	   As Va Na Pi 		904	AsMw	M4 V M4 V	2	(D6D+4)	[997G]	BD	13	4056
+1281	Troj	J	0930	Ehrafou	B000757-C	 	   As Va Na Pi 		404	Wild	M4 V M4 V	2	(D68+2)	[595A]	BD	13	1248
+1508	Troj	J	0930	Ehrafou	B000772-C	 	   As Va Na Pi 		404	Wild	M4 V M4 V	2	(D66+2)	[691C]	BD	13	936
+1900	Troj	J	0930	Ehrafou	B0007AB-D	 	   As Va Na Pi 		404	Wild	M4 V M4 V	2	(D64-1)	[797C]	BD	13	-312
+
+1105	Troj	N	0931	Eoiw	B430684-C	 	 An De Na Po Ni 		803	AsMw	M0 V M3 V	1	(B55-1)	[473A]	B	13	-275
+1281	Troj	N	0931	Eoiw	B430403-C	 	 An De Ni Po 		403	Wild	M0 V M3 V	1	(B36+1)	[259C]	B	13	198
+1508	Troj	N	0931	Eoiw	B430443-C	 	 An De Ni Po 		303	Wild	M0 V M3 V	1	(B36+1)	[8518]	B	13	198
+1900	Troj	N	0931	Eoiw	B430412-D	 	 An De Ni Po 		203	Wild	M0 V M3 V	1	(B36+3)	[754H]	B	13	594
+
+1105	Troj	N	0933	Earlyu	B989859-C	 	   Ph Ri (NIL)		801	AsT1	F3 V M6 V M9 V	3	(B7D+4)	[9B6D]	BCe	6	4004
+1281	Troj	N	0933	Earlyu	B989879-9	 	   Ph Ri (NIL)		401	Wild	F3 V M6 V M9 V	2	(B77+4)	[3A4D]	BCe	6	2156
+1508	Troj	N	0933	Earlyu	B9898DB-C	 	   Ph Ri (NIL)		501	Wild	F3 V M6 V M9 V	3	(B76+1)	[AB6G]	BCe	6	462
+1900	Troj	N	0933	Earlyu	B98988B-B	 	   Ph Ri (NIL)		401	Wild	F3 V M6 V M9 V	3	(B7C+1)	[7B6B]	BCe	6	924
+
+1105	Troj	N	0934	Hkuikhekh	B532316-C	 	   Lo Px Po 		804	AsMw	G0 II	1	(921+1)	[244B]	B	14	18
+1281	Troj	N	0934	Hkuikhekh	E532000-C	 	   Di Px Po 		004	Wild	G0 II	-1	(900+2)	[0000]	B	14	18
+1508	Troj	N	0934	Hkuikhekh	E532000-C	 	   Di Po 		004	Wild	G0 II	-1	(900+1)	[0000]	B	14	9
+1900	Troj	N	0934	Hkuikhekh	E532000-C	 	   Di Po 		004	Wild	G0 II	-1	(900-4)	[0000]	B	14	-36
+
+1105	Troj	N	0936	Ewyeyal	B58457A-B	 	   Ag Pr Ni 		100	AsSc	K8 V	3	(747+5)	[787D]	BcC	9	980
+1281	Troj	N	0936	Ewyeyal	B58447B-9	 	   Ni Pa 		500	Wild	K8 V	0	(736-3)	[5425]	Bc	9	-378
+1508	Troj	N	0936	Ewyeyal	B584435-A	 	   Ni Pa 		400	Wild	K8 V	1	(735+4)	[355D]	Bc	9	420
+1900	Troj	N	0936	Ewyeyal	B584487-B	 	   Ni Pa 		300	Wild	K8 V	1	(733+3)	[254A]	Bc	9	189
+
+1105	Troj	N	0938	Aisaoawi	EAC5000-0	 	   Ba Fl 		023	AsXX	M0 V	-3	(200-5)	[0000]	B	15	-10
+1281	Troj	N	0938	Aisaoawi	EAC5000-0	 	   Ba Fl 		023	Wild	M0 V	-3	(200+2)	[0000]	B	15	4
+1508	Troj	N	0938	Aisaoawi	EAC5000-0	 	   Ba Fl 		023	Wild	M0 V	-3	(200+3)	[0000]	B	15	6
+1900	Troj	N	0938	Aisaoawi	EAC5000-0	 	   Ba Fl 		023	Wild	M0 V	-3	(200-3)	[0000]	B	15	-6
+
+1105	Troj	B	1005	Gorgon	E590224-6	 	   De He Lo 		504	BlSo	K3 V	-3	(410-5)	[1134]	B	9	-20
+1281	Troj	B	1005	Gorgon	E590000-6	 	   De He Di 		004	Wild	K3 V	-3	(400-4)	[0000]	B	9	-16
+1508	Troj	B	1005	Gorgon	E590000-6	 	   De He Di 		004	Wild	K3 V	-3	(400+3)	[0000]	B	9	12
+1900	Troj	B	1005	Gorgon	E590000-6	 	   De He Di 		004	Wild	K3 V	-3	(400-1)	[0000]	B	9	-4
+
+1105	Troj	F	1015	Connaught	D431153-9	 	   Lo Po 		910	NaHu	M8 V M8 V	-2	(400-5)	[1126]	B	9	-20
+1281	Troj	F	1015	Connaught	D431000-9	 	   Di Po 		010	Wild	M8 V M8 V	-2	(400+1)	[0000]	B	9	4
+1508	Troj	F	1015	Connaught	D431000-9	 	   Di Po 		010	Wild	M8 V M8 V	-2	(400-2)	[0000]	B	9	-8
+1900	Troj	F	1015	Connaught	D431000-9	 	   Di Po 		010	Wild	M8 V M8 V	-2	(400-1)	[0000]	B	9	-4
+
+1105	Troj	F	1016	291-540	EABA000-0	 	   Ba Fl 		004	NaXX	K2 II M2 V	-3	(200-5)	[0000]	B	14	-10
+1281	Troj	F	1016	291-540	EABA000-0	 	   Ba Fl 		004	Wild	K2 II M2 V	-3	(200-3)	[0000]	B	14	-6
+1508	Troj	F	1016	291-540	EABA000-0	 	   Ba Fl 		004	Wild	K2 II M2 V	-3	(200-2)	[0000]	B	14	-4
+1900	Troj	F	1016	291-540	EABA000-0	 	   Ba Fl 		004	Wild	K2 II M2 V	-3	(200+3)	[0000]	B	14	6
+
+1105	Troj	J	1022	Ftulrois	B56866A-9	 	   Ag Ri Ni 		200	GlEm	K8 V	2	(856+4)	[887B]	BC	11	960
+1281	Troj	J	1022	Ftulrois	E568000-9	 	    Di 		000	Wild	K8 V	-2	(800-1)	[0000]	B	11	-8
+1508	Troj	J	1022	Ftulrois	E568000-9	 	    Di 		000	Wild	K8 V	-2	(800+1)	[0000]	B	11	8
+1900	Troj	J	1022	Ftulrois	E568000-9	 	    Di 		000	Wild	K8 V	-2	(800-1)	[0000]	B	11	-8
+
+1105	Troj	J	1023	Oatre	B532336-C	 	   Lo Px Po 		312	GlEm	K8 II M2 V	1	(821+1)	[244B]	B	13	16
+1281	Troj	J	1023	Oatre	E532000-C	 	   Di Px Po 		012	Wild	K8 II M2 V	-1	(800-3)	[0000]	B	13	-24
+1508	Troj	J	1023	Oatre	E532000-C	 	   Di Po 		012	Wild	K8 II M2 V	-1	(800-2)	[0000]	B	13	-16
+1900	Troj	J	1023	Oatre	E532000-C	 	   Di Po 		012	Wild	K8 II M2 V	-1	(800+1)	[0000]	B	13	8
+
+1105	Troj	J	1025	Hea'a	E54026A-5	 	  De He Lo Po 		603	GlEm	F5 V	-3	(410-1)	[4177]	B	13	-4
+1281	Troj	J	1025	Hea'a	E540000-5	 	  De He Di Po 		003	Wild	F5 V	-3	(400+2)	[0000]	B	13	8
+1508	Troj	J	1025	Hea'a	E540000-5	 	  De He Di Po 		003	Wild	F5 V	-3	(400+1)	[0000]	B	13	4
+1900	Troj	J	1025	Hea'a	E540000-5	 	  De He Di Po 		003	Wild	F5 V	-3	(400+2)	[0000]	B	13	8
+
+1105	Troj	J	1026	Eiaihiy	B500132-B	 	   Lo Va 		923	GlEm	M4 V	1	(801-3)	[1217]	B	13	-24
+1281	Troj	J	1026	Eiaihiy	D500000-B	 	   Di Va 		023	Wild	M4 V	-1	(800+1)	[0000]	B	13	8
+1508	Troj	J	1026	Eiaihiy	D500000-B	 	   Di Va 		023	Wild	M4 V	-1	(800-3)	[0000]	B	13	-24
+1900	Troj	J	1026	Eiaihiy	D500000-B	 	   Di Va 		023	Wild	M4 V	-1	(800+1)	[0000]	B	13	8
+
+1105	Troj	J	1027	Syoakh	A6968BC-C	 	  Cx Pa Pi Ph (NIL)	A	500	GlEm	F5 V D	2	(A7C+5)	[BA8F]	BcDe	10	4200
+1281	Troj	J	1027	Syoakh	A696876-A	 	  Cx Pa Pi Ph (NIL)		200	Wild	F5 V D	2	(A78+1)	[8A2E]	BcDe	10	560
+1508	Troj	J	1027	Syoakh	A6968AB-B	 	  Cx Pa Pi Ph (NIL)		100	Wild	F5 V D	2	(A7B+2)	[8A8G]	BcDe	10	1540
+1900	Troj	J	1027	Syoakh	A6968CF-C	 	  Cx Pa Pi Ph (NIL)		200	Wild	F5 V D	2	(A77+1)	[9A28]	BcDe	10	490
+
+1105	Troj	J	1028	Htourlao	B311978-E	 	  Hi Ic Na In 		512	GlEm	K7 V	4	(E8G+4)	[9D5E]	BEf	9	7168
+1281	Troj	J	1028	Htourlao	B3119CD-C	 	  Hi Ic Na In 		212	Wild	K7 V	4	(E89+4)	[BD3C]	BEf	9	4032
+1508	Troj	J	1028	Htourlao	B3119CC-D	 	  Hi Ic Na In 		112	Wild	K7 V	4	(E8C-2)	[CD7F]	BEf	9	-2688
+1900	Troj	J	1028	Htourlao	B311894-C	 	  Ic Na Pi Ph 		912	Wild	K7 V	2	(E78+1)	[8A6B]	BDe	9	784
+
+1105	Troj	J	1030	Keawoaw	B430433-9	 	  De Ni Po 		413	GlEm	M0 V M9 V	0	(A33-3)	[1426]	B	12	-270
+1281	Troj	J	1030	Keawoaw	X430000-9	 	  De Di Po 		013	Wild	M0 V M9 V	-2	(A00-3)	[0000]	B	12	-30
+1508	Troj	J	1030	Keawoaw	X430000-9	 	  De Di Po 		013	Wild	M0 V M9 V	-2	(A00-4)	[0000]	B	12	-40
+1900	Troj	J	1030	Keawoaw	X430000-9	 	  De Di Po 		013	Wild	M0 V M9 V	-2	(A00+5)	[0000]	B	12	50
+
+1105	Troj	N	1034	Eiyehwehakhea	B79A57B-B	 	   Ni Wa 		103	AsSc	F9 V	1	(A45+3)	[767D]	B	11	600
+1281	Troj	N	1034	Eiyehwehakhea	D79A000-B	 	   Di Wa 		003	Wild	F9 V	-1	(A00-1)	[0000]	B	11	-10
+1508	Troj	N	1034	Eiyehwehakhea	D79A000-B	 	   Di Wa 		003	Wild	F9 V	-1	(A00+4)	[0000]	B	11	40
+1900	Troj	N	1034	Eiyehwehakhea	D79A000-B	 	   Di Wa 		003	Wild	F9 V	-1	(A00+1)	[0000]	B	11	10
+
+1105	Troj	N	1036	Haealroiea	B554487-9	 	   Ni Pa 		730	AsVc	F1 V	0	(933+1)	[4459]	Bc	15	81
+1281	Troj	N	1036	Haealroiea	B554437-7	 	   Ni Pa 		330	Wild	F1 V	-1	(632+5)	[5356]	Bc	15	180
+1508	Troj	N	1036	Haealroiea	B554413-8	 	   Ni Pa 		430	Wild	F1 V	-1	(930+1)	[2367]	Bc	15	27
+1900	Troj	N	1036	Haealroiea	B554410-9	 	   Ni Pa 		330	Wild	F1 V	0	(932+1)	[446E]	Bc	15	54
+
+1105	Troj	N	1038	Wuaki	A310545-C	 	    Ni 		413	AsMw	M0 V	1	(B45-1)	[363A]	B	12	-220
+1281	Troj	N	1038	Wuaki	E310000-C	 	    Di 		013	Wild	M0 V	-1	(B00+3)	[0000]	B	12	33
+1508	Troj	N	1038	Wuaki	E310000-C	 	    Di 		013	Wild	M0 V	-1	(B00-3)	[0000]	B	12	-33
+1900	Troj	N	1038	Wuaki	E310000-C	 	    Di 		013	Wild	M0 V	-1	(B00-1)	[0000]	B	12	-11
+
+1105	Troj	B	1106	Belgard	C571321-9	 	  Cx He Lo 		902	BlSo	K8 V D	-1	(720-5)	[1215]	B	10	-70
+1281	Troj	B	1106	Belgard	X571000-9	 	  Cx Di He 		002	Wild	K8 V D	-2	(700-4)	[0000]	B	10	-28
+1508	Troj	B	1106	Belgard	X571000-9	 	  Cx Di He 		002	Wild	K8 V D	-2	(700-2)	[0000]	B	10	-14
+1900	Troj	B	1106	Belgard	X571000-9	 	  Cx Di He 		002	Wild	K8 V D	-2	(700+5)	[0000]	B	10	35
+
+1105	Troj	B	1110	Velscur	X574479-5	 	   Ni Pa 	R	302	NaHu	F9 V	-3	(631-2)	[5166]	Bc	8	-36
+1281	Troj	B	1110	Velscur	X574000-5	 	    Di 		002	Wild	F9 V	-3	(600-3)	[0000]	B	8	-18
+1508	Troj	B	1110	Velscur	X574000-5	 	    Di 		002	Wild	F9 V	-3	(600+3)	[0000]	B	8	18
+1900	Troj	B	1110	Velscur	X574000-5	 	    Di 		002	Wild	F9 V	-3	(600+3)	[0000]	B	8	18
+
+1105	Troj	F	1114	Gabriel	C310100-B	 	    Lo 		703	CsIm	G8 V M8 V	0	(600-4)	[1116]	B	9	-24
+1281	Troj	F	1114	Gabriel	D310000-B	 	    Di 		003	Wild	G8 V M8 V	-1	(600+2)	[0000]	B	9	12
+1508	Troj	F	1114	Gabriel	D310000-B	 	    Di 		003	Wild	G8 V M8 V	-1	(600+2)	[0000]	B	9	12
+1900	Troj	F	1114	Gabriel	D310000-B	 	    Di 		003	Wild	G8 V M8 V	-1	(600+3)	[0000]	B	9	18
+
+1105	Troj	F	1118	Dostoevsky	B678673-A	 	  Ag An Ni 		220	CsIm	F4 V	2	(A56-1)	[3827]	BC	14	-300
+1281	Troj	F	1118	Dostoevsky	X678000-A	 	   An Di 		020	Wild	F4 V	-1	(A00+4)	[0000]	B	14	40
+1508	Troj	F	1118	Dostoevsky	X678000-A	 	   An Di 		020	Wild	F4 V	-1	(A00+2)	[0000]	B	14	20
+1900	Troj	F	1118	Dostoevsky	X678000-A	 	   An Di 		020	Wild	F4 V	-1	(A00+4)	[0000]	B	14	40
+
+1105	Troj	J	1121	Asyuh	B8C3225-9	 	   Fl Lo 		912	GlEm	M4 V M9 V	0	(710-2)	[1237]	B	12	-14
+1281	Troj	J	1121	Asyuh	E8C3000-9	 	   Di Fl 		012	Wild	M4 V M9 V	-2	(700+1)	[0000]	B	12	7
+1508	Troj	J	1121	Asyuh	E8C3000-9	 	   Di Fl 		012	Wild	M4 V M9 V	-2	(700-2)	[0000]	B	12	-14
+1900	Troj	J	1121	Asyuh	E8C3000-9	 	   Di Fl 		012	Wild	M4 V M9 V	-2	(700+4)	[0000]	B	12	28
+
+1105	Troj	J	1124	Yero'ilra	D500897-7	 	  Na Pi Ph Va 		103	GlEm	F8 V M1 V M7 V	-2	(A76-2)	[8657]	BDe	13	-840
+1281	Troj	J	1124	Yero'ilra	D50077C-5	 	   Na Pi Va 		503	Wild	F8 V M1 V M7 V	-2	(A65+2)	[9564]	BD	13	600
+1508	Troj	J	1124	Yero'ilra	D500755-7	 	   Na Pi Va 		503	Wild	F8 V M1 V M7 V	-2	(A62+1)	[B557]	BD	13	120
+1900	Troj	J	1124	Yero'ilra	D500743-7	 	   Na Pi Va 		603	Wild	F8 V M1 V M7 V	-2	(A64+4)	[8568]	BD	13	960
+
+1105	Troj	J	1126	Oihu	B300454-9	 	   Ni Va 		702	GlEm	M4 V	0	(833-2)	[2437]	B	10	-144
+1281	Troj	J	1126	Oihu	B300476-6	 	   Ni Va 		302	Wild	M4 V	-1	(635+2)	[4316]	B	10	180
+1508	Troj	J	1126	Oihu	B300498-7	 	   Ni Va 		302	Wild	M4 V	-1	(630-3)	[7354]	B	10	-54
+1900	Troj	J	1126	Oihu	B30048A-8	 	   Ni Va 		402	Wild	M4 V	-1	(833+1)	[9377]	B	10	72
+
+1105	Troj	J	1128	Eikhaaw	C88978C-9	 	    Ri (NIL)	A	903	GlEm	F1 V	1	(C6A+4)	[A88C]	BC	13	2880
+1281	Troj	J	1128	Eikhaaw	C889772-7	 	    Ri (NIL)		403	Wild	F1 V	0	(967+3)	[473C]	BC	13	1134
+1508	Troj	J	1128	Eikhaaw	C889776-8	 	    Ri (NIL)		503	Wild	F1 V	0	(C66+1)	[A74A]	BC	13	432
+1900	Troj	J	1128	Eikhaaw	C8897AB-9	 	    Ri (NIL)		603	Wild	F1 V	1	(C69+5)	[4897]	BC	13	3240
+
+1105	Troj	B	1201	Kaldamar	E745326-7	 	    Lo 		403	NaHu	F4 V	-3	(520-4)	[2146]	B	12	-40
+1281	Troj	B	1201	Kaldamar	E745000-7	 	    Di 		003	Wild	F4 V	-3	(500+1)	[0000]	B	12	5
+1508	Troj	B	1201	Kaldamar	E745000-7	 	    Di 		003	Wild	F4 V	-3	(500+1)	[0000]	B	12	5
+1900	Troj	B	1201	Kaldamar	E745000-7	 	    Di 		003	Wild	F4 V	-3	(500+4)	[0000]	B	12	20
+
+1105	Troj	B	1202	Nabeth	D426579-8	S	    Ni 		823	CsIm	M4 V	-3	(C41-2)	[6269]	B	10	-96
+1281	Troj	B	1202	Nabeth	D426000-8	S	    Di 		023	Wild	M4 V	-3	(C00-4)	[0000]	B	10	-48
+1508	Troj	B	1202	Nabeth	D426000-8	S	    Di 		023	Wild	M4 V	-3	(C00-1)	[0000]	B	10	-12
+1900	Troj	B	1202	Nabeth	D426000-8	S	    Di 		023	Wild	M4 V	-3	(C00-1)	[0000]	B	10	-12
+
+1105	Troj	B	1209	985-373	X775000-0	 	    Ba 	R	020	NaXX	K6 V M3 V	-3	(200-5)	[0000]	B	15	-10
+1281	Troj	B	1209	985-373	X775000-0	 	    Ba 		020	Wild	K6 V M3 V	-3	(200-3)	[0000]	B	15	-6
+1508	Troj	B	1209	985-373	X775000-0	 	    Ba 		020	Wild	K6 V M3 V	-3	(200+4)	[0000]	B	15	8
+1900	Troj	B	1209	985-373	X775000-0	 	    Ba 		020	Wild	K6 V M3 V	-3	(200-3)	[0000]	B	15	-6
+
+1105	Troj	F	1216	Janus	C575321-7	 	    Lo 		902	NaHu	M9 V	-2	(520-5)	[1113]	B	7	-50
+1281	Troj	F	1216	Janus	D575000-7	 	    Di 		002	Wild	M9 V	-3	(500-2)	[0000]	B	7	-10
+1508	Troj	F	1216	Janus	D575000-7	 	    Di 		002	Wild	M9 V	-3	(500+1)	[0000]	B	7	5
+1900	Troj	F	1216	Janus	D575000-7	 	    Di 		002	Wild	M9 V	-3	(500+1)	[0000]	B	7	5
+
+1105	Troj	F	1219	Torrance	E560256-4	 	   De Lo 		631	NaHu	F0 V	-3	(410-4)	[1143]	B	11	-16
+1281	Troj	F	1219	Torrance	E560000-4	 	   De Di 		031	Wild	F0 V	-3	(400+3)	[0000]	B	11	12
+1508	Troj	F	1219	Torrance	E560000-4	 	   De Di 		031	Wild	F0 V	-3	(400-4)	[0000]	B	11	-16
+1900	Troj	F	1219	Torrance	E560000-4	 	   De Di 		031	Wild	F0 V	-3	(400-5)	[0000]	B	11	-20
+
+1105	Troj	F	1220	Delta Theta	B501610-9	 	  Ic Va Na Ni 		732	NaHu	K6 V M3 V	0	(D54-4)	[1614]	B	15	-1040
+1281	Troj	F	1220	Delta Theta	B50167C-7	 	  Ic Va Na Ni 		332	Wild	K6 V M3 V	-1	(852-3)	[8557]	B	15	-240
+1508	Troj	F	1220	Delta Theta	B50169A-8	 	  Ic Va Na Ni 		432	Wild	K6 V M3 V	-1	(D55+2)	[4536]	B	15	650
+1900	Troj	F	1220	Delta Theta	B501613-9	 	  Ic Va Na Ni 		532	Wild	K6 V M3 V	0	(D52+1)	[761E]	B	15	130
+
+1105	Troj	J	1221	Colony Six	A68A541-D	 	  Ni Pr Wa 		303	NaHu	F4 V M4 V	1	(A45-3)	[1619]	Bc	12	-600
+1281	Troj	J	1221	Colony Six	D68A000-D	 	   Di Wa 		003	Wild	F4 V M4 V	-1	(A00+1)	[0000]	B	12	10
+1508	Troj	J	1221	Colony Six	D68A000-D	 	   Di Wa 		003	Wild	F4 V M4 V	-1	(A00+2)	[0000]	B	12	20
+1900	Troj	J	1221	Colony Six	D68A000-D	 	   Di Wa 		003	Wild	F4 V M4 V	-1	(A00+5)	[0000]	B	12	50
+
+1105	Troj	J	1222	Goertel	B6688DC-6	 	   Pa Ri Ph (NIL)	A	122	NaHu	F7 V	1	(A78+4)	[B989]	BcCe	13	2240
+1281	Troj	J	1222	Goertel	B66878A-2	 	    Ag Ri (NIL)		522	Wild	F7 V	2	(A6A+1)	[6951]	BC	13	600
+1508	Troj	J	1222	Goertel	B668788-3	 	    Ag Ri (NIL)		422	Wild	F7 V	2	(A69+1)	[5911]	BC	13	540
+1900	Troj	J	1222	Goertel	B668754-5	 	    Ag Ri (NIL)		522	Wild	F7 V	2	(A67+2)	[9984]	BC	13	840
+
+1105	Troj	J	1223	Hteakya	B423426-D	 	   Ni Px Po 		413	AsWc	K6 V M3 V	1	(A34+1)	[354C]	B	9	120
+1281	Troj	J	1223	Hteakya	E423000-D	 	   Di Px Po 		013	Wild	K6 V M3 V	-1	(A00+2)	[0000]	B	9	20
+1508	Troj	J	1223	Hteakya	E423000-D	 	   Di Po 		013	Wild	K6 V M3 V	-1	(A00-2)	[0000]	B	9	-20
+1900	Troj	J	1223	Hteakya	E423000-D	 	   Di Po 		013	Wild	K6 V M3 V	-1	(A00+1)	[0000]	B	9	10
+
+1105	Troj	J	1226	Khau	C687598-9	 	  Ag Pr Ga Ni 		222	AsTv	F8 V M5 V	0	(B44+1)	[5559]	BcC	10	176
+1281	Troj	J	1226	Khau	C687501-8	 	  Ag Pr Ga Ni 		122	Wild	F8 V M5 V	-1	(B43+1)	[3459]	BcC	10	132
+1508	Troj	J	1226	Khau	C687400-9	 	  Ga Ni Pa 		922	Wild	F8 V M5 V	-1	(B32-4)	[436B]	Bc	10	-264
+1900	Troj	J	1226	Khau	C687434-9	 	  Ga Ni Pa 		822	Wild	F8 V M5 V	-1	(B35-3)	[537A]	Bc	10	-495
+
+1105	Troj	J	1230	Erasaso	B68A136-C	 	   Lo Wa 		113	AsT4	F2 V M3 V	1	(701+1)	[124B]	B	14	7
+1281	Troj	J	1230	Erasaso	X68A000-C	 	   Di Wa 		013	Wild	F2 V M3 V	-1	(700-5)	[0000]	B	14	-35
+1508	Troj	J	1230	Erasaso	X68A000-C	 	   Di Wa 		013	Wild	F2 V M3 V	-1	(700-2)	[0000]	B	14	-14
+1900	Troj	J	1230	Erasaso	X68A000-C	 	   Di Wa 		013	Wild	F2 V M3 V	-1	(700+1)	[0000]	B	14	7
+
+1105	Troj	N	1235	Aoiyras	B54068C-9	 	  De He Ni Po 	A	813	AsMw	F0 V	0	(C54+3)	[968C]	B	14	720
+1281	Troj	N	1235	Aoiyras	B540636-7	 	  De He Ni Po 		413	Wild	F0 V	-1	(855-1)	[A53A]	B	14	-200
+1508	Troj	N	1235	Aoiyras	B540644-8	 	  De He Ni Po 		313	Wild	F0 V	-1	(C50-3)	[455A]	B	14	-180
+1900	Troj	N	1235	Aoiyras	B540646-9	 	  De He Ni Po 		413	Wild	F0 V	0	(C52+5)	[266B]	B	14	600
+
+1105	Troj	N	1236	Irlaiw	C436A75-D	 	    Hi (NIL)		813	AsSc	M4 V M6 V	2	(G9E+1)	[8C3B]	BE	8	2016
+1281	Troj	N	1236	Irlaiw	C436A7C-B	 	    Hi (NIL)		413	Wild	M4 V M6 V	2	(G98+1)	[7C28]	BE	8	1152
+1508	Troj	N	1236	Irlaiw	C436A85-C	 	    Hi (NIL)		513	Wild	M4 V M6 V	2	(G9A+1)	[8C48]	BE	8	1440
+1900	Troj	N	1236	Irlaiw	C436A99-D	 	    Hi (NIL)		413	Wild	M4 V M6 V	2	(G9C+3)	[DC8E]	BE	8	5184
+
+1105	Troj	B	1305	Gollere	D574756-7	 	    Ag Pi (NIL)		720	NaHu	F5 V	-1	(967-2)	[6646]	BCD	6	-756
+1281	Troj	B	1305	Gollere	D574775-4	 	    Ag Pi (NIL)		320	Wild	F5 V	-1	(965-3)	[9613]	BCD	6	-810
+1508	Troj	B	1305	Gollere	D574779-5	 	    Ag Pi (NIL)		320	Wild	F5 V	-1	(96A-4)	[B6A6]	BCD	6	-2160
+1900	Troj	B	1305	Gollere	D574783-6	 	    Ag Pi (NIL)		220	Wild	F5 V	-1	(967-2)	[462A]	BCD	6	-756
+
+1105	Troj	B	1307	Ganulph	X500000-0	 	   Ba Va 	R	011	NaXX	M3 V	-3	(200-5)	[0000]	B	9	-10
+1281	Troj	B	1307	Ganulph	X500000-0	 	   Ba Va 		011	Wild	M3 V	-3	(200+1)	[0000]	B	9	2
+1508	Troj	B	1307	Ganulph	X500000-0	 	   Ba Va 		011	Wild	M3 V	-3	(200-3)	[0000]	B	9	-6
+1900	Troj	B	1307	Ganulph	X500000-0	 	   Ba Va 		011	Wild	M3 V	-3	(200-1)	[0000]	B	9	-2
+
+1105	Troj	B	1308	Eleson	E541100-8	 	  He Lo Po 		323	BlSo	F8 V M2 V	-3	(800-5)	[1113]	B	12	-40
+1281	Troj	B	1308	Eleson	E541000-8	 	  Di He Po 		023	Wild	F8 V M2 V	-3	(800+1)	[0000]	B	12	8
+1508	Troj	B	1308	Eleson	E541000-8	 	  Di He Po 		023	Wild	F8 V M2 V	-3	(800-2)	[0000]	B	12	-16
+1900	Troj	B	1308	Eleson	E541000-8	 	  Di He Po 		023	Wild	F8 V M2 V	-3	(800-4)	[0000]	B	12	-32
+
+1105	Troj	F	1317	Caldos	B530879-6	 	  De Na Po Ph (NIL)		824	NaHu	F2 V	0	(A77+1)	[9867]	Be	9	490
+1281	Troj	F	1317	Caldos	B530877-4	 	  De Na Po Ph (NIL)		424	Wild	F2 V	0	(A78-1)	[5876]	Be	9	-560
+1508	Troj	F	1317	Caldos	B5308D9-7	 	  De Na Po Ph (NIL)		324	Wild	F2 V	0	(A76+1)	[9856]	Be	9	420
+1900	Troj	F	1317	Caldos	B530878-6	 	  De Na Po Ph (NIL)		424	Wild	F2 V	0	(A76+1)	[3876]	Be	9	420
+
+1105	Troj	F	1319	Lacidaeus	D100786-7	 	   Na Pi Va 		502	NaHu	M9 V	-2	(966-3)	[6546]	BD	8	-972
+1281	Troj	F	1319	Lacidaeus	D1007A9-5	 	   Na Pi Va 		202	Wild	M9 V	-2	(966+3)	[6525]	BD	8	972
+1508	Troj	F	1319	Lacidaeus	D10077A-6	 	   Na Pi Va 		102	Wild	M9 V	-2	(968+3)	[7547]	BD	8	1296
+1900	Troj	F	1319	Lacidaeus	D100673-7	 	  Na Ni Va 		902	Wild	M9 V	-3	(950-2)	[7359]	B	8	-90
+
+1105	Troj	J	1322	Hrahraiu	B42068C-C	 	  De He Na Po Ni 	A	800	AsT8	M6 V	1	(855+4)	[978F]	B	7	800
+1281	Troj	J	1322	Hrahraiu	B420657-B	 	  De He Na Po Ni 		400	Wild	M6 V	1	(852-2)	[4737]	B	7	-160
+1508	Troj	J	1322	Hrahraiu	B420621-B	 	  De He Na Po Ni 		300	Wild	M6 V	1	(852+1)	[8728]	B	7	80
+1900	Troj	J	1322	Hrahraiu	B4206BA-C	 	  De He Na Po Ni 		400	Wild	M6 V	1	(856-1)	[575E]	B	7	-240
+
+1105	Troj	J	1323	Hliyh	B200AB7-E	 	  Hi Na In Va 		102	AsMw	F8 V	4	(E9G+4)	[AE5E]	BEf	12	8064
+1281	Troj	J	1323	Hliyh	B2009A7-A	 	  Hi Na In Va 		502	Wild	F8 V	4	(E8F+2)	[4D18]	BEf	12	3360
+1508	Troj	J	1323	Hliyh	B2009B8-B	 	  Hi Na In Va 		602	Wild	F8 V	4	(E8G+3)	[8D1D]	BEf	12	5376
+1900	Troj	J	1323	Hliyh	B2009A9-C	 	  Hi Na In Va 		502	Wild	F8 V	4	(E8A+1)	[AD6C]	BEf	12	1120
+
+1105	Troj	J	1324	Eilaeah	B863267-B	 	    Lo 		414	AsMw	G6 V	1	(911+1)	[235B]	B	12	9
+1281	Troj	J	1324	Eilaeah	X863000-B	 	    Di 		014	Wild	G6 V	-1	(900-1)	[0000]	B	12	-9
+1508	Troj	J	1324	Eilaeah	X863000-B	 	    Di 		014	Wild	G6 V	-1	(900+1)	[0000]	B	12	9
+1900	Troj	J	1324	Eilaeah	X863000-B	 	    Di 		014	Wild	G6 V	-1	(900-5)	[0000]	B	12	-45
+
+1105	Troj	N	1333	Rileakh	C437855-A	 	    Ph (NIL)		702	AsTv	F7 V M6 V M6 V	1	(C7A-1)	[6938]	Be	12	-840
+1281	Troj	N	1333	Rileakh	C437876-7	 	    Ph (NIL)		302	Wild	F7 V M6 V M6 V	-1	(A7B-1)	[A764]	Be	12	-770
+1508	Troj	N	1333	Rileakh	C437877-8	 	    Ph (NIL)		402	Wild	F7 V M6 V M6 V	-1	(C77+3)	[A755]	Be	12	1764
+1900	Troj	N	1333	Rileakh	C43789C-9	 	    Ph (NIL)		502	Wild	F7 V M6 V M6 V	0	(C7A+1)	[7878]	Be	12	840
+
+1105	Troj	N	1334	Eateaw	E423000-0	 	   Ba Po 		004	AsXX	M6 V M7 V	-3	(200-5)	[0000]	B	12	-10
+1281	Troj	N	1334	Eateaw	E423000-0	 	   Ba Po 		004	Wild	M6 V M7 V	-3	(200+2)	[0000]	B	12	4
+1508	Troj	N	1334	Eateaw	E423000-0	 	   Ba Po 		004	Wild	M6 V M7 V	-3	(200-1)	[0000]	B	12	-2
+1900	Troj	N	1334	Eateaw	E423000-0	 	   Ba Po 		004	Wild	M6 V M7 V	-3	(200-2)	[0000]	B	12	-4
+
+1105	Troj	N	1335	Yu'eal	B432686-C	 	   Na Px Po Ni 		524	AsT0	M6 V M7 V	1	(E55+1)	[574B]	B	12	350
+1281	Troj	N	1335	Yu'eal	E432000-C	 	   Di Na Px Po 		024	Wild	M6 V M7 V	-1	(E00+1)	[0000]	B	12	14
+1508	Troj	N	1335	Yu'eal	E432000-C	 	   Di Po 		024	Wild	M6 V M7 V	-1	(E00-3)	[0000]	B	12	-42
+1900	Troj	N	1335	Yu'eal	E432000-C	 	   Di Po 		024	Wild	M6 V M7 V	-1	(E00+5)	[0000]	B	12	70
+
+1105	Troj	N	1338	Aiuiktiyr	E797449-7	 	   Ni Pa 		204	AsVc	M9 V	-3	(631-2)	[5168]	Bc	15	-36
+1281	Troj	N	1338	Aiuiktiyr	E797000-7	 	    Di 		004	Wild	M9 V	-3	(600-1)	[0000]	B	15	-6
+1508	Troj	N	1338	Aiuiktiyr	E797000-7	 	    Di 		004	Wild	M9 V	-3	(600-2)	[0000]	B	15	-12
+1900	Troj	N	1338	Aiuiktiyr	E797000-7	 	    Di 		004	Wild	M9 V	-3	(600-2)	[0000]	B	15	-12
+
+1105	Troj	N	1339	Htoihfui	A568873-C	 	   Pa Ri Ph (NIL)		105	AsSc	G0 V M4 V M1 V	3	(F7D+1)	[5B29]	BcCe	11	1365
+1281	Troj	N	1339	Htoihfui	A56877A-A	 	    Ag Ri (NIL)		505	Wild	G0 V M4 V M1 V	4	(F69+1)	[3B7F]	BCf	11	810
+1508	Troj	N	1339	Htoihfui	A568799-B	 	    Ag Ri (NIL)		505	Wild	G0 V M4 V M1 V	4	(F6A+4)	[9B1E]	BCf	11	3600
+1900	Troj	N	1339	Htoihfui	A56879E-C	 	    Ag Ri (NIL)		605	Wild	G0 V M4 V M1 V	4	(F6B-5)	[6B4F]	BCf	11	-4950
+
+1105	Troj	B	1402	Selshor	X430576-6	 	  De Ni Po 	R	913	NaHu	F6 V M0 V	-3	(741-4)	[4245]	B	12	-112
+1281	Troj	B	1402	Selshor	X430554-5	 	  De Ni Po 		413	Wild	F6 V M0 V	-3	(742+1)	[5277]	B	12	56
+1508	Troj	B	1402	Selshor	X430584-5	 	  De Ni Po 		413	Wild	F6 V M0 V	-3	(740+1)	[9262]	B	12	28
+1900	Troj	B	1402	Selshor	X43059A-6	 	  De Ni Po 		313	Wild	F6 V M0 V	-3	(740-3)	[7247]	B	12	-84
+
+1105	Troj	B	1410	Goria	E422475-7	 	  He Ni Po 		200	NaHu	M1 V	-3	(631-5)	[2135]	B	6	-90
+1281	Troj	B	1410	Goria	E422000-7	 	  Di He Po 		000	Wild	M1 V	-3	(600+4)	[0000]	B	6	24
+1508	Troj	B	1410	Goria	E422000-7	 	  Di He Po 		000	Wild	M1 V	-3	(600+5)	[0000]	B	6	30
+1900	Troj	B	1410	Goria	E422000-7	 	  Di He Po 		000	Wild	M1 V	-3	(600+1)	[0000]	B	6	6
+
+1105	Troj	F	1417	Sagan	C796453-8	 	   Ni Pa 		204	NaHu	F1 V	-2	(A31-5)	[1225]	Bc	13	-150
+1281	Troj	F	1417	Sagan	E796000-8	 	    Di 		004	Wild	F1 V	-3	(A00-1)	[0000]	B	13	-10
+1508	Troj	F	1417	Sagan	E796000-8	 	    Di 		004	Wild	F1 V	-3	(A00+2)	[0000]	B	13	20
+1900	Troj	F	1417	Sagan	E796000-8	 	    Di 		004	Wild	F1 V	-3	(A00-1)	[0000]	B	13	-10
+
+1105	Troj	J	1426	Yestahwye	B9A4656-C	 	  Fl Ni Px 		602	AsVc	M4 V	1	(A55+1)	[574B]	B	12	250
+1281	Troj	J	1426	Yestahwye	D9A4000-C	 	  Di Fl Px 		002	Wild	M4 V	-1	(A00-3)	[0000]	B	12	-30
+1508	Troj	J	1426	Yestahwye	D9A4000-C	 	   Di Fl 		002	Wild	M4 V	-1	(A00+3)	[0000]	B	12	30
+1900	Troj	J	1426	Yestahwye	D9A4000-C	 	   Di Fl 		002	Wild	M4 V	-1	(A00-2)	[0000]	B	12	-20
+
+1105	Troj	J	1429	Fiyleakh	B41389A-C	 	  Ic Na Pi Ph 		604	AsVc	F6 V M0 V	2	(E7C+4)	[AA7E]	BDe	13	4704
+1281	Troj	J	1429	Fiyleakh	B4138A6-A	 	  Ic Na Pi Ph 		304	Wild	F6 V M0 V	2	(E7B+1)	[5A4D]	BDe	13	1078
+1508	Troj	J	1429	Fiyleakh	B413877-B	 	  Ic Na Pi Ph 		204	Wild	F6 V M0 V	2	(E75-1)	[6A8F]	BDe	13	-490
+1900	Troj	J	1429	Fiyleakh	B413889-C	 	  Ic Na Pi Ph 		204	Wild	F6 V M0 V	2	(E7E+2)	[7A6D]	BDe	13	2744
+
+1105	Troj	N	1436	Huaholr	B42049C-9	 	  De He Ni Po 	A	823	AsTv	G2 IV	0	(B33+3)	[748C]	B	18	297
+1281	Troj	N	1436	Huaholr	X420000-9	 	  De He Di Po 		023	Wild	G2 IV	-2	(B00+4)	[0000]	B	18	44
+1508	Troj	N	1436	Huaholr	X420000-9	 	  De He Di Po 		023	Wild	G2 IV	-2	(B00+4)	[0000]	B	18	44
+1900	Troj	N	1436	Huaholr	X420000-9	 	  De He Di Po 		023	Wild	G2 IV	-2	(B00-4)	[0000]	B	18	-44
+
+1105	Troj	N	1438	Teiseirle	BA9A377-8	 	   Lo Oc 		703	AsSc	F9 V	-1	(820-1)	[3258]	B	7	-16
+1281	Troj	N	1438	Teiseirle	EA9A000-8	 	   Di Oc 		003	Wild	F9 V	-3	(800-1)	[0000]	B	7	-8
+1508	Troj	N	1438	Teiseirle	EA9A000-8	 	   Di Oc 		003	Wild	F9 V	-3	(800+1)	[0000]	B	7	8
+1900	Troj	N	1438	Teiseirle	EA9A000-8	 	   Di Oc 		003	Wild	F9 V	-3	(800+1)	[0000]	B	7	8
+
+1105	Troj	B	1502	Carben	X5555A9-2	 	   Ag Ni 	R	114	NaHu	K6 V M9 V	-2	(742-1)	[6363]	BC	18	-56
+1281	Troj	B	1502	Carben	X555000-2	 	    Di 		014	Wild	K6 V M9 V	-3	(700+1)	[0000]	B	18	7
+1508	Troj	B	1502	Carben	X555000-2	 	    Di 		014	Wild	K6 V M9 V	-3	(700-4)	[0000]	B	18	-28
+1900	Troj	B	1502	Carben	X555000-2	 	    Di 		014	Wild	K6 V M9 V	-3	(700+3)	[0000]	B	18	21
+
+1105	Troj	F	1514	Tlazolteotl	D5409CD-7	 	  De He Hi In Po (NIL)	A	412	NaHu	M6 V D	0	(B89+4)	[D99B]	BE	13	3168
+1281	Troj	F	1514	Tlazolteotl	D54095A-6	 	  De He Hi In Po (NIL)		212	Wild	M6 V D	0	(B85-3)	[692A]	BE	13	-1320
+1508	Troj	F	1514	Tlazolteotl	D5409DB-8	 	  De He Hi In Po (NIL)		312	Wild	M6 V D	0	(E87+1)	[4917]	BE	13	784
+1900	Troj	F	1514	Tlazolteotl	D5409CC-7	 	  De He Hi In Po (NIL)		312	Wild	M6 V D	0	(B86+2)	[9944]	BE	13	1056
+
+1105	Troj	F	1518	Tyr	A551557-B	 	   Ni Po 		804	NaHu	F0 V M5 V	1	(B45+1)	[565B]	B	10	220
+1281	Troj	F	1518	Tyr	A551425-8	 	   Ni Po 		404	Wild	F0 V M5 V	-1	(B32-1)	[4398]	B	10	-66
+1508	Troj	F	1518	Tyr	A551475-9	 	   Ni Po 		304	Wild	F0 V M5 V	0	(B34-2)	[6488]	B	10	-264
+1900	Troj	F	1518	Tyr	A551441-A	 	   Ni Po 		204	Wild	F0 V M5 V	1	(B34+1)	[251C]	B	10	132
+
+1105	Troj	F	1519	Hecarda	B560332-9	 	   De Lo 		503	NaHu	F5 V	0	(820-4)	[1315]	B	9	-64
+1281	Troj	F	1519	Hecarda	X560000-9	 	   De Di 		003	Wild	F5 V	-2	(800-2)	[0000]	B	9	-16
+1508	Troj	F	1519	Hecarda	X560000-9	 	   De Di 		003	Wild	F5 V	-2	(800-3)	[0000]	B	9	-24
+1900	Troj	F	1519	Hecarda	X560000-9	 	   De Di 		003	Wild	F5 V	-2	(800+3)	[0000]	B	9	24
+
+1105	Troj	J	1524	Tryaoke	D556978-8	 	    Hi (NIL)		801	AsSc	K8 V	-1	(C88-1)	[9858]	BE	8	-768
+1281	Troj	J	1524	Tryaoke	D55699C-6	 	    Hi (NIL)		401	Wild	K8 V	-1	(B87+1)	[7844]	BE	8	616
+1508	Troj	J	1524	Tryaoke	D5569DH-9	 	    Hi (NIL)		301	Wild	K8 V	0	(C82+1)	[894D]	BE	8	192
+1900	Troj	J	1524	Tryaoke	D55698A-8	 	    Hi (NIL)		301	Wild	K8 V	-1	(C85-2)	[E888]	BE	8	-960
+
+1105	Troj	J	1530	A'eouya	E550000-0	 	  Ba De Po 		012	AsXX	F2 V	-3	(200-5)	[0000]	B	13	-10
+1281	Troj	J	1530	A'eouya	E550000-0	 	  Ba De Po 		012	Wild	F2 V	-3	(200-2)	[0000]	B	13	-4
+1508	Troj	J	1530	A'eouya	E550000-0	 	  Ba De Po 		012	Wild	F2 V	-3	(200+1)	[0000]	B	13	2
+1900	Troj	J	1530	A'eouya	E550000-0	 	  Ba De Po 		012	Wild	F2 V	-3	(200+3)	[0000]	B	13	6
+
+1105	Troj	N	1533	Ouiyloi	C574789-8	 	    Ag Pi (NIL)		601	AsT9	F2 V M1 V	0	(A68+1)	[8769]	BCD	11	480
+1281	Troj	N	1533	Ouiyloi	D574000-8	 	   Di Pi (NIL)		001	Wild	F2 V M1 V	-3	(A00+3)	[0000]	BD	11	30
+1508	Troj	N	1533	Ouiyloi	D574000-8	 	    Di (NIL)		001	Wild	F2 V M1 V	-3	(A00-2)	[0000]	B	11	-20
+1900	Troj	N	1533	Ouiyloi	D574000-8	 	    Di (NIL)		001	Wild	F2 V M1 V	-3	(A00-5)	[0000]	B	11	-50
+
+1105	Troj	N	1534	Stehasu	A520677-C	 	  De He Na Po Ni 		800	AsSc	M2 V M7 V	1	(855+1)	[675C]	B	6	200
+1281	Troj	N	1534	Stehasu	A520444-B	 	  De He Ni Po 		400	Wild	M2 V M7 V	1	(836-1)	[4579]	B	6	-144
+1508	Troj	N	1534	Stehasu	A520432-C	 	  De He Ni Po 		300	Wild	M2 V M7 V	1	(832-1)	[654C]	B	6	-48
+1900	Troj	N	1534	Stehasu	A520415-D	 	  De He Ni Po 		200	Wild	M2 V M7 V	1	(833+1)	[252D]	B	6	72
+
+1105	Troj	N	1535	Sosuasaoh	B100858-B	 	  Na Pi Ph Va 		203	AsTv	G7 V	2	(D7C+2)	[8A5B]	BDe	11	2184
+1281	Troj	N	1535	Sosuasaoh	B1008AB-8	 	  Na Pi Ph Va 		103	Wild	G7 V	0	(D76+4)	[4817]	BDe	11	2184
+1508	Troj	N	1535	Sosuasaoh	B100875-9	 	  Na Pi Ph Va 		103	Wild	G7 V	1	(D75-3)	[B969]	BDe	11	-1365
+1900	Troj	N	1535	Sosuasaoh	B1007BB-A	 	   Na Pi Va 		903	Wild	G7 V	2	(D66+1)	[793B]	BD	11	468
+
+1105	Troj	N	1537	Kheiyyo	C5257B7-9	 	    Pi (NIL)		803	AsWc	K6 V	0	(C69+1)	[7759]	BD	14	648
+1281	Troj	N	1537	Kheiyyo	C525753-8	 	    Pi (NIL)		403	Wild	K6 V	-1	(C62+1)	[B677]	BD	14	144
+1508	Troj	N	1537	Kheiyyo	C525799-8	 	    Pi (NIL)		403	Wild	K6 V	-1	(C64-2)	[666B]	BD	14	-576
+1900	Troj	N	1537	Kheiyyo	C52577A-9	 	    Pi (NIL)		303	Wild	K6 V	0	(C69+3)	[6738]	BD	14	1944
+
+1105	Troj	B	1601	Ashley's Rock	D100120-7	 	   Lo Va 		614	NaHu	K0 IV	-3	(300-5)	[1112]	B	12	-15
+1281	Troj	B	1601	Ashley's Rock	D100000-7	 	   Di Va 		014	Wild	K0 IV	-3	(300+4)	[0000]	B	12	12
+1508	Troj	B	1601	Ashley's Rock	D100000-7	 	   Di Va 		014	Wild	K0 IV	-3	(300+4)	[0000]	B	12	12
+1900	Troj	B	1601	Ashley's Rock	D100000-7	 	   Di Va 		014	Wild	K0 IV	-3	(300+1)	[0000]	B	12	3
+
+1105	Troj	B	1602	T'yana	E568752-7	 	    Ag Ri (NIL)		200	NaHu	G4 V M2 V	0	(968-4)	[3713]	BC	11	-1728
+1281	Troj	B	1602	T'yana	E568798-4	 	    Ag Ri (NIL)		100	Wild	G4 V M2 V	0	(966+1)	[A787]	BC	11	324
+1508	Troj	B	1602	T'yana	E568687-5	 	   Ag Ri Ni (NIL)		900	Wild	G4 V M2 V	-1	(953+3)	[2566]	BC	11	405
+1900	Troj	B	1602	T'yana	E568776-6	 	    Ag Ri (NIL)		100	Wild	G4 V M2 V	0	(967+2)	[4761]	BC	11	756
+
+1105	Troj	B	1605	Vior	D500401-7	 	   Ni Va 		301	NaHu	M4 V	-3	(631-5)	[1113]	B	6	-90
+1281	Troj	B	1605	Vior	D500000-7	 	   Di Va 		001	Wild	M4 V	-3	(600+1)	[0000]	B	6	6
+1508	Troj	B	1605	Vior	D500000-7	 	   Di Va 		001	Wild	M4 V	-3	(600+2)	[0000]	B	6	12
+1900	Troj	B	1605	Vior	D500000-7	 	   Di Va 		001	Wild	M4 V	-3	(600+3)	[0000]	B	6	18
+
+1105	Troj	B	1608	Braudel	X543200-5	 	   Lo Po 	R	903	NaHu	K4 V	-3	(410-5)	[1111]	B	10	-20
+1281	Troj	B	1608	Braudel	X543000-5	 	   Di Po 		003	Wild	K4 V	-3	(400+2)	[0000]	B	10	8
+1508	Troj	B	1608	Braudel	X543000-5	 	   Di Po 		003	Wild	K4 V	-3	(400-5)	[0000]	B	10	-20
+1900	Troj	B	1608	Braudel	X543000-5	 	   Di Po 		003	Wild	K4 V	-3	(400+5)	[0000]	B	10	20
+
+1105	Troj	F	1613	Thalassa	B88A889-8	 	  Ph Ri Wa (NIL)		505	NaHu	F8 V M9 V	1	(F79+2)	[9969]	BCe	15	1890
+1281	Troj	F	1613	Thalassa	B88A8AA-6	 	  Ph Ri Wa (NIL)		205	Wild	F8 V M9 V	1	(A78+1)	[9966]	BCe	15	560
+1508	Troj	F	1613	Thalassa	B88A877-7	 	  Ph Ri Wa (NIL)		305	Wild	F8 V M9 V	1	(A79+1)	[8986]	BCe	15	630
+1900	Troj	F	1613	Thalassa	B88A889-8	 	  Ph Ri Wa (NIL)		205	Wild	F8 V M9 V	1	(F77-4)	[7936]	BCe	15	-2940
+
+1105	Troj	F	1618	Tktk	D542640-6	 	  He Ni Po 		502	NaHu	F5 V M3 V	-3	(851-5)	[1311]	B	8	-200
+1281	Troj	F	1618	Tktk	D542000-6	 	  Di He Po 		002	Wild	F5 V M3 V	-3	(800+1)	[0000]	B	8	8
+1508	Troj	F	1618	Tktk	D542000-6	 	  Di He Po 		002	Wild	F5 V M3 V	-3	(800-2)	[0000]	B	8	-16
+1900	Troj	F	1618	Tktk	D542000-6	 	  Di He Po 		002	Wild	F5 V M3 V	-3	(800-2)	[0000]	B	8	-16
+
+1105	Troj	F	1619	Acis	B885796-A	 	   Ag Ri Ga (NIL)		603	NaHu	F7 V M2 V	4	(C6D+3)	[6B49]	BCf	12	2808
+1281	Troj	F	1619	Acis	B8857BB-8	 	   Ag Ri Ga (NIL)		303	Wild	F7 V M2 V	2	(C68-2)	[4914]	BC	12	-1152
+1508	Troj	F	1619	Acis	B8857B9-9	 	   Ag Ri Ga (NIL)		203	Wild	F7 V M2 V	3	(C65+4)	[AA89]	BC	12	1440
+1900	Troj	F	1619	Acis	B885799-A	 	   Ag Ri Ga (NIL)		303	Wild	F7 V M2 V	4	(C6C-1)	[9B7B]	BCf	12	-864
+
+1105	Troj	J	1621	Akhwohkyal	BA95688-9	 	  Ag An Ni 		113	AsWc	G7 V	1	(C55+1)	[6759]	BC	8	300
+1281	Troj	J	1621	Akhwohkyal	DA95000-9	 	   An Di 		013	Wild	G7 V	-2	(C00+4)	[0000]	B	8	48
+1508	Troj	J	1621	Akhwohkyal	DA95000-9	 	   An Di 		013	Wild	G7 V	-2	(C00+1)	[0000]	B	8	12
+1900	Troj	J	1621	Akhwohkyal	DA95000-9	 	   An Di 		013	Wild	G7 V	-2	(C00+1)	[0000]	B	8	12
+
+1105	Troj	J	1626	Ftiys	C76A325-7	 	   Lo Wa 		714	AsMw	F2 V M1 V	-2	(520-4)	[1135]	B	15	-40
+1281	Troj	J	1626	Ftiys	D76A000-7	 	   Di Wa 		014	Wild	F2 V M1 V	-3	(500+1)	[0000]	B	15	5
+1508	Troj	J	1626	Ftiys	D76A000-7	 	   Di Wa 		014	Wild	F2 V M1 V	-3	(500-4)	[0000]	B	15	-20
+1900	Troj	J	1626	Ftiys	D76A000-7	 	   Di Wa 		014	Wild	F2 V M1 V	-3	(500-2)	[0000]	B	15	-10
+
+1105	Troj	J	1630	Eauhti	B540489-B	 	  De He Ni Po 		432	AsWc	F3 V M1 V	1	(B34+2)	[556C]	B	12	264
+1281	Troj	J	1630	Eauhti	E540000-B	 	  De He Di Po 		032	Wild	F3 V M1 V	-1	(B00+1)	[0000]	B	12	11
+1508	Troj	J	1630	Eauhti	E540000-B	 	  De He Di Po 		032	Wild	F3 V M1 V	-1	(B00-3)	[0000]	B	12	-33
+1900	Troj	J	1630	Eauhti	E540000-B	 	  De He Di Po 		032	Wild	F3 V M1 V	-1	(B00+1)	[0000]	B	12	11
+
+1105	Troj	N	1631	Yai'ilrao	B85836B-B	 	    Lo 		604	AsMw	F7 V D	1	(921+3)	[547D]	B	13	54
+1281	Troj	N	1631	Yai'ilrao	X858000-B	 	    Di 		004	Wild	F7 V D	-1	(900-4)	[0000]	B	13	-36
+1508	Troj	N	1631	Yai'ilrao	X858000-B	 	    Di 		004	Wild	F7 V D	-1	(900+1)	[0000]	B	13	9
+1900	Troj	N	1631	Yai'ilrao	X858000-B	 	    Di 		004	Wild	F7 V D	-1	(900-4)	[0000]	B	13	-36
+
+1105	Troj	N	1634	Aiuite	B645747-A	 	    Ag Pi (NIL)		223	AsMw	F5 V M3 V	3	(E6C+3)	[7A5A]	BCD	16	3024
+1281	Troj	N	1634	Aiuite	B645794-8	 	    Ag Pi (NIL)		123	Wild	F5 V M3 V	1	(E68+2)	[785A]	BCD	16	1344
+1508	Troj	N	1634	Aiuite	B64577A-9	 	    Ag Pi (NIL)		223	Wild	F5 V M3 V	2	(E6E+1)	[7947]	BCD	16	1176
+1900	Troj	N	1634	Aiuite	B645750-B	 	    Ag Pi (NIL)		123	Wild	F5 V M3 V	3	(E67+1)	[8A1E]	BCD	16	588
+
+1105	Troj	N	1637	Awaweaw	E855859-7	 	  Ga Pa Ph (NIL)		121	AsTv	F8 V M9 V	-2	(A76-1)	[9668]	Bce	12	-420
+1281	Troj	N	1637	Awaweaw	E855776-4	 	   Ag Ga (NIL)		521	Wild	F8 V M9 V	-1	(A69-4)	[2632]	BC	12	-2160
+1508	Troj	N	1637	Awaweaw	E8557BD-5	 	   Ag Ga (NIL)		421	Wild	F8 V M9 V	-1	(A67+1)	[6616]	BC	12	420
+1900	Troj	N	1637	Awaweaw	E8557A5-6	 	   Ag Ga (NIL)		321	Wild	F8 V M9 V	-1	(A65-1)	[7616]	BC	12	-300
+
+1105	Troj	G	1715	Homestead	D561250-6	 	    Lo 		524	NaHu	F9 V	-3	(410-5)	[1111]	B	16	-20
+1281	Troj	G	1715	Homestead	D561000-6	 	    Di 		024	Wild	F9 V	-3	(400+3)	[0000]	B	16	12
+1508	Troj	G	1715	Homestead	D561000-6	 	    Di 		024	Wild	F9 V	-3	(400+1)	[0000]	B	16	4
+1900	Troj	G	1715	Homestead	D561000-6	 	    Di 		024	Wild	F9 V	-3	(400-5)	[0000]	B	16	-20
+
+1105	Troj	G	1719	Ace	E7A08B9-8	 	   He Ph (ENIL)	A	700	NaHu	M0 V D	-2	(A76-1)	[9669]	Be	7	-420
+1281	Troj	G	1719	Ace	E7A08D8-8	 	   He Ph (ENIL)		300	Wild	M0 V D	-2	(A76+4)	[5667]	Be	7	1680
+1508	Troj	G	1719	Ace	E7A089B-7	 	   He Ph (ENIL)		400	Wild	M0 V D	-2	(A73+3)	[7629]	Be	7	630
+1900	Troj	G	1719	Ace	E7A0843-8	 	   He Ph (ENIL)		400	Wild	M0 V D	-2	(A79+1)	[A6AA]	Be	7	630
+
+1105	Troj	K	1723	Oiwoiieaw	B787897-A	 	  Ga Pa Ri Ph (NIL)		711	AsVc	F0 V M7 V	3	(C7C+3)	[8B5A]	BcCe	13	3024
+1281	Troj	K	1723	Oiwoiieaw	B787878-8	 	  Ga Pa Ri Ph (NIL)		311	Wild	F0 V M7 V	1	(C78+1)	[A965]	BcCe	13	672
+1508	Troj	K	1723	Oiwoiieaw	B787876-9	 	  Ga Pa Ri Ph (NIL)		411	Wild	F0 V M7 V	2	(C7B-4)	[CA28]	BcCe	13	-3696
+1900	Troj	K	1723	Oiwoiieaw	B787835-A	 	  Ga Pa Ri Ph (NIL)		311	Wild	F0 V M7 V	3	(C7C-1)	[CB6B]	BcCe	13	-1008
+
+1105	Troj	K	1728	Asoieteal	B697688-A	 	   Ag Ni 		604	AsWc	F2 V	2	(C56+2)	[685A]	BC	16	720
+1281	Troj	K	1728	Asoieteal	E697000-A	 	    Di 		004	Wild	F2 V	-1	(C00+1)	[0000]	B	16	12
+1508	Troj	K	1728	Asoieteal	E697000-A	 	    Di 		004	Wild	F2 V	-1	(C00+1)	[0000]	B	16	12
+1900	Troj	K	1728	Asoieteal	E697000-A	 	    Di 		004	Wild	F2 V	-1	(C00-3)	[0000]	B	16	-36
+
+1105	Troj	O	1731	Wesiyeah	D641259-8	 	  He Lo Po 		823	AsMw	K4 V	-3	(910-2)	[3169]	B	16	-18
+1281	Troj	O	1731	Wesiyeah	D641000-8	 	  Di He Po 		023	Wild	K4 V	-3	(900-2)	[0000]	B	16	-18
+1508	Troj	O	1731	Wesiyeah	D641000-8	 	  Di He Po 		023	Wild	K4 V	-3	(900-3)	[0000]	B	16	-27
+1900	Troj	O	1731	Wesiyeah	D641000-8	 	  Di He Po 		023	Wild	K4 V	-3	(900+1)	[0000]	B	16	9
+
+1105	Troj	O	1733	Aiwewakh	BA96113-B	 	    Lo 		404	AsMw	G4 V M2 V	1	(701-2)	[1228]	B	10	-14
+1281	Troj	O	1733	Aiwewakh	XA96000-B	 	    Di 		004	Wild	G4 V M2 V	-1	(700+3)	[0000]	B	10	21
+1508	Troj	O	1733	Aiwewakh	XA96000-B	 	    Di 		004	Wild	G4 V M2 V	-1	(700+2)	[0000]	B	10	14
+1900	Troj	O	1733	Aiwewakh	XA96000-B	 	    Di 		004	Wild	G4 V M2 V	-1	(700-2)	[0000]	B	10	-14
+
+1105	Troj	O	1734	Ohraihah	E8B6787-8	 	    Fl (ENIL)		124	AsWc	F4 V	-2	(F66-2)	[7558]	B	18	-1080
+1281	Troj	O	1734	Ohraihah	E8B6000-8	 	   Di Fl (ENIL)		024	Wild	F4 V	-3	(F00+3)	[0000]	B	18	45
+1508	Troj	O	1734	Ohraihah	E8B6000-8	 	   Di Fl (ENIL)		024	Wild	F4 V	-3	(F00-1)	[0000]	B	18	-15
+1900	Troj	O	1734	Ohraihah	E8B6000-8	 	   Di Fl (ENIL)		024	Wild	F4 V	-3	(F00+2)	[0000]	B	18	30
+
+1105	Troj	O	1735	Ayayo	B000674-D	 	 An As Va Na Ni 		820	AsSc	M0 V	1	(A55-1)	[473B]	B	9	-250
+1281	Troj	O	1735	Ayayo	D000000-D	 	 An As Va Di Na 		020	Wild	M0 V	-1	(A00+5)	[0000]	B	9	50
+1508	Troj	O	1735	Ayayo	D000000-D	 	  An As Va Di 		020	Wild	M0 V	-1	(A00+3)	[0000]	B	9	30
+1900	Troj	O	1735	Ayayo	D000000-D	 	  An As Va Di 		020	Wild	M0 V	-1	(A00-2)	[0000]	B	9	-20
+
+1105	Troj	O	1736	Feaheaha	E301268-9	 	   Ic Va Lo 		200	AsMw	F0 V M7 V	-2	(410-2)	[2159]	B	11	-8
+1281	Troj	O	1736	Feaheaha	E301000-9	 	   Di Ic Va 		000	Wild	F0 V M7 V	-2	(400+3)	[0000]	B	11	12
+1508	Troj	O	1736	Feaheaha	E301000-9	 	   Di Ic Va 		000	Wild	F0 V M7 V	-2	(400-4)	[0000]	B	11	-16
+1900	Troj	O	1736	Feaheaha	E301000-9	 	   Di Ic Va 		000	Wild	F0 V M7 V	-2	(400+3)	[0000]	B	11	12
+
+1105	Troj	C	1801	Candia	D4006A9-7	 	  Na Ni Va 		703	NaHu	M2 V M7 V	-3	(851-2)	[7368]	B	10	-80
+1281	Troj	C	1801	Candia	D400685-5	 	  Na Ni Va 		303	Wild	M2 V M7 V	-3	(852+2)	[53A5]	B	10	160
+1508	Troj	C	1801	Candia	D400631-6	 	  Na Ni Va 		303	Wild	M2 V M7 V	-3	(850+1)	[6389]	B	10	40
+1900	Troj	C	1801	Candia	D400610-7	 	  Na Ni Va 		203	Wild	M2 V M7 V	-3	(852-3)	[3357]	B	10	-240
+
+1105	Troj	C	1810	Kydde	B644779-5	S	    Ag Pi (NIL)		804	CsIm	M2 V	1	(968+2)	[8866]	BCD	14	864
+1281	Troj	C	1810	Kydde	B6447AA-3	S	    Ag Pi (NIL)		404	Wild	M2 V	1	(965-2)	[5824]	BCD	14	-540
+1508	Troj	C	1810	Kydde	B64477A-4	S	    Ag Pi (NIL)		404	Wild	M2 V	1	(96A+3)	[A881]	BCD	14	1620
+1900	Troj	C	1810	Kydde	B644774-5	S	    Ag Pi (NIL)		304	Wild	M2 V	1	(968+1)	[6866]	BCD	14	432
+
+1105	Troj	G	1816	Salif	A6236A6-A	 	   Na Px Po Ni 		301	NaHu	F9 III M0 V	1	(955+1)	[5749]	B	12	225
+1281	Troj	G	1816	Salif	D623000-A	 	   Di Na Px Po 		001	Wild	F9 III M0 V	-1	(900+4)	[0000]	B	12	36
+1508	Troj	G	1816	Salif	D623000-A	 	   Di Po 		001	Wild	F9 III M0 V	-1	(900-1)	[0000]	B	12	-9
+1900	Troj	G	1816	Salif	D623000-A	 	   Di Po 		001	Wild	F9 III M0 V	-1	(900+2)	[0000]	B	12	18
+
+1105	Troj	G	1818	Number One	C9D6778-9	 	     (NIL)		602	NaHu	M3 V	0	(B69+1)	[7759]	B	15	594
+1281	Troj	G	1818	Number One	C9D6733-7	 	     (NIL)		302	Wild	M3 V	-1	(961+4)	[B678]	B	15	216
+1508	Troj	G	1818	Number One	C9D6775-8	 	     (NIL)		202	Wild	M3 V	-1	(B66+1)	[B629]	B	15	396
+1900	Troj	G	1818	Number One	C9D6755-A	 	     (NIL)		202	Wild	M3 V	1	(B6B-3)	[8859]	B	15	-2178
+
+1105	Troj	K	1823	Camoran	A55167A-B	 	   Ni Po 		514	CsIm	F9 V	1	(D55+3)	[877D]	B	12	975
+1281	Troj	K	1823	Camoran	D551000-B	 	   Di Po 		014	Wild	F9 V	-1	(D00+1)	[0000]	B	12	13
+1508	Troj	K	1823	Camoran	D551000-B	 	   Di Po 		014	Wild	F9 V	-1	(D00+1)	[0000]	B	12	13
+1900	Troj	K	1823	Camoran	D551000-B	 	   Di Po 		014	Wild	F9 V	-1	(D00-4)	[0000]	B	12	-52
+
+1105	Troj	K	1830	Keaih	CAA5887-9	 	   Fl Ph (ENIL)		202	AsWc	K1 V M3 V	0	(C79+1)	[8859]	Be	15	756
+1281	Troj	K	1830	Keaih	CAA5857-8	 	   Fl Ph (ENIL)		102	Wild	K1 V M3 V	-1	(C74+3)	[574A]	Be	15	1008
+1508	Troj	K	1830	Keaih	CAA5753-9	 	    Fl (ENIL)		902	Wild	K1 V M3 V	0	(C68+1)	[6798]	B	15	576
+1900	Troj	K	1830	Keaih	CAA58AC-9	 	   Fl Ph (ENIL)		102	Wild	K1 V M3 V	0	(C77-3)	[8819]	Be	15	-1764
+
+1105	Troj	O	1835	Afeakter	A69A68A-B	 	   Ni Wa 		514	AsTv	F2 V	2	(D56+4)	[887D]	B	16	1560
+1281	Troj	O	1835	Afeakter	X69A000-B	 	   Di Wa 		014	Wild	F2 V	-1	(D00+3)	[0000]	B	16	39
+1508	Troj	O	1835	Afeakter	X69A000-B	 	   Di Wa 		014	Wild	F2 V	-1	(D00+2)	[0000]	B	16	26
+1900	Troj	O	1835	Afeakter	X69A000-B	 	   Di Wa 		014	Wild	F2 V	-1	(D00+1)	[0000]	B	16	13
+
+1105	Troj	C	1906	Bantral	C886589-9	S	  Ag Pr Ga Ni 		503	CsIm	F5 V	0	(A44+1)	[656A]	BcC	8	160
+1281	Troj	C	1906	Bantral	C886400-8	S	  Ga Ni Pa 		203	Wild	F5 V	-2	(A31+1)	[824A]	Bc	8	30
+1508	Troj	C	1906	Bantral	C886450-9	S	  Ga Ni Pa 		303	Wild	F5 V	-1	(A33-2)	[5358]	Bc	8	-180
+1900	Troj	C	1906	Bantral	C886401-A	S	  Ga Ni Pa 		403	Wild	F5 V	0	(A32-3)	[348A]	Bc	8	-180
+
+1105	Troj	G	1919	Thebus	B534320-7	 	    Lo 		823	NaHu	M3 V	-1	(520-5)	[1212]	B	15	-50
+1281	Troj	G	1919	Thebus	E534000-7	 	    Di 		023	Wild	M3 V	-3	(500+4)	[0000]	B	15	20
+1508	Troj	G	1919	Thebus	E534000-7	 	    Di 		023	Wild	M3 V	-3	(500-2)	[0000]	B	15	-10
+1900	Troj	G	1919	Thebus	E534000-7	 	    Di 		023	Wild	M3 V	-3	(500+1)	[0000]	B	15	5
+
+1105	Troj	K	1927	Ohaualr	B422388-B	 	  He Lo Px Po 		214	AsTv	M9 V	1	(A21+1)	[345B]	B	11	20
+1281	Troj	K	1927	Ohaualr	E422000-B	 	  Di He Px Po 		014	Wild	M9 V	-1	(A00+1)	[0000]	B	11	10
+1508	Troj	K	1927	Ohaualr	E422000-B	 	  Di He Po 		014	Wild	M9 V	-1	(A00+1)	[0000]	B	11	10
+1900	Troj	K	1927	Ohaualr	E422000-B	 	  Di He Po 		014	Wild	M9 V	-1	(A00+1)	[0000]	B	11	10
+
+1105	Troj	K	1928	Tlaiowaha	B420954-E	 	  De He Hi Na In Po (NIL)		411	AsT0	F4 V	4	(D8G+2)	[7D3C]	BEf	10	3328
+1281	Troj	K	1928	Tlaiowaha	B42097B-B	 	  De He Hi Na In Po (NIL)		211	Wild	F4 V	4	(D8D+4)	[AD67]	BEf	10	5408
+1508	Troj	K	1928	Tlaiowaha	B4209BF-C	 	  De He Hi Na In Po (NIL)		111	Wild	F4 V	4	(D8B+2)	[AD68]	BEf	10	2288
+1900	Troj	K	1928	Tlaiowaha	B420886-B	 	  De He Na Pi Po Ph (NIL)		911	Wild	F4 V	2	(D7C+3)	[8A88]	BDe	10	3276
+
+1105	Troj	O	1931	Ralaiw	B420534-D	 	  De He Ni Po 		422	AsVc	F4 V	1	(B45-1)	[363B]	B	13	-220
+1281	Troj	O	1931	Ralaiw	B420536-B	 	  De He Ni Po 		222	Wild	F4 V	1	(B45+1)	[764E]	B	13	220
+1508	Troj	O	1931	Ralaiw	B420520-C	 	  De He Ni Po 		122	Wild	F4 V	1	(B47+4)	[465E]	B	13	1232
+1900	Troj	O	1931	Ralaiw	B420579-D	 	  De He Ni Po 		122	Wild	F4 V	1	(B42+2)	[766B]	B	13	176
+
+1105	Troj	O	1933	Ereah	B67A369-D	 	   Lo Wa 		531	AsMw	K8 V	1	(921+2)	[446E]	B	10	36
+1281	Troj	O	1933	Ereah	E67A000-D	 	   Di Wa 		031	Wild	K8 V	-1	(900-3)	[0000]	B	10	-27
+1508	Troj	O	1933	Ereah	E67A000-D	 	   Di Wa 		031	Wild	K8 V	-1	(900+1)	[0000]	B	10	9
+1900	Troj	O	1933	Ereah	E67A000-D	 	   Di Wa 		031	Wild	K8 V	-1	(900+1)	[0000]	B	10	9
+
+1105	Troj	C	2002	Kryslion	D583AA9-9	 	    Hi (NIL)		520	ImDd	F6 V	0	(E9A+1)	[BA6A]	BE	11	1260
+1281	Troj	C	2002	Kryslion	D583AFD-7	 	    Hi (NIL)		220	Wild	F6 V	-1	(C99-2)	[E917]	BE	11	-1944
+1508	Troj	C	2002	Kryslion	D583ACC-8	 	    Hi (NIL)		120	Wild	F6 V	-1	(E94+1)	[7936]	BE	11	504
+1900	Troj	C	2002	Kryslion	D58397C-7	 	   Hi Pr (NIL)		920	Wild	F6 V	-1	(C86+1)	[983A]	BcE	11	576
+
+1105	Troj	C	2008	Orsasch	E541364-7	 	 He Lo Mr Po 		223	SeFo	M1 V	-3	(520-5)	[1135]	B	13	-50
+1281	Troj	C	2008	Orsasch	E541000-7	 	 Di He Mr Po 		023	Wild	M1 V	-3	(500+3)	[0000]	B	13	15
+1508	Troj	C	2008	Orsasch	E541000-7	 	 Di He Mr Po 		023	Wild	M1 V	-3	(500-1)	[0000]	B	13	-5
+1900	Troj	C	2008	Orsasch	E541000-7	 	 Di He Mr Po 		023	Wild	M1 V	-3	(500+1)	[0000]	B	13	5
+
+1105	Troj	G	2018	Noricum	D8867BB-1	 	   Ag Ri Ga (NIL)	A	804	NaHu	G2 V M9 V M6 V	0	(965+2)	[9773]	BC	14	540
+1281	Troj	G	2018	Noricum	D886779-0	 	   Ag Ri Ga (NIL)		404	Wild	G2 V M9 V M6 V	0	(967+4)	[A751]	BC	14	1512
+1508	Troj	G	2018	Noricum	D886777-0	 	   Ag Ri Ga (NIL)		304	Wild	G2 V M9 V M6 V	0	(969+1)	[4733]	BC	14	486
+1900	Troj	G	2018	Noricum	D886730-1	 	   Ag Ri Ga (NIL)		404	Wild	G2 V M9 V M6 V	0	(967-2)	[7741]	BC	14	-756
+
+1105	Troj	G	2020	Oghma	B534754-9	 	     (NIL)		404	NaHu	K5 V M5 V M4 V	1	(D6A-1)	[5837]	B	11	-780
+1281	Troj	G	2020	Oghma	B534744-6	 	     (NIL)		204	Wild	K5 V M5 V M4 V	0	(963+1)	[6754]	B	11	162
+1508	Troj	G	2020	Oghma	B534759-8	 	     (NIL)		104	Wild	K5 V M5 V M4 V	0	(D68+1)	[874A]	B	11	624
+1900	Troj	G	2020	Oghma	B534753-9	 	     (NIL)		204	Wild	K5 V M5 V M4 V	1	(D6B+1)	[A84E]	B	11	858
+
+1105	Troj	K	2023	Khusai	A576655-C	 	   Ag Ni 		724	AsVc	F7 V	2	(E56+1)	[483A]	BC	19	420
+1281	Troj	K	2023	Khusai	X576000-C	 	    Di 		024	Wild	F7 V	-1	(E00+1)	[0000]	B	19	14
+1508	Troj	K	2023	Khusai	X576000-C	 	    Di 		024	Wild	F7 V	-1	(E00-2)	[0000]	B	19	-28
+1900	Troj	K	2023	Khusai	X576000-C	 	    Di 		024	Wild	F7 V	-1	(E00-2)	[0000]	B	19	-28
+
+1105	Troj	K	2029	Staha	B755486-B	 	  Ga Ni Pa 		313	AsMw	F3 V D	1	(A34+1)	[354A]	Bc	13	120
+1281	Troj	K	2029	Staha	B755495-9	 	  Ga Ni Pa 		113	Wild	F3 V D	0	(A31-2)	[24A9]	Bc	13	-60
+1508	Troj	K	2029	Staha	B755446-A	 	  Ga Ni Pa 		113	Wild	F3 V D	1	(A37+4)	[452C]	Bc	13	840
+1900	Troj	K	2029	Staha	B755473-B	 	  Ga Ni Pa 		113	Wild	F3 V D	1	(A33+1)	[4558]	Bc	13	90
+
+1105	Troj	C	2102	Cyan	C5689B9-A	W	   Hi Pr (NIL)	A	510	ImDd	F6 V M7 V	3	(C8D+4)	[AC6B]	BcE	12	4992
+1281	Troj	C	2102	Cyan	C568975-8	W	   Hi Pr (NIL)		210	Wild	F6 V M7 V	1	(C8B+1)	[9A78]	BcE	12	1056
+1508	Troj	C	2102	Cyan	C56899A-9	W	   Hi Pr (NIL)		310	Wild	F6 V M7 V	2	(C88-1)	[AB78]	BcE	12	-768
+1900	Troj	C	2102	Cyan	C568977-A	W	   Hi Pr (NIL)		410	Wild	F6 V M7 V	3	(C88-2)	[CC5F]	BcE	12	-1536
+
+1105	Troj	C	2105	Berengaria	B566644-7	NS	   Ag Ri Ni 		304	ImDd	F7 V	2	(856+1)	[4835]	BC	12	240
+1281	Troj	C	2105	Berengaria	B566556-7	NS	   Ag Pr Ni 		104	Wild	F7 V	1	(846+2)	[667A]	BcC	12	384
+1508	Troj	C	2105	Berengaria	B566522-7	NS	   Ag Pr Ni 		204	Wild	F7 V	1	(845-1)	[164B]	BcC	12	-160
+1900	Troj	C	2105	Berengaria	B56659A-8	NS	   Ag Pr Ni 		304	Wild	F7 V	1	(C44+1)	[7685]	BcC	12	192
+
+1105	Troj	C	2108	Senlis	B671633-A	 	  Cx He Ni 		510	SeFo	F6 V	2	(956-1)	[3827]	B	13	-270
+1281	Troj	C	2108	Senlis	E671000-A	 	  Cx Di He 		010	Wild	F6 V	-1	(900-3)	[0000]	B	13	-27
+1508	Troj	C	2108	Senlis	E671000-A	 	  Cx Di He 		010	Wild	F6 V	-1	(900+1)	[0000]	B	13	9
+1900	Troj	C	2108	Senlis	E671000-A	 	  Cx Di He 		010	Wild	F6 V	-1	(900+2)	[0000]	B	13	18
+
+1105	Troj	G	2113	Dolberg	BAF889D-B	 	    Ph (NIL)	A	300	NaHu	F7 V	2	(A7C+5)	[CA9F]	Be	9	4200
+1281	Troj	G	2113	Dolberg	BAF88A9-9	 	    Ph (NIL)		100	Wild	F7 V	1	(A76+1)	[8956]	Be	9	420
+1508	Troj	G	2113	Dolberg	BAF8736-A	 	     (NIL)		900	Wild	F7 V	2	(A6A-5)	[7978]	B	9	-3000
+1900	Troj	G	2113	Dolberg	BAF8773-B	 	     (NIL)		800	Wild	F7 V	2	(A6C-1)	[394C]	B	9	-720
+
+1105	Troj	G	2115	Vume	B100477-C	 	  An Ni Va 		123	NaHu	K7 II	1	(B34+1)	[455C]	B	15	132
+1281	Troj	G	2115	Vume	D100000-C	 	  An Di Va 		023	Wild	K7 II	-1	(B00+3)	[0000]	B	15	33
+1508	Troj	G	2115	Vume	D100000-C	 	  An Di Va 		023	Wild	K7 II	-1	(B00+1)	[0000]	B	15	11
+1900	Troj	G	2115	Vume	D100000-C	 	  An Di Va 		023	Wild	K7 II	-1	(B00-3)	[0000]	B	15	-33
+
+1105	Troj	G	2116	Theev	A434500-F	 	    Ni 	A	934	NaHu	G0 V	1	(E45-3)	[161A]	B	16	-840
+1281	Troj	G	2116	Theev	D434000-F	 	    Di 		034	Wild	G0 V	-1	(E00+3)	[0000]	B	16	42
+1508	Troj	G	2116	Theev	D434000-F	 	    Di 		034	Wild	G0 V	-1	(E00+2)	[0000]	B	16	28
+1900	Troj	G	2116	Theev	D434000-F	 	    Di 		034	Wild	G0 V	-1	(E00-3)	[0000]	B	16	-42
+
+1105	Troj	G	2120	Marduk	C577436-5	 	   Ni Pa 		503	NaHu	K7 V	-2	(631-3)	[3244]	Bc	11	-54
+1281	Troj	G	2120	Marduk	D577000-5	 	    Di 		003	Wild	K7 V	-3	(600-4)	[0000]	B	11	-24
+1508	Troj	G	2120	Marduk	D577000-5	 	    Di 		003	Wild	K7 V	-3	(600-1)	[0000]	B	11	-6
+1900	Troj	G	2120	Marduk	D577000-5	 	    Di 		003	Wild	K7 V	-3	(600+5)	[0000]	B	11	30
+
+1105	Troj	K	2123	Asim	B867564-6	 	  Ag Pr Ga Ni 		205	NaHu	F2 V	0	(744-2)	[3534]	BcC	10	-224
+1281	Troj	K	2123	Asim	D867000-6	 	   Di Ga 		005	Wild	F2 V	-3	(700+2)	[0000]	B	10	14
+1508	Troj	K	2123	Asim	D867000-6	 	   Di Ga 		005	Wild	F2 V	-3	(700-2)	[0000]	B	10	-14
+1900	Troj	K	2123	Asim	D867000-6	 	   Di Ga 		005	Wild	F2 V	-3	(700+1)	[0000]	B	10	7
+
+1105	Troj	K	2125	Kteiroa	C560164-8	 	   De Lo 		710	AsMw	F5 V	-2	(400-4)	[1136]	B	7	-16
+1281	Troj	K	2125	Kteiroa	E560000-8	 	   De Di 		010	Wild	F5 V	-3	(400-1)	[0000]	B	7	-4
+1508	Troj	K	2125	Kteiroa	E560000-8	 	   De Di 		010	Wild	F5 V	-3	(400+3)	[0000]	B	7	12
+1900	Troj	K	2125	Kteiroa	E560000-8	 	   De Di 		010	Wild	F5 V	-3	(400+2)	[0000]	B	7	8
+
+1105	Troj	O	2133	Hewekho	E10079A-7	 	   Na Pi Va 		923	AsMw	G6 II M9 V	-2	(966+1)	[9579]	BD	13	324
+1281	Troj	O	2133	Hewekho	E10077B-5	 	   Na Pi Va 		423	Wild	G6 II M9 V	-2	(966-4)	[C571]	BD	13	-1296
+1508	Troj	O	2133	Hewekho	E100751-7	 	   Na Pi Va 		523	Wild	G6 II M9 V	-2	(960+1)	[852B]	BD	13	54
+1900	Troj	O	2133	Hewekho	E1007A7-7	 	   Na Pi Va 		623	Wild	G6 II M9 V	-2	(968+1)	[851B]	BD	13	432
+
+1105	Troj	O	2134	Airliweiw	D56767B-6	 	   Ag Ri Ni 		513	AsSc	F5 V	-1	(853+1)	[8578]	BC	9	120
+1281	Troj	O	2134	Airliweiw	D567651-5	 	   Ag Ri Ni 		213	Wild	F5 V	-1	(853+1)	[2575]	BC	9	120
+1508	Troj	O	2134	Airliweiw	D567640-5	 	   Ag Ri Ni 		113	Wild	F5 V	-1	(855-3)	[6556]	BC	9	-600
+1900	Troj	O	2134	Airliweiw	D567526-7	 	   Ag Pr Ni 		913	Wild	F5 V	-2	(841-3)	[6355]	BcC	9	-96
+
+1105	Troj	O	2137	Tisilli	B78A945-A	 	  Hi Pr Wa (NIL)		604	NaHu	F0 V M5 V	3	(F8D+1)	[7C38]	BcE	12	1560
+1281	Troj	O	2137	Tisilli	B78A999-8	 	  Hi Pr Wa (NIL)		304	Wild	F0 V M5 V	1	(F87+1)	[8A1C]	BcE	12	840
+1508	Troj	O	2137	Tisilli	B78A976-9	 	  Hi Pr Wa (NIL)		204	Wild	F0 V M5 V	2	(F88-4)	[AB4C]	BcE	12	-3840
+1900	Troj	O	2137	Tisilli	B78A9DC-C	 	  Hi Pr Wa (NIL)		104	Wild	F0 V M5 V	3	(F89+1)	[8C77]	BcE	12	1080
+
+1105	Troj	C	2202	Doradon	A400369-B	S	   Lo Va 		100	ImDd	F3 V	1	(521+2)	[446C]	B	13	20
+1281	Troj	C	2202	Doradon	X400000-B	T 	   Di Va 		000	Wild	F3 V	-1	(500+3)	[0000]	B	13	15
+1508	Troj	C	2202	Doradon	X400000-B	T 	   Di Va 		000	Wild	F3 V	-1	(500-3)	[0000]	B	13	-15
+1900	Troj	C	2202	Doradon	X400000-B	T 	   Di Va 		000	Wild	F3 V	-1	(500+1)	[0000]	B	13	5
+
+1105	Troj	C	2203	Perrior	A633966-B	N 	  An Hi Na Po (NIL)		330	ImDd	G2 V	3	(E8E+2)	[8C4A]	BE	6	3136
+1281	Troj	C	2203	Perrior	A63399B-9	N 	  An Hi Na Po (NIL)		130	Wild	G2 V	2	(E89+1)	[5B69]	BE	6	1008
+1508	Troj	C	2203	Perrior	A6339EF-A	N 	  An Hi Na Po (NIL)		230	Wild	G2 V	3	(E8E+3)	[7C9B]	BE	6	4704
+1900	Troj	C	2203	Perrior	A633996-B	N 	  An Hi Na Po (NIL)		130	Wild	G2 V	3	(E8A+1)	[8C5F]	BE	6	1120
+
+1105	Troj	C	2204	Pax Rulin	A402231-E	N 	  Cp Ic Va Lo 		413	ImDd	M8 III	1	(811-3)	[131A]	BF	7	-24
+1281	Troj	C	2204	Pax Rulin	E402000-E	T 	  Cp Di Ic Va 		013	Wild	M8 III	-1	(800+3)	[0000]	BF	7	24
+1508	Troj	C	2204	Pax Rulin	E402000-E	T 	  Cp Di Ic Va 		013	Wild	M8 III	-1	(800-3)	[0000]	BF	7	-24
+1900	Troj	C	2204	Pax Rulin	E402000-E	T 	  Cp Di Ic Va 		013	Wild	M8 III	-1	(800-1)	[0000]	BF	7	-8
+
+1105	Troj	G	2211	Albe	A540A98-E	 	  De He Hi In Po (NIL)		213	ImDd	F4 V M2 V	4	(G9G+4)	[AE5E]	BEf	16	9216
+1281	Troj	G	2211	Albe	A540A77-C	 	  De He Hi In Po (NIL)		113	Wild	F4 V M2 V	4	(G9B-1)	[CE8C]	BEf	16	-1584
+1508	Troj	G	2211	Albe	A540ADF-F	 	  De He Hi In Po (NIL)		213	Wild	F4 V M2 V	4	(G9B+5)	[8E6E]	BEf	16	7920
+1900	Troj	G	2211	Albe	A540A98-E	 	  De He Hi In Po (NIL)		113	Wild	F4 V M2 V	4	(G9D-1)	[8E8F]	BEf	16	-1872
+
+1105	Troj	G	2213	Realgar	B550444-A	N 	  De Ni Po 		303	ImDd	G4 V M7 V	1	(934-1)	[2538]	B	16	-108
+1281	Troj	G	2213	Realgar	X550000-A	T 	  De Di Po 		003	Wild	G4 V M7 V	-1	(900+2)	[0000]	B	16	18
+1508	Troj	G	2213	Realgar	X550000-A	T 	  De Di Po 		003	Wild	G4 V M7 V	-1	(900-3)	[0000]	B	16	-27
+1900	Troj	G	2213	Realgar	X550000-A	T 	  De Di Po 		003	Wild	G4 V M7 V	-1	(900-5)	[0000]	B	16	-45
+
+1105	Troj	G	2216	Palindrome	B433334-B	 	   Lo Po 		502	NaHu	K9 V M1 V	1	(721-1)	[1439]	B	5	-14
+1281	Troj	G	2216	Palindrome	X433000-B	 	   Di Po 		002	Wild	K9 V M1 V	-1	(700+3)	[0000]	B	5	21
+1508	Troj	G	2216	Palindrome	X433000-B	 	   Di Po 		002	Wild	K9 V M1 V	-1	(700-2)	[0000]	B	5	-14
+1900	Troj	G	2216	Palindrome	X433000-B	 	   Di Po 		002	Wild	K9 V M1 V	-1	(700-2)	[0000]	B	5	-14
+
+1105	Troj	G	2219	Borite	E655796-4	 	   Ag Ga (NIL)		703	NaHu	G4 V M8 V	-1	(965-2)	[6643]	BC	13	-540
+1281	Troj	G	2219	Borite	E65579B-2	 	   Ag Ga (NIL)		303	Wild	G4 V M8 V	-1	(966+1)	[A684]	BC	13	324
+1508	Troj	G	2219	Borite	E655753-4	 	   Ag Ga (NIL)		303	Wild	G4 V M8 V	-1	(965-1)	[9648]	BC	13	-270
+1900	Troj	G	2219	Borite	E655777-4	 	   Ag Ga (NIL)		203	Wild	G4 V M8 V	-1	(969+4)	[7693]	BC	13	1944
+
+1105	Troj	K	2221	Torpol	B55A77A-8	 	    Wa (NIL)		624	NaHu	F4 V	0	(F68+2)	[977A]	B	16	1440
+1281	Troj	K	2221	Torpol	B55A730-6	 	    Wa (NIL)		324	Wild	F4 V	0	(967-1)	[4758]	B	16	-378
+1508	Troj	K	2221	Torpol	B55A755-8	 	    Wa (NIL)		424	Wild	F4 V	0	(F64+4)	[4746]	B	16	1440
+1900	Troj	K	2221	Torpol	B55A788-8	 	    Wa (NIL)		524	Wild	F4 V	0	(F69+1)	[6785]	B	16	810
+
+1105	Troj	K	2223	Drinax	A43645A-E	 	    Ni 		714	NaHu	M1 V	1	(B34+3)	[657G]	B	9	396
+1281	Troj	K	2223	Drinax	A436474-B	 	    Ni 		314	Wild	M1 V	1	(B37-2)	[257D]	B	9	-462
+1508	Troj	K	2223	Drinax	A436434-C	 	    Ni 		414	Wild	M1 V	1	(B37+3)	[553D]	B	9	693
+1900	Troj	K	2223	Drinax	A436402-E	 	    Ni 		514	Wild	M1 V	1	(B33-2)	[855F]	B	9	-198
+
+1105	Troj	K	2226	Tyokh	B566A77-E	 	    Hi (NIL)		204	AsSc	F4 V M7 V	3	(G9F+3)	[AD5E]	BE	11	6480
+1281	Troj	K	2226	Tyokh	B566AC9-C	 	    Hi (NIL)		104	Wild	F4 V M7 V	3	(G9A+1)	[CD2D]	BE	11	1440
+1508	Troj	K	2226	Tyokh	B566A7A-D	 	    Hi (NIL)		104	Wild	F4 V M7 V	3	(G9A-1)	[8D5C]	BE	11	-1440
+1900	Troj	K	2226	Tyokh	B566997-C	 	   Hi Pr (NIL)		904	Wild	F4 V M7 V	3	(G8C+1)	[AC1C]	BcE	11	1536
+
+1105	Troj	K	2227	Iroioah	B530113-C	 	  De Lo Po 		823	AsMw	M3 V M4 V	1	(801-2)	[1229]	B	12	-16
+1281	Troj	K	2227	Iroioah	D530000-C	 	  De Di Po 		023	Wild	M3 V M4 V	-1	(800-4)	[0000]	B	12	-32
+1508	Troj	K	2227	Iroioah	D530000-C	 	  De Di Po 		023	Wild	M3 V M4 V	-1	(800+1)	[0000]	B	12	8
+1900	Troj	K	2227	Iroioah	D530000-C	 	  De Di Po 		023	Wild	M3 V M4 V	-1	(800-2)	[0000]	B	12	-16
+
+1105	Troj	K	2229	Hleakhayes	E54348B-7	 	   Ni Po 		812	AsMw	F2 V M0 V	-3	(631-1)	[6179]	B	9	-18
+1281	Troj	K	2229	Hleakhayes	E543000-7	 	   Di Po 		012	Wild	F2 V M0 V	-3	(600+3)	[0000]	B	9	18
+1508	Troj	K	2229	Hleakhayes	E543000-7	 	   Di Po 		012	Wild	F2 V M0 V	-3	(600+1)	[0000]	B	9	6
+1900	Troj	K	2229	Hleakhayes	E543000-7	 	   Di Po 		012	Wild	F2 V M0 V	-3	(600-3)	[0000]	B	9	-18
+
+1105	Troj	K	2230	Akoaft	E898000-0	 	    Ba 		031	AsXX	F3 V	-3	(200-5)	[0000]	B	17	-10
+1281	Troj	K	2230	Akoaft	E898000-0	 	    Ba 		031	Wild	F3 V	-3	(200+2)	[0000]	B	17	4
+1508	Troj	K	2230	Akoaft	E898000-0	 	    Ba 		031	Wild	F3 V	-3	(200-2)	[0000]	B	17	-4
+1900	Troj	K	2230	Akoaft	E898000-0	 	    Ba 		031	Wild	F3 V	-3	(200+1)	[0000]	B	17	2
+
+1105	Troj	O	2232	Khtiyrlo	DA887CA-6	 	    Ag Ri (NIL)	A	222	AsMw	M2 V M6 V	0	(967+2)	[9778]	BC	10	756
+1281	Troj	O	2232	Khtiyrlo	DA88799-4	 	    Ag Ri (NIL)		122	Wild	M2 V M6 V	0	(963+1)	[7752]	BC	10	162
+1508	Troj	O	2232	Khtiyrlo	DA886AA-5	 	   Ag Ri Ni (NIL)		922	Wild	M2 V M6 V	-1	(951+1)	[7547]	BC	10	45
+1900	Troj	O	2232	Khtiyrlo	DA88621-6	 	   Ag Ri Ni (NIL)		822	Wild	M2 V M6 V	-1	(953-1)	[7556]	BC	10	-135
+
+1105	Troj	O	2233	Eaohfose	B6736A7-A	 	    Ni 		105	AsT1	K6 V D	1	(D55+1)	[675A]	B	17	325
+1281	Troj	O	2233	Eaohfose	E673000-A	 	    Di 		005	Wild	K6 V D	-1	(D00+1)	[0000]	B	17	13
+1508	Troj	O	2233	Eaohfose	E673000-A	 	    Di 		005	Wild	K6 V D	-1	(D00+1)	[0000]	B	17	13
+1900	Troj	O	2233	Eaohfose	E673000-A	 	    Di 		005	Wild	K6 V D	-1	(D00+3)	[0000]	B	17	39
+
+1105	Troj	O	2234	Gikarlum	B310587-9	 	    Ni 		714	NaHu	F0 IV	0	(C44+1)	[5559]	B	11	192
+1281	Troj	O	2234	Gikarlum	B3105AB-7	 	    Ni 		314	Wild	F0 IV	-1	(742-5)	[4455]	B	11	-280
+1508	Troj	O	2234	Gikarlum	B310573-8	 	    Ni 		314	Wild	F0 IV	-1	(C42+3)	[3468]	B	11	288
+1900	Troj	O	2234	Gikarlum	B310500-A	 	    Ni 		414	Wild	F0 IV	1	(C42+1)	[268B]	B	11	96
+
+1105	Troj	C	2304	Rhysk	X413730-7	 	   Ic Na Pi 	R	613	ImDd	M1 V M4 V	-2	(966-5)	[2512]	BD	16	-1620
+1281	Troj	C	2304	Rhysk	X413798-5	 	   Ic Na Pi 		313	Wild	M1 V M4 V	-2	(965+1)	[8555]	BD	16	270
+1508	Troj	C	2304	Rhysk	X413734-6	 	   Ic Na Pi 		213	Wild	M1 V M4 V	-2	(963+1)	[9526]	BD	16	162
+1900	Troj	C	2304	Rhysk	X4137AC-7	 	   Ic Na Pi 		113	Wild	M1 V M4 V	-2	(962+1)	[6517]	BD	16	108
+
+1105	Troj	C	2306	Caraz	E311959-A	N 	  Hi Ic Na In 	A	222	ImDd	F7 V M5 V	2	(F8C+3)	[AB6B]	BE	13	4320
+1281	Troj	C	2306	Caraz	E311977-7	N 	  Hi Ic Na In 		122	Wild	F7 V M5 V	0	(B8B+1)	[7927]	BE	13	968
+1508	Troj	C	2306	Caraz	E31188A-6	N 	  Ic Na Pi Ph 		922	Wild	F7 V M5 V	-2	(B75+3)	[8618]	BDe	13	1155
+1900	Troj	C	2306	Caraz	E3119DD-B	N 	  Hi Ic Na In 		122	Wild	F7 V M5 V	2	(F88+4)	[BB9B]	BE	13	3840
+
+1105	Troj	C	2309	Magen	C543550-9	 	   Ni Po 		900	SeFo	F9 V	-1	(743-5)	[1414]	B	7	-420
+1281	Troj	C	2309	Magen	X543000-9	 	   Di Po 		000	Wild	F9 V	-2	(700+1)	[0000]	B	7	7
+1508	Troj	C	2309	Magen	X543000-9	 	   Di Po 		000	Wild	F9 V	-2	(700-2)	[0000]	B	7	-14
+1900	Troj	C	2309	Magen	X543000-9	 	   Di Po 		000	Wild	F9 V	-2	(700-3)	[0000]	B	7	-21
+
+1105	Troj	G	2314	Chalchiutlicue	B76A787-7	 	   Ri Wa (NIL)		423	NaHu	G9 V M3 V	1	(969+1)	[7857]	BC	15	486
+1281	Troj	G	2314	Chalchiutlicue	B76A77A-5	 	   Ri Wa (NIL)		223	Wild	G9 V M3 V	1	(967+3)	[6852]	BC	15	1134
+1508	Troj	G	2314	Chalchiutlicue	B76A778-6	 	   Ri Wa (NIL)		123	Wild	G9 V M3 V	1	(968+1)	[784A]	BC	15	432
+1900	Troj	G	2314	Chalchiutlicue	B76A79A-7	 	   Ri Wa (NIL)		223	Wild	G9 V M3 V	1	(967+4)	[5873]	BC	15	1512
+
+1105	Troj	K	2322	Clarke	B899753-8	 	    Pi (NIL)		820	NaHu	F1 V M9 V	0	(B68-3)	[4725]	BD	9	-1584
+1281	Troj	K	2322	Clarke	B899778-5	 	    Pi (NIL)		420	Wild	F1 V M9 V	0	(966+1)	[8769]	BD	9	324
+1508	Troj	K	2322	Clarke	B899777-6	 	    Pi (NIL)		520	Wild	F1 V M9 V	0	(963+1)	[B722]	BD	9	162
+1900	Troj	K	2322	Clarke	B8997BB-7	 	    Pi (NIL)		620	Wild	F1 V M9 V	0	(968+1)	[877A]	BD	9	432
+
+1105	Troj	K	2324	Pourne	A9B2887-A	 	   Fl He Ph (ENIL)		902	NaHu	F3 V	2	(C7B+2)	[8A5A]	Be	11	1848
+1281	Troj	K	2324	Pourne	D9B2000-A	 	   Di Fl He (ENIL)		002	Wild	F3 V	-1	(C00+2)	[0000]	B	11	24
+1508	Troj	K	2324	Pourne	D9B2000-A	 	   Di Fl He (ENIL)		002	Wild	F3 V	-1	(C00+2)	[0000]	B	11	24
+1900	Troj	K	2324	Pourne	D9B2000-A	 	   Di Fl He (ENIL)		002	Wild	F3 V	-1	(C00+3)	[0000]	B	11	36
+
+1105	Troj	K	2327	The World	E100551-7	 	   Ni Va 		223	NaHu	M5 V	-3	(741-5)	[1213]	B	10	-140
+1281	Troj	K	2327	The World	E100431-4	 	   Ni Va 		123	Wild	M5 V	-3	(730+1)	[8124]	B	10	21
+1508	Troj	K	2327	The World	E100388-5	 	   Lo Va 		923	Wild	M5 V	-3	(720+4)	[3142]	B	10	56
+1900	Troj	K	2327	The World	E100431-6	 	   Ni Va 		123	Wild	M5 V	-3	(730+1)	[614A]	B	10	21
+
+1105	Troj	K	2329	Vorito	E595ABB-A	 	   Hi In (NIL)	A	105	CsIm	F4 V M6 V	2	(H9C+4)	[CC7C]	BE	10	7344
+1281	Troj	K	2329	Vorito	E595630-4	 	   Ag Ni (NIL)		505	Wild	F4 V M6 V	-2	(C53+1)	[3455]	BC	10	180
+1508	Troj	K	2329	Vorito	E595674-5	 	   Ag Ni (NIL)		405	Wild	F4 V M6 V	-2	(C51-2)	[9456]	BC	10	-120
+1900	Troj	K	2329	Vorito	E595679-6	 	   Ag Ni (NIL)		505	Wild	F4 V M6 V	-2	(C50+2)	[6466]	BC	10	120
+
+1105	Troj	O	2332	Burgess	B796633-6	 	   Ag Ni 		703	NaHu	F6 V M0 V	0	(854-3)	[3623]	BC	8	-480
+1281	Troj	O	2332	Burgess	E796000-6	 	    Di 		003	Wild	F6 V M0 V	-3	(800+1)	[0000]	B	8	8
+1508	Troj	O	2332	Burgess	E796000-6	 	    Di 		003	Wild	F6 V M0 V	-3	(800+3)	[0000]	B	8	24
+1900	Troj	O	2332	Burgess	E796000-6	 	    Di 		003	Wild	F6 V M0 V	-3	(800-1)	[0000]	B	8	-8
+
+1105	Troj	C	2402	Islent	BAC0789-9	 	    He (ENIL)	A	103	ImDd	A4 V	1	(C6A+2)	[886A]	B	11	1440
+1281	Troj	C	2402	Islent	BAC0687-7	 	   He Ni (ENIL)		503	Wild	A4 V	-1	(954-4)	[5555]	B	11	-720
+1508	Troj	C	2402	Islent	BAC0678-8	 	   He Ni (ENIL)		603	Wild	A4 V	-1	(C53+1)	[8585]	B	11	180
+1900	Troj	C	2402	Islent	BAC0655-A	 	   He Ni (ENIL)		503	Wild	A4 V	1	(C53-2)	[475C]	B	11	-360
+
+1105	Troj	C	2405	Alexin	B000420-C	 	   As Va Ni 		220	ImDd	F5 V	1	(834-3)	[1517]	B	11	-288
+1281	Troj	C	2405	Alexin	B000477-A	 	   As Va Ni 		120	Wild	F5 V	1	(836-1)	[8587]	B	11	-144
+1508	Troj	C	2405	Alexin	B000432-B	 	   As Va Ni 		220	Wild	F5 V	1	(836+3)	[1559]	B	11	432
+1900	Troj	C	2405	Alexin	B00048A-C	 	   As Va Ni 		320	Wild	F5 V	1	(835+1)	[758C]	B	11	120
+
+1105	Troj	G	2411	Cordillon	C431210-B	 	   Lo Po 		922	ImDd	K1 V	0	(810-4)	[1216]	B	12	-32
+1281	Troj	G	2411	Cordillon	X431000-B	 	   Di Po 		022	Wild	K1 V	-1	(800-2)	[0000]	B	12	-16
+1508	Troj	G	2411	Cordillon	X431000-B	 	   Di Po 		022	Wild	K1 V	-1	(800-2)	[0000]	B	12	-16
+1900	Troj	G	2411	Cordillon	X431000-B	 	   Di Po 		022	Wild	K1 V	-1	(800-2)	[0000]	B	12	-16
+
+1105	Troj	K	2421	Blue	B543487-B	 	   Ni Po 		702	NaHu	F9 V	1	(834+1)	[455B]	B	15	96
+1281	Troj	K	2421	Blue	D543000-B	 	   Di Po 		002	Wild	F9 V	-1	(800-4)	[0000]	B	15	-32
+1508	Troj	K	2421	Blue	D543000-B	 	   Di Po 		002	Wild	F9 V	-1	(800+1)	[0000]	B	15	8
+1900	Troj	K	2421	Blue	D543000-B	 	   Di Po 		002	Wild	F9 V	-1	(800-2)	[0000]	B	15	-16
+
+1105	Troj	K	2424	Hilfer	B55077A-6	 	   De Po (NIL)		600	NaHu	M6 V	0	(967+2)	[9778]	B	4	756
+1281	Troj	K	2424	Hilfer	B5507A7-4	 	   De Po (NIL)		300	Wild	M6 V	0	(968+2)	[8784]	B	4	864
+1508	Troj	K	2424	Hilfer	B550787-5	 	   De Po (NIL)		400	Wild	M6 V	0	(968+1)	[2783]	B	4	432
+1900	Troj	K	2424	Hilfer	B550789-6	 	   De Po (NIL)		500	Wild	M6 V	0	(966+1)	[8735]	B	4	324
+
+1105	Troj	K	2425	Paal	B564679-6	 	   Ag Ri Ni 		603	NaHu	F3 V	1	(855+2)	[7767]	BC	9	400
+1281	Troj	K	2425	Paal	B56459C-5	 	   Ag Pr Ni 		303	Wild	F3 V	0	(843-5)	[6583]	BcC	9	-480
+1508	Troj	K	2425	Paal	B564510-6	 	   Ag Pr Ni 		403	Wild	F3 V	0	(841-1)	[4551]	BcC	9	-32
+1900	Troj	K	2425	Paal	B56458B-7	 	   Ag Pr Ni 		303	Wild	F3 V	0	(843-1)	[5568]	BcC	9	-96
+
+1105	Troj	K	2426	Sink	D665220-5	 	   Ga Lo 		813	NaHu	F5 V	-3	(410-5)	[1111]	B	8	-20
+1281	Troj	K	2426	Sink	D665000-5	 	   Di Ga 		013	Wild	F5 V	-3	(400+2)	[0000]	B	8	8
+1508	Troj	K	2426	Sink	D665000-5	 	   Di Ga 		013	Wild	F5 V	-3	(400+1)	[0000]	B	8	4
+1900	Troj	K	2426	Sink	D665000-5	 	   Di Ga 		013	Wild	F5 V	-3	(400+1)	[0000]	B	8	4
+
+1105	Troj	K	2428	Fantasy	E788400-3	 	   Ni Pa 		331	NaHu	G2 V	-3	(631-5)	[1111]	Bc	11	-90
+1281	Troj	K	2428	Fantasy	E788479-0	 	   Ni Pa 		131	Wild	G2 V	-3	(630-2)	[4181]	Bc	11	-36
+1508	Troj	K	2428	Fantasy	E788458-2	 	   Ni Pa 		231	Wild	G2 V	-3	(630+1)	[1183]	Bc	11	18
+1900	Troj	K	2428	Fantasy	E788430-2	 	   Ni Pa 		131	Wild	G2 V	-3	(632-1)	[3141]	Bc	11	-36
+
+1105	Troj	D	2501	Labora	B533544-7	 	   Ni Po 		103	ImDd	M1 V M1 V	-1	(743-3)	[3435]	B	12	-252
+1281	Troj	D	2501	Labora	B533455-6	 	   Ni Po 		503	Wild	M1 V M1 V	-1	(732+2)	[1363]	B	12	84
+1508	Troj	D	2501	Labora	B533475-6	 	   Ni Po 		603	Wild	M1 V M1 V	-1	(730+2)	[7364]	B	12	42
+1900	Troj	D	2501	Labora	B533430-7	 	   Ni Po 		703	Wild	M1 V M1 V	-1	(733+3)	[1325]	B	12	189
+
+1105	Troj	H	2513	Pryme	B58668B-9	 	   Ag Ri Ni 		305	ImDd	F0 V	2	(D56+4)	[887B]	BC	11	1560
+1281	Troj	H	2513	Pryme	B5866B8-7	 	   Ag Ri Ni 		105	Wild	F0 V	1	(857+1)	[4758]	BC	11	280
+1508	Troj	H	2513	Pryme	B586652-9	 	   Ag Ri Ni 		205	Wild	F0 V	2	(D53+4)	[2865]	BC	11	780
+1900	Troj	H	2513	Pryme	B586659-A	 	   Ag Ri Ni 		105	Wild	F0 V	3	(D58-2)	[693B]	BC	11	-1040
+
+1105	Troj	H	2515	Nekrino	A788400-C	N 	   Ni Pa 		914	ImDd	M4 V	1	(B34-3)	[1517]	Bc	11	-396
+1281	Troj	H	2515	Nekrino	A788477-9	N 	   Ni Pa 		414	Wild	M4 V	0	(B31-4)	[545A]	Bc	11	-132
+1508	Troj	H	2515	Nekrino	A788473-A	N 	   Ni Pa 		414	Wild	M4 V	1	(B37-1)	[459A]	Bc	11	-231
+1900	Troj	H	2515	Nekrino	A788423-B	N 	   Ni Pa 		414	Wild	M4 V	1	(B32-3)	[557C]	Bc	11	-198
+
+1105	Troj	H	2517	Boulder	D100758-9	 	   Na Pi Va 		330	NaHu	K2 V D	-1	(C68-1)	[7659]	BD	7	-576
+1281	Troj	H	2517	Boulder	D100797-6	 	   Na Pi Va 		130	Wild	K2 V D	-2	(963+1)	[757B]	BD	7	162
+1508	Troj	H	2517	Boulder	D10068D-7	 	  Na Ni Va 		930	Wild	K2 V D	-3	(952-2)	[7388]	B	7	-180
+1900	Troj	H	2517	Boulder	D100688-8	 	  Na Ni Va 		830	Wild	K2 V D	-3	(C52+1)	[6358]	B	7	120
+
+1105	Troj	H	2520	Exocet	A574126-8	 	    Lo 		203	NaHu	F6 V	-1	(600-2)	[1147]	B	10	-12
+1281	Troj	H	2520	Exocet	E574000-8	 	    Di 		003	Wild	F6 V	-3	(600+4)	[0000]	B	10	24
+1508	Troj	H	2520	Exocet	E574000-8	 	    Di 		003	Wild	F6 V	-3	(600-3)	[0000]	B	10	-18
+1900	Troj	H	2520	Exocet	E574000-8	 	    Di 		003	Wild	F6 V	-3	(600-2)	[0000]	B	10	-12
+
+1105	Troj	L	2527	Byrni	B955699-6	 	   Ag Ni 		404	NaHu	F3 V	0	(854+1)	[7667]	BC	16	160
+1281	Troj	L	2527	Byrni	D955000-6	 	    Di 		004	Wild	F3 V	-3	(800+2)	[0000]	B	16	16
+1508	Troj	L	2527	Byrni	D955000-6	 	    Di 		004	Wild	F3 V	-3	(800+2)	[0000]	B	16	16
+1900	Troj	L	2527	Byrni	D955000-6	 	    Di 		004	Wild	F3 V	-3	(800-4)	[0000]	B	16	-32
+
+1105	Troj	D	2602	Belt-9	B000213-E	 	   As Va Lo 		513	ImDd	M1 V M5 V	1	(811-2)	[132B]	B	11	-16
+1281	Troj	D	2602	Belt-9	D000000-E	 	   As Va Di 		013	Wild	M1 V M5 V	-1	(800-4)	[0000]	B	11	-32
+1508	Troj	D	2602	Belt-9	D000000-E	 	   As Va Di 		013	Wild	M1 V M5 V	-1	(800+2)	[0000]	B	11	16
+1900	Troj	D	2602	Belt-9	D000000-E	 	   As Va Di 		013	Wild	M1 V M5 V	-1	(800-1)	[0000]	B	11	-8
+
+1105	Troj	H	2612	Intelia	C574653-6	 	   Ag Ni 		704	ImDd	F4 V	-1	(853-4)	[3523]	BC	9	-480
+1281	Troj	H	2612	Intelia	X574000-6	 	    Di 		004	Wild	F4 V	-3	(800+3)	[0000]	B	9	24
+1508	Troj	H	2612	Intelia	X574000-6	 	    Di 		004	Wild	F4 V	-3	(800+1)	[0000]	B	9	8
+1900	Troj	H	2612	Intelia	X574000-6	 	    Di 		004	Wild	F4 V	-3	(800-3)	[0000]	B	9	-24
+
+1105	Troj	H	2614	Gor	C868677-3	 	   Ag Ri Ni 		403	ImDd	M5 V	0	(854+1)	[6653]	BC	9	160
+1281	Troj	H	2614	Gor	C868556-3	 	   Ag Pr Ni 		203	Wild	M5 V	-1	(844+1)	[3441]	BcC	9	128
+1508	Troj	H	2614	Gor	C868540-3	 	   Ag Pr Ni 		203	Wild	M5 V	-1	(841+1)	[7443]	BcC	9	32
+1900	Troj	H	2614	Gor	C868575-4	 	   Ag Pr Ni 		103	Wild	M5 V	-1	(843-1)	[6465]	BcC	9	-96
+
+1105	Troj	H	2616	Scaladon	AAD98DH-A	 	    Ph (NIL)	A	600	ImDd	F6 V	2	(A7B+5)	[DAAF]	Be	9	3850
+1281	Troj	H	2616	Scaladon	AAD98BA-6	 	    Ph (NIL)		300	Wild	F6 V	0	(A77-2)	[5875]	Be	9	-980
+1508	Troj	H	2616	Scaladon	AAD9898-7	 	    Ph (NIL)		400	Wild	F6 V	0	(A79-1)	[4856]	Be	9	-630
+1900	Troj	H	2616	Scaladon	AAD9858-9	 	    Ph (NIL)		300	Wild	F6 V	1	(A7A-1)	[C94A]	Be	9	-700
+
+1105	Troj	L	2621	Arunisiir	B776530-6	 	   Ag Ni 		103	NaHu	F8 V M5 V	0	(744-4)	[1511]	BC	14	-448
+1281	Troj	L	2621	Arunisiir	X776000-6	 	    Di 		003	Wild	F8 V M5 V	-3	(700+1)	[0000]	B	14	7
+1508	Troj	L	2621	Arunisiir	X776000-6	 	    Di 		003	Wild	F8 V M5 V	-3	(700+2)	[0000]	B	14	14
+1900	Troj	L	2621	Arunisiir	X776000-6	 	    Di 		003	Wild	F8 V M5 V	-3	(700-4)	[0000]	B	14	-28
+
+1105	Troj	L	2624	Tech-World	A555154-E	 	    Lo 		310	CsIm	F8 V	1	(401-1)	[123C]	B	8	-4
+1281	Troj	L	2624	Tech-World	D555000-E	 	    Di 		010	Wild	F8 V	-1	(400-5)	[0000]	B	8	-20
+1508	Troj	L	2624	Tech-World	D555000-E	 	    Di 		010	Wild	F8 V	-1	(400+3)	[0000]	B	8	12
+1900	Troj	L	2624	Tech-World	D555000-E	 	    Di 		010	Wild	F8 V	-1	(400+1)	[0000]	B	8	4
+
+1105	Troj	L	2625	Ergo	X767500-3	 	  Ag Pr Ga Ni 	R	412	NaHu	F8 V	-2	(742-5)	[1311]	BcC	13	-280
+1281	Troj	L	2625	Ergo	X767512-0	 	  Ag Pr Ga Ni 		212	Wild	F8 V	-2	(744+3)	[6381]	BcC	13	336
+1508	Troj	L	2625	Ergo	X767575-1	 	  Ag Pr Ga Ni 		112	Wild	F8 V	-2	(742+1)	[3371]	BcC	13	56
+1900	Troj	L	2625	Ergo	X767513-2	 	  Ag Pr Ga Ni 		212	Wild	F8 V	-2	(742+4)	[7334]	BcC	13	224
+
+1105	Troj	D	2704	Corben	E545455-8	N 	   Ni Pa 		814	ImDd	F5 V M9 V M7 V	-3	(B31-5)	[2136]	Bc	9	-165
+1281	Troj	D	2704	Corben	E545000-8	N 	    Di 		014	Wild	F5 V M9 V M7 V	-3	(B00+1)	[0000]	B	9	11
+1508	Troj	D	2704	Corben	E545000-8	N 	    Di 		014	Wild	F5 V M9 V M7 V	-3	(B00+4)	[0000]	B	9	44
+1900	Troj	D	2704	Corben	E545000-8	N 	    Di 		014	Wild	F5 V M9 V M7 V	-3	(B00-1)	[0000]	B	9	-11
+
+1105	Troj	D	2708	Gazulin	AA86887-B	NS	  An Cp Pa Ri Ph (NIL)		213	ImDd	F3 V	4	(E7E+4)	[8C5B]	BcCeF	12	5488
+1281	Troj	D	2708	Gazulin	AA86896-9	NS	  An Cp Pa Ri Ph (NIL)		113	Wild	F3 V	3	(E7A-1)	[9B6C]	BcCeF	12	-980
+1508	Troj	D	2708	Gazulin	AA86745-A	NS	   Ag Ri An Cp (NIL)		913	Wild	F3 V	5	(E69+1)	[7C67]	BCF	12	756
+1900	Troj	D	2708	Gazulin	AA868CC-B	NS	  An Cp Pa Ri Ph (NIL)		113	Wild	F3 V	4	(E7C+4)	[9C3F]	BcCeF	12	4704
+
+1105	Troj	D	2709	O'Keefe	D879625-7	S	    Ni 		604	ImDd	F4 V	-3	(851-5)	[4335]	B	11	-200
+1281	Troj	D	2709	O'Keefe	D879000-7	S	    Di 		004	Wild	F4 V	-3	(800-1)	[0000]	B	11	-8
+1508	Troj	D	2709	O'Keefe	D879000-7	S	    Di 		004	Wild	F4 V	-3	(800-3)	[0000]	B	11	-24
+1900	Troj	D	2709	O'Keefe	D879000-7	S	    Di 		004	Wild	F4 V	-3	(800-3)	[0000]	B	11	-24
+
+1105	Troj	H	2711	Empire	B679334-C	N 	    Lo 		503	ImDd	G2 V M4 V	1	(821-1)	[143A]	B	11	-16
+1281	Troj	H	2711	Empire	D679000-C	T 	    Di 		003	Wild	G2 V M4 V	-1	(800-5)	[0000]	B	11	-40
+1508	Troj	H	2711	Empire	D679000-C	T 	    Di 		003	Wild	G2 V M4 V	-1	(800-2)	[0000]	B	11	-16
+1900	Troj	H	2711	Empire	D679000-C	T 	    Di 		003	Wild	G2 V M4 V	-1	(800-3)	[0000]	B	11	-24
+
+1105	Troj	H	2714	Hradus	B54699B-7	S	   Hi In (NIL)	A	223	ImDd	F1 V M6 V	2	(B8B+4)	[BB79]	BE	11	3872
+1281	Troj	H	2714	Hradus	B5469DG-7	S	   Hi In (NIL)		123	Wild	F1 V M6 V	2	(B8E+2)	[BB8B]	BE	11	2464
+1508	Troj	H	2714	Hradus	B5469AE-6	S	   Hi In (NIL)		223	Wild	F1 V M6 V	2	(B88-2)	[AB25]	BE	11	-1408
+1900	Troj	H	2714	Hradus	B5469CC-7	S	   Hi In (NIL)		123	Wild	F1 V M6 V	2	(B89+1)	[7B47]	BE	11	792
+
+1105	Troj	H	2715	Hexx	B78A577-D	N 	  Ni Pr Wa 		314	ImDd	F6 V	1	(C45+1)	[565D]	Bc	11	240
+1281	Troj	H	2715	Hexx	D78A000-D	T 	   Di Wa 		014	Wild	F6 V	-1	(C00-5)	[0000]	B	11	-60
+1508	Troj	H	2715	Hexx	D78A000-D	T 	   Di Wa 		014	Wild	F6 V	-1	(C00-4)	[0000]	B	11	-48
+1900	Troj	H	2715	Hexx	D78A000-D	T 	   Di Wa 		014	Wild	F6 V	-1	(C00+3)	[0000]	B	11	36
+
+1105	Troj	H	2719	Iilgan	C567787-8	 	    Ag Ri (NIL)		812	NaHu	G7 V	1	(C69+1)	[7858]	BC	14	648
+1281	Troj	H	2719	Iilgan	C567777-6	 	    Ag Ri (NIL)		412	Wild	G7 V	1	(963+1)	[8815]	BC	14	162
+1508	Troj	H	2719	Iilgan	C567747-7	 	    Ag Ri (NIL)		312	Wild	G7 V	1	(966-1)	[9837]	BC	14	-324
+1900	Troj	H	2719	Iilgan	C5677AB-8	 	    Ag Ri (NIL)		212	Wild	G7 V	1	(C64+1)	[A847]	BC	14	288
+
+1105	Troj	L	2721	Tanith	A589342-B	 	    Lo 		105	NaHu	M3 V M8 V	1	(A21-3)	[1417]	B	11	-60
+1281	Troj	L	2721	Tanith	E589000-B	 	    Di 		005	Wild	M3 V M8 V	-1	(A00+4)	[0000]	B	11	40
+1508	Troj	L	2721	Tanith	E589000-B	 	    Di 		005	Wild	M3 V M8 V	-1	(A00+1)	[0000]	B	11	10
+1900	Troj	L	2721	Tanith	E589000-B	 	    Di 		005	Wild	M3 V M8 V	-1	(A00+2)	[0000]	B	11	20
+
+1105	Troj	L	2722	Acrid	AAC1388-D	 	   Fl He Lo 		103	NaHu	M7 III	1	(821+1)	[345D]	B	13	16
+1281	Troj	L	2722	Acrid	EAC1000-D	 	   Di Fl He 		003	Wild	M7 III	-1	(800+1)	[0000]	B	13	8
+1508	Troj	L	2722	Acrid	EAC1000-D	 	   Di Fl He 		003	Wild	M7 III	-1	(800-2)	[0000]	B	13	-16
+1900	Troj	L	2722	Acrid	EAC1000-D	 	   Di Fl He 		003	Wild	M7 III	-1	(800+3)	[0000]	B	13	24
+
+1105	Troj	L	2724	Inurin	E668776-5	 	    Ag Ri (NIL)		404	NaHu	F7 V M9 V M4 V	0	(967-1)	[6744]	BC	13	-378
+1281	Troj	L	2724	Inurin	E668731-3	 	    Ag Ri (NIL)		204	Wild	F7 V M9 V M4 V	0	(964+3)	[4733]	BC	13	648
+1508	Troj	L	2724	Inurin	E6687C9-4	 	    Ag Ri (NIL)		104	Wild	F7 V M9 V M4 V	0	(967-2)	[8726]	BC	13	-756
+1900	Troj	L	2724	Inurin	E668778-5	 	    Ag Ri (NIL)		104	Wild	F7 V M9 V M4 V	0	(967-1)	[A749]	BC	13	-378
+
+1105	Troj	L	2725	Falcon	A558448-D	 	   Ni Pa 		405	NaHu	F6 V	1	(B34+1)	[455D]	Bc	11	132
+1281	Troj	L	2725	Falcon	A558413-B	 	   Ni Pa 		205	Wild	F6 V	1	(B34+2)	[355B]	Bc	11	264
+1508	Troj	L	2725	Falcon	A558477-C	 	   Ni Pa 		305	Wild	F6 V	1	(B32-1)	[45AD]	Bc	11	-66
+1900	Troj	L	2725	Falcon	A558453-E	 	   Ni Pa 		305	Wild	F6 V	1	(B36-1)	[555A]	Bc	11	-198
+
+1105	Troj	D	2801	MacDermont	D200768-8	 	   Na Pi Va 	A	204	ImDd	F1 V	-2	(D66-2)	[7558]	BD	11	-936
+1281	Troj	D	2801	MacDermont	D200776-6	 	   Na Pi Va 		104	Wild	F1 V	-2	(967-4)	[4572]	BD	11	-1512
+1508	Troj	D	2801	MacDermont	D200685-7	 	  Na Ni Va 		904	Wild	F1 V	-3	(952-2)	[436A]	B	11	-180
+1900	Troj	D	2801	MacDermont	D200677-8	 	  Na Ni Va 		904	Wild	F1 V	-3	(D52+4)	[5345]	B	11	520
+
+1105	Troj	D	2804	Junction	B763773-6	 	    Ri (NIL)		905	ImDd	M8 V M9 V	1	(968-2)	[4823]	BC	13	-864
+1281	Troj	D	2804	Junction	B763777-4	 	    Ri (NIL)		405	Wild	M8 V M9 V	1	(967+4)	[A818]	BC	13	1512
+1508	Troj	D	2804	Junction	B763772-5	 	    Ri (NIL)		305	Wild	M8 V M9 V	1	(967-4)	[5834]	BC	13	-1512
+1900	Troj	D	2804	Junction	B763797-6	 	    Ri (NIL)		205	Wild	M8 V M9 V	1	(967+2)	[6856]	BC	13	756
+
+1105	Troj	D	2805	Peridot	B989894-A	N 	   Ph Ri (NIL)		700	ImDd	F3 V D	3	(A7C+1)	[6B38]	BCe	9	840
+1281	Troj	D	2805	Peridot	B989875-8	N 	   Ph Ri (NIL)		300	Wild	F3 V D	1	(A78-2)	[997C]	BCe	9	-1120
+1508	Troj	D	2805	Peridot	B989877-9	N 	   Ph Ri (NIL)		400	Wild	F3 V D	2	(A74+1)	[7A2A]	BCe	9	280
+1900	Troj	D	2805	Peridot	B989879-A	N 	   Ph Ri (NIL)		500	Wild	F3 V D	3	(A79-2)	[BB98]	BCe	9	-1260
+
+1105	Troj	D	2807	Fintor	B540344-7	 	  De He Lo Po 		703	ImDd	F9 V	-1	(520-3)	[1235]	B	14	-30
+1281	Troj	D	2807	Fintor	X540000-7	 	  De He Di Po 		003	Wild	F9 V	-3	(500+1)	[0000]	B	14	5
+1508	Troj	D	2807	Fintor	X540000-7	 	  De He Di Po 		003	Wild	F9 V	-3	(500-1)	[0000]	B	14	-5
+1900	Troj	D	2807	Fintor	X540000-7	 	  De He Di Po 		003	Wild	F9 V	-3	(500-1)	[0000]	B	14	-5
+
+1105	Troj	H	2813	Saurus	A550543-B	 	  De Ni Po 		512	ImDd	F0 V	1	(A45-2)	[2628]	B	7	-400
+1281	Troj	H	2813	Saurus	A550575-9	 	  De Ni Po 		212	Wild	F0 V	0	(A42+4)	[9544]	B	7	320
+1508	Troj	H	2813	Saurus	A550554-B	 	  De Ni Po 		312	Wild	F0 V	1	(A46+3)	[864D]	B	7	720
+1900	Troj	H	2813	Saurus	A5505AA-B	 	  De Ni Po 		412	Wild	F0 V	1	(A42-3)	[564A]	B	7	-240
+
+1105	Troj	H	2814	971-852	E78A000-0	 	   Ba Wa 	A	004	ImDd	F6 V M3 V	-3	(200-5)	[0000]	B	7	-10
+1281	Troj	H	2814	971-852	E78A000-0	 	   Ba Wa 		004	Wild	F6 V M3 V	-3	(200-1)	[0000]	B	7	-2
+1508	Troj	H	2814	971-852	E78A000-0	 	   Ba Wa 		004	Wild	F6 V M3 V	-3	(200-5)	[0000]	B	7	-10
+1900	Troj	H	2814	971-852	E78A000-0	 	   Ba Wa 		004	Wild	F6 V M3 V	-3	(200+1)	[0000]	B	7	2
+
+1105	Troj	H	2815	Ardasii	B550684-9	N 	  De Ni Po 		110	ImDd	F7 V	0	(954-2)	[4637]	B	7	-360
+1281	Troj	H	2815	Ardasii	B550577-8	N 	  De Ni Po 		510	Wild	F7 V	-1	(940+1)	[5444]	B	7	36
+1508	Troj	H	2815	Ardasii	B550555-A	N 	  De Ni Po 		510	Wild	F7 V	1	(945-1)	[263A]	B	7	-180
+1900	Troj	H	2815	Ardasii	B550544-A	N 	  De Ni Po 		410	Wild	F7 V	1	(945+2)	[265D]	B	7	360
+
+1105	Troj	H	2819	Wildeman	B201674-C	 	  Ic Va Na Ni 		402	NaHu	F7 V	1	(A55-1)	[473A]	B	11	-250
+1281	Troj	H	2819	Wildeman	B201576-B	 	   Ic Va Ni 		202	Wild	F7 V	1	(A45+4)	[468C]	B	11	800
+1508	Troj	H	2819	Wildeman	B20157B-C	 	   Ic Va Ni 		202	Wild	F7 V	1	(A42-3)	[161E]	B	11	-240
+1900	Troj	H	2819	Wildeman	B201520-D	 	   Ic Va Ni 		102	Wild	F7 V	1	(A47+1)	[463B]	B	11	280
+
+1105	Troj	H	2820	Pandora	B878313-B	 	    Lo 		401	NaHu	M0 V	1	(621-2)	[1428]	B	7	-24
+1281	Troj	H	2820	Pandora	E878000-B	 	    Di 		001	Wild	M0 V	-1	(600+1)	[0000]	B	7	6
+1508	Troj	H	2820	Pandora	E878000-B	 	    Di 		001	Wild	M0 V	-1	(600+1)	[0000]	B	7	6
+1900	Troj	H	2820	Pandora	E878000-B	 	    Di 		001	Wild	M0 V	-1	(600+1)	[0000]	B	7	6
+
+1105	Troj	L	2821	Cordan	A895347-9	 	    Lo 		203	NaHu	F4 V	0	(820+1)	[3359]	B	10	16
+1281	Troj	L	2821	Cordan	D895000-9	 	    Di 		003	Wild	F4 V	-2	(800+1)	[0000]	B	10	8
+1508	Troj	L	2821	Cordan	D895000-9	 	    Di 		003	Wild	F4 V	-2	(800+1)	[0000]	B	10	8
+1900	Troj	L	2821	Cordan	D895000-9	 	    Di 		003	Wild	F4 V	-2	(800+1)	[0000]	B	10	8
+
+1105	Troj	L	2823	Exe	B300101-A	 	   Lo Va 		601	NaHu	K6 V	1	(401-3)	[1216]	B	4	-12
+1281	Troj	L	2823	Exe	D300000-A	 	   Di Va 		001	Wild	K6 V	-1	(400+1)	[0000]	B	4	4
+1508	Troj	L	2823	Exe	D300000-A	 	   Di Va 		001	Wild	K6 V	-1	(400+2)	[0000]	B	4	8
+1900	Troj	L	2823	Exe	D300000-A	 	   Di Va 		001	Wild	K6 V	-1	(400-4)	[0000]	B	4	-16
+
+1105	Troj	L	2824	Sperle	BA8A78A-7	 	   Oc Ri (NIL)		920	NaHu	F3 V	1	(969+3)	[9879]	BC	6	1458
+1281	Troj	L	2824	Sperle	BA8A746-5	 	   Oc Ri (NIL)		420	Wild	F3 V	1	(96A-2)	[A828]	BC	6	-1080
+1508	Troj	L	2824	Sperle	BA8A734-6	 	   Oc Ri (NIL)		420	Wild	F3 V	1	(96B+3)	[9816]	BC	6	1782
+1900	Troj	L	2824	Sperle	BA8A773-7	 	   Oc Ri (NIL)		320	Wild	F3 V	1	(965+1)	[686A]	BC	6	270
+
+1105	Troj	D	2902	Bleak	C9C6225-9	S	  An Fl Lo 		304	ImDd	M2 V	-1	(810-3)	[1137]	B	7	-24
+1281	Troj	D	2902	Bleak	D9C6000-9	T 	  An Di Fl 		004	Wild	M2 V	-2	(800-1)	[0000]	B	7	-8
+1508	Troj	D	2902	Bleak	D9C6000-9	T 	  An Di Fl 		004	Wild	M2 V	-2	(800+3)	[0000]	B	7	24
+1900	Troj	D	2902	Bleak	D9C6000-9	T 	  An Di Fl 		004	Wild	M2 V	-2	(800+1)	[0000]	B	7	8
+
+1105	Troj	D	2904	Iscand	B795553-B	N 	   Ag Ni 		101	ImDd	K6 V	2	(846-1)	[2728]	BC	11	-192
+1281	Troj	D	2904	Iscand	D795000-B	T 	    Di 		001	Wild	K6 V	-1	(800+1)	[0000]	B	11	8
+1508	Troj	D	2904	Iscand	D795000-B	T 	    Di 		001	Wild	K6 V	-1	(800+1)	[0000]	B	11	8
+1900	Troj	D	2904	Iscand	D795000-B	T 	    Di 		001	Wild	K6 V	-1	(800+2)	[0000]	B	11	16
+
+1105	Troj	D	2909	Mirage	A560676-A	 	  De Ni Ri 		603	ImDd	F0 V	2	(B56+1)	[5849]	BC	9	330
+1281	Troj	D	2909	Mirage	X560000-A	 	   De Di 		003	Wild	F0 V	-1	(B00-2)	[0000]	B	9	-22
+1508	Troj	D	2909	Mirage	X560000-A	 	   De Di 		003	Wild	F0 V	-1	(B00+3)	[0000]	B	9	33
+1900	Troj	D	2909	Mirage	X560000-A	 	   De Di 		003	Wild	F0 V	-1	(B00+3)	[0000]	B	9	33
+
+1105	Troj	D	2910	Susanawo	D68A430-5	 	   Ni Wa 		111	ImDd	F0 V	-3	(631-5)	[1111]	B	10	-90
+1281	Troj	D	2910	Susanawo	D68A300-4	 	   Lo Wa 		511	Wild	F0 V	-3	(620-3)	[1196]	B	10	-36
+1508	Troj	D	2910	Susanawo	D68A310-4	 	   Lo Wa 		611	Wild	F0 V	-3	(620-4)	[1122]	B	10	-48
+1900	Troj	D	2910	Susanawo	D68A387-5	 	   Lo Wa 		711	Wild	F0 V	-3	(620+1)	[3152]	B	10	12
+
+1105	Troj	H	2912	Darchona	B59A742-A	 	   Pi Wa (NIL)		533	ImDd	F9 V	2	(F6B-2)	[3916]	BD	10	-1980
+1281	Troj	H	2912	Darchona	E59A000-A	 	  Di Pi Wa (NIL)		033	Wild	F9 V	-1	(F00+1)	[0000]	BD	10	15
+1508	Troj	H	2912	Darchona	E59A000-A	 	   Di Wa (NIL)		033	Wild	F9 V	-1	(F00-1)	[0000]	B	10	-15
+1900	Troj	H	2912	Darchona	E59A000-A	 	   Di Wa (NIL)		033	Wild	F9 V	-1	(F00+1)	[0000]	B	10	15
+
+1105	Troj	H	2915	Sabruse	EAC8343-9	 	   Fl Lo 		220	ImDd	F3 V M5 V	-2	(720-5)	[1126]	B	10	-70
+1281	Troj	H	2915	Sabruse	EAC8000-9	 	   Di Fl 		020	Wild	F3 V M5 V	-2	(700+1)	[0000]	B	10	7
+1508	Troj	H	2915	Sabruse	EAC8000-9	 	   Di Fl 		020	Wild	F3 V M5 V	-2	(700+1)	[0000]	B	10	7
+1900	Troj	H	2915	Sabruse	EAC8000-9	 	   Di Fl 		020	Wild	F3 V M5 V	-2	(700+2)	[0000]	B	10	14
+
+1105	Troj	H	2916	Imisaa	B520867-7	N 	  De He Na Pi Po Ph (NIL)		113	ImDd	F8 V M5 V	0	(A78+1)	[8857]	BDe	10	560
+1281	Troj	H	2916	Imisaa	B52075A-6	N 	   De He Na Pi Po (NIL)		513	Wild	F8 V M5 V	0	(A6B+3)	[A75A]	BD	10	1980
+1508	Troj	H	2916	Imisaa	B520779-6	N 	   De He Na Pi Po (NIL)		613	Wild	F8 V M5 V	0	(A64+1)	[5792]	BD	10	240
+1900	Troj	H	2916	Imisaa	B520773-7	N 	   De He Na Pi Po (NIL)		513	Wild	F8 V M5 V	0	(A67+2)	[9747]	BD	10	840
+
+1105	Troj	H	2918	Fist	B789430-C	 	    Ni 		313	ImDd	F1 V	1	(A34-3)	[1517]	B	10	-360
+1281	Troj	H	2918	Fist	B789441-A	 	    Ni 		113	Wild	F1 V	1	(A34+2)	[1518]	B	10	240
+1508	Troj	H	2918	Fist	B789477-B	 	    Ni 		113	Wild	F1 V	1	(A36-2)	[154A]	B	10	-360
+1900	Troj	H	2918	Fist	B789457-D	 	    Ni 		213	Wild	F1 V	1	(A35+2)	[3579]	B	10	300
+
+1105	Troj	L	2921	Umemii	C521877-7	 	  He Na Pi Po Ph (NIL)		304	NaHu	F5 V	-1	(A77-1)	[8757]	BDe	9	-490
+1281	Troj	L	2921	Umemii	C5218DC-7	 	  He Na Pi Po Ph (NIL)		104	Wild	F5 V	-1	(A78+2)	[7727]	BDe	9	1120
+1508	Troj	L	2921	Umemii	C521853-7	 	  He Na Pi Po Ph (NIL)		104	Wild	F5 V	-1	(A76-2)	[9794]	BDe	9	-840
+1900	Troj	L	2921	Umemii	C521789-7	 	   He Na Pi Po (NIL)		904	Wild	F5 V	-1	(A6A+1)	[B618]	BD	9	600
+
+1105	Troj	L	2923	Argona	B612586-9	 	   Ic Ni 		403	NaHu	K2 V M3 V	0	(A44-1)	[4548]	B	9	-160
+1281	Troj	L	2923	Argona	B61258D-7	 	   Ic Ni 		203	Wild	K2 V M3 V	-1	(745+3)	[345A]	B	9	420
+1508	Troj	L	2923	Argona	B612544-8	 	   Ic Ni 		303	Wild	K2 V M3 V	-1	(A45-5)	[1469]	B	9	-1000
+1900	Troj	L	2923	Argona	B612588-9	 	   Ic Ni 		403	Wild	K2 V M3 V	0	(A41+3)	[5569]	B	9	120
+
+1105	Troj	P	2938	Sarage	B540523-B	N 	  De He Ni Po 		902	CsIm	F1 V	1	(945-2)	[2628]	B	8	-360
+1281	Troj	P	2938	Sarage	D540000-B	T 	  De He Di Po 		002	Wild	F1 V	-1	(900+1)	[0000]	B	8	9
+1508	Troj	P	2938	Sarage	D540000-B	T 	  De He Di Po 		002	Wild	F1 V	-1	(900-1)	[0000]	B	8	-9
+1900	Troj	P	2938	Sarage	D540000-B	T 	  De He Di Po 		002	Wild	F1 V	-1	(900+1)	[0000]	B	8	9
+
+1105	Troj	D	3003	627-301	X000120-7	 	   As Va Lo 	R	901	ImDd	F3 V	-3	(300-5)	[1112]	B	10	-15
+1281	Troj	D	3003	627-301	X000000-7	 	   As Va Di 		001	Wild	F3 V	-3	(300-3)	[0000]	B	10	-9
+1508	Troj	D	3003	627-301	X000000-7	 	   As Va Di 		001	Wild	F3 V	-3	(300+4)	[0000]	B	10	12
+1900	Troj	D	3003	627-301	X000000-7	 	   As Va Di 		001	Wild	F3 V	-3	(300-2)	[0000]	B	10	-6
+
+1105	Troj	H	3011	Dimorus	D300755-7	 	   Na Pi Va 		600	ImDd	G0 V M7 V	-2	(966-4)	[5535]	BD	13	-1296
+1281	Troj	H	3011	Dimorus	D300744-4	 	   Na Pi Va 		300	Wild	G0 V M7 V	-2	(962-2)	[3564]	BD	13	-216
+1508	Troj	H	3011	Dimorus	D300773-5	 	   Na Pi Va 		300	Wild	G0 V M7 V	-2	(963+1)	[5515]	BD	13	162
+1900	Troj	H	3011	Dimorus	D300757-7	 	   Na Pi Va 		300	Wild	G0 V M7 V	-2	(969+1)	[756B]	BD	13	486
+
+1105	Troj	H	3012	Our Planet	B687100-A	 	   Ga Lo 		314	ImDd	F1 V	1	(801-3)	[1215]	B	13	-24
+1281	Troj	H	3012	Our Planet	X687000-A	 	   Di Ga 		014	Wild	F1 V	-1	(800+3)	[0000]	B	13	24
+1508	Troj	H	3012	Our Planet	X687000-A	 	   Di Ga 		014	Wild	F1 V	-1	(800-4)	[0000]	B	13	-32
+1900	Troj	H	3012	Our Planet	X687000-A	 	   Di Ga 		014	Wild	F1 V	-1	(800+4)	[0000]	B	13	32
+
+1105	Troj	H	3013	Ayldem	A540784-C	N 	   De He Pi Po (NIL)	A	804	ImDd	M2 V	2	(D6C+1)	[593A]	BD	13	936
+1281	Troj	H	3013	Ayldem	A540751-B	N 	   De He Pi Po (NIL)		404	Wild	M2 V	2	(D68-4)	[596B]	BD	13	-2496
+1508	Troj	H	3013	Ayldem	A540779-B	N 	   De He Pi Po (NIL)		404	Wild	M2 V	2	(D64+1)	[6988]	BD	13	312
+1900	Troj	H	3013	Ayldem	A540787-C	N 	   De He Pi Po (NIL)		304	Wild	M2 V	2	(D6C+1)	[B97B]	BD	13	936
+
+1105	Troj	H	3015	Pichot	E546330-5	 	    Lo 		123	ImDd	F1 V M8 V	-3	(520-5)	[1111]	B	13	-50
+1281	Troj	H	3015	Pichot	E546000-5	 	    Di 		023	Wild	F1 V M8 V	-3	(500-1)	[0000]	B	13	-5
+1508	Troj	H	3015	Pichot	E546000-5	 	    Di 		023	Wild	F1 V M8 V	-3	(500+2)	[0000]	B	13	10
+1900	Troj	H	3015	Pichot	E546000-5	 	    Di 		023	Wild	F1 V M8 V	-3	(500+1)	[0000]	B	13	5
+
+1105	Troj	H	3016	New	D66668A-5	S	  Ag Ri Ga Ni 		503	ImDd	F9 V	-1	(853+1)	[8577]	BC	13	120
+1281	Troj	H	3016	New	D666676-3	S	  Ag Ri Ga Ni 		203	Wild	F9 V	-1	(852+2)	[4543]	BC	13	160
+1508	Troj	H	3016	New	D666649-4	S	  Ag Ri Ga Ni 		303	Wild	F9 V	-1	(851+1)	[8557]	BC	13	40
+1900	Troj	H	3016	New	D666676-5	S	  Ag Ri Ga Ni 		403	Wild	F9 V	-1	(851+5)	[6566]	BC	13	200
+
+1105	Troj	L	3029	Villane	B100634-8	 	  Na Ni Va 		413	NaHu	F1 IV	-1	(C53-3)	[4536]	B	12	-540
+1281	Troj	L	3029	Villane	B100543-7	 	   Ni Va 		213	Wild	F1 IV	-1	(845+3)	[3429]	B	12	480
+1508	Troj	L	3029	Villane	B100535-8	 	   Ni Va 		113	Wild	F1 IV	-1	(C40+5)	[2459]	B	12	240
+1900	Troj	L	3029	Villane	B100456-A	 	   Ni Va 		913	Wild	F1 IV	1	(C32-1)	[155C]	B	12	-72
+
+1105	Troj	L	3030	Browne	B550A96-9	 	  De Hi Po (NIL)		903	NaHu	G4 V M2 V	2	(F9C+1)	[9C48]	BE	14	1620
+1281	Troj	L	3030	Browne	B550ABE-7	 	  De Hi Po (NIL)		403	Wild	G4 V M2 V	1	(C96+1)	[9B16]	BE	14	648
+1508	Troj	L	3030	Browne	B550A97-8	 	  De Hi Po (NIL)		503	Wild	G4 V M2 V	1	(F9C-4)	[FB27]	BE	14	-6480
+1900	Troj	L	3030	Browne	B550ACF-9	 	  De Hi Po (NIL)		403	Wild	G4 V M2 V	2	(F9C-1)	[EC9A]	BE	14	-1620
+
+1105	Troj	D	3105	Neumann	B876AA9-D	N 	   Hi In (NIL)		123	ImDd	G3 V	4	(H9G+5)	[BE6E]	BEf	13	12240
+1281	Troj	D	3105	Neumann	B876976-9	N 	   Hi In (NIL)		523	Wild	G3 V	3	(H89+4)	[7C16]	BE	13	4896
+1508	Troj	D	3105	Neumann	B876989-A	N 	   Hi In (NIL)		623	Wild	G3 V	4	(H8F+1)	[DD5A]	BEf	13	2040
+1900	Troj	D	3105	Neumann	B87698C-B	N 	   Hi In (NIL)		623	Wild	G3 V	4	(H8E+1)	[8D4E]	BEf	13	1904
+
+1105	Troj	D	3107	Ploderash	D303696-8	 	  Ic Va Na Ni 		520	ImDd	F1 V M9 V	-3	(A51-4)	[5347]	B	10	-200
+1281	Troj	D	3107	Ploderash	D303676-6	 	  Ic Va Na Ni 		220	Wild	F1 V M9 V	-3	(852-2)	[A346]	B	10	-160
+1508	Troj	D	3107	Ploderash	D303698-7	 	  Ic Va Na Ni 		120	Wild	F1 V M9 V	-3	(850-1)	[6367]	B	10	-40
+1900	Troj	D	3107	Ploderash	D303673-8	 	  Ic Va Na Ni 		220	Wild	F1 V M9 V	-3	(A52+1)	[8398]	B	10	100
+
+1105	Troj	H	3111	Khaliki	D31156B-9	 	   Ic Ni 		215	ImDd	F5 V	-2	(D42+1)	[737B]	B	10	104
+1281	Troj	H	3111	Khaliki	D311543-7	 	   Ic Ni 		115	Wild	F5 V	-3	(741+1)	[8275]	B	10	28
+1508	Troj	H	3111	Khaliki	D311446-8	 	   Ic Ni 		915	Wild	F5 V	-3	(D30-2)	[415B]	B	10	-78
+1900	Troj	H	3111	Khaliki	D311479-9	 	   Ic Ni 		815	Wild	F5 V	-2	(D30+3)	[5218]	B	10	117
+
+1105	Troj	H	3113	Simok	D9A08CC-8	 	   He Ph (ENIL)	A	701	ImDd	F0 V	-2	(B76+1)	[B68B]	Be	10	462
+1281	Troj	H	3113	Simok	D9A08BC-6	 	   He Ph (ENIL)		301	Wild	F0 V	-2	(A76+1)	[8688]	Be	10	420
+1508	Troj	H	3113	Simok	D9A0896-7	 	   He Ph (ENIL)		301	Wild	F0 V	-2	(A73+2)	[4647]	Be	10	420
+1900	Troj	H	3113	Simok	D9A0851-9	 	   He Ph (ENIL)		401	Wild	F0 V	-1	(B74+1)	[C75E]	Be	10	308
+
+1105	Troj	H	3116	Attee	C7529AE-5	 	   Hi Po (NIL)	A	404	ImDd	F9 V	0	(B88+4)	[D999]	BE	10	2816
+1281	Troj	H	3116	Attee	C752998-3	 	   Hi Po (NIL)		204	Wild	F9 V	0	(B85+1)	[8991]	BE	10	440
+1508	Troj	H	3116	Attee	C752974-4	 	   Hi Po (NIL)		104	Wild	F9 V	0	(B83+1)	[A974]	BE	10	264
+1900	Troj	H	3116	Attee	C752897-3	 	   Ph Po (NIL)		904	Wild	F9 V	-1	(B77-5)	[7755]	Be	10	-2695
+
+1105	Troj	H	3117	Eshadi	B431358-E	 	   Lo Px Po 		311	ImDd	M7 V	1	(721+1)	[345E]	B	10	14
+1281	Troj	H	3117	Eshadi	X431000-E	 	   Di Px Po 		011	Wild	M7 V	-1	(700-5)	[0000]	B	10	-35
+1508	Troj	H	3117	Eshadi	X431000-E	 	   Di Po 		011	Wild	M7 V	-1	(700+1)	[0000]	B	10	7
+1900	Troj	H	3117	Eshadi	X431000-E	 	   Di Po 		011	Wild	M7 V	-1	(700+1)	[0000]	B	10	7
+
+1105	Troj	H	3119	New Moscow	B76779A-7	 	   Ag Ri Ga (NIL)		513	ImDd	F8 V	2	(96A+4)	[9979]	BC	10	2160
+1281	Troj	H	3119	New Moscow	B767750-6	 	   Ag Ri Ga (NIL)		213	Wild	F8 V	2	(96B-4)	[5945]	BC	10	-2376
+1508	Troj	H	3119	New Moscow	B767752-7	 	   Ag Ri Ga (NIL)		213	Wild	F8 V	2	(96C+1)	[6937]	BC	10	648
+1900	Troj	H	3119	New Moscow	B767796-7	 	   Ag Ri Ga (NIL)		313	Wild	F8 V	2	(96B-2)	[6938]	BC	10	-1188
+
+1105	Troj	P	3140	Auitawry	A56689A-C	 	  An Pa Ri Ph (NIL)	A	514	NaDr	G6 V	4	(F7E+5)	[AC7E]	BcCef	10	7350
+1281	Troj	P	3140	Auitawry	A56687C-A	 	  An Pa Ri Ph (NIL)		214	Wild	G6 V	3	(F7D+2)	[8B6D]	BcCe	10	2730
+1508	Troj	P	3140	Auitawry	A566853-C	 	  An Pa Ri Ph (NIL)		314	Wild	G6 V	3	(F79+1)	[AB3A]	BcCe	10	945
+1900	Troj	P	3140	Auitawry	A566846-C	 	  An Pa Ri Ph (NIL)		414	Wild	G6 V	3	(F78+1)	[5B6C]	BcCe	10	840
+
+1105	Troj	H	3212	Berg	A675542-B	N 	   Ag Ni 		805	ImDd	F5 V	2	(C46-2)	[1717]	BC	10	-576
+1281	Troj	H	3212	Berg	D675000-B	T 	    Di 		005	Wild	F5 V	-1	(C00-5)	[0000]	B	10	-60
+1508	Troj	H	3212	Berg	D675000-B	T 	    Di 		005	Wild	F5 V	-1	(C00+1)	[0000]	B	10	12
+1900	Troj	H	3212	Berg	D675000-B	T 	    Di 		005	Wild	F5 V	-1	(C00+4)	[0000]	B	10	48
+
+1105	Troj	H	3213	Kedus	D867400-3	 	  Ga Ni Pa 		913	ImDd	F8 V	-3	(631-5)	[1111]	Bc	10	-90
+1281	Troj	H	3213	Kedus	D867000-3	 	   Di Ga 		013	Wild	F8 V	-3	(600+1)	[0000]	B	10	6
+1508	Troj	H	3213	Kedus	D867000-3	 	   Di Ga 		013	Wild	F8 V	-3	(600-3)	[0000]	B	10	-18
+1900	Troj	H	3213	Kedus	D867000-3	 	   Di Ga 		013	Wild	F8 V	-3	(600+1)	[0000]	B	10	6
+
+1105	Troj	H	3215	Tobia	A544A55-F	N 	  Cs Hi In (NIL)		203	ImDd	F7 V	4	(F9G+2)	[8E3D]	BEF	10	4320
+1281	Troj	H	3215	Tobia	A544ABB-C	N 	  Cs Hi In (NIL)		103	Wild	F7 V	4	(F9D+1)	[9E3D]	BEF	10	1755
+1508	Troj	H	3215	Tobia	A544A88-D	N 	  Cs Hi In (NIL)		103	Wild	F7 V	4	(F9A-1)	[DE1F]	BEF	10	-1350
+1900	Troj	H	3215	Tobia	A5449A6-C	N 	  Cs Hi In (NIL)		903	Wild	F7 V	4	(F8F+4)	[AD1D]	BEF	10	7200
+
+1105	Troj	H	3219	Batav	B5A8764-A	 	   An Fl (ENIL)		110	ImDd	M6 II	2	(A6B+1)	[5938]	B	10	660
+1281	Troj	H	3219	Batav	D5A8000-A	 	  An Di Fl (ENIL)		010	Wild	M6 II	-1	(A00+1)	[0000]	B	10	10
+1508	Troj	H	3219	Batav	D5A8000-A	 	  An Di Fl (ENIL)		010	Wild	M6 II	-1	(A00-2)	[0000]	B	10	-20
+1900	Troj	H	3219	Batav	D5A8000-A	 	  An Di Fl (ENIL)		010	Wild	M6 II	-1	(A00-2)	[0000]	B	10	-20
+

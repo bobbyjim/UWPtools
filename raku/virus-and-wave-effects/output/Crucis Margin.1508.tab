@@ -1,425 +1,425 @@
 Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
-Cruc	A	0101	Aiwo	D685758-2	 	   Ag Ri Ga (NIL)		402	Wild	A9 V F0 V	0	(967-1)	[7717]	BC	10	-378
-Cruc	A	0103	Boe	X897000-4	 	    Di (NIL)		001	Wild	G2 V K7 V	-3	(A00+2)	[0000]	B	12	20
-Cruc	A	0106	Acier	XAC5000-9	 	   Di Fl 		020	Wild	F9 V M1 V	-2	(A00+4)	[0000]	B	12	40
-Cruc	A	0109	Yaren	E574000-7	 	    Di 		010	Wild	K1 V M2 V	-3	(600+5)	[0000]	B	7	30
-Cruc	E	0113	Jammu	D75A000-7	 	   Di Wa 		000	Wild	G6 V	-3	(500+1)	[0000]	B	8	5
-Cruc	E	0120	Negril	X652646-0	 	   Ni Po 		412	Wild	K4 V	-3	(853+4)	[1322]	B	12	480
-Cruc	I	0121	Okaya	X629000-A	 	    Di (NIL)		004	Wild	M3 V	-1	(E00-1)	[0000]	B	16	-14
-Cruc	I	0123	Suwa	X7C5000-9	 	   Di Fl 		000	Wild	M1 V	-2	(500+3)	[0000]	B	9	15
-Cruc	I	0124	Uda	E641000-4	 	  Di He Po 		003	Wild	F4 V	-3	(400-4)	[0000]	B	12	-16
-Cruc	I	0129	Kilchu	X431000-6	 	   Di Po 		000	Wild	F3 V M1 V	-3	(300+2)	[0000]	B	11	6
-Cruc	M	0136	Zynki	X78A000-0	 	   Ba Wa 		004	Wild	K7 V	-3	(500-2)	[0000]	B	13	-10
-Cruc	M	0140	K'Mara	X534000-A	 	    Di (NIL)		011	Wild	G8 V M1 V	-1	(B00+5)	[0000]	B	10	55
-Cruc	A	0202	Baiti	X575000-7	 	    Di 		020	Wild	G5 V M7 V	-3	(700-1)	[0000]	B	10	-7
-Cruc	A	0204	Anetan	E663695-4	 	   Ni Ri 		403	Wild	M3 V	-2	(851-1)	[5471]	BC	11	-40
-Cruc	A	0206	Nauru	E599000-5	 	    Di 		000	Wild	F6 V M4 V	-3	(500-2)	[0000]	B	6	-10
-Cruc	A	0209	Masinloc	X520000-7	 	  De He Di Po 		001	Wild	M2 V	-3	(400+3)	[0000]	B	8	12
-Cruc	E	0214	Fauve	X665779-0	 	   Ag Ri Ga (NIL)		403	Wild	F7 V	0	(96A-5)	[5751]	BC	6	-2700
-Cruc	E	0215	Nagar	X545000-5	 	    Di 		012	Wild	M7 III	-3	(800-2)	[0000]	B	9	-16
-Cruc	E	0217	Macroform	E542000-6	 	  Di He Po 		000	Wild	G9 V	-3	(700+2)	[0000]	B	10	14
-Cruc	E	0219	Ochon	X422000-7	 	  Di He Po 		003	Wild	M0 V	-3	(600-5)	[0000]	B	11	-30
-Cruc	I	0222	Odate	X541000-6	 	  Di He Po 		000	Wild	M0 V	-3	(800+1)	[0000]	B	8	8
-Cruc	I	0225	Kobe	C553640-6	 	   Ni Po 		401	Wild	M1 V M3 V	-2	(853+1)	[8489]	B	9	120
-Cruc	I	0227	Iida	X8C4000-9	 	   Di Fl (ENIL)		000	Wild	M3 V M9 V	-2	(A00+1)	[0000]	B	8	10
-Cruc	M	0233	Hmrilma	E562000-5	 	    Di 		000	Wild	K6 V	-3	(600-1)	[0000]	B	6	-6
-Cruc	M	0234	Rill	D879000-5	 	    Di (NIL)		011	Wild	F5 V M1 V	-3	(900-2)	[0000]	B	8	-18
-Cruc	M	0238	Sora	X200000-B	 	   Di Va 		004	Wild	F0 V	-1	(800-1)	[0000]	B	13	-8
-Cruc	M	0240	Himrai	X666000-5	 	   Di Ga 		000	Wild	M2 III F0 V	-3	(800+2)	[0000]	B	6	16
-Cruc	A	0302	Nibok	E554778-5	 	    Ag (NIL)		210	Wild	F5 V	-1	(96B+3)	[8615]	BC	10	1782
-Cruc	A	0304	Masyaf	X756677-0	 	  Ag Ga Ni 		402	Wild	M3 V	-2	(853+1)	[9461]	BC	7	120
-Cruc	A	0306	Gali	D797000-6	 	    Di 		003	Wild	A8 V	-3	(700+1)	[0000]	B	9	7
-Cruc	A	0308	Koniek	X567727-0	 	    Ag Ri (NIL)		200	Wild	K6 V	0	(96A-2)	[9721]	BC	8	-1080
-Cruc	E	0311	Arrah	X543000-6	 	   Di Po 		010	Wild	M3 V	-3	(800+4)	[0000]	B	9	32
+Cruc	A	0101	Aiwo	X685799-0	 	   Ag Ri Ga (NIL)		302	Wild	A9 V F0 V	0	(965+1)	[4781]	BC	10	270
+Cruc	A	0103	Boe	C897888-7	 	   Pa Pi Ph (NIL)		101	Wild	G2 V K7 V	-1	(A76-3)	[87AA]	BcDe	12	-1260
+Cruc	A	0106	Acier	XAC5000-9	 	   Di Fl 		020	Wild	F9 V M1 V	-2	(A00-2)	[0000]	B	12	-20
+Cruc	A	0109	Yaren	E574000-7	 	    Di 		010	Wild	K1 V M2 V	-3	(600+1)	[0000]	B	7	6
+Cruc	E	0113	Jammu	D75A000-8	 	   Di Wa 		000	Wild	G6 V	-3	(500+1)	[0000]	B	8	5
+Cruc	E	0120	Negril	E65267C-2	 	   Ni Po 		312	Wild	K4 V	-3	(850+1)	[5362]	B	12	40
+Cruc	I	0121	Okaya	X629000-A	 	    Di (NIL)		004	Wild	M3 V	-1	(E00-2)	[0000]	B	16	-28
+Cruc	I	0123	Suwa	X7C5000-9	 	   Di Fl 		000	Wild	M1 V	-2	(500+4)	[0000]	B	9	20
+Cruc	I	0124	Uda	E641000-1	 	  Di He Po 		003	Wild	F4 V	-3	(400+1)	[0000]	B	12	4
+Cruc	I	0129	Kilchu	X431000-6	 	   Di Po 		000	Wild	F3 V M1 V	-3	(300+1)	[0000]	B	11	3
+Cruc	M	0136	Zynki	X78A000-0	 	   Ba Wa 		004	Wild	K7 V	-3	(500+5)	[0000]	B	13	25
+Cruc	M	0140	K'Mara	X534000-A	 	    Di (NIL)		011	Wild	G8 V M1 V	-1	(B00-1)	[0000]	B	10	-11
+Cruc	A	0202	Baiti	X575000-0	 	    Ba 		020	Wild	G5 V M7 V	-3	(700-2)	[0000]	B	10	-14
+Cruc	A	0204	Anetan	E663677-4	 	   Ni Ri 		403	Wild	M3 V	-2	(851+2)	[4495]	BC	11	80
+Cruc	A	0206	Nauru	E599000-3	 	    Di 		000	Wild	F6 V M4 V	-3	(500-5)	[0000]	B	6	-25
+Cruc	A	0209	Masinloc	X520000-7	 	  De He Di Po 		001	Wild	M2 V	-3	(400+1)	[0000]	B	8	4
+Cruc	E	0214	Fauve	X665786-0	 	   Ag Ri Ga (NIL)		203	Wild	F7 V	0	(966+3)	[8711]	BC	6	972
+Cruc	E	0215	Nagar	X545000-5	 	    Di 		012	Wild	M7 III	-3	(800-3)	[0000]	B	9	-24
+Cruc	E	0217	Macroform	E542000-7	 	  Di He Po 		000	Wild	G9 V	-3	(700-2)	[0000]	B	10	-14
+Cruc	E	0219	Ochon	X422000-7	 	  Di He Po 		003	Wild	M0 V	-3	(600-1)	[0000]	B	11	-6
+Cruc	I	0222	Odate	D541000-9	 	  Di He Po 		000	Wild	M0 V	-2	(800+3)	[0000]	B	8	24
+Cruc	I	0225	Kobe	X5536AD-0	 	   Ni Po 		101	Wild	M1 V M3 V	-3	(853+1)	[7364]	B	9	120
+Cruc	I	0227	Iida	X8C4000-9	 	   Di Fl (ENIL)		000	Wild	M3 V M9 V	-2	(A00+4)	[0000]	B	8	40
+Cruc	M	0233	Hmrilma	E562343-5	 	    Lo 		900	Wild	K6 V	-3	(620+4)	[5165]	B	6	48
+Cruc	M	0234	Rill	X879000-8	 	    Di (NIL)		011	Wild	F5 V M1 V	-3	(B00+3)	[0000]	B	8	33
+Cruc	M	0238	Sora	X200000-B	 	   Di Va 		004	Wild	F0 V	-1	(800-2)	[0000]	B	13	-16
+Cruc	M	0240	Himrai	X666378-1	 	   Ga Lo 		900	Wild	M2 III F0 V	-3	(820-1)	[6172]	B	6	-16
+Cruc	A	0302	Nibok	E554657-6	 	   Ag Ni (NIL)		910	Wild	F5 V	-2	(950+1)	[A485]	BC	10	45
+Cruc	A	0304	Masyaf	X75667C-0	 	  Ag Ga Ni 		202	Wild	M3 V	-2	(850-4)	[7431]	BC	7	-160
+Cruc	A	0306	Gali	D797000-6	 	    Di 		003	Wild	A8 V	-3	(700-1)	[0000]	B	9	-7
+Cruc	A	0308	Koniek	C5677A9-4	 	    Ag Ri (NIL)		300	Wild	K6 V	1	(969+1)	[8868]	BC	8	486
+Cruc	E	0311	Arrah	X543000-6	 	   Di Po 		010	Wild	M3 V	-3	(800-2)	[0000]	B	9	-16
 Cruc	E	0314	Kataga	X430000-6	 	  De Di Po 		003	Wild	M0 V	-3	(600+1)	[0000]	B	14	6
-Cruc	E	0316	Ttrino	X583000-7	 	    Di 		010	Wild	M0 V	-3	(600-4)	[0000]	B	6	-24
-Cruc	E	0320	Zhidah	X560000-5	 	   De Di 		014	Wild	A3 V	-3	(500+2)	[0000]	B	16	10
-Cruc	I	0321	Nikko	X7648AC-1	 	   Pa Ri Ph (NIL)		320	Wild	M2 V	-1	(A75-2)	[8771]	BcCe	13	-700
+Cruc	E	0316	Ttrino	C583344-3	 	    Lo 		910	Wild	M0 V	-2	(620+1)	[2165]	B	6	12
+Cruc	E	0320	Zhidah	X560000-5	 	   De Di 		014	Wild	A3 V	-3	(500+1)	[0000]	B	16	5
+Cruc	I	0321	Nikko	X764874-1	 	   Pa Ri Ph (NIL)		320	Wild	M2 V	-1	(A77-5)	[6732]	BcCe	13	-2450
 Cruc	I	0322	Mito	X8B9000-9	 	   Di Fl 		014	Wild	M0 V	-2	(B00+1)	[0000]	B	15	11
-Cruc	I	0324	Honjo	X527000-8	 	    Di 		010	Wild	G0 V M0 V	-3	(800+4)	[0000]	B	12	32
-Cruc	I	0326	Akita	D56878C-5	 	    Ag Ri (NIL)		304	Wild	K6 V M3 V	0	(968-1)	[B748]	BC	10	-432
-Cruc	I	0330	Oki	X424000-B	 	    Di 		000	Wild	M1 V	-1	(800+2)	[0000]	B	5	16
-Cruc	M	0337	Fmsani	X552477-1	 	   Ni Po 		913	Wild	M1 V M3 V	-3	(732+1)	[4111]	B	10	42
-Cruc	A	0401	Etzina	D554830-3	 	   Pa Ph (NIL)		210	Wild	M0 V	-2	(A77+1)	[7663]	Bce	12	490
-Cruc	E	0412	Abony	X544000-6	 	    Di 		000	Wild	K8 V	-3	(600+1)	[0000]	B	4	6
-Cruc	E	0414	Kronshlot	X554431-1	 	   Ni Pa 		902	Wild	F7 V G0 V	-3	(732-3)	[4131]	Bc	13	-126
-Cruc	E	0416	Kalradin	X787848-0	 	 Cx Ga Pa Ri Ph (NIL)		300	Wild	F4 V G4 V	-1	(A79-3)	[B781]	BcCe	9	-1890
-Cruc	E	0418	Flakestar	X425000-8	 	    Di 		011	Wild	M1 V	-3	(A00-3)	[0000]	B	14	-30
-Cruc	I	0421	Biwa	X527000-7	 	    Di (NIL)		022	Wild	F9 V M0 V	-3	(A00-3)	[0000]	B	12	-30
-Cruc	I	0423	Kuji	D566656-4	 	   Ag Ri Ni 		200	Wild	K8 V	-1	(850+4)	[6566]	BC	8	160
+Cruc	I	0324	Honjo	X527000-8	 	    Di 		010	Wild	G0 V M0 V	-3	(800+1)	[0000]	B	12	8
+Cruc	I	0326	Akita	D56879B-5	 	    Ag Ri (NIL)		204	Wild	K6 V M3 V	0	(966+4)	[8756]	BC	10	1296
+Cruc	I	0330	Oki	X424000-B	 	    Di 		000	Wild	M1 V	-1	(800+1)	[0000]	B	5	8
+Cruc	M	0337	Fmsani	X552000-2	 	   Di Po 		013	Wild	M1 V M3 V	-3	(700+1)	[0000]	B	10	7
+Cruc	A	0401	Etzina	D5547A9-3	 	    Ag (NIL)		910	Wild	M0 V	-1	(A63-1)	[6653]	BC	12	-180
+Cruc	E	0412	Abony	X544000-5	 	    Di 		000	Wild	K8 V	-3	(600-3)	[0000]	B	4	-18
+Cruc	E	0414	Kronshlot	X554585-1	 	   Ag Ni 		102	Wild	F7 V G0 V	-2	(741-1)	[7324]	BC	13	-28
+Cruc	E	0416	Kalradin	X78788A-0	 	 Cx Ga Pa Ri Ph (NIL)		300	Wild	F4 V G4 V	-1	(A73-2)	[8741]	BcCe	9	-420
+Cruc	E	0418	Flakestar	X425000-8	 	    Di 		011	Wild	M1 V	-3	(A00+1)	[0000]	B	14	10
+Cruc	I	0421	Biwa	X527000-7	 	    Di (NIL)		022	Wild	F9 V M0 V	-3	(A00+2)	[0000]	B	12	20
+Cruc	I	0423	Kuji	D566631-3	 	   Ag Ri Ni 		200	Wild	K8 V	-1	(852+2)	[7567]	BC	8	160
 Cruc	I	0428	Dogo	X434000-6	 	    Di (NIL)		024	Wild	G8 V M1 V M3 V	-3	(A00+1)	[0000]	B	14	10
-Cruc	M	0431	Midlo	X696776-1	 	    Ag Pi (NIL)		900	Wild	F5 V M7 V	-1	(A66+2)	[2652]	BCD	8	720
-Cruc	M	0433	Scorch	X420000-7	 	  De He Di Po 		003	Wild	M0 V	-3	(600+1)	[0000]	B	11	6
-Cruc	M	0439	Sfyri	X552856-0	 	  Cx Ph Po (NIL)		913	Wild	K5 V	-2	(B71-2)	[C661]	Be	12	-154
-Cruc	M	0440	Kald	X5A6000-8	 	   Di Fl (ENIL)		005	Wild	F3 V M1 V M3 V	-3	(F00+1)	[0000]	B	13	15
-Cruc	A	0503	Nashchaug	X000000-A	 	   As Va Di 		034	Wild	M0 III	-1	(B00+2)	[0000]	B	17	22
-Cruc	A	0505	Buada	X432000-A	 	   Di Po 		010	Wild	M3 V	-1	(800-5)	[0000]	B	10	-40
-Cruc	A	0507	Tasmilma	E7687BF-5	 	    Ag Ri (NIL)		400	Wild	F8 V M6 V	0	(968-2)	[7746]	BC	12	-864
-Cruc	A	0508	Arket	X886721-0	 	   Ag Ri Ga (NIL)		620	Wild	G8 V	0	(A68+5)	[9721]	BC	10	2400
+Cruc	M	0431	Midlo	X696000-3	 	    Di (NIL)		000	Wild	F5 V M7 V	-3	(A00+1)	[0000]	B	8	10
+Cruc	M	0433	Scorch	X420000-7	 	  De He Di Po 		003	Wild	M0 V	-3	(600-2)	[0000]	B	11	-12
+Cruc	M	0439	Sfyri	X552000-B	 	  Cx Di Po (NIL)		013	Wild	K5 V	-1	(F00+2)	[0000]	B	12	30
+Cruc	M	0440	Kald	X5A6000-8	 	   Di Fl (ENIL)		005	Wild	F3 V M1 V M3 V	-3	(F00+2)	[0000]	B	13	30
+Cruc	A	0503	Nashchaug	X000000-A	 	   As Va Di 		034	Wild	M0 III	-1	(B00+1)	[0000]	B	17	11
+Cruc	A	0505	Buada	X432000-A	 	   Di Po 		010	Wild	M3 V	-1	(800+4)	[0000]	B	10	32
+Cruc	A	0507	Tasmilma	X768798-1	 	    Ag Ri (NIL)		400	Wild	F8 V M6 V	0	(968+2)	[6761]	BC	12	864
+Cruc	A	0508	Arket	X886796-0	 	   Ag Ri Ga (NIL)		320	Wild	G8 V	0	(A68-1)	[6741]	BC	10	-480
 Cruc	A	0510	Vryheid	X400000-A	 	   Di Va 		005	Wild	G5 V M2 V	-1	(C00+2)	[0000]	B	9	24
-Cruc	E	0515	Oldflight	X563798-1	 	    Ri (NIL)		100	Wild	F1 V G8 V	-1	(963+5)	[4623]	BC	4	810
-Cruc	E	0520	Shiga	E556000-0	 	    Ba 		012	Wild	K7 V D M9 V	-3	(500-4)	[0000]	B	13	-20
-Cruc	I	0521	Kitale	X310000-9	 	    Di 		014	Wild	M1 V	-2	(B00+3)	[0000]	B	11	33
-Cruc	I	0526	Mori	E560447-1	 	   De Ni 		200	Wild	G9 V	-3	(730+2)	[1192]	B	7	42
-Cruc	I	0530	Dozen	E664444-5	 	   Ni Pa 		100	Wild	M3 V	-3	(830+2)	[5163]	Bc	9	48
-Cruc	A	0601	Uaboe	C965721-5	 	    Ag Ri (NIL)		210	Wild	F8 V M2 V	1	(964-5)	[7834]	BC	7	-1080
-Cruc	A	0606	Martre	E543000-4	 	   Di Po 		000	Wild	G9 V	-3	(700+1)	[0000]	B	7	7
-Cruc	E	0611	Toboloski	X8B8000-8	 	   Di Fl 		000	Wild	F8 V M0 V	-3	(600-3)	[0000]	B	7	-18
-Cruc	E	0614	Kochi	XA898AB-0	 	   Ph Ri (NIL)		400	Wild	M1 V	-1	(A76+1)	[9781]	BCe	5	420
-Cruc	E	0616	Gifu	XAA9000-8	 	   Di Fl (ENIL)		000	Wild	M2 V	-3	(A00+1)	[0000]	B	5	10
-Cruc	E	0617	Mayagi	X736000-8	 	    Di (NIL)		001	Wild	M1 V	-3	(B00+5)	[0000]	B	8	55
-Cruc	E	0619	Orsu	C766877-6	 	  Ga Pa Ri Ph (NIL)		302	Wild	K4 V	0	(A79-3)	[9853]	BcCe	9	-1890
-Cruc	I	0621	Maralal	E564773-5	 	    Ag Ri (NIL)		304	Wild	K4 V	0	(962+3)	[4776]	BC	10	324
-Cruc	I	0623	Kure	C544775-5	 	    Ag Pi (NIL)		320	Wild	M3 V	0	(96B-2)	[5764]	BCD	10	-1188
-Cruc	I	0627	Tsu	X536000-7	 	    Di (NIL)		002	Wild	K1 V M3 V	-3	(900+5)	[0000]	B	8	45
-Cruc	M	0638	Rasnoe	X423000-8	 	   Di Po 		002	Wild	M1 V	-3	(800-3)	[0000]	B	8	-24
-Cruc	M	0640	Tstata	X555510-1	 	   Ag Ni 		113	Wild	M2 V	-2	(740+1)	[8361]	BC	15	28
-Cruc	A	0702	Ewa	X200000-C	 	  Cx Di Va 		003	Wild	F8 V M1 V	-1	(D00+3)	[0000]	B	11	39
-Cruc	A	0704	Abricot	X97A000-8	 	   Di Wa (NIL)		000	Wild	K4 V M3 V	-3	(A00-1)	[0000]	B	12	-10
-Cruc	A	0707	Babia	X554000-7	 	    Di 		000	Wild	M2 V	-3	(400-1)	[0000]	B	4	-4
-Cruc	A	0709	Malini	X86A000-5	 	   Di Wa (NIL)		010	Wild	K9 V	-3	(A00-1)	[0000]	B	5	-10
-Cruc	E	0711	Jaruco	E594774-5	 	    Ag Pi (NIL)		900	Wild	G8 V	-1	(A63-3)	[7634]	BCD	4	-540
-Cruc	E	0713	Tumuc	X434000-B	 	    Di 		003	Wild	M3 V	-1	(B00-2)	[0000]	B	8	-22
-Cruc	I	0722	Garba Tula	X696778-0	 	    Ag Pi (NIL)		300	Wild	F8 V M8 V	-1	(967-1)	[2671]	BCD	8	-378
-Cruc	I	0724	Muddo Gashi	X424000-A	 	    Di 		004	Wild	M2 V	-1	(B00+3)	[0000]	B	10	33
-Cruc	I	0725	Wajir	X310000-B	 	    Di 		000	Wild	A6 V G1 V	-1	(800+2)	[0000]	B	8	16
-Cruc	I	0727	Osaka	B867834-9	 	  Ga Pa Ri Ph (NIL)		413	Wild	M1 V	2	(E7C-2)	[7AA9]	BcCe	12	-2352
-Cruc	I	0729	Ise	X641000-4	 	  Di He Po 		000	Wild	F5 V	-3	(700+1)	[0000]	B	5	7
-Cruc	M	0736	Aldrikin	X6567A5-0	 	   Ag Ga (NIL)		610	Wild	K7 V	-1	(968+4)	[8651]	BC	10	1728
-Cruc	A	0804	Aldrin	X000000-A	 	   As Va Di 		023	Wild	M0 V	-1	(B00+3)	[0000]	B	8	33
-Cruc	A	0807	Genk	E66A7B8-5	 	   Ri Wa (NIL)		300	Wild	F5 V	-1	(A69-1)	[8653]	BC	13	-540
-Cruc	A	0810	Djebeha	X400000-B	 	   Di Va 		015	Wild	K5 V M7 V	-1	(E00+2)	[0000]	B	9	28
-Cruc	E	0811	Berken	E544000-4	 	    Di 		000	Wild	M3 V	-3	(600-3)	[0000]	B	9	-18
-Cruc	E	0813	Marada	X584799-1	 	    Ag Ri (NIL)		120	Wild	G4 V K9 V	0	(964-1)	[A711]	BC	5	-216
-Cruc	E	0817	Serir	X649776-2	 	    Pi (NIL)		510	Wild	F5 V M7 V	-2	(960+5)	[6551]	BD	10	270
-Cruc	E	0818	Tottori	X573000-6	 	    Di 		003	Wild	A4 V G8 V	-3	(400+5)	[0000]	B	16	20
-Cruc	I	0823	Kamchina	X000000-7	 	   As Va Di 		020	Wild	F5 V M1 V M4 V	-3	(600+2)	[0000]	B	7	12
-Cruc	I	0827	Bura	X310000-A	 	    Di 		012	Wild	M2 V	-1	(900+1)	[0000]	B	6	9
-Cruc	I	0829	Garissa	X6A9000-B	 	   Di Fl (ENIL)		000	Wild	M3 V	-1	(A00-4)	[0000]	B	3	-40
-Cruc	I	0830	Tana	X8A7000-9	 	   Di Fl 		004	Wild	M2 V	-2	(C00+1)	[0000]	B	9	12
-Cruc	M	0831	Syzlin	X645000-4	 	   Cx Di (NIL)		004	Wild	G9 V	-3	(900+4)	[0000]	B	13	36
-Cruc	M	0833	Zankai	X200000-B	 	   Di Va 		003	Wild	G5 V M3 V	-1	(B00-4)	[0000]	B	12	-44
-Cruc	M	0838	Madra	X596000-2	 	    Di 		010	Wild	G2 V M0 V	-3	(600-2)	[0000]	B	5	-12
-Cruc	B	0901	Elsmere	X534000-8	 	    Di 		004	Wild	M1 V	-3	(A00+1)	[0000]	B	13	10
-Cruc	B	0903	Frauten	X767000-5	 	   Di Ga 		000	Wild	F1 V M7 V	-3	(600-4)	[0000]	B	11	-24
-Cruc	B	0904	Dolak	X575742-0	 	    Ag Pi (NIL)		204	Wild	K8 V	-1	(969-2)	[9681]	BCD	9	-972
-Cruc	B	0907	Largo	X552577-1	 	   Ni Po (NIL)		100	Wild	M3 V	-3	(A40+2)	[4291]	B	6	80
-Cruc	B	0908	Parma	XA87000-6	 	    Di 		000	Wild	K7 V M4 V	-3	(500+3)	[0000]	B	6	15
-Cruc	B	0910	Diekirch	E998877-5	 	   Pa Pi Ph (NIL)		311	Wild	M1 V	-2	(A74+1)	[9674]	BcDe	8	280
-Cruc	F	0911	Mangots	X76979B-2	 	    Ri (NIL)		101	Wild	G6 V	-1	(969-1)	[7681]	BC	6	-486
-Cruc	F	0913	Kumhwa	D593000-6	 	    Di 		020	Wild	F5 V K2 V	-3	(500-3)	[0000]	B	8	-15
-Cruc	F	0915	Ahaggar	X540456-1	 	  De He Ni Po 		404	Wild	M2 V	-3	(732-1)	[7141]	B	8	-42
-Cruc	F	0918	Koslin	X557873-0	 	   Pa Ph (NIL)		220	Wild	K2 V M1 V	-2	(A74+3)	[4611]	Bce	7	840
-Cruc	F	0920	Cheju	X000000-8	 	   As Va Di 		022	Wild	M2 V	-3	(B00-3)	[0000]	B	11	-33
-Cruc	J	0923	Baragoi	X896000-4	 	    Di 		000	Wild	K9 V	-3	(700+1)	[0000]	B	13	7
-Cruc	J	0924	Soroti	D875000-2	 	    Di 		004	Wild	G6 V	-3	(500-2)	[0000]	B	16	-10
-Cruc	J	0926	Lodwar	X5858BF-0	 	   Pa Ri Ph (NIL)		122	Wild	G9 V	-1	(A77-1)	[3781]	BcCe	9	-490
-Cruc	J	0929	Mbale	E786000-3	 	   Di Ga 		020	Wild	G2 V M1 V	-3	(600+2)	[0000]	B	8	12
-Cruc	N	0932	Armero	D96A455-9	 	   Ni Wa 		110	Wild	M3 V	-2	(930+2)	[128C]	B	11	54
-Cruc	N	0934	Slint	E572755-6	 	   He Pi (NIL)		501	Wild	A6 V	-2	(966+1)	[2551]	BD	10	324
-Cruc	B	1002	Jipujapa	C786899-6	 	  Ga Pa Ri Ph (NIL)		314	Wild	K9 V M1 V	0	(A74+1)	[A816]	BcCe	11	280
-Cruc	B	1007	Quezon	X76A000-4	 	   Di Wa 		020	Wild	M3 V	-3	(700+1)	[0000]	B	7	7
-Cruc	F	1012	Syrte	X587788-1	 	    Ag Ri (NIL)		402	Wild	F9 V G3 V	0	(96C+1)	[A764]	BC	9	648
-Cruc	F	1014	Kufra	X581777-0	 	    Ri (NIL)		400	Wild	A7 V	-1	(964-2)	[6613]	BC	7	-432
-Cruc	F	1015	Ulid	X583985-2	 	   Hi Pr (NIL)		304	Wild	F1 V K8 V	-1	(B8A+1)	[A872]	BcE	14	880
-Cruc	F	1019	Sangju	E6577A7-4	 	   Ag Ga (NIL)		500	Wild	G1 V G9 V	-1	(965+2)	[6684]	BC	12	540
-Cruc	J	1023	Tororo	E566656-6	 	   Ag Ri Ni 		305	Wild	M0 V M3 V	-1	(853+1)	[656A]	BC	16	120
-Cruc	J	1027	Kagamega	X5667CG-0	 	    Ag Ri (NIL)		200	Wild	G7 V	0	(965-2)	[6735]	BC	12	-540
-Cruc	J	1030	Kisil	E566000-4	 	    Di 		010	Wild	K8 V	-3	(500+3)	[0000]	B	10	15
-Cruc	N	1034	Pavlet	X776000-5	 	    Di 		010	Wild	G7 V	-3	(800+1)	[0000]	B	8	8
-Cruc	N	1038	Meshed	X5437A9-4	 	    Pi Po (NIL)		224	Wild	A1 V	-2	(967+1)	[9558]	BD	13	378
-Cruc	B	1102	Slatni	X685551-3	 	  Ag Pr Ga Ni 		302	Wild	A5 V	-2	(744-1)	[3361]	BcC	9	-112
-Cruc	B	1107	Eich	XA8A442-1	 	   Ni Oc 		101	Wild	G7 V	-3	(630+1)	[6174]	B	10	18
-Cruc	F	1111	Ghnema	D573000-4	 	    Di 		000	Wild	G0 V G4 V	-3	(800-2)	[0000]	B	9	-16
-Cruc	F	1113	Idehan	E576000-7	 	    Di 		003	Wild	K5 V	-3	(700+1)	[0000]	B	9	7
-Cruc	F	1117	Derj	E56367B-5	 	   Ni Ri 		202	Wild	M3 V	-2	(852-3)	[A466]	BC	12	-240
-Cruc	J	1122	Narok	X575000-4	 	    Di (NIL)		003	Wild	G6 V M0 V	-3	(900+2)	[0000]	B	8	18
-Cruc	J	1124	Ngong	X578000-3	 	    Di 		000	Wild	M1 V	-3	(500+5)	[0000]	B	6	25
-Cruc	J	1125	Tsavo	C5748AC-6	 	   Pa Pi Ph (NIL)		500	Wild	K6 V	-1	(A7B+4)	[A754]	BcDe	11	3080
+Cruc	E	0515	Oldflight	X563758-2	 	    Ri (NIL)		100	Wild	F1 V G8 V	-1	(966-2)	[4631]	BC	4	-648
+Cruc	E	0520	Shiga	E556000-3	 	    Di 		012	Wild	K7 V D M9 V	-3	(500+1)	[0000]	B	13	5
+Cruc	I	0521	Kitale	X310000-9	 	    Di 		014	Wild	M1 V	-2	(B00+1)	[0000]	B	11	11
+Cruc	I	0526	Mori	E560000-3	 	   De Di 		000	Wild	G9 V	-3	(700-3)	[0000]	B	7	-21
+Cruc	I	0530	Dozen	E66468A-4	 	   Ag Ri Ni 		300	Wild	M3 V	-1	(851-3)	[8574]	BC	9	-120
+Cruc	A	0601	Uaboe	B9657AB-7	 	    Ag Ri (NIL)		210	Wild	F8 V M2 V	2	(96C-2)	[6978]	BC	7	-1296
+Cruc	A	0606	Martre	X543000-4	 	   Di Po 		000	Wild	G9 V	-3	(700+2)	[0000]	B	7	14
+Cruc	E	0611	Toboloski	X8B8000-8	 	   Di Fl 		000	Wild	F8 V M0 V	-3	(600+1)	[0000]	B	7	6
+Cruc	E	0614	Kochi	XA8989A-0	 	   Ph Ri (NIL)		300	Wild	M1 V	-1	(A75+2)	[A781]	BCe	5	700
+Cruc	E	0616	Gifu	XAA9000-8	 	   Di Fl (ENIL)		000	Wild	M2 V	-3	(A00-1)	[0000]	B	5	-10
+Cruc	E	0617	Mayagi	X736000-8	 	    Di (NIL)		001	Wild	M1 V	-3	(B00-2)	[0000]	B	8	-22
+Cruc	E	0619	Orsu	C7668DG-8	 	  Ga Pa Ri Ph (NIL)		102	Wild	K4 V	0	(C79+4)	[6829]	BcCe	9	3024
+Cruc	I	0621	Maralal	E564786-5	 	    Ag Ri (NIL)		104	Wild	K4 V	0	(964+2)	[97A2]	BC	10	432
+Cruc	I	0623	Kure	X544000-4	 	    Di (NIL)		020	Wild	M3 V	-3	(900-3)	[0000]	B	10	-27
+Cruc	I	0627	Tsu	X536000-7	 	    Di (NIL)		002	Wild	K1 V M3 V	-3	(900+2)	[0000]	B	8	18
+Cruc	M	0638	Rasnoe	X423000-8	 	   Di Po 		002	Wild	M1 V	-3	(800-1)	[0000]	B	8	-8
+Cruc	M	0640	Tstata	D555000-6	 	    Di 		013	Wild	M2 V	-3	(700-1)	[0000]	B	15	-7
+Cruc	A	0702	Ewa	X200000-C	 	  Cx Di Va 		003	Wild	F8 V M1 V	-1	(D00+1)	[0000]	B	11	13
+Cruc	A	0704	Abricot	X97A78B-1	 	   Pi Wa (NIL)		300	Wild	K4 V M3 V	-2	(A65+1)	[7571]	BD	12	300
+Cruc	A	0707	Babia	X554000-7	 	    Di 		000	Wild	M2 V	-3	(400-2)	[0000]	B	4	-8
+Cruc	A	0709	Malini	D86A948-7	 	  Hi Pr Wa (NIL)		210	Wild	K9 V	-1	(A86+1)	[8865]	BcE	5	480
+Cruc	E	0711	Jaruco	E594796-5	 	    Ag Pi (NIL)		900	Wild	G8 V	-1	(A6A+2)	[B663]	BCD	4	1200
+Cruc	E	0713	Tumuc	X434000-B	 	    Di 		003	Wild	M3 V	-1	(B00+1)	[0000]	B	8	11
+Cruc	I	0722	Garba Tula	C6967A7-5	 	    Ag Pi (NIL)		500	Wild	F8 V M8 V	0	(963+1)	[9734]	BCD	8	162
+Cruc	I	0724	Muddo Gashi	X424000-A	 	    Di 		004	Wild	M2 V	-1	(B00+2)	[0000]	B	10	22
+Cruc	I	0725	Wajir	X310000-B	 	    Di 		000	Wild	A6 V G1 V	-1	(800+3)	[0000]	B	8	24
+Cruc	I	0727	Osaka	X86787B-1	 	  Ga Pa Ri Ph (NIL)		313	Wild	M1 V	-1	(A75-1)	[9751]	BcCe	12	-350
+Cruc	I	0729	Ise	D641000-6	 	  Di He Po 		000	Wild	F5 V	-3	(700-1)	[0000]	B	5	-7
+Cruc	M	0736	Aldrikin	X6567A6-0	 	   Ag Ga (NIL)		510	Wild	K7 V	-1	(964-2)	[8641]	BC	10	-432
+Cruc	A	0804	Aldrin	X000000-A	 	   As Va Di 		023	Wild	M0 V	-1	(B00+1)	[0000]	B	8	11
+Cruc	A	0807	Genk	E66A000-7	 	   Di Wa (NIL)		000	Wild	F5 V	-3	(A00+1)	[0000]	B	13	10
+Cruc	A	0810	Djebeha	X400000-B	 	   Di Va 		015	Wild	K5 V M7 V	-1	(E00+1)	[0000]	B	9	14
+Cruc	E	0811	Berken	E544000-3	 	    Di 		000	Wild	M3 V	-3	(600-3)	[0000]	B	9	-18
+Cruc	E	0813	Marada	X584753-2	 	    Ag Ri (NIL)		120	Wild	G4 V K9 V	0	(969-1)	[4761]	BC	5	-486
+Cruc	E	0817	Serir	X649000-7	 	    Di (NIL)		010	Wild	F5 V M7 V	-3	(900-1)	[0000]	B	10	-9
+Cruc	E	0818	Tottori	X573000-6	 	    Di 		003	Wild	A4 V G8 V	-3	(400+1)	[0000]	B	16	4
+Cruc	I	0823	Kamchina	X000000-7	 	   As Va Di 		020	Wild	F5 V M1 V M4 V	-3	(600+1)	[0000]	B	7	6
+Cruc	I	0827	Bura	X310000-A	 	    Di 		012	Wild	M2 V	-1	(900+5)	[0000]	B	6	45
+Cruc	I	0829	Garissa	X6A9000-B	 	   Di Fl (ENIL)		000	Wild	M3 V	-1	(A00+2)	[0000]	B	3	20
+Cruc	I	0830	Tana	X8A7000-9	 	   Di Fl 		004	Wild	M2 V	-2	(C00-3)	[0000]	B	9	-36
+Cruc	M	0831	Syzlin	X645689-1	 	  Ag Cx Ni (NIL)		504	Wild	G9 V	-2	(950-3)	[7481]	BC	13	-135
+Cruc	M	0833	Zankai	X200000-B	 	   Di Va 		003	Wild	G5 V M3 V	-1	(B00+2)	[0000]	B	12	22
+Cruc	M	0838	Madra	X596000-1	 	    Di 		010	Wild	G2 V M0 V	-3	(600-2)	[0000]	B	5	-12
+Cruc	B	0901	Elsmere	X534000-8	 	    Di 		004	Wild	M1 V	-3	(A00+2)	[0000]	B	13	20
+Cruc	B	0903	Frauten	X767457-2	 	  Ga Ni Pa 		200	Wild	F1 V M7 V	-3	(632-2)	[2194]	Bc	11	-72
+Cruc	B	0904	Dolak	E575000-5	 	    Di (NIL)		004	Wild	K8 V	-3	(900-2)	[0000]	B	9	-18
+Cruc	B	0907	Largo	X552000-7	 	   Di Po (NIL)		000	Wild	M3 V	-3	(A00+1)	[0000]	B	6	10
+Cruc	B	0908	Parma	XA87000-6	 	    Di 		000	Wild	K7 V M4 V	-3	(500+2)	[0000]	B	6	10
+Cruc	B	0910	Diekirch	E99889E-5	 	   Pa Pi Ph (NIL)		211	Wild	M1 V	-2	(A76-5)	[B695]	BcDe	8	-2100
+Cruc	F	0911	Mangots	X769656-3	 	   Ni Ri (NIL)		901	Wild	G6 V	-2	(950-2)	[4492]	BC	6	-90
+Cruc	F	0913	Kumhwa	D593000-4	 	    Di 		020	Wild	F5 V K2 V	-3	(500-2)	[0000]	B	8	-10
+Cruc	F	0915	Ahaggar	X540451-1	 	  De He Ni Po 		404	Wild	M2 V	-3	(731-1)	[5153]	B	8	-21
+Cruc	F	0918	Koslin	D557876-4	 	   Pa Ph (NIL)		420	Wild	K2 V M1 V	-2	(A75-2)	[B644]	Bce	7	-700
+Cruc	F	0920	Cheju	X000000-8	 	   As Va Di 		022	Wild	M2 V	-3	(B00-4)	[0000]	B	11	-44
+Cruc	J	0923	Baragoi	E896000-7	 	    Di 		000	Wild	K9 V	-3	(700+5)	[0000]	B	13	35
+Cruc	J	0924	Soroti	E875000-4	 	    Di 		004	Wild	G6 V	-3	(500-1)	[0000]	B	16	-5
+Cruc	J	0926	Lodwar	X585877-0	 	   Pa Ri Ph (NIL)		322	Wild	G9 V	-1	(A7A-4)	[6781]	BcCe	9	-2800
+Cruc	J	0929	Mbale	X786300-2	 	   Ga Lo 		920	Wild	G2 V M1 V	-3	(620+1)	[8146]	B	8	12
+Cruc	N	0932	Armero	D96A477-8	 	   Ni Wa 		110	Wild	M3 V	-3	(930+3)	[516C]	B	11	81
+Cruc	N	0934	Slint	E572779-5	 	   He Pi (NIL)		501	Wild	A6 V	-2	(963-1)	[7577]	BD	10	-162
+Cruc	B	1002	Jipujapa	X78689B-0	 	  Ga Pa Ri Ph (NIL)		314	Wild	K9 V M1 V	-1	(A74+1)	[B772]	BcCe	11	280
+Cruc	B	1007	Quezon	X76A431-2	 	   Ni Wa 		420	Wild	M3 V	-3	(733-3)	[8131]	B	7	-189
+Cruc	F	1012	Syrte	X58777B-1	 	    Ag Ri (NIL)		202	Wild	F9 V G3 V	0	(969+2)	[7722]	BC	9	972
+Cruc	F	1014	Kufra	X581777-0	 	    Ri (NIL)		400	Wild	A7 V	-1	(967+1)	[6661]	BC	7	378
+Cruc	F	1015	Ulid	X583999-2	 	   Hi Pr (NIL)		304	Wild	F1 V K8 V	-1	(B89-1)	[7844]	BcE	14	-792
+Cruc	F	1019	Sangju	E657756-5	 	   Ag Ga (NIL)		300	Wild	G1 V G9 V	-1	(964-4)	[5694]	BC	12	-864
+Cruc	J	1023	Tororo	D566500-7	 	   Ag Pr Ni 		105	Wild	M0 V M3 V	-2	(842+1)	[9349]	BcC	16	64
+Cruc	J	1027	Kagamega	X566679-0	 	   Ag Ri Ni (NIL)		900	Wild	G7 V	-1	(950+1)	[1575]	BC	12	45
+Cruc	J	1030	Kisil	E566000-6	 	    Di 		010	Wild	K8 V	-3	(500+5)	[0000]	B	10	25
+Cruc	N	1034	Pavlet	X776000-3	 	    Di 		010	Wild	G7 V	-3	(800+1)	[0000]	B	8	8
+Cruc	N	1038	Meshed	X543000-2	 	   Di Po (NIL)		024	Wild	A1 V	-3	(900+1)	[0000]	B	13	9
+Cruc	B	1102	Slatni	D685000-7	 	   Di Ga 		002	Wild	A5 V	-3	(700-2)	[0000]	B	9	-14
+Cruc	B	1107	Eich	XA8A000-5	 	   Di Oc 		001	Wild	G7 V	-3	(600-3)	[0000]	B	10	-18
+Cruc	F	1111	Ghnema	D573000-6	 	    Di 		000	Wild	G0 V G4 V	-3	(800+1)	[0000]	B	9	8
+Cruc	F	1113	Idehan	E576000-7	 	    Di 		003	Wild	K5 V	-3	(700+2)	[0000]	B	9	14
+Cruc	F	1117	Derj	E563000-6	 	    Di 		002	Wild	M3 V	-3	(800+3)	[0000]	B	12	24
+Cruc	J	1122	Narok	X575773-0	 	    Ag Pi (NIL)		303	Wild	G6 V M0 V	-1	(966+2)	[B681]	BCD	8	648
+Cruc	J	1124	Ngong	X578000-5	 	    Di 		000	Wild	M1 V	-3	(500-2)	[0000]	B	6	-10
+Cruc	J	1125	Tsavo	X574833-0	 	   Pa Pi Ph (NIL)		300	Wild	K6 V	-2	(A73-1)	[5651]	BcDe	11	-210
 Cruc	J	1126	Konza	X000000-B	 	   As Va Di 		033	Wild	K7 V	-1	(G00-2)	[0000]	B	13	-32
-Cruc	J	1128	Thikan	X756658-0	 	  Ag Ga Ni 		303	Wild	F0 V K4 V	-2	(850-2)	[1421]	BC	7	-80
-Cruc	J	1130	Embu	D844776-5	 	    Ag Pi (NIL)		400	Wild	F8 V M2 V	-1	(966-2)	[6676]	BCD	7	-648
-Cruc	N	1132	Kutenai	X548642-1	 	   Ag Ni (NIL)		600	Wild	F8 V	-2	(953+1)	[5464]	BC	6	135
-Cruc	N	1135	Stefen	X547000-6	 	    Di (NIL)		002	Wild	G6 V	-3	(A00+2)	[0000]	B	13	20
-Cruc	N	1137	Monsoom	X65A899-2	 	   Ph Wa 		220	Wild	F9 V G2 V	-2	(872-1)	[C631]	Be	11	-112
-Cruc	B	1203	Chitek	E76A9AD-9	 	  Hi Pr Wa (NIL)		120	Wild	G5 V	0	(B89+1)	[C959]	BcE	10	792
-Cruc	B	1206	Prudnik	X200000-0	 	   Ba Va 		000	Wild	M2 V	-3	(200+4)	[0000]	B	13	8
-Cruc	B	1208	Marden	X000000-C	 	   As Va Di 		021	Wild	F3 V M3 V	-1	(B00-3)	[0000]	B	13	-33
-Cruc	B	1209	Lycabettus	X563657-2	 	   Ni Ri 		620	Wild	M1 V	-2	(854+4)	[4461]	BC	10	640
-Cruc	F	1213	Iri	X563440-0	 	    Ni 		913	Wild	F9 V M3 V	-3	(730+1)	[6131]	B	9	21
-Cruc	F	1215	Achmetha	X426000-A	 	    Di (NIL)		004	Wild	F7 V M2 V	-1	(D00+2)	[0000]	B	11	26
-Cruc	F	1217	Indang	D868643-5	 	   Ag Ri Ni (NIL)		900	Wild	K0 V M2 V	-1	(950+1)	[7544]	BC	5	45
-Cruc	F	1220	Masan	X655879-1	 	  Ga Pa Ph (NIL)		113	Wild	F6 V	-2	(A73+1)	[7653]	Bce	13	210
-Cruc	J	1226	Nyeri	X587000-6	 	    Di 		003	Wild	G5 V M9 V	-3	(700-4)	[0000]	B	10	-28
-Cruc	N	1233	Pelly	X423000-8	 	   Di Po (NIL)		010	Wild	F7 V M0 V M2 V	-3	(B00+2)	[0000]	B	9	22
-Cruc	N	1238	Tsama	E563554-7	 	   Ni Pr 		321	Wild	M1 V	-3	(741+2)	[7278]	Bc	10	56
+Cruc	J	1128	Thikan	X756610-0	 	  Ag Ga Ni 		303	Wild	F0 V K4 V	-2	(853-1)	[4451]	BC	7	-120
+Cruc	J	1130	Embu	D844000-6	 	    Di (NIL)		000	Wild	F8 V M2 V	-3	(900-1)	[0000]	B	7	-9
+Cruc	N	1132	Kutenai	X548000-5	 	    Di (NIL)		000	Wild	F8 V	-3	(900+5)	[0000]	B	6	45
+Cruc	N	1135	Stefen	X547845-0	 	   Pa Pi Ph (NIL)		202	Wild	G6 V	-2	(A74-3)	[7651]	BcDe	13	-840
+Cruc	N	1137	Monsoom	X65A000-4	 	   Di Wa 		020	Wild	F9 V G2 V	-3	(800-1)	[0000]	B	11	-8
+Cruc	B	1203	Chitek	D76A000-6	 	   Di Wa (NIL)		020	Wild	G5 V	-3	(900-1)	[0000]	B	10	-9
+Cruc	B	1206	Prudnik	X200000-0	 	   Ba Va 		000	Wild	M2 V	-3	(200-3)	[0000]	B	13	-6
+Cruc	B	1208	Marden	X000000-C	 	   As Va Di 		021	Wild	F3 V M3 V	-1	(B00+4)	[0000]	B	13	44
+Cruc	B	1209	Lycabettus	X56369C-1	 	   Ni Ri 		520	Wild	M1 V	-2	(852+3)	[1451]	BC	10	240
+Cruc	F	1213	Iri	B563510-6	 	   Ni Pr 		313	Wild	F9 V M3 V	-1	(740-3)	[2445]	Bc	9	-84
+Cruc	F	1215	Achmetha	X426000-A	 	    Di (NIL)		004	Wild	F7 V M2 V	-1	(D00+1)	[0000]	B	11	13
+Cruc	F	1217	Indang	D868676-5	 	   Ag Ri Ni (NIL)		900	Wild	K0 V M2 V	-1	(954-1)	[8518]	BC	5	-180
+Cruc	F	1220	Masan	X6558AE-1	 	  Ga Pa Ph (NIL)		213	Wild	F6 V	-2	(A77-1)	[9662]	Bce	13	-490
+Cruc	J	1226	Nyeri	X587500-3	 	   Ag Pr Ni 		203	Wild	G5 V M9 V	-2	(741-1)	[2321]	BcC	10	-28
+Cruc	N	1233	Pelly	X423000-8	 	   Di Po (NIL)		010	Wild	F7 V M0 V M2 V	-3	(B00+1)	[0000]	B	9	11
+Cruc	N	1238	Tsama	X563000-3	 	    Di 		021	Wild	M1 V	-3	(700-4)	[0000]	B	10	-28
 Cruc	N	1240	Seregno	X6A1000-8	 	   Di Fl He 		031	Wild	F4 V M2 V M9 V	-3	(C00-1)	[0000]	B	15	-12
-Cruc	B	1302	Deuel	XAA8000-9	 	   Di Fl (ENIL)		000	Wild	M6 V	-2	(900-2)	[0000]	B	6	-18
+Cruc	B	1302	Deuel	XAA8000-9	 	   Di Fl (ENIL)		000	Wild	M6 V	-2	(900+4)	[0000]	B	6	36
 Cruc	B	1304	Parida	X578000-4	 	    Di 		025	Wild	K5 V	-3	(700+4)	[0000]	B	18	28
-Cruc	B	1306	Saza	X647000-6	 	    Di (NIL)		023	Wild	K6 V	-3	(A00-1)	[0000]	B	14	-10
-Cruc	B	1308	Lydda	XAB7000-8	 	   Di Fl 		004	Wild	M2 V	-3	(C00+3)	[0000]	B	9	36
-Cruc	F	1311	Tarat	X541000-3	 	  Di He Po 		002	Wild	K4 V	-3	(700-5)	[0000]	B	7	-35
-Cruc	F	1312	Soluk	X55389B-0	 	   Ph Po (NIL)		101	Wild	M1 V	-2	(A73-2)	[6674]	Be	10	-420
-Cruc	F	1313	Derna	X684755-2	 	    Ag Ri (NIL)		220	Wild	G4 V	0	(96C-3)	[8741]	BC	12	-1944
-Cruc	F	1319	Kigye	X6B5000-8	 	   Di Fl 		011	Wild	M3 V	-3	(800+1)	[0000]	B	13	8
-Cruc	J	1321	Daboya	X555742-0	 	    Ag (NIL)		110	Wild	G4 V	-1	(96A-4)	[3621]	BC	6	-2160
-Cruc	J	1323	Tamale	E687798-0	 	   Ag Ri Ga (NIL)		623	Wild	G6 V M4 V	0	(966+1)	[7791]	BC	9	324
-Cruc	J	1325	Yendi	E573000-4	 	    Di 		021	Wild	F1 V K9 V	-3	(700-3)	[0000]	B	15	-21
+Cruc	B	1306	Saza	E647000-6	 	    Di (NIL)		023	Wild	K6 V	-3	(A00-3)	[0000]	B	14	-30
+Cruc	B	1308	Lydda	XAB7000-8	 	   Di Fl 		004	Wild	M2 V	-3	(C00-2)	[0000]	B	9	-24
+Cruc	F	1311	Tarat	E541000-3	 	  Di He Po 		002	Wild	K4 V	-3	(700+3)	[0000]	B	7	21
+Cruc	F	1312	Soluk	X55388A-0	 	   Ph Po (NIL)		101	Wild	M1 V	-2	(A75-3)	[9614]	Be	10	-1050
+Cruc	F	1313	Derna	X684776-1	 	    Ag Ri (NIL)		420	Wild	G4 V	0	(964+1)	[8761]	BC	12	216
+Cruc	F	1319	Kigye	X6B5000-8	 	   Di Fl 		011	Wild	M3 V	-3	(800+2)	[0000]	B	13	16
+Cruc	J	1321	Daboya	X55577A-0	 	    Ag (NIL)		110	Wild	G4 V	-1	(966+3)	[B671]	BC	6	972
+Cruc	J	1323	Tamale	E687774-0	 	   Ag Ri Ga (NIL)		423	Wild	G6 V M4 V	0	(966-5)	[6722]	BC	9	-1620
+Cruc	J	1325	Yendi	E573000-5	 	    Di 		021	Wild	F1 V K9 V	-3	(700-3)	[0000]	B	15	-21
 Cruc	J	1327	Yapei	X432000-6	 	   Di Po 		000	Wild	G9 V M1 V	-3	(800+1)	[0000]	B	8	8
-Cruc	J	1330	Bole	E659896-6	 	    Ph (NIL)		512	Wild	K6 V	-2	(A76+1)	[8696]	Be	12	420
-Cruc	N	1332	K'Kigi	X545786-1	 	    Ag Pi (NIL)		100	Wild	K9 V	-1	(966-1)	[9623]	BCD	6	-324
-Cruc	N	1335	Tzitin	X000000-8	 	   As Va Di 		044	Wild	A2 V	-3	(G00-1)	[0000]	B	19	-16
-Cruc	N	1337	Lugg	X433000-8	 	   Di Po 		004	Wild	G6 V M1 V M2 V	-3	(B00-2)	[0000]	B	12	-22
-Cruc	B	1406	Quindio	X420000-7	 	  De He Di Po 		003	Wild	M1 V	-3	(800+2)	[0000]	B	9	16
-Cruc	B	1410	Holt	X000000-A	 	   As Va Di 		034	Wild	G2 V M3 V	-1	(G00-1)	[0000]	B	20	-16
-Cruc	F	1411	Yesong	E582000-7	 	    Di 		010	Wild	K5 V	-3	(700-2)	[0000]	B	6	-14
-Cruc	F	1417	Polgyo	X999000-7	 	    Di 		014	Wild	F9 V G5 V	-3	(400-2)	[0000]	B	13	-8
+Cruc	J	1330	Bole	E659899-6	 	    Ph (NIL)		312	Wild	K6 V	-2	(A77+2)	[3695]	Be	12	980
+Cruc	N	1332	K'Kigi	X545787-1	 	    Ag Pi (NIL)		100	Wild	K9 V	-1	(965-2)	[7663]	BCD	6	-540
+Cruc	N	1335	Tzitin	X000000-8	 	   As Va Di 		044	Wild	A2 V	-3	(G00-4)	[0000]	B	19	-64
+Cruc	N	1337	Lugg	X433000-8	 	   Di Po 		004	Wild	G6 V M1 V M2 V	-3	(B00+1)	[0000]	B	12	11
+Cruc	B	1406	Quindio	X420000-7	 	  De He Di Po 		003	Wild	M1 V	-3	(800+3)	[0000]	B	9	24
+Cruc	B	1410	Holt	X000000-A	 	   As Va Di 		034	Wild	G2 V M3 V	-1	(G00-3)	[0000]	B	20	-48
+Cruc	F	1411	Yesong	E582000-5	 	    Di 		010	Wild	K5 V	-3	(700+1)	[0000]	B	6	7
+Cruc	F	1417	Polgyo	X999000-7	 	    Di 		014	Wild	F9 V G5 V	-3	(400-3)	[0000]	B	13	-12
 Cruc	J	1426	Wenchi	X100000-8	 	   Di Va 		003	Wild	M7 V	-3	(B00-1)	[0000]	B	9	-11
-Cruc	J	1427	Tumu	D555000-5	 	    Di 		014	Wild	G4 V K7 V M6 V	-3	(600+1)	[0000]	B	17	6
-Cruc	J	1428	Navrongo	E593000-5	 	    Di (NIL)		000	Wild	F7 V G4 V	-3	(A00+1)	[0000]	B	9	10
-Cruc	J	1429	Zuarungu	X200000-8	 	   Di Va 		004	Wild	M5 III G0 V	-3	(E00-3)	[0000]	B	13	-42
-Cruc	J	1430	Akim Oda	X420000-9	 	  De He Di Po 		004	Wild	F3 V M0 V M2 V	-2	(B00-3)	[0000]	B	13	-33
-Cruc	N	1433	Senlac	XAB6000-8	 	   Di Fl 		013	Wild	M2 V	-3	(B00+1)	[0000]	B	13	11
-Cruc	N	1434	Amya	D76978A-3	 	    Ri (NIL)		300	Wild	M2 V	-1	(965-3)	[4632]	BC	7	-810
-Cruc	N	1439	Isparta	X000000-9	 	   As Va Di 		023	Wild	M2 V	-2	(D00+1)	[0000]	B	9	13
-Cruc	B	1502	Prosser	X569410-3	 	    Ni 		100	Wild	K6 V	-3	(730-1)	[6141]	B	8	-21
-Cruc	B	1504	Nafud	X55447A-0	 	   Ni Pa (NIL)		200	Wild	F4 V	-3	(B33-1)	[3151]	Bc	7	-99
-Cruc	B	1507	Rulti	X55867C-0	 	   Ag Ni 		320	Wild	G7 V	-2	(854-1)	[B472]	BC	15	-160
-Cruc	B	1509	Vianden	E547000-5	 	    Di (NIL)		000	Wild	M0 V	-3	(A00+3)	[0000]	B	9	30
-Cruc	F	1514	Kosice	X544000-A	 	    Di (NIL)		020	Wild	K5 V	-1	(C00+1)	[0000]	B	13	12
+Cruc	J	1427	Tumu	D555000-5	 	    Di 		014	Wild	G4 V K7 V M6 V	-3	(600-2)	[0000]	B	17	-12
+Cruc	J	1428	Navrongo	X593000-6	 	    Di (NIL)		000	Wild	F7 V G4 V	-3	(A00+1)	[0000]	B	9	10
+Cruc	J	1429	Zuarungu	X200000-8	 	   Di Va 		004	Wild	M5 III G0 V	-3	(E00-1)	[0000]	B	13	-14
+Cruc	J	1430	Akim Oda	X420000-9	 	  De He Di Po 		004	Wild	F3 V M0 V M2 V	-2	(B00+1)	[0000]	B	13	11
+Cruc	N	1433	Senlac	XAB6000-8	 	   Di Fl 		013	Wild	M2 V	-3	(B00+3)	[0000]	B	13	33
+Cruc	N	1434	Amya	D769777-3	 	    Ri (NIL)		400	Wild	M2 V	-1	(968-3)	[6671]	BC	7	-1296
+Cruc	N	1439	Isparta	X000000-9	 	   As Va Di 		023	Wild	M2 V	-2	(D00+5)	[0000]	B	9	65
+Cruc	B	1502	Prosser	D569000-3	 	    Di 		000	Wild	K6 V	-3	(700-1)	[0000]	B	8	-7
+Cruc	B	1504	Nafud	X554000-0	 	    Ba (NIL)		000	Wild	F4 V	-3	(B00-2)	[0000]	B	7	-22
+Cruc	B	1507	Rulti	X558000-7	 	    Di 		020	Wild	G7 V	-3	(800-1)	[0000]	B	15	-8
+Cruc	B	1509	Vianden	E547000-5	 	    Di (NIL)		000	Wild	M0 V	-3	(A00-1)	[0000]	B	9	-10
+Cruc	F	1514	Kosice	D544000-8	 	    Di (NIL)		020	Wild	K5 V	-3	(C00+1)	[0000]	B	13	12
 Cruc	F	1516	Nowa Sol	X200000-A	 	   Di Va 		000	Wild	A6 V	-1	(700-1)	[0000]	B	12	-7
-Cruc	F	1518	Gdansk	E541000-2	 	  Di He Po 		020	Wild	F5 V M2 V	-3	(600+2)	[0000]	B	9	12
-Cruc	F	1520	Suwon	X301000-0	 	   Ba Ic Va 		003	Wild	M2 V	-3	(200-2)	[0000]	B	14	-4
-Cruc	J	1523	Sba	D878887-5	 	   Pa Pi Ph (NIL)		300	Wild	G9 V	-2	(A75+5)	[768A]	BcDe	7	1750
-Cruc	J	1528	Keta	X526000-8	 	    Di 		014	Wild	K5 V	-3	(800+4)	[0000]	B	14	32
-Cruc	J	1530	Accra	X6678CG-0	 	  Ga Pa Ri Ph (NIL)		200	Wild	G5 V	-1	(A78+2)	[D771]	BcCe	12	1120
-Cruc	N	1531	Pelieo	X56278A-0	 	    Ri (NIL)		104	Wild	M3 V	-1	(965+2)	[7623]	BC	13	540
+Cruc	F	1518	Gdansk	X541000-7	 	  Di He Po 		020	Wild	F5 V M2 V	-3	(600+1)	[0000]	B	9	6
+Cruc	F	1520	Suwon	X301000-0	 	   Ba Ic Va 		003	Wild	M2 V	-3	(200-3)	[0000]	B	14	-6
+Cruc	J	1523	Sba	D878000-8	 	    Di (NIL)		000	Wild	G9 V	-3	(A00+2)	[0000]	B	7	20
+Cruc	J	1528	Keta	X526000-8	 	    Di 		014	Wild	K5 V	-3	(800-1)	[0000]	B	14	-8
+Cruc	J	1530	Accra	X667878-0	 	  Ga Pa Ri Ph (NIL)		400	Wild	G5 V	-1	(A79+1)	[9781]	BcCe	12	630
+Cruc	N	1531	Pelieo	X562749-0	 	    Ri (NIL)		304	Wild	M3 V	-1	(964+1)	[7665]	BC	13	216
 Cruc	N	1533	Nigde	X738000-A	 	    Di (NIL)		000	Wild	G6 V	-1	(900+2)	[0000]	B	9	18
-Cruc	N	1537	Hzimo	X541000-2	 	  Di He Po (NIL)		023	Wild	F1 V	-3	(A00-5)	[0000]	B	16	-50
-Cruc	B	1602	Slae	X436000-A	 	    Di (NIL)		012	Wild	K4 V M2 V	-1	(C00+1)	[0000]	B	7	12
-Cruc	B	1604	Furnas	X5728AB-0	 	  He Ph Pi (NIL)		202	Wild	G6 V M3 V M9 V	-2	(A77+2)	[6641]	BDe	15	980
-Cruc	B	1606	Sembilen	X533000-8	 	   Di Po 		010	Wild	M1 V	-3	(600+1)	[0000]	B	9	6
-Cruc	F	1612	Ptock	X565778-1	 	    Ag Ri (NIL)		902	Wild	M3 V	0	(A6A+3)	[8741]	BC	5	1800
-Cruc	F	1616	Gdynia	X523000-C	 	   Di Po (NIL)		000	Wild	M3 V	-1	(A00+1)	[0000]	B	6	10
+Cruc	N	1537	Hzimo	X541000-3	 	  Di He Po (NIL)		023	Wild	F1 V	-3	(A00+1)	[0000]	B	16	10
+Cruc	B	1602	Slae	X436000-A	 	    Di (NIL)		012	Wild	K4 V M2 V	-1	(C00+2)	[0000]	B	7	24
+Cruc	B	1604	Furnas	E5728AD-4	 	  He Ph Pi (NIL)		202	Wild	G6 V M3 V M9 V	-2	(A72-2)	[6687]	BDe	15	-280
+Cruc	B	1606	Sembilen	X533000-8	 	   Di Po 		010	Wild	M1 V	-3	(600-2)	[0000]	B	9	-12
+Cruc	F	1612	Ptock	X565852-2	 	   Pa Ri Ph (NIL)		202	Wild	M3 V	-1	(A73+1)	[A761]	BcCe	5	210
+Cruc	F	1616	Gdynia	X523000-C	 	   Di Po (NIL)		000	Wild	M3 V	-1	(A00-1)	[0000]	B	6	-10
 Cruc	F	1620	Wroclaw	X6A5000-B	 	   Di Fl (ENIL)		004	Wild	M2 V	-1	(E00+1)	[0000]	B	16	14
-Cruc	J	1621	Kerzaz	X000000-C	 	   As Va Di 		024	Wild	A7 V G6 V	-1	(D00+1)	[0000]	B	17	13
-Cruc	J	1624	Adrar	X310000-A	 	    Di 		013	Wild	M2 V	-1	(C00+1)	[0000]	B	12	12
-Cruc	J	1626	Guerzim	X756775-0	 	   Ag Ga (NIL)		402	Wild	K6 V M3 V	-1	(969+3)	[A664]	BC	13	1458
-Cruc	J	1630	Bechar	E553443-5	 	   Ni Po 		312	Wild	F2 V K6 V	-3	(630-1)	[1157]	B	11	-18
+Cruc	J	1621	Kerzaz	X000000-C	 	   As Va Di 		024	Wild	A7 V G6 V	-1	(D00-2)	[0000]	B	17	-26
+Cruc	J	1624	Adrar	X310000-A	 	    Di 		013	Wild	M2 V	-1	(C00+2)	[0000]	B	12	24
+Cruc	J	1626	Guerzim	D7567A6-4	 	   Ag Ga (NIL)		302	Wild	K6 V M3 V	-1	(964+1)	[4675]	BC	13	216
+Cruc	J	1630	Bechar	E553000-7	 	   Di Po 		012	Wild	F2 V K6 V	-3	(600-1)	[0000]	B	11	-6
 Cruc	N	1631	Remino	X100000-9	 	   Di Va 		002	Wild	F2 V M3 V	-2	(900+1)	[0000]	B	9	9
 Cruc	N	1632	Stm-Fi	E95A000-5	 	   Di Wa 		003	Wild	F4 V G6 V	-3	(500+1)	[0000]	B	15	5
-Cruc	C	1701	Palompi	X101000-8	 	   Di Ic Va 		000	Wild	M2 V	-3	(700+1)	[0000]	B	4	7
-Cruc	C	1702	Rickamil	X7A7000-B	 	  Cx Di Fl 		014	Wild	M2 V	-1	(D00+1)	[0000]	B	10	13
-Cruc	C	1704	Lorne	X696000-7	 	    Di 		003	Wild	M1 V	-3	(500-1)	[0000]	B	10	-5
-Cruc	C	1706	Doven	X67A000-B	 	   Di Wa 		000	Wild	G5 V M1 V	-1	(800-2)	[0000]	B	7	-16
-Cruc	G	1712	Kutno	XA98000-3	 	    Di 		003	Wild	F1 V	-3	(700+3)	[0000]	B	7	21
-Cruc	G	1717	Rawa Maz	X6657A6-1	 	   Ag Ri Ga (NIL)		222	Wild	M1 V	0	(966+1)	[9791]	BC	13	324
-Cruc	G	1719	Qabalan	D897000-9	 	    Di (NIL)		010	Wild	K2 V M3 V	-2	(A00+1)	[0000]	B	12	10
-Cruc	K	1722	Quargla	X552777-1	 	    Po (NIL)		114	Wild	F9 V G0 V	-2	(966-1)	[7571]	B	11	-324
-Cruc	K	1724	Edjeleh	X100000-9	 	   Di Va 		013	Wild	M2 V	-2	(A00+1)	[0000]	B	11	10
-Cruc	K	1726	Temassinin	X424000-C	 	    Di (NIL)		000	Wild	G4 V M3 V	-1	(A00+4)	[0000]	B	6	40
-Cruc	K	1727	Tidikelt	X547000-0	 	    Ba (NIL)		010	Wild	K7 V M0 V	-3	(900+2)	[0000]	B	9	18
-Cruc	K	1728	Aoulef	X68747C-0	 	  Ga Ni Pa 		403	Wild	K1 IV	-3	(830+1)	[1151]	Bc	7	24
-Cruc	O	1732	Ocumare	X200000-7	 	   Di Va 		003	Wild	M4 III	-3	(600-1)	[0000]	B	11	-6
-Cruc	O	1735	Rzhev	X569000-7	 	    Di 		025	Wild	F3 V K8 V	-3	(500-4)	[0000]	B	18	-20
-Cruc	O	1737	Krandin	X000000-A	 	   As Va Di 		024	Wild	M1 V	-1	(D00+1)	[0000]	B	14	13
-Cruc	C	1802	Orwelle	D572000-3	 	   Di He 		002	Wild	F9 V M6 V	-3	(700-4)	[0000]	B	8	-28
-Cruc	C	1805	Spry	X737000-8	 	    Di (NIL)		010	Wild	M0 V	-3	(A00+2)	[0000]	B	11	20
-Cruc	C	1808	Eliot	X437000-8	 	    Di (NIL)		000	Wild	M0 V	-3	(A00-2)	[0000]	B	7	-20
-Cruc	C	1810	Ionae	E579000-7	 	    Di 		013	Wild	G5 V M1 V	-3	(700-1)	[0000]	B	12	-7
-Cruc	G	1813	Wielun	D667676-3	 	  Ag Ri Ga Ni 		120	Wild	A9 V K8 V	-1	(850+5)	[3543]	BC	8	200
-Cruc	G	1816	Kepno	X531000-9	 	   Di Po (NIL)		002	Wild	M1 V	-2	(C00-3)	[0000]	B	10	-36
-Cruc	G	1819	Kharas	X626000-B	 	    Di (NIL)		023	Wild	G0 V M1 V	-1	(F00+1)	[0000]	B	11	15
-Cruc	K	1822	Chenachane	X434000-9	 	    Di (NIL)		000	Wild	G4 V M0 V	-2	(A00+5)	[0000]	B	5	50
-Cruc	K	1825	Tindouf	X6A6000-A	 	   Di Fl (ENIL)		014	Wild	M2 V	-1	(E00-2)	[0000]	B	16	-28
-Cruc	K	1829	Tni Haia	X000000-7	 	   As Va Di 		021	Wild	B8 V	-3	(400+3)	[0000]	B	10	12
-Cruc	O	1834	Margilan	X654000-0	 	    Ba 		010	Wild	G9 V M0 V	-3	(600+3)	[0000]	B	12	18
-Cruc	C	1902	Nye	X528000-9	 	    Di (NIL)		000	Wild	M3 V	-2	(900+1)	[0000]	B	8	9
-Cruc	C	1906	Osowiec	X541000-3	 	  Di He Po 		000	Wild	F7 V K1 V	-3	(700-2)	[0000]	B	6	-14
-Cruc	C	1910	Tadzhik	X565445-1	 	   Ni Pa 		100	Wild	F5 V M7 V	-3	(633+1)	[6154]	Bc	6	54
-Cruc	G	1914	Sieradz	X433000-8	 	   Di Po 		002	Wild	K6 V M0 V	-3	(800-5)	[0000]	B	7	-40
-Cruc	K	1921	Biskra	X5937A8-1	 	   Cx Pi (NIL)		910	Wild	M1 V	-2	(A65+1)	[9541]	BD	11	300
-Cruc	K	1924	Timgad	X576000-7	 	    Di (NIL)		003	Wild	A9 V F8 V	-3	(900-1)	[0000]	B	9	-9
-Cruc	K	1928	Batna	D547000-6	 	    Di (NIL)		005	Wild	K8 V M3 V	-3	(900+1)	[0000]	B	11	9
-Cruc	O	1936	Loche	C766445-3	 	  Ga Ni Pa 		312	Wild	K6 V	-2	(731+3)	[1255]	Bc	7	63
-Cruc	O	1938	Erywin	X773000-5	 	    Di 		002	Wild	K8 V	-3	(700+1)	[0000]	B	10	7
-Cruc	C	2003	Beowawe	X643611-1	 	   Ni Po (NIL)		904	Wild	G1 V M0 V	-3	(A50+1)	[5396]	B	10	50
-Cruc	C	2004	Souris	X753000-3	 	   Di Po 		024	Wild	K6 V	-3	(700+3)	[0000]	B	17	21
-Cruc	C	2008	Taginae	X666000-0	 	   Ba Ga 		000	Wild	M2 V	-3	(200-1)	[0000]	B	8	-2
-Cruc	C	2010	Sluiskin	X767543-1	 	  Ag Pr Ga Ni 		222	Wild	F4 V	-2	(744-4)	[5331]	BcC	11	-448
-Cruc	G	2012	Konski	X535000-6	 	    Di 		000	Wild	M1 V	-3	(600+1)	[0000]	B	7	6
-Cruc	G	2014	Katowice	X8A7000-B	 	  Cx Di Fl (ENIL)		022	Wild	M3 V	-1	(E00+1)	[0000]	B	9	14
-Cruc	G	2016	Zabrze	X564777-0	 	    Ag Ri (NIL)		100	Wild	F8 V G8 V	0	(96A+3)	[57A3]	BC	7	1620
-Cruc	G	2018	Rybnik	XAC8000-9	 	   Di Fl 		020	Wild	M0 V	-2	(900-3)	[0000]	B	10	-27
-Cruc	G	2020	Ariha	X000000-A	 	   As Va Di 		032	Wild	M1 V	-1	(B00-4)	[0000]	B	11	-44
-Cruc	K	2021	Langsele	X877000-3	 	    Di 		010	Wild	G9 V	-3	(700-1)	[0000]	B	8	-7
-Cruc	K	2024	Msaken	X592000-3	 	   Di He 		024	Wild	K5 V M4 V	-3	(400+1)	[0000]	B	15	4
-Cruc	K	2027	Tlemcen	X745000-2	 	    Di (NIL)		020	Wild	F9 V M2 V	-3	(A00-4)	[0000]	B	13	-40
-Cruc	K	2030	Puula	X543000-2	 	   Di Po 		010	Wild	K4 V	-3	(600+3)	[0000]	B	11	18
-Cruc	O	2031	Nieuw	X574000-5	 	    Di (NIL)		010	Wild	M0 V	-3	(A00+5)	[0000]	B	12	50
-Cruc	O	2040	Kasmi	X544000-6	 	    Di 		010	Wild	A5 V K3 V	-3	(600+4)	[0000]	B	11	24
-Cruc	C	2101	Vamitra	D577000-2	 	    Di 		000	Wild	K6 V M0 V	-3	(600-1)	[0000]	B	4	-6
-Cruc	C	2103	Deeth	X431000-8	 	   Di Po 		003	Wild	G1 V M3 V	-3	(A00+1)	[0000]	B	13	10
-Cruc	C	2106	Moapa	X433000-6	 	   Di Po 		003	Wild	A9 V G9 V	-3	(600+3)	[0000]	B	13	18
-Cruc	G	2111	Lubon	X300000-9	 	   Di Va 		013	Wild	A6 V	-2	(B00+1)	[0000]	B	8	11
-Cruc	G	2116	Zywiec	E697789-5	 	    Ag Pi (NIL)		914	Wild	G6 V M1 V	-1	(A62-1)	[3646]	BCD	13	-120
-Cruc	K	2122	Ramsele	E755000-6	 	   Di Ga 		002	Wild	F4 V M8 V	-3	(400+1)	[0000]	B	10	4
-Cruc	K	2125	Gabesh	E89377B-2	 	    Pi (NIL)		904	Wild	F6 V G4 V	-2	(A69-2)	[8547]	BD	11	-1080
+Cruc	C	1701	Palompi	X101000-8	 	   Di Ic Va 		000	Wild	M2 V	-3	(700+2)	[0000]	B	4	14
+Cruc	C	1702	Rickamil	X7A7000-B	 	  Cx Di Fl 		014	Wild	M2 V	-1	(D00-2)	[0000]	B	10	-26
+Cruc	C	1704	Lorne	D696000-7	 	    Di 		003	Wild	M1 V	-3	(500+5)	[0000]	B	10	25
+Cruc	C	1706	Doven	X67A000-4	 	   Di Wa 		000	Wild	G5 V M1 V	-3	(800+3)	[0000]	B	7	24
+Cruc	G	1712	Kutno	XA98000-6	 	    Di 		003	Wild	F1 V	-3	(700+1)	[0000]	B	7	7
+Cruc	G	1717	Rawa Maz	X665798-1	 	   Ag Ri Ga (NIL)		322	Wild	M1 V	0	(966+2)	[97A1]	BC	13	648
+Cruc	G	1719	Qabalan	D897757-6	 	    Ag Pi (NIL)		410	Wild	K2 V M3 V	-1	(96A-2)	[6642]	BCD	12	-1080
+Cruc	K	1722	Quargla	X552750-2	 	    Po (NIL)		214	Wild	F9 V G0 V	-2	(969-2)	[8522]	B	11	-972
+Cruc	K	1724	Edjeleh	X100000-9	 	   Di Va 		013	Wild	M2 V	-2	(A00-5)	[0000]	B	11	-50
+Cruc	K	1726	Temassinin	X424000-C	 	    Di (NIL)		000	Wild	G4 V M3 V	-1	(A00-3)	[0000]	B	6	-30
+Cruc	K	1727	Tidikelt	X547000-3	 	    Di (NIL)		010	Wild	K7 V M0 V	-3	(900+2)	[0000]	B	9	18
+Cruc	K	1728	Aoulef	X687574-0	 	  Ag Pr Ga Ni 		203	Wild	K1 IV	-2	(844-3)	[43A2]	BcC	7	-384
+Cruc	O	1732	Ocumare	X200000-7	 	   Di Va 		003	Wild	M4 III	-3	(600-4)	[0000]	B	11	-24
+Cruc	O	1735	Rzhev	X569000-7	 	    Di 		025	Wild	F3 V K8 V	-3	(500+1)	[0000]	B	18	5
+Cruc	O	1737	Krandin	X000000-A	 	   As Va Di 		024	Wild	M1 V	-1	(D00+4)	[0000]	B	14	52
+Cruc	C	1802	Orwelle	E572000-5	 	   Di He 		002	Wild	F9 V M6 V	-3	(700+3)	[0000]	B	8	21
+Cruc	C	1805	Spry	X737000-8	 	    Di (NIL)		010	Wild	M0 V	-3	(A00+1)	[0000]	B	11	10
+Cruc	C	1808	Eliot	X437000-8	 	    Di (NIL)		000	Wild	M0 V	-3	(A00-3)	[0000]	B	7	-30
+Cruc	C	1810	Ionae	E579000-7	 	    Di 		013	Wild	G5 V M1 V	-3	(700+1)	[0000]	B	12	7
+Cruc	G	1813	Wielun	D667510-4	 	  Ag Pr Ga Ni 		320	Wild	A9 V K8 V	-2	(840-1)	[3333]	BcC	8	-32
+Cruc	G	1816	Kepno	X531000-9	 	   Di Po (NIL)		002	Wild	M1 V	-2	(C00+2)	[0000]	B	10	24
+Cruc	G	1819	Kharas	X626000-B	 	    Di (NIL)		023	Wild	G0 V M1 V	-1	(F00+4)	[0000]	B	11	60
+Cruc	K	1822	Chenachane	X434000-9	 	    Di (NIL)		000	Wild	G4 V M0 V	-2	(A00+1)	[0000]	B	5	10
+Cruc	K	1825	Tindouf	X6A6000-A	 	   Di Fl (ENIL)		014	Wild	M2 V	-1	(E00-3)	[0000]	B	16	-42
+Cruc	K	1829	Tni Haia	X000000-7	 	   As Va Di 		021	Wild	B8 V	-3	(400-1)	[0000]	B	10	-4
+Cruc	O	1834	Margilan	X654447-0	 	   Ni Pa 		310	Wild	G9 V M0 V	-3	(631+1)	[1164]	Bc	12	18
+Cruc	C	1902	Nye	X528000-9	 	    Di (NIL)		000	Wild	M3 V	-2	(900-2)	[0000]	B	8	-18
+Cruc	C	1906	Osowiec	X541000-6	 	  Di He Po 		000	Wild	F7 V K1 V	-3	(700+3)	[0000]	B	6	21
+Cruc	C	1910	Tadzhik	E565000-3	 	    Di 		000	Wild	F5 V M7 V	-3	(600+1)	[0000]	B	6	6
+Cruc	G	1914	Sieradz	X433000-8	 	   Di Po 		002	Wild	K6 V M0 V	-3	(800-4)	[0000]	B	7	-32
+Cruc	K	1921	Biskra	X5938B9-1	 	  Cx Ph Pi (NIL)		110	Wild	M1 V	-2	(A78+2)	[8664]	BDe	11	1120
+Cruc	K	1924	Timgad	X576000-4	 	    Di (NIL)		003	Wild	A9 V F8 V	-3	(900-4)	[0000]	B	9	-36
+Cruc	K	1928	Batna	E547000-7	 	    Di (NIL)		005	Wild	K8 V M3 V	-3	(900+4)	[0000]	B	11	36
+Cruc	O	1936	Loche	D766578-1	 	  Ag Pr Ga Ni 		112	Wild	K6 V	-2	(740-1)	[6331]	BcC	7	-28
+Cruc	O	1938	Erywin	X773000-2	 	    Di 		002	Wild	K8 V	-3	(700+5)	[0000]	B	10	35
+Cruc	C	2003	Beowawe	X643000-3	 	   Di Po (NIL)		004	Wild	G1 V M0 V	-3	(A00-4)	[0000]	B	10	-40
+Cruc	C	2004	Souris	D753559-5	 	   Ni Po 		324	Wild	K6 V	-3	(740+1)	[2212]	B	17	28
+Cruc	C	2008	Taginae	X666000-0	 	   Ba Ga 		000	Wild	M2 V	-3	(200+1)	[0000]	B	8	2
+Cruc	C	2010	Sluiskin	X767500-2	 	  Ag Pr Ga Ni 		322	Wild	F4 V	-2	(741+1)	[2325]	BcC	11	28
+Cruc	G	2012	Konski	X535000-6	 	    Di 		000	Wild	M1 V	-3	(600-2)	[0000]	B	7	-12
+Cruc	G	2014	Katowice	X8A7000-B	 	  Cx Di Fl (ENIL)		022	Wild	M3 V	-1	(E00-5)	[0000]	B	9	-70
+Cruc	G	2016	Zabrze	X56477A-0	 	    Ag Ri (NIL)		400	Wild	F8 V G8 V	0	(968+1)	[4781]	BC	7	432
+Cruc	G	2018	Rybnik	XAC8000-9	 	   Di Fl 		020	Wild	M0 V	-2	(900+5)	[0000]	B	10	45
+Cruc	G	2020	Ariha	X000000-A	 	   As Va Di 		032	Wild	M1 V	-1	(B00-3)	[0000]	B	11	-33
+Cruc	K	2021	Langsele	D877000-7	 	    Di 		010	Wild	G9 V	-3	(700+1)	[0000]	B	8	7
+Cruc	K	2024	Msaken	X592000-4	 	   Di He 		024	Wild	K5 V M4 V	-3	(400-4)	[0000]	B	15	-16
+Cruc	K	2027	Tlemcen	X745000-C	 	    Di (NIL)		020	Wild	F9 V M2 V	-1	(C00+4)	[0000]	B	13	48
+Cruc	K	2030	Puula	E543000-6	 	   Di Po 		010	Wild	K4 V	-3	(600-1)	[0000]	B	11	-6
+Cruc	O	2031	Nieuw	D5748A8-5	 	   Pa Pi Ph (NIL)		210	Wild	M0 V	-2	(A74+3)	[A621]	BcDe	12	840
+Cruc	O	2040	Kasmi	E544000-3	 	    Di 		010	Wild	A5 V K3 V	-3	(600+2)	[0000]	B	11	12
+Cruc	C	2101	Vamitra	X577000-2	 	    Di 		000	Wild	K6 V M0 V	-3	(600-5)	[0000]	B	4	-30
+Cruc	C	2103	Deeth	X431000-8	 	   Di Po 		003	Wild	G1 V M3 V	-3	(A00-4)	[0000]	B	13	-40
+Cruc	C	2106	Moapa	X433000-6	 	   Di Po 		003	Wild	A9 V G9 V	-3	(600-4)	[0000]	B	13	-24
+Cruc	G	2111	Lubon	X300000-9	 	   Di Va 		013	Wild	A6 V	-2	(B00-3)	[0000]	B	8	-33
+Cruc	G	2116	Zywiec	E697000-7	 	    Di (NIL)		014	Wild	G6 V M1 V	-3	(A00+1)	[0000]	B	13	10
+Cruc	K	2122	Ramsele	E755000-6	 	   Di Ga 		002	Wild	F4 V M8 V	-3	(400-2)	[0000]	B	10	-8
+Cruc	K	2125	Gabesh	E893877-2	 	   Ph Pi (NIL)		204	Wild	F6 V G4 V	-2	(A77-3)	[7631]	BDe	11	-1470
 Cruc	K	2126	Sfax	X300000-8	 	   Di Va 		014	Wild	M0 III D	-3	(C00+1)	[0000]	B	17	12
 Cruc	K	2130	Kouvola	X723000-9	 	   Di Po 		000	Wild	G5 V M0 V	-2	(700+1)	[0000]	B	7	7
-Cruc	O	2133	Lonoke	E878000-5	 	    Di (NIL)		012	Wild	M6 III	-3	(900+1)	[0000]	B	11	9
-Cruc	O	2136	Riad	X546000-3	 	    Di 		020	Wild	K7 V	-3	(500+1)	[0000]	B	14	5
-Cruc	C	2205	Denio	C669654-6	 	   Ni Ri 		400	Wild	G7 V K4 V	-1	(851+2)	[8554]	BC	7	80
+Cruc	O	2133	Lonoke	E878799-5	 	    Ag Pi (NIL)		412	Wild	M6 III	-1	(967+5)	[7617]	BCD	11	1890
+Cruc	O	2136	Riad	X546000-3	 	    Di 		020	Wild	K7 V	-3	(500-3)	[0000]	B	14	-15
+Cruc	C	2205	Denio	X669000-6	 	    Di 		000	Wild	G7 V K4 V	-3	(800+1)	[0000]	B	7	8
 Cruc	C	2206	Inuvik	X999000-7	 	    Di (NIL)		001	Wild	G9 V M2 V	-3	(900+1)	[0000]	B	12	9
-Cruc	G	2211	Gradzisk	D847000-5	 	    Di 		010	Wild	K9 V	-3	(800+1)	[0000]	B	9	8
-Cruc	G	2214	Opole	X557798-1	 	    Ag (NIL)		400	Wild	G5 V K5 V	-1	(963+2)	[6623]	BC	6	324
-Cruc	G	2215	Bzura	E69A000-8	 	   Di Wa 		000	Wild	G6 V K6 V	-3	(800+3)	[0000]	B	12	24
-Cruc	G	2217	Nysa	D540000-7	 	  De He Di Po 		021	Wild	F9 V	-3	(800-2)	[0000]	B	12	-16
-Cruc	G	2220	Damiya	X8C6000-9	 	   Di Fl 		020	Wild	M6 Ib F9 V	-2	(500-2)	[0000]	B	6	-10
-Cruc	K	2227	Mikkeli	X9457AA-0	 	    Ag Pi (NIL)		603	Wild	F5 V M7 V	-1	(A67+1)	[9691]	BCD	12	420
-Cruc	K	2230	Suolahti	X544000-4	 	    Di (NIL)		000	Wild	M2 V	-3	(A00-1)	[0000]	B	6	-10
-Cruc	O	2231	Wald	X999843-2	 	   Ph Pi (NIL)		514	Wild	F6 V	-2	(A76+1)	[8642]	BDe	12	420
-Cruc	O	2232	Oconee	E869000-3	 	    Di 		002	Wild	G6 V	-3	(600-3)	[0000]	B	13	-18
-Cruc	O	2237	Khalke	X888000-0	 	    Ba 		000	Wild	A7 V	-3	(600+1)	[0000]	B	3	6
-Cruc	O	2239	Penas	X6A4000-8	 	   Di Fl 		023	Wild	M3 V	-3	(D00+2)	[0000]	B	15	26
-Cruc	C	2302	Wager	X566787-1	 	    Ag Ri (NIL)		310	Wild	A8 V	0	(969+1)	[4764]	BC	12	486
-Cruc	C	2304	Adair	X400000-8	 	   Di Va 		000	Wild	M0 V	-3	(500-1)	[0000]	B	7	-5
-Cruc	C	2308	Oita	X000000-A	 	   As Va Di 		032	Wild	M3 V	-1	(B00+4)	[0000]	B	9	44
-Cruc	C	2310	Pamlico	X675000-4	 	    Di 		000	Wild	M3 V	-3	(300+1)	[0000]	B	8	3
-Cruc	G	2313	Nowytarg	E658773-5	 	    Ag (NIL)		300	Wild	F1 V M0 V	-1	(966+1)	[8616]	BC	6	324
+Cruc	G	2211	Gradzisk	D847000-7	 	    Di 		010	Wild	K9 V	-3	(800+4)	[0000]	B	9	32
+Cruc	G	2214	Opole	D5577BB-5	 	    Ag (NIL)		400	Wild	G5 V K5 V	-1	(965+4)	[A646]	BC	6	1080
+Cruc	G	2215	Bzura	E69A000-7	 	   Di Wa 		000	Wild	G6 V K6 V	-3	(800+4)	[0000]	B	12	32
+Cruc	G	2217	Nysa	D540576-4	 	  De He Ni Po 		221	Wild	F9 V	-3	(840+2)	[5261]	B	12	64
+Cruc	G	2220	Damiya	X8C6000-9	 	   Di Fl 		020	Wild	M6 Ib F9 V	-2	(500-1)	[0000]	B	6	-5
+Cruc	K	2227	Mikkeli	X945000-5	 	    Di (NIL)		003	Wild	F5 V M7 V	-3	(A00+1)	[0000]	B	12	10
+Cruc	K	2230	Suolahti	E544000-6	 	    Di (NIL)		000	Wild	M2 V	-3	(A00-3)	[0000]	B	6	-30
+Cruc	O	2231	Wald	X999855-3	 	   Ph Pi (NIL)		314	Wild	F6 V	-2	(A76+1)	[86A6]	BDe	12	420
+Cruc	O	2232	Oconee	X869346-0	 	    Lo 		902	Wild	G6 V	-3	(620+2)	[2115]	B	13	24
+Cruc	O	2237	Khalke	X888000-2	 	    Di 		000	Wild	A7 V	-3	(600+1)	[0000]	B	3	6
+Cruc	O	2239	Penas	X6A4000-8	 	   Di Fl 		023	Wild	M3 V	-3	(D00-1)	[0000]	B	15	-13
+Cruc	C	2302	Wager	X566730-1	 	    Ag Ri (NIL)		110	Wild	A8 V	0	(969+1)	[5753]	BC	12	486
+Cruc	C	2304	Adair	X400000-8	 	   Di Va 		000	Wild	M0 V	-3	(500+1)	[0000]	B	7	5
+Cruc	C	2308	Oita	X000000-A	 	   As Va Di 		032	Wild	M3 V	-1	(B00+1)	[0000]	B	9	11
+Cruc	C	2310	Pamlico	E675000-1	 	    Di 		000	Wild	M3 V	-3	(300+5)	[0000]	B	8	15
+Cruc	G	2313	Nowytarg	E658779-5	 	    Ag (NIL)		400	Wild	F1 V M0 V	-1	(965+1)	[5696]	BC	6	270
 Cruc	G	2316	Warta	X8CA000-B	 	   Di Fl (ENIL)		011	Wild	M8 V	-1	(C00+3)	[0000]	B	9	36
-Cruc	G	2318	Ajlun	X7C7000-9	 	   Di Fl (ENIL)		004	Wild	M1 V	-2	(D00+1)	[0000]	B	8	13
-Cruc	G	2319	Majdal	E546000-8	 	    Di (NIL)		000	Wild	A5 V	-3	(900+1)	[0000]	B	6	9
-Cruc	K	2321	Dorotea	X887000-7	 	   Di Ga 		005	Wild	M1 V	-3	(600-2)	[0000]	B	11	-12
-Cruc	K	2324	Bracke	X558000-2	 	    Di 		013	Wild	G0 V K9 V	-3	(400+1)	[0000]	B	12	4
-Cruc	K	2326	Bergsjo	X772000-7	 	   Di He 		003	Wild	F3 V M2 V	-3	(400+2)	[0000]	B	10	8
-Cruc	K	2329	Turku	X542000-3	 	 Cx Di He Po (NIL)		000	Wild	G2 V M3 V	-3	(A00+1)	[0000]	B	9	10
-Cruc	O	2333	Flekke	X986301-2	 	    Lo 		910	Wild	A5 V	-3	(620-1)	[3161]	B	10	-12
-Cruc	O	2335	Zisteffle	E656673-5	 	  Ag Ga Ni 		614	Wild	F8 V M1 V	-2	(852-3)	[8444]	BC	12	-240
-Cruc	C	2405	Pi	E8767C8-5	 	    Ag Pi (NIL)		624	Wild	K7 V M2 V	-1	(966+3)	[A645]	BCD	16	972
-Cruc	C	2407	Tsung	X568550-3	 	   Ag Pr Ni 		205	Wild	F4 V G6 V	-2	(840-2)	[9385]	BcC	15	-64
-Cruc	G	2412	Ya'bud	X000000-9	 	   As Va Di 		022	Wild	K5 V M1 V	-2	(C00-3)	[0000]	B	14	-36
-Cruc	G	2417	Iksal	B55479B-7	 	    Ag (NIL)		600	Wild	K5 V	1	(A6A+4)	[8858]	BC	10	2400
-Cruc	G	2420	Qana	X540000-3	 	  De He Di Po 		003	Wild	M0 V	-3	(400-4)	[0000]	B	16	-16
+Cruc	G	2318	Ajlun	X7C7000-9	 	   Di Fl (ENIL)		004	Wild	M1 V	-2	(D00-1)	[0000]	B	8	-13
+Cruc	G	2319	Majdal	E546000-7	 	    Di (NIL)		000	Wild	A5 V	-3	(900+3)	[0000]	B	6	27
+Cruc	K	2321	Dorotea	E887434-6	 	  Ga Ni Pa 		105	Wild	M1 V	-3	(630+1)	[3176]	Bc	11	18
+Cruc	K	2324	Bracke	X558000-2	 	    Di 		013	Wild	G0 V K9 V	-3	(400-2)	[0000]	B	12	-8
+Cruc	K	2326	Bergsjo	E772000-7	 	   Di He 		003	Wild	F3 V M2 V	-3	(400+1)	[0000]	B	10	4
+Cruc	K	2329	Turku	X542000-7	 	 Cx Di He Po (NIL)		000	Wild	G2 V M3 V	-3	(A00+1)	[0000]	B	9	10
+Cruc	O	2333	Flekke	X986000-3	 	    Di 		010	Wild	A5 V	-3	(600-3)	[0000]	B	10	-18
+Cruc	O	2335	Zisteffle	D656656-6	 	  Ag Ga Ni 		614	Wild	F8 V M1 V	-2	(852+1)	[6466]	BC	12	80
+Cruc	C	2405	Pi	E8767BA-5	 	    Ag Pi (NIL)		624	Wild	K7 V M2 V	-1	(969-1)	[6634]	BCD	16	-486
+Cruc	C	2407	Tsung	X568579-2	 	   Ag Pr Ni 		305	Wild	F4 V G6 V	-2	(843-2)	[7312]	BcC	15	-192
+Cruc	G	2412	Ya'bud	X000000-9	 	   As Va Di 		022	Wild	K5 V M1 V	-2	(C00-2)	[0000]	B	14	-24
+Cruc	G	2417	Iksal	B55479E-7	 	    Ag (NIL)		900	Wild	K5 V	1	(A66-3)	[A837]	BC	10	-1080
+Cruc	G	2420	Qana	X540000-6	 	  De He Di Po 		003	Wild	M0 V	-3	(400+3)	[0000]	B	16	12
 Cruc	K	2421	Jarpen	X8A4000-8	 	   Di Fl 		005	Wild	F1 V M1 V	-3	(B00+1)	[0000]	B	11	11
-Cruc	K	2425	Mellansel	X200000-7	 	   Di Va 		013	Wild	F2 V M0 V	-3	(500-2)	[0000]	B	17	-10
-Cruc	K	2428	Kuhmo	X8CA000-9	 	   Di Fl (ENIL)		000	Wild	M2 V	-2	(A00+3)	[0000]	B	5	30
-Cruc	O	2431	Emis	X69A000-4	 	   Di Wa (NIL)		020	Wild	G4 V	-3	(A00+3)	[0000]	B	11	30
-Cruc	O	2433	Mimsilmi	E998832-5	 	   Pa Pi Ph (NIL)		502	Wild	K8 V	-2	(A74+1)	[7653]	BcDe	9	280
-Cruc	O	2437	T'Kaim	D787000-6	 	   Di Ga 		000	Wild	G9 V	-3	(500-3)	[0000]	B	7	-15
-Cruc	O	2439	Erex	X533000-6	 	   Di Po 		013	Wild	M2 V	-3	(700+3)	[0000]	B	8	21
-Cruc	D	2504	Hun-tun	D648000-7	 	    Di (NIL)		024	Wild	F2 V K8 V M7 V	-3	(A00-3)	[0000]	B	11	-30
-Cruc	D	2505	Huangho	C66A472-6	 	   Ni Wa 		503	Wild	A6 V	-2	(831-2)	[1263]	B	12	-48
-Cruc	H	2518	Ferrol	X438000-B	 	    Di (NIL)		005	Wild	M0 V	-1	(F00+1)	[0000]	B	12	15
-Cruc	H	2520	Cruz	X55A000-5	 	   Di Wa (NIL)		010	Wild	M0 V	-3	(900+2)	[0000]	B	9	18
-Cruc	L	2522	Uterea	E659799-5	 	     (NIL)		210	Wild	K5 V	-2	(963+1)	[5564]	B	10	162
-Cruc	L	2525	Coin	X543000-4	 	   Di Po (NIL)		004	Wild	G7 V M4 V	-3	(A00+1)	[0000]	B	13	10
+Cruc	K	2425	Mellansel	X200000-7	 	   Di Va 		013	Wild	F2 V M0 V	-3	(500+3)	[0000]	B	17	15
+Cruc	K	2428	Kuhmo	X8CA000-9	 	   Di Fl (ENIL)		000	Wild	M2 V	-2	(A00+1)	[0000]	B	5	10
+Cruc	O	2431	Emis	X69A000-5	 	   Di Wa (NIL)		020	Wild	G4 V	-3	(A00-2)	[0000]	B	11	-20
+Cruc	O	2433	Mimsilmi	E998873-5	 	   Pa Pi Ph (NIL)		302	Wild	K8 V	-2	(A71-3)	[9656]	BcDe	9	-210
+Cruc	O	2437	T'Kaim	D787000-6	 	   Di Ga 		000	Wild	G9 V	-3	(500-1)	[0000]	B	7	-5
+Cruc	O	2439	Erex	X533000-6	 	   Di Po 		013	Wild	M2 V	-3	(700-3)	[0000]	B	8	-21
+Cruc	D	2504	Hun-tun	D648000-5	 	    Di (NIL)		024	Wild	F2 V K8 V M7 V	-3	(A00-4)	[0000]	B	11	-40
+Cruc	D	2505	Huangho	C66A655-6	 	  Ni Ri Wa 		303	Wild	A6 V	-1	(850+2)	[9536]	BC	12	80
+Cruc	H	2518	Ferrol	X438000-B	 	    Di (NIL)		005	Wild	M0 V	-1	(F00-1)	[0000]	B	12	-15
+Cruc	H	2520	Cruz	X55A000-C	 	   Di Wa (NIL)		010	Wild	M0 V	-1	(A00-2)	[0000]	B	9	-20
+Cruc	L	2522	Uterea	D659773-5	 	     (NIL)		210	Wild	K5 V	-2	(968-2)	[4564]	B	10	-864
+Cruc	L	2525	Coin	X543000-3	 	   Di Po (NIL)		004	Wild	G7 V M4 V	-3	(A00-1)	[0000]	B	13	-10
 Cruc	L	2528	Ivalo	X433000-6	 	   Di Po 		000	Wild	M8 III	-3	(500-3)	[0000]	B	10	-15
-Cruc	L	2530	Tervola	X8B8000-8	 	   Di Fl 		005	Wild	M2 III G1 V	-3	(A00+1)	[0000]	B	18	10
-Cruc	P	2532	Kheri	X797777-0	 	    Ag Pi (NIL)		303	Wild	F6 V M3 V	-1	(967+2)	[B644]	BCD	16	756
-Cruc	P	2535	Atcha	X64A000-2	 	   Di Wa 		020	Wild	M0 V M8 V	-3	(500+4)	[0000]	B	12	20
-Cruc	D	2602	Chin Shan	X667000-4	 	   Di Ga 		020	Wild	K9 V	-3	(800+1)	[0000]	B	8	8
-Cruc	D	2605	Shan	X430000-8	 	  De Di Po 		024	Wild	A6 V	-3	(D00-4)	[0000]	B	14	-52
-Cruc	D	2606	Wu Ti	X779000-3	 	    Di 		000	Wild	F7 V M8 V	-3	(500-3)	[0000]	B	5	-15
-Cruc	D	2607	Ju-i	X525000-A	 	    Di (NIL)		003	Wild	K5 V M3 V	-1	(D00-2)	[0000]	B	12	-26
-Cruc	D	2608	Pu Chou	B89678A-5	 	   Ag Pi Cx (NIL)		310	Wild	G5 V M0 V	1	(B64+3)	[B895]	BCD	6	792
-Cruc	D	2609	Yu-Chhiang	D868000-4	 	    Di 		010	Wild	G8 V M1 V	-3	(500-4)	[0000]	B	9	-20
-Cruc	D	2610	Kuan Yin	X636000-9	 	    Di (NIL)		004	Wild	M0 V	-2	(D00-4)	[0000]	B	13	-52
-Cruc	H	2612	Hu	D795000-7	 	    Di 		000	Wild	A0 V	-3	(700+2)	[0000]	B	12	14
-Cruc	H	2615	Sedano	X410000-B	 	    Di 		023	Wild	M2 V	-1	(C00-3)	[0000]	B	15	-36
-Cruc	H	2618	Vivero	X432000-6	 	   Di Po 		013	Wild	M2 V	-3	(700+3)	[0000]	B	15	21
-Cruc	L	2623	Tubroyllufotyusk	X674000-5	 	    Di (NIL)		000	Wild	M0 V	-3	(B00-1)	[0000]	B	4	-11
-Cruc	L	2625	Ronda	E855887-5	 	  Ga Pa Ph (NIL)		204	Wild	G8 V	-2	(A76-3)	[A62A]	Bce	12	-1260
-Cruc	L	2627	Pokka	X684796-0	 	    Ag Ri (NIL)		100	Wild	F8 V M6 V	0	(962+2)	[8741]	BC	8	216
-Cruc	L	2630	Vaala	X6879CD-1	 	  Ga Hi Pr (NIL)		204	Wild	F4 V G5 V	-1	(B83-3)	[E842]	BcE	9	-792
-Cruc	P	2633	Lismore	X434000-A	 	    Di 		000	Wild	M3 V	-1	(800-2)	[0000]	B	4	-16
-Cruc	P	2636	Minles	X300000-8	 	   Di Va 		001	Wild	G0 V	-3	(900-3)	[0000]	B	10	-27
-Cruc	P	2638	Olduvai	X551777-0	 	    Po (NIL)		200	Wild	F8 V M0 V	-2	(962-1)	[A561]	B	9	-108
-Cruc	D	2701	Huan	X84989A-2	 	   Ph Pi (NIL)		304	Wild	A3 V	-2	(A77-5)	[7655]	BDe	12	-2450
-Cruc	D	2702	Shang Ti	X67A000-5	 	   Di Wa (NIL)		012	Wild	F7 V M0 V	-3	(900+2)	[0000]	B	6	18
-Cruc	D	2703	Yen Ti	X562000-6	 	    Di 		024	Wild	M4 V	-3	(500+3)	[0000]	B	17	15
-Cruc	D	2704	Shen-nung	X94A000-5	 	   Di Wa (NIL)		010	Wild	G2 V M1 V	-3	(A00+1)	[0000]	B	7	10
-Cruc	D	2708	Thien-Shen	D693000-5	 	    Di (NIL)		000	Wild	A5 V G5 V	-3	(A00-2)	[0000]	B	8	-20
-Cruc	D	2710	Feng Po	D684456-4	 	   Ni Pa 		204	Wild	K8 V	-3	(630+1)	[6164]	Bc	13	18
-Cruc	H	2713	Heng-o	C748730-5	 	    Ag Pi (NIL)		103	Wild	F4 V K8 V	0	(96B+1)	[5762]	BCD	7	594
-Cruc	H	2718	Laurca	X310000-A	 	    Di 		010	Wild	F1 V M2 V	-1	(A00+2)	[0000]	B	10	20
-Cruc	H	2719	Oviedo	X6A4000-9	 	   Di Fl 		030	Wild	M0 V	-2	(700+2)	[0000]	B	9	14
-Cruc	L	2722	Osuna	D84A000-3	 	   Di Wa 		000	Wild	M9 V	-3	(700+1)	[0000]	B	6	7
-Cruc	L	2728	Ranua	CA69787-5	 	    Ri (NIL)		302	Wild	M2 II	0	(969+1)	[8755]	BC	10	486
-Cruc	P	2731	Paphos	D561688-2	 	   Ni Ri 		200	Wild	F0 V M1 V	-2	(850-5)	[7453]	BC	8	-200
-Cruc	P	2732	Scabin	D543000-6	 	   Di Po 		013	Wild	G5 V	-3	(500+1)	[0000]	B	13	5
-Cruc	P	2733	Raslapsi	X9B6000-9	 	   Di Fl (ENIL)		004	Wild	M0 V	-2	(D00+5)	[0000]	B	12	65
-Cruc	P	2735	Delago	X799000-6	 	    Di 		004	Wild	A6 V	-3	(400+1)	[0000]	B	14	4
-Cruc	P	2738	Falaya	D997000-7	 	    Di (NIL)		003	Wild	M3 V	-3	(900-3)	[0000]	B	9	-27
-Cruc	D	2804	Fu Hsi	B657678-8	 	  Ag Ga Ni 		100	Wild	M0 V	0	(855-4)	[861A]	BC	12	-800
-Cruc	D	2805	Nu-kua	X554000-0	 	    Ba 		000	Wild	K9 V	-3	(600-1)	[0000]	B	5	-6
-Cruc	D	2806	Kung-Sang	X000000-C	 	   As Va Di 		024	Wild	M1 V	-1	(F00+3)	[0000]	B	17	45
-Cruc	D	2808	Huang Ti	X310000-A	 	    Di 		020	Wild	F0 V M2 V	-1	(900+2)	[0000]	B	15	18
-Cruc	D	2809	Chuan Hsiun	X65667C-1	 	  Ag Ga Ni 		311	Wild	F9 V K3 V	-2	(850-1)	[5421]	BC	9	-40
-Cruc	D	2810	Khun Yao	D578000-5	 	    Di 		000	Wild	F0 V G8 V M1 V	-3	(800+2)	[0000]	B	6	16
-Cruc	H	2811	Shun	D586776-4	 	    Ag Ri (NIL)		312	Wild	F8 V G5 V	0	(967+3)	[7751]	BC	13	1134
-Cruc	H	2812	Ming	X552000-2	 	   Di Po 		011	Wild	G6 V G9 V M4 V	-3	(600-1)	[0000]	B	10	-6
-Cruc	H	2813	Tsi	E756000-3	 	   Di Ga 		020	Wild	A1 V K6 V	-3	(600+2)	[0000]	B	14	12
-Cruc	H	2815	Dax	X6A6000-8	 	   Di Fl 		002	Wild	G7 V M2 V	-3	(800+1)	[0000]	B	7	8
-Cruc	H	2818	Llanes	X57A000-7	 	   Di Wa (NIL)		010	Wild	G4 V K5 V	-3	(A00+1)	[0000]	B	10	10
-Cruc	H	2820	Sahagun	X9B8000-8	 	   Di Fl 		020	Wild	M1 V	-3	(800-1)	[0000]	B	11	-8
+Cruc	L	2530	Tervola	X8B8000-8	 	   Di Fl 		005	Wild	M2 III G1 V	-3	(A00+3)	[0000]	B	18	30
+Cruc	P	2532	Kheri	X797000-3	 	    Di (NIL)		003	Wild	F6 V M3 V	-3	(900+1)	[0000]	B	16	9
+Cruc	P	2535	Atcha	X64A000-3	 	   Di Wa 		020	Wild	M0 V M8 V	-3	(500+3)	[0000]	B	12	15
+Cruc	D	2602	Chin Shan	B6676A8-8	 	  Ag Ri Ga Ni 		320	Wild	K9 V	1	(A52+3)	[676A]	BC	8	300
+Cruc	D	2605	Shan	X430000-8	 	  De Di Po 		024	Wild	A6 V	-3	(D00+1)	[0000]	B	14	13
+Cruc	D	2606	Wu Ti	X779000-6	 	    Di 		000	Wild	F7 V M8 V	-3	(500-4)	[0000]	B	5	-20
+Cruc	D	2607	Ju-i	X525000-A	 	    Di (NIL)		003	Wild	K5 V M3 V	-1	(D00-5)	[0000]	B	12	-65
+Cruc	D	2608	Pu Chou	C8969AC-5	 	  Cx Hi In (NIL)		510	Wild	G5 V M0 V	1	(B85-3)	[7A27]	BE	6	-1320
+Cruc	D	2609	Yu-Chhiang	X868000-3	 	    Di 		010	Wild	G8 V M1 V	-3	(500+3)	[0000]	B	9	15
+Cruc	D	2610	Kuan Yin	X636000-9	 	    Di (NIL)		004	Wild	M0 V	-2	(D00-2)	[0000]	B	13	-26
+Cruc	H	2612	Hu	D795000-7	 	    Di 		000	Wild	A0 V	-3	(700-1)	[0000]	B	12	-7
+Cruc	H	2615	Sedano	X410000-B	 	    Di 		023	Wild	M2 V	-1	(C00+4)	[0000]	B	15	48
+Cruc	H	2618	Vivero	X432000-6	 	   Di Po 		013	Wild	M2 V	-3	(700+1)	[0000]	B	15	7
+Cruc	L	2623	Tubroyllufotyusk	X674000-D	 	    Di (NIL)		000	Wild	M0 V	-1	(B00-2)	[0000]	B	4	-22
+Cruc	L	2625	Ronda	E85587B-5	 	  Ga Pa Ph (NIL)		204	Wild	G8 V	-2	(A77-4)	[6662]	Bce	12	-1960
+Cruc	L	2627	Pokka	X684746-0	 	    Ag Ri (NIL)		200	Wild	F8 V M6 V	0	(966-3)	[57A1]	BC	8	-972
+Cruc	L	2630	Vaala	X6879B9-1	 	  Ga Hi Pr (NIL)		104	Wild	F4 V G5 V	-1	(B87-3)	[7861]	BcE	9	-1848
+Cruc	P	2633	Lismore	X434000-A	 	    Di 		000	Wild	M3 V	-1	(800-1)	[0000]	B	4	-8
+Cruc	P	2636	Minles	X300000-8	 	   Di Va 		001	Wild	G0 V	-3	(900+1)	[0000]	B	10	9
+Cruc	P	2638	Olduvai	X55178A-0	 	    Po (NIL)		100	Wild	F8 V M0 V	-2	(965-1)	[6591]	B	9	-270
+Cruc	D	2701	Huan	X8498B8-2	 	   Ph Pi (NIL)		204	Wild	A3 V	-2	(A74+5)	[8671]	BDe	12	1400
+Cruc	D	2702	Shang Ti	X67A000-7	 	   Di Wa (NIL)		012	Wild	F7 V M0 V	-3	(900+3)	[0000]	B	6	27
+Cruc	D	2703	Yen Ti	X562000-6	 	    Di 		024	Wild	M4 V	-3	(500+2)	[0000]	B	17	10
+Cruc	D	2704	Shen-nung	X94A000-4	 	   Di Wa (NIL)		010	Wild	G2 V M1 V	-3	(A00+1)	[0000]	B	7	10
+Cruc	D	2708	Thien-Shen	X693779-1	 	    Pi (NIL)		100	Wild	A5 V G5 V	-2	(A63-3)	[9531]	BD	8	-540
+Cruc	D	2710	Feng Po	D684000-7	 	    Di 		004	Wild	K8 V	-3	(600-3)	[0000]	B	13	-18
+Cruc	H	2713	Heng-o	C748678-5	 	   Ag Ni (NIL)		903	Wild	F4 V K8 V	-1	(950+2)	[6542]	BC	7	90
+Cruc	H	2718	Laurca	X310000-A	 	    Di 		010	Wild	F1 V M2 V	-1	(A00+1)	[0000]	B	10	10
+Cruc	H	2719	Oviedo	X6A4000-9	 	   Di Fl 		030	Wild	M0 V	-2	(700-3)	[0000]	B	9	-21
+Cruc	L	2722	Osuna	E84A000-6	 	   Di Wa 		000	Wild	M9 V	-3	(700+1)	[0000]	B	6	7
+Cruc	L	2728	Ranua	XA69788-0	 	    Ri (NIL)		102	Wild	M2 II	-1	(968+4)	[6611]	BC	10	1728
+Cruc	P	2731	Paphos	D561587-3	 	   Ni Pr 		400	Wild	F0 V M1 V	-3	(840-1)	[8252]	Bc	8	-32
+Cruc	P	2732	Scabin	D543000-7	 	   Di Po 		013	Wild	G5 V	-3	(500-3)	[0000]	B	13	-15
+Cruc	P	2733	Raslapsi	X9B6000-9	 	   Di Fl (ENIL)		004	Wild	M0 V	-2	(D00-4)	[0000]	B	12	-52
+Cruc	P	2735	Delago	X799000-3	 	    Di 		004	Wild	A6 V	-3	(400+1)	[0000]	B	14	4
+Cruc	P	2738	Falaya	D997000-7	 	    Di (NIL)		003	Wild	M3 V	-3	(900+1)	[0000]	B	9	9
+Cruc	D	2804	Fu Hsi	X657000-0	 	   Ba Ga 		000	Wild	M0 V	-3	(800+1)	[0000]	B	12	8
+Cruc	D	2805	Nu-kua	X554000-5	 	    Di 		000	Wild	K9 V	-3	(600-1)	[0000]	B	5	-6
+Cruc	D	2806	Kung-Sang	X000000-C	 	   As Va Di 		024	Wild	M1 V	-1	(F00+1)	[0000]	B	17	15
+Cruc	D	2808	Huang Ti	X310000-A	 	    Di 		020	Wild	F0 V M2 V	-1	(900+1)	[0000]	B	15	9
+Cruc	D	2809	Chuan Hsiun	E65657B-6	 	  Ag Ga Ni 		311	Wild	F9 V K3 V	-2	(843+1)	[5347]	BC	9	96
+Cruc	D	2810	Khun Yao	E578000-8	 	    Di 		000	Wild	F0 V G8 V M1 V	-3	(800+2)	[0000]	B	6	16
+Cruc	H	2811	Shun	D586730-4	 	    Ag Ri (NIL)		512	Wild	F8 V G5 V	0	(966-2)	[6741]	BC	13	-648
+Cruc	H	2812	Ming	X552000-5	 	   Di Po 		011	Wild	G6 V G9 V M4 V	-3	(600-1)	[0000]	B	10	-6
+Cruc	H	2813	Tsi	D756000-4	 	   Di Ga 		020	Wild	A1 V K6 V	-3	(600+2)	[0000]	B	14	12
+Cruc	H	2815	Dax	X6A6000-8	 	   Di Fl 		002	Wild	G7 V M2 V	-3	(800+3)	[0000]	B	7	24
+Cruc	H	2818	Llanes	E57A000-4	 	   Di Wa (NIL)		010	Wild	G4 V K5 V	-3	(A00+1)	[0000]	B	10	10
+Cruc	H	2820	Sahagun	X9B8000-8	 	   Di Fl 		020	Wild	M1 V	-3	(800+2)	[0000]	B	11	16
 Cruc	L	2823	Albox	X420000-8	 	  De He Di Po 		002	Wild	M2 V	-3	(A00+1)	[0000]	B	11	10
-Cruc	L	2826	Lorea	X430000-6	 	  De Di Po 		004	Wild	G6 V M1 V	-3	(800+4)	[0000]	B	14	32
-Cruc	L	2830	Athari	E879000-8	 	    Di (NIL)		000	Wild	K5 V	-3	(900+1)	[0000]	B	6	9
-Cruc	P	2832	Kivu	X7848DD-2	 	   Pa Ri Ph (NIL)		220	Wild	G8 V	-1	(A78+1)	[5782]	BcCe	10	560
+Cruc	L	2826	Lorea	X430000-6	 	  De Di Po 		004	Wild	G6 V M1 V	-3	(800-3)	[0000]	B	14	-24
+Cruc	L	2830	Athari	E879000-7	 	    Di (NIL)		000	Wild	K5 V	-3	(900+1)	[0000]	B	6	9
+Cruc	P	2832	Kivu	X784788-0	 	    Ag Ri (NIL)		920	Wild	G8 V	0	(A67+1)	[8751]	BC	10	420
 Cruc	P	2835	Mani	X6A7000-8	 	   Di Fl (ENIL)		023	Wild	G7 V M0 V	-3	(E00+1)	[0000]	B	9	14
-Cruc	P	2840	Rion	X5789AE-3	 	   Hi In (NIL)		130	Wild	M3 V	0	(B89+1)	[A911]	BE	10	792
-Cruc	D	2902	Chu-jung	X859440-2	 	    Ni 		402	Wild	K6 V	-3	(733+1)	[4171]	B	11	63
-Cruc	D	2907	Ho Liu	E6527AE-5	 	    Po (NIL)		212	Wild	G6 V K6 V	-2	(965+3)	[B561]	B	11	810
-Cruc	D	2908	Hunan	X9A8000-8	 	   Di Fl (ENIL)		000	Wild	F1 V	-3	(900-1)	[0000]	B	9	-9
-Cruc	H	2916	Aviles	E94A000-5	 	   Di Wa 		004	Wild	M2 V	-3	(800-3)	[0000]	B	14	-24
-Cruc	H	2918	Potes	X576000-7	 	    Di 		020	Wild	M2 V	-3	(700+5)	[0000]	B	12	35
-Cruc	H	2920	Micres	X77A000-3	 	   Di Wa (NIL)		024	Wild	M3 V	-3	(A00+2)	[0000]	B	11	20
-Cruc	L	2921	Jaen	D5578CB-2	 	   Pa Ph (NIL)		213	Wild	F5 V M2 V	-2	(A79+1)	[3662]	Bce	14	630
-Cruc	L	2923	Jodar	X646000-7	 	    Di (NIL)		000	Wild	A5 V	-3	(900-3)	[0000]	B	6	-27
-Cruc	L	2927	Rute	X100000-9	 	   Di Va 		013	Wild	M1 V	-2	(A00+1)	[0000]	B	9	10
-Cruc	P	2931	Uku	X79479E-1	 	    Ag Pi (NIL)		305	Wild	A3 V	-1	(A63-1)	[9661]	BCD	15	-180
-Cruc	P	2939	Siut	X510000-8	 	    Di 		000	Wild	G9 V M2 V	-3	(600+1)	[0000]	B	8	6
-Cruc	D	3003	Ti-mu	X566779-0	 	    Ag Ri (NIL)		904	Wild	G6 V	0	(A66-2)	[8773]	BC	12	-720
-Cruc	D	3006	Hun-kuo	X410000-8	 	    Di 		010	Wild	M0 V	-3	(800+1)	[0000]	B	11	8
-Cruc	H	3011	Foix	X200000-9	 	   Di Va 		004	Wild	F9 V	-2	(900+4)	[0000]	B	12	36
-Cruc	H	3013	Adour	X555544-2	 	   Ag Ni 		200	Wild	G7 V	-2	(741+2)	[4324]	BC	10	56
-Cruc	H	3015	Auch	D581678-3	 	   Ni Ri 		113	Wild	K1 V M3 V	-2	(850+5)	[4454]	BC	15	200
-Cruc	H	3019	Sestao	E683734-5	 	    Ri (NIL)		500	Wild	M0 V	-1	(969+1)	[2639]	BC	10	486
-Cruc	L	3022	Alcala	X535000-B	 	    Di 		000	Wild	F3 V M3 V	-1	(700-3)	[0000]	B	8	-21
-Cruc	L	3024	Almonte	X6A7000-8	 	   Di Fl 		002	Wild	M1 V	-3	(800-2)	[0000]	B	12	-16
-Cruc	L	3026	Rinlo	X431000-9	 	   Di Po 		000	Wild	M2 V	-2	(800-3)	[0000]	B	6	-24
-Cruc	L	3027	Varkaus	X310000-8	 	    Di 		003	Wild	M2 V	-3	(900-2)	[0000]	B	11	-18
-Cruc	L	3028	Toijala	X9CA000-9	 	   Di Fl 		010	Wild	F8 V M0 V	-2	(800+1)	[0000]	B	12	8
-Cruc	L	3030	Lahti	X59767B-1	 	   Ag Ni (NIL)		603	Wild	A5 V G7 V	-2	(A54-4)	[4466]	BC	9	-800
-Cruc	P	3031	Ulsan	D567456-3	 	   Ni Pa 		110	Wild	F7 V	-3	(630+1)	[5151]	Bc	8	18
-Cruc	P	3033	Degh	XAC9000-9	 	   Di Fl 		004	Wild	M2 V	-2	(900+5)	[0000]	B	13	45
-Cruc	D	3101	Fenho	X66A000-4	 	   Di Wa (NIL)		010	Wild	G5 V M0 V	-3	(900+1)	[0000]	B	13	9
-Cruc	D	3104	Pa Kua	E585754-5	 	    Ag Ri (NIL)		503	Wild	M3 V	0	(968-2)	[5721]	BC	8	-864
-Cruc	D	3108	Tao	X434000-B	 	    Di (NIL)		000	Wild	F9 V M2 V	-1	(900-2)	[0000]	B	9	-18
-Cruc	D	3110	Madi	X310000-8	 	    Di 		002	Wild	A8 V K4 V	-3	(900+1)	[0000]	B	5	9
-Cruc	H	3113	Pau	D677620-5	 	   Ag Ni (NIL)		900	Wild	F5 V M0 V	-2	(A53-1)	[A454]	BC	11	-150
-Cruc	H	3117	Irun	E76877B-3	 	    Ag Ri (NIL)		204	Wild	G5 V	0	(965+3)	[7774]	BC	11	810
-Cruc	H	3119	Bermeo	X310000-8	 	    Di 		003	Wild	M0 V M1 V	-3	(900+1)	[0000]	B	12	9
-Cruc	L	3121	Baena	X58477A-0	 	    Ag Ri (NIL)		204	Wild	F0 V M0 V	0	(967+2)	[7741]	BC	12	756
-Cruc	L	3130	Keski	C987540-5	 	   Ag Pr Ni 		100	Wild	M3 V	-1	(742+1)	[1428]	BcC	9	56
-Cruc	P	3131	Thom	X96A000-5	 	   Di Wa (NIL)		010	Wild	F5 V K8 V	-3	(A00+1)	[0000]	B	10	10
-Cruc	P	3134	Khuaf	X7A6000-A	 	   Di Fl 		012	Wild	M2 V	-1	(900-2)	[0000]	B	12	-18
-Cruc	P	3137	Kmmo-im	X5587A7-1	 	    Ag (NIL)		402	Wild	M1 V	-1	(966+1)	[7651]	BC	12	324
-Cruc	P	3138	Rm-y-mi	X534000-B	 	    Di (NIL)		010	Wild	F1 V M2 V	-1	(B00-1)	[0000]	B	6	-11
-Cruc	P	3140	Kixym	D554542-6	 	   Ag Ni 		102	Wild	F5 V G2 V	-2	(743-1)	[3375]	BC	13	-84
-Cruc	D	3202	Shen	X410000-7	 	    Di 		000	Wild	M3 III G3 V	-3	(400+5)	[0000]	B	5	20
+Cruc	P	2840	Rion	X578000-7	 	    Di (NIL)		030	Wild	M3 V	-3	(B00+1)	[0000]	B	10	11
+Cruc	D	2902	Chu-jung	X859000-0	 	    Ba 		002	Wild	K6 V	-3	(700+4)	[0000]	B	11	28
+Cruc	D	2907	Ho Liu	X652772-1	 	    Po (NIL)		212	Wild	G6 V K6 V	-2	(964+3)	[8563]	B	11	648
+Cruc	D	2908	Hunan	X9A8000-8	 	   Di Fl (ENIL)		000	Wild	F1 V	-3	(900+1)	[0000]	B	9	9
+Cruc	H	2916	Aviles	X94A000-3	 	   Di Wa 		004	Wild	M2 V	-3	(800+2)	[0000]	B	14	16
+Cruc	H	2918	Potes	X576000-7	 	    Di 		020	Wild	M2 V	-3	(700+1)	[0000]	B	12	7
+Cruc	H	2920	Micres	X77A000-1	 	   Di Wa (NIL)		024	Wild	M3 V	-3	(A00-2)	[0000]	B	11	-20
+Cruc	L	2921	Jaen	D5578DJ-4	 	   Pa Ph (NIL)		413	Wild	F5 V M2 V	-2	(A77+1)	[7641]	Bce	14	490
+Cruc	L	2923	Jodar	X646778-1	 	    Ag Pi (NIL)		200	Wild	A5 V	-1	(968-2)	[4672]	BCD	6	-864
+Cruc	L	2927	Rute	X100000-9	 	   Di Va 		013	Wild	M1 V	-2	(A00-3)	[0000]	B	9	-30
+Cruc	P	2931	Uku	X794000-4	 	    Di (NIL)		005	Wild	A3 V	-3	(A00-1)	[0000]	B	15	-10
+Cruc	P	2939	Siut	X510000-8	 	    Di 		000	Wild	G9 V M2 V	-3	(600-2)	[0000]	B	8	-12
+Cruc	D	3003	Ti-mu	C56689A-6	 	   Pa Ri Ph (NIL)		304	Wild	G6 V	0	(A77-3)	[78A1]	BcCe	12	-1470
+Cruc	D	3006	Hun-kuo	X410000-8	 	    Di 		010	Wild	M0 V	-3	(800+2)	[0000]	B	11	16
+Cruc	H	3011	Foix	X200000-9	 	   Di Va 		004	Wild	F9 V	-2	(900+3)	[0000]	B	12	27
+Cruc	H	3013	Adour	X555000-6	 	    Di 		000	Wild	G7 V	-3	(700-2)	[0000]	B	10	-14
+Cruc	H	3015	Auch	D581000-8	 	    Di 		013	Wild	K1 V M3 V	-3	(C00+5)	[0000]	B	15	60
+Cruc	H	3019	Sestao	D6837AB-5	 	    Ri (NIL)		300	Wild	M0 V	-1	(966+2)	[A641]	BC	10	648
+Cruc	L	3022	Alcala	X535000-B	 	    Di 		000	Wild	F3 V M3 V	-1	(700-2)	[0000]	B	8	-14
+Cruc	L	3024	Almonte	X6A7000-8	 	   Di Fl 		002	Wild	M1 V	-3	(800-4)	[0000]	B	12	-32
+Cruc	L	3026	Rinlo	X431000-9	 	   Di Po 		000	Wild	M2 V	-2	(800-4)	[0000]	B	6	-32
+Cruc	L	3027	Varkaus	X310000-8	 	    Di 		003	Wild	M2 V	-3	(900+1)	[0000]	B	11	9
+Cruc	L	3028	Toijala	X9CA000-9	 	   Di Fl 		010	Wild	F8 V M0 V	-2	(800+3)	[0000]	B	12	24
+Cruc	L	3030	Lahti	X59779A-1	 	    Ag Pi (NIL)		403	Wild	A5 V G7 V	-1	(A69+2)	[66A3]	BCD	9	1080
+Cruc	P	3031	Ulsan	X567000-3	 	    Di 		010	Wild	F7 V	-3	(600+2)	[0000]	B	8	12
+Cruc	P	3033	Degh	XAC9000-9	 	   Di Fl 		004	Wild	M2 V	-2	(900-1)	[0000]	B	13	-9
+Cruc	D	3101	Fenho	X66A78A-0	 	   Ri Wa (NIL)		310	Wild	G5 V M0 V	-1	(969+2)	[5641]	BC	13	972
+Cruc	D	3104	Pa Kua	E585799-4	 	    Ag Ri (NIL)		503	Wild	M3 V	0	(967+1)	[9741]	BC	8	378
+Cruc	D	3108	Tao	X434000-B	 	    Di (NIL)		000	Wild	F9 V M2 V	-1	(900-1)	[0000]	B	9	-9
+Cruc	D	3110	Madi	X310000-8	 	    Di 		002	Wild	A8 V K4 V	-3	(900+2)	[0000]	B	5	18
+Cruc	H	3113	Pau	D677000-7	 	    Di (NIL)		000	Wild	F5 V M0 V	-3	(A00+1)	[0000]	B	11	10
+Cruc	H	3117	Irun	E768750-4	 	    Ag Ri (NIL)		204	Wild	G5 V	0	(969+3)	[4714]	BC	11	1458
+Cruc	H	3119	Bermeo	X310000-8	 	    Di 		003	Wild	M0 V M1 V	-3	(900-4)	[0000]	B	12	-36
+Cruc	L	3121	Baena	X584774-0	 	    Ag Ri (NIL)		204	Wild	F0 V M0 V	0	(969+1)	[4741]	BC	12	486
+Cruc	L	3130	Keski	C987451-6	 	   Ni Pa 		100	Wild	M3 V	-2	(731+1)	[6264]	Bc	9	21
+Cruc	P	3131	Thom	X96A7AE-0	 	   Ri Wa (NIL)		210	Wild	F5 V K8 V	-1	(A63+2)	[8631]	BC	10	360
+Cruc	P	3134	Khuaf	X7A6000-A	 	   Di Fl 		012	Wild	M2 V	-1	(900+2)	[0000]	B	12	18
+Cruc	P	3137	Kmmo-im	X5587AA-1	 	    Ag (NIL)		202	Wild	M1 V	-1	(964-3)	[9656]	BC	12	-648
+Cruc	P	3138	Rm-y-mi	X534000-B	 	    Di (NIL)		010	Wild	F1 V M2 V	-1	(B00+4)	[0000]	B	6	44
+Cruc	P	3140	Kixym	X554577-2	 	   Ag Ni 		302	Wild	F5 V G2 V	-2	(741-3)	[3353]	BC	13	-84
+Cruc	D	3202	Shen	X410000-7	 	    Di 		000	Wild	M3 III G3 V	-3	(400+1)	[0000]	B	5	4
 Cruc	D	3205	Tsing Tao	X8C9000-9	 	   Di Fl 		004	Wild	F2 V	-2	(900+1)	[0000]	B	15	9
-Cruc	D	3207	Krina	E658546-5	 	   Ag Ni 		103	Wild	G7 V	-2	(740+4)	[5338]	BC	11	112
-Cruc	H	3211	Sete	X6638B9-1	 	   Ph Ri (NIL)		312	Wild	M2 V	-1	(A76+1)	[7776]	BCe	13	420
-Cruc	H	3215	Estella	X300000-A	 	   Di Va 		000	Wild	M3 V	-1	(600-3)	[0000]	B	7	-18
-Cruc	H	3217	Tarbes	D589411-3	 	    Ni 		200	Wild	K4 V	-3	(630+1)	[4184]	B	11	18
-Cruc	H	3219	Tafalla	E657777-3	 	   Ag Ga (NIL)		400	Wild	F5 V	-1	(966+1)	[8682]	BC	7	324
-Cruc	H	3220	Gijon	X580000-3	 	   De Di 		012	Wild	M2 V	-3	(700-2)	[0000]	B	14	-14
-Cruc	L	3221	Rota	X676678-1	 	   Ag Ni (NIL)		502	Wild	M1 V	-2	(A50+3)	[8441]	BC	7	150
-Cruc	L	3223	Vejir	D679000-6	 	    Di 		000	Wild	A2 V	-3	(600-1)	[0000]	B	9	-6
-Cruc	L	3226	Chiclana	E776000-7	 	    Di 		002	Wild	F9 V	-3	(800+1)	[0000]	B	11	8
-Cruc	P	3233	Talslad	X7AA000-8	 	   Di Fl 		003	Wild	M1 V	-3	(800-2)	[0000]	B	14	-16
-Cruc	P	3236	473-276	X438000-B	 	    Di 		000	Wild	M1 V	-1	(800+1)	[0000]	B	10	8
-Cruc	P	3238	Gau-kee	X787755-0	 	   Ag Ri Ga (NIL)		411	Wild	G7 V M4 V	0	(967-1)	[8755]	BC	8	-378
-Cruc	P	3240	Lno-rin	X63A000-9	 	   Di Wa (NIL)		000	Wild	F4 V M2 V	-2	(900-4)	[0000]	B	6	-36
+Cruc	D	3207	Krina	X658457-2	 	   Ni Pa 		903	Wild	G7 V	-3	(733+2)	[4191]	Bc	11	126
+Cruc	H	3211	Sete	X66388B-1	 	   Ph Ri (NIL)		112	Wild	M2 V	-1	(A77-1)	[6731]	BCe	13	-490
+Cruc	H	3215	Estella	X300000-A	 	   Di Va 		000	Wild	M3 V	-1	(600-1)	[0000]	B	7	-6
+Cruc	H	3217	Tarbes	D589000-7	 	    Di 		000	Wild	K4 V	-3	(600-1)	[0000]	B	11	-6
+Cruc	H	3219	Tafalla	E657786-3	 	   Ag Ga (NIL)		600	Wild	F5 V	-1	(966-2)	[9671]	BC	7	-648
+Cruc	H	3220	Gijon	D580000-5	 	   De Di 		012	Wild	M2 V	-3	(700-2)	[0000]	B	14	-14
+Cruc	L	3221	Rota	X676655-2	 	   Ag Ni (NIL)		402	Wild	M1 V	-2	(A54-4)	[6431]	BC	7	-800
+Cruc	L	3223	Vejir	X679000-4	 	    Di 		000	Wild	A2 V	-3	(600+1)	[0000]	B	9	6
+Cruc	L	3226	Chiclana	E776000-7	 	    Di 		002	Wild	F9 V	-3	(800-2)	[0000]	B	11	-16
+Cruc	P	3233	Talslad	X7AA000-8	 	   Di Fl 		003	Wild	M1 V	-3	(800+1)	[0000]	B	14	8
+Cruc	P	3236	473-276	X438000-B	 	    Di 		000	Wild	M1 V	-1	(800-2)	[0000]	B	10	-16
+Cruc	P	3238	Gau-kee	X787752-0	 	   Ag Ri Ga (NIL)		611	Wild	G7 V M4 V	0	(967+1)	[9761]	BC	8	378
+Cruc	P	3240	Lno-rin	X63A000-9	 	   Di Wa (NIL)		000	Wild	F4 V M2 V	-2	(900+4)	[0000]	B	6	36

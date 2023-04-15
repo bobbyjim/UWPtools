@@ -1,0 +1,427 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
+Olde	A	0108	Croesus	X430000-9	 	  De Di Na Po 		004	ImDs	M2 V M9 V	-2	(C00+1)	[0000]	B	9	12
+Olde	A	0109	Datarkt	X433000-7	 	   Di Na Po (NIL)		004	ImDs	M2 V M8 V	-3	(C00-1)	[0000]	B	7	-12
+Olde	E	0112	Klan	C797878-9	 	   Pa Pi Ph (NIL)	B	900	ImDs	K4 V	0	(A78+1)	[882C]	BcDe	13	560
+Olde	E	0113	Wott	X530000-C	 	  De Di Na Po 		024	ImDs	M1 V	-1	(E00+3)	[0000]	B	13	42
+Olde	E	0114	Dachnis	X312000-F	 	  Di Ic Na In 		010	ImDs	K2 V	0	(D00-2)	[0000]	BE	12	-26
+Olde	E	0117	Xulfor	X55A445-3	 	   Ni Wa 		622	ImDs	M2 V	-3	(731+1)	[4191]	B	11	21
+Olde	E	0118	Jenms	D561689-8	S	   Ni Ri 		202	ImDs	M0 V M7 V	-2	(A50-1)	[6443]	BC	11	-50
+Olde	I	0121	Martham	E5529BC-8	 	   Hi Po (NIL)	B	302	ImDs	M0 V M7 V	-1	(C84+2)	[A845]	BE	11	768
+Olde	I	0123	Sibbage	X55466A-5	 	   Ag Ni 		502	ImDs	M1 V	-2	(853+1)	[8431]	BC	11	120
+Olde	I	0125	Burlta	X799243-1	 	    Lo (NIL)		400	ImDs	M3 V	-3	(C10+1)	[3161]	B	13	12
+Olde	I	0127	Possin	X422000-F	 	  Di He Na In Po (NIL)		002	ImDs	G3 V M8 V	0	(E00-2)	[0000]	BE	10	-28
+Olde	I	0128	Darainne	X531000-D	 	   Di Na Po (NIL)		002	ImDs	F4 V M0 V	-1	(C00+1)	[0000]	B	11	12
+Olde	M	0131	Arvid	X9C7000-D	 	   Di Fl (ENIL)		025	ImDs	M3 V M7 V	-1	(H00+1)	[0000]	B	12	17
+Olde	M	0132	Keipes	X677838-6	 	   Pa Pi Ph (NIL)	B	311	ImDs	K3 V	-2	(A74+1)	[8653]	BcDe	13	280
+Olde	M	0134	Atrase	X68A145-4	 	   Lo Wa 		115	ImDs	M2 V M3 V	-3	(500-3)	[2176]	B	12	-15
+Olde	M	0135	Savjanni	X430000-E	 	  De Di Na Po (NIL)		003	ImDs	K1 V M0 V	-1	(C00+2)	[0000]	B	10	24
+Olde	M	0137	Svarla	X200000-C	 	  Di Na Pi Va 		001	ImDs	M3 V M4 V	-1	(A00-1)	[0000]	BD	14	-10
+Olde	M	0138	Nicosia	B566640-6	 	   Ag Ri Ni 		411	ImDs	K4 V M2 V	1	(852-4)	[6789]	BC	14	-320
+Olde	A	0201	Elyan	D752677-7	 	   Ni Po (NIL)		402	ImDs	K4 V	-3	(A50-1)	[433B]	B	15	-50
+Olde	A	0204	Thubria	X312000-B	 	   Di Ic 		000	ImDs	K0 V	-1	(400+5)	[0000]	B	10	20
+Olde	A	0209	Larmix	E787899-5	 	  Ga Pa Ri Ph (NIL)	B	504	ImDs	M3 V	-1	(A79+2)	[9726]	BcCe	9	1260
+Olde	E	0212	Laurence	B546477-7	 	  Mr Ni Pa (NIL)		512	ImDs	M2 V	-1	(A35-5)	[7377]	Bc	10	-750
+Olde	I	0221	New Martham	XAC5000-B	 	   Di Fl 		012	ImDs	M3 V M9 V	-1	(B00+2)	[0000]	B	9	22
+Olde	I	0222	Hodg	X75886A-4	 	   Pa Ph (NIL)	B	302	ImDs	M0 V	-2	(A72-4)	[5655]	Bce	10	-560
+Olde	I	0224	La Shend	X9C4000-9	 	   Di Fl (ENIL)		002	ImDs	M0 V M6 V	-2	(B00+1)	[0000]	B	14	11
+Olde	I	0229	Lote	X77A250-0	 	   Lo Wa 	B	302	ImDs	M1 V	-3	(810+5)	[21A1]	B	8	40
+Olde	M	0231	Thorell	X510000-7	 	    Di 		020	ImDs	M0 V	-3	(400+4)	[0000]	B	10	16
+Olde	M	0236	Kresek	X8C7000-9	 	   Di Fl 		002	ImDs	M0 V M1 V	-2	(A00+5)	[0000]	B	9	50
+Olde	M	0240	Peirsma	X000000-D	 	  As Va Di Na 		010	ImDs	M0 V	-1	(900-1)	[0000]	B	14	-9
+Olde	A	0302	Bincia	D5986A8-8	 	   Ag Ni 		415	ImDs	M0 V	-2	(E51+1)	[3469]	BC	14	70
+Olde	A	0304	Kri	X646455-6	 	   Ni Pa 	B	502	ImDs	K9 V M7 V	-3	(630+3)	[7186]	Bc	10	54
+Olde	A	0306	Diacy	X667772-7	 	   Ag Ri Ga (NIL)	B	802	ImDs	G2 V M7 V	0	(C6C+1)	[7775]	BC	6	864
+Olde	A	0310	Styge	X6556A5-6	 	  Ag Ga Ni 		713	ImDs	G0 V	-2	(854+1)	[3426]	BC	11	160
+Olde	E	0311	Ranb	E766775-7	 	   Ag Ri Ga (NIL)		602	ImDs	K4 V	0	(968-5)	[8745]	BC	11	-2160
+Olde	E	0312	Olxber	X000000-B	 	   As Va Di 		004	ImDs	M2 V M4 V	-1	(B00+1)	[0000]	B	12	11
+Olde	E	0317	Bede	X201000-C	 	  Di Ic Va Na Pi 		000	ImDs	M3 V	-1	(900+1)	[0000]	BD	11	9
+Olde	E	0318	Strat	X9BA000-F	 	   Di Fl (ENIL)		004	ImDs	K4 V	-1	(E00-1)	[0000]	B	9	-14
+Olde	I	0325	Bwan Murr	E555789-6	 	    Ag (NIL)		525	ImDs	K2 V	-1	(96A-3)	[867A]	BC	10	-1620
+Olde	I	0327	Sh' Lur	X426000-F	 	  Cp Di In (NIL)		021	ImDs	G3 V	0	(E00-1)	[0000]	BEF	9	-14
+Olde	I	0330	Tarryel	D572348-4	 	   He Lo (NIL)		802	ImDs	M2 V M4 V	-3	(A20+1)	[5182]	B	10	20
+Olde	M	0334	Buhle	X510000-F	 	  Cp Di Na In 		004	ImDs	K2 IV	0	(F00+3)	[0000]	BEF	12	45
+Olde	M	0336	Trybec	X54366A-4	 	   Ni Po 	B	603	ImDs	K0 V	-3	(850+4)	[B399]	B	11	160
+Olde	M	0337	Rohit	X310000-B	 	    Di 		022	ImDs	M0 V M3 V	-1	(B00+3)	[0000]	B	9	33
+Olde	A	0403	Dethenes	XA8956A-2	 	  Cp Ni Pr (NIL)	B	330	ImDs	G0 V	-3	(C40-1)	[8255]	BcF	9	-48
+Olde	A	0408	Larspri	X581000-0	 	    Ba 		000	ImDs	M0 V M9 V	-3	(200+1)	[0000]	B	13	2
+Olde	E	0412	Sanlorthan	E757655-8	 	  Ag Ga Ni 		204	ImDs	K7 V M6 V	-2	(C50+3)	[745B]	BC	13	180
+Olde	E	0413	Clersor	X100000-F	 	  Di Na In Va 		010	ImDs	K4 III	0	(C00-1)	[0000]	BE	11	-12
+Olde	E	0416	Exage	XA85200-0	 	    Lo (NIL)	B	604	ImDs	K6 V	-3	(B10+2)	[1161]	B	13	22
+Olde	E	0418	Seefare	X310000-8	 	   Di Na Pi 		010	ImDs	M0 V M7 V	-3	(A00+3)	[0000]	BD	12	30
+Olde	E	0419	Polei	X86A7AD-9	 	   Ri Wa (NIL)		704	ImDs	G2 V M5 V	0	(E69-2)	[7759]	BC	11	-1512
+Olde	I	0424	Sauler	X884522-4	 	   Ag Pr Ni 	B	300	ImDs	M2 V M8 V	-2	(740+1)	[7381]	BcC	5	28
+Olde	M	0432	Adrian	X426000-E	 	    Di 		003	ImDs	M1 V	-1	(B00+1)	[0000]	B	14	11
+Olde	M	0434	Fija	X553755-6	 	    Po (NIL)	B	705	ImDs	K1 V M0 V	-2	(967-1)	[3576]	B	13	-378
+Olde	M	0436	Macis	X8C5000-B	 	   Di Fl (ENIL)		024	ImDs	G2 V M8 V	-1	(G00+1)	[0000]	B	12	16
+Olde	M	0437	Vezina	D544768-8	 	    Ag Pi (NIL)		904	ImDs	M3 V M3 V	-1	(D62-4)	[8679]	BCD	11	-624
+Olde	M	0439	Lancer	E55A158-8	 	   Lo Wa 		414	ImDs	M3 V M6 V	-3	(D00+1)	[1126]	B	14	13
+Olde	A	0508	Preodis	X541634-6	 	  He Ni Po (NIL)		304	ImDs	K1 V	-3	(A51+3)	[6344]	B	11	150
+Olde	E	0512	Waroh	C78986B-9	 	  An Ph Ri (NIL)		820	ImDs	G0 V M4 V M4 V	1	(C78+1)	[D939]	BCe	14	672
+Olde	E	0513	Yeroltoy	DA55740-5	 	    Ag (NIL)	B	935	ImDs	K0 V	-1	(966+5)	[8631]	BC	11	1620
+Olde	E	0516	Frallsord	X562210-5	 	    Lo (NIL)		104	ImDs	K2 V M6 V	-3	(C10+1)	[1114]	B	10	12
+Olde	E	0518	Ajjeig	X425000-F	 	  Cp Di In (NIL)		004	ImDs	G3 V	0	(F00-2)	[0000]	BEF	7	-30
+Olde	E	0520	Srys	X76796B-4	 	 An Ga Hi Pr (NIL)	B	102	ImDs	M3 V M9 V	-1	(B89-1)	[B857]	BcE	12	-792
+Olde	I	0521	Drila	X432000-A	 	   Di Na Po 		022	ImDs	G3 V M6 V	-1	(C00-2)	[0000]	B	14	-24
+Olde	M	0535	Galos	E57668C-8	 	   Ag Ni 		604	ImDs	K7 V M6 V	-2	(C52+1)	[443B]	BC	11	120
+Olde	A	0603	Eupry	E544459-5	 	   Ni Pa (NIL)	B	314	ImDs	K8 V M1 V	-3	(A30-3)	[3154]	Bc	14	-90
+Olde	A	0606	Linourice	X521000-9	 	  Di He Po 		001	ImDs	G0 V	-2	(600-3)	[0000]	B	13	-18
+Olde	A	0607	Inthra	X422000-9	 	  Di He Na In Po (NIL)		024	ImDs	K3 V M1 V	-1	(J00+2)	[0000]	BE	9	36
+Olde	E	0613	Vinooks	X540343-4	 	  De He Lo Po (NIL)		303	ImDs	G3 V M8 V	-3	(920+1)	[3132]	B	9	18
+Olde	E	0614	Afrend	X676854-6	 	   Pa Pi Ph (NIL)	B	801	ImDs	G0 V M5 V G8 V	-2	(A78+2)	[9695]	BcDe	14	1120
+Olde	E	0620	Marsol	X422000-C	 	  Di He Na Po 		004	ImDs	G0 V	-1	(C00+3)	[0000]	B	13	36
+Olde	I	0621	Etpur	X637000-9	 	    Di (NIL)		025	ImDs	K9 V M9 V	-2	(G00+1)	[0000]	B	12	16
+Olde	I	0628	Meadsk	X987559-2	 	   Ag Pr Ni 	B	504	ImDs	G4 V	-2	(740+1)	[5361]	BcC	12	28
+Olde	M	0632	Zloff	E674641-8	 	   Ag Ni 		402	ImDs	K2 V	-2	(A51+1)	[5454]	BC	9	50
+Olde	M	0638	Schall	X57A275-1	 	   Lo Wa 		334	ImDs	G7 V M3 V	-3	(310+1)	[1196]	B	10	3
+Olde	M	0640	Seliga	X532000-D	 	   Di Na Po (NIL)		001	ImDs	M0 V	-1	(A00-1)	[0000]	B	12	-10
+Olde	E	0712	Sulthanbran	X000000-D	 	  As Va Di Na Pi 		004	ImDs	G7 III	-1	(D00-2)	[0000]	BD	13	-26
+Olde	E	0713	Lidator	X9CA000-9	 	   Di Fl (ENIL)		020	ImDs	M2 V M3 V	-2	(B00+3)	[0000]	B	13	33
+Olde	E	0714	Vard	X9BA000-8	 	  Di Fl In (ENIL)		004	ImDs	G4 V M7 V	-2	(F00-2)	[0000]	BE	11	-30
+Olde	E	0715	Ilm	X662000-C	 	    Di (NIL)		015	ImDs	G0 V	-1	(H00+3)	[0000]	B	11	51
+Olde	E	0716	Sarcathon	E96467A-8	 	   Ag Ri Ni 	B	904	ImDs	K0 V M8 V	-1	(C55+1)	[6549]	BC	7	300
+Olde	E	0717	Ritaboll	X55A153-4	 	   Lo Wa (NIL)		304	ImDs	K6 V M8 V	-3	(B00+1)	[3156]	B	13	11
+Olde	I	0721	Dho II's World	X420000-A	 	  De He Di Na Po 		005	ImDs	M2 V M3 V	-1	(D00-2)	[0000]	B	11	-26
+Olde	I	0722	Traeviss	X000000-B	 	  As Va Di Na 		004	ImDs	M3 V M4 V	-1	(C00-2)	[0000]	B	17	-24
+Olde	I	0723	Coaise	X5568B7-5	 	   Pa Ph (NIL)	B	414	ImDs	K4 V	-2	(A75+1)	[B661]	Bce	15	350
+Olde	I	0726	Marax	X573687-3	 	    Ni 		903	ImDs	G1 V M3 V	-3	(851-1)	[6314]	B	16	-40
+Olde	I	0729	Zoraith	X525000-B	 	   Di Pi (NIL)		012	ImDs	M2 V M9 V	-1	(C00+1)	[0000]	BD	6	12
+Olde	M	0732	Hite	D547176-5	 	    Lo (NIL)		113	ImDs	K4 V	-3	(A00-1)	[1192]	B	7	-10
+Olde	M	0735	Kruyter	X000000-B	 	   As Va Di 		003	ImDs	M2 V	-1	(900+3)	[0000]	B	11	27
+Olde	M	0737	Fuetz	X567441-7	 	   Ni Pa 		204	ImDs	M2 V M7 V	-3	(632+1)	[4178]	Bc	7	36
+Olde	M	0738	Vras	X78A56C-1	 	  Ni Pr Wa (NIL)	B	304	ImDs	M2 V	-3	(942+2)	[9261]	Bc	10	144
+Olde	E	0811	Zinorow	D68887B-9	 	   Pa Ri Ph (NIL)		804	ImDs	K1 V M5 V	0	(E7A-3)	[981A]	BcCe	9	-2940
+Olde	E	0812	Flanture	X743769-4	 	    Pi Po (NIL)	B	905	ImDs	M3 V	-2	(965-4)	[7552]	BD	8	-1080
+Olde	E	0813	Quan	X530000-B	 	  De Di Na Po (NIL)		004	ImDs	M1 V M3 V	-1	(D00+1)	[0000]	B	11	13
+Olde	E	0817	Inftow	X203000-E	 	  Di Ic Va Na In 		013	ImDs	K4 V	0	(F00+1)	[0000]	BE	7	15
+Olde	E	0818	Yerhen	C574758-9	 	    Ag Pi (NIL)		903	ImDs	K2 V M4 V	1	(C65+1)	[888A]	BCD	8	360
+Olde	I	0823	Shaphry	X734000-B	 	    Cy Di (NIL)		000	ImDs	M1 V	-1	(900-2)	[0000]	B	12	-18
+Olde	I	0825	Tiniyd	E543654-6	 	   Ni Po 		421	ImDs	M1 V M8 V	-3	(853+1)	[7395]	B	9	120
+Olde	I	0829	Xezor	C87A676-8	 	   Ni Wa (NIL)	B	601	ImDs	M0 V	-2	(A51+2)	[8489]	B	14	100
+Olde	M	0840	Conner	X310000-A	 	    Di 		003	ImDs	M1 V	-1	(A00+2)	[0000]	B	10	20
+Olde	B	0908	Tarpeian	XA85421-2	 	   Ni Pa 	B	400	ImDs	M2 V M4 V	-3	(630-3)	[6174]	Bc	10	-54
+Olde	B	0909	Paragon	C7666B7-5	 	  Ag Ri Ga Ni 	B	602	ImDs	M2 V	0	(852-3)	[361A]	BC	6	-240
+Olde	F	0913	Dahlec	E7867BE-8	 	   Ag Ri Ga 		102	ImDs	G1 V	0	(A6A-1)	[3763]	BC	14	-600
+Olde	F	0918	Rebields	X7A8000-F	 	 Cp Di Fl In (ENIL)		013	ImDs	G2 V M7 V	0	(F00+1)	[0000]	BEF	16	15
+Olde	J	0922	Moy	X313000-C	 	   Di Ic 		002	ImDs	G3 IV	-1	(800-2)	[0000]	B	11	-16
+Olde	J	0924	Avis	X513000-8	 	   Di Ic 		013	ImDs	K4 V	-3	(900+1)	[0000]	B	13	9
+Olde	J	0926	Berkin	X66A326-3	 	   Lo Wa (NIL)		704	ImDs	G2 V M3 V	-3	(B20-2)	[1193]	B	8	-44
+Olde	J	0929	Reagan	X310000-9	 	    Di 		012	ImDs	M0 V M8 V	-2	(900-1)	[0000]	B	10	-9
+Olde	J	0930	Welch	C544745-6	 	    Ag Pi (NIL)		622	ImDs	G6 V M4 V M0 V	0	(962+2)	[B758]	BCD	9	216
+Olde	N	0931	Herring	X686300-1	 	   Ga Lo 	B	204	ImDs	K3 V M2 V	-3	(320-1)	[1181]	B	11	-6
+Olde	N	0932	Dono	X510000-9	 	   Di Na 		002	ImDs	M1 III M3 V	-2	(A00-1)	[0000]	B	10	-10
+Olde	N	0936	Spires	X894788-5	 	    Ag 	B	103	ImDs	G0 V M4 V	-1	(867+4)	[B613]	BC	12	1344
+Olde	B	1002	Sternway	D784669-5	 	   Ag Ri Ni 	B	605	ImDs	M2 V M2 V	-1	(850+1)	[A543]	BC	14	40
+Olde	B	1004	Sidrat	X422000-F	 	  Di He Na Po 		024	ImDs	M2 V	-1	(E00-1)	[0000]	B	9	-14
+Olde	B	1006	Serpila	X674866-3	 	   Pa Pi Ph (NIL)	B	303	ImDs	M2 V M5 V	-2	(C78-3)	[A643]	BcDe	11	-2016
+Olde	B	1007	Safire	X96A66C-1	 	  Ni Ri Wa 	B	700	ImDs	M3 V	-2	(853-3)	[4451]	BC	11	-360
+Olde	B	1008	Kase	E887789-7	 	   Ag Ri Ga (NIL)	B	411	ImDs	M1 V M5 V	0	(969+1)	[5717]	BC	11	486
+Olde	B	1010	Montero	X865613-6	 	  Ag Ri Ga Ni 	B	704	ImDs	M2 V	-1	(851-2)	[5567]	BC	10	-80
+Olde	F	1011	Kestral	X75886A-3	 	   Pa Ph (NIL)	B	814	ImDs	K9 V M9 V	-2	(A73+1)	[4611]	Bce	10	210
+Olde	F	1013	Linnert	X642443-5	 	  He Ni Po 		204	ImDs	M0 V	-3	(632-2)	[1196]	B	11	-72
+Olde	J	1021	Dorian	X310000-A	 	    Di 		003	ImDs	M3 V	-1	(900+3)	[0000]	B	12	27
+Olde	J	1024	Cooke	X422000-A	 	  Di He Po 		000	ImDs	K7 V M1 V	-1	(400+2)	[0000]	B	13	8
+Olde	N	1032	Heppling	EA9A300-4	 	   Lo Oc (NIL)	B	602	ImDs	K4 V	-3	(920-4)	[7163]	B	11	-72
+Olde	N	1035	Saloga	X430000-E	 	  De Di Po 		004	ImDs	M3 V M9 V	-1	(A00+2)	[0000]	B	11	20
+Olde	N	1039	Luhtala	E574779-8	 	    Ag 		132	ImDs	M0 V	-1	(D68-3)	[761A]	BC	8	-1872
+Olde	B	1101	Mizar-5	X310000-C	 	    Di 		002	ImDs	K0 V	-1	(900+1)	[0000]	B	11	9
+Olde	B	1104	Talien	X848868-1	 	   Pa Pi Ph (NIL)	B	614	ImDs	K4 V M0 V	-2	(B72+3)	[A651]	BcDe	8	462
+Olde	B	1105	Estrem	X67266A-3	 	   He Ni (NIL)	B	422	ImDs	K6 V M0 V	-3	(B52-1)	[3313]	B	14	-110
+Olde	B	1106	Vaward	X795000-A	 	   Cs Di (NIL)		002	ImDs	M0 V M7 V	-1	(E00+1)	[0000]	BF	12	14
+Olde	F	1111	Aneth	B55679A-9	 	    Ag (NIL)		700	ImDs	G4 V	2	(96D-3)	[8979]	BC	12	-2106
+Olde	F	1114	Sveinel	X55476D-6	 	    Ag (NIL)		421	ImDs	K4 V M4 V	-1	(965+1)	[4633]	BC	12	270
+Olde	F	1118	Czerniak	X98996D-2	 	   Hi Pr (NIL)	B	700	ImDs	M3 V	-1	(B86+1)	[A826]	BcE	10	528
+Olde	J	1125	Janie	X76986A-2	 	   Ph Ri (NIL)	B	413	ImDs	M0 V	-1	(A78-3)	[7792]	BCe	15	-1680
+Olde	J	1126	Slandow	X9D4000-8	 	    Di 		004	ImDs	G2 V	-3	(C00-5)	[0000]	B	8	-60
+Olde	J	1128	Shenk	X55486A-3	 	   Pa Ph (NIL)	B	112	ImDs	K4 V M2 V	-2	(A75-1)	[7684]	Bce	12	-350
+Olde	N	1131	Bestor	X310000-E	 	   Cy Di Na 		004	ImDs	G1 V	-1	(C00+1)	[0000]	B	8	12
+Olde	N	1139	Hoff	X585433-3	 	   Ni Pa 		304	ImDs	M2 V M4 V	-3	(631-2)	[3176]	Bc	15	-36
+Olde	B	1201	Quin	X000000-D	 	  As Va Di Na 		001	ImDs	M3 V M8 V	-1	(900-4)	[0000]	B	9	-36
+Olde	B	1202	Tricard	X773000-F	 	   Di In (NIL)		014	ImDs	G3 V	0	(H00+2)	[0000]	BE	12	34
+Olde	B	1203	Margate	C689667-9	 	   Ni Ri 		420	ImDs	M1 V	0	(A51-4)	[767C]	BC	14	-200
+Olde	B	1205	Jone	X310000-F	 	    Di 		004	ImDs	M0 V M9 V	-1	(B00+2)	[0000]	B	7	22
+Olde	B	1206	Darby	X565667-2	 	   Ag Ri Ni 	B	504	ImDs	K3 V	-1	(854-4)	[A581]	BC	9	-640
+Olde	B	1208	Sygma	X99A56A-3	 	   Ni Wa 	B	510	ImDs	M2 V	-3	(842-4)	[9297]	B	11	-256
+Olde	F	1211	Wileth	X737000-9	 	    Di 		004	ImDs	K1 V	-2	(B00+5)	[0000]	B	10	55
+Olde	F	1212	Mofare	D79366A-6	 	    Ni 	B	520	ImDs	K1 V M4 V	-3	(852-3)	[8353]	B	5	-240
+Olde	F	1213	Depot	X000000-F	 	  As Va Di Mr 		004	ImDs	M2 V	-1	(B00+3)	[0000]	B	12	33
+Olde	F	1215	Indigo	X749745-8	 	    Pi (NIL)	B	422	ImDs	G1 V M7 V	-2	(D68+1)	[855D]	BD	7	624
+Olde	J	1221	Sovtor	X302000-C	 	  Di Ic Va Na 		000	ImDs	F8 III M8 V	-1	(800+4)	[0000]	B	13	32
+Olde	J	1223	Mueller	X55487A-5	 	   Pa Ph (NIL)		413	ImDs	M1 V M4 V	-2	(A78-5)	[C613]	Bce	13	-2800
+Olde	J	1224	Dunas	X631000-A	 	   Di Na Po (NIL)		002	ImDs	G2 V M8 V	-1	(C00-1)	[0000]	B	9	-12
+Olde	J	1227	Wall	X500000-E	 	 Cp Di Na In Va 		010	ImDs	M1 V	0	(C00+2)	[0000]	BEF	12	24
+Olde	J	1229	Fisher's World	C769873-B	 	   Ph Ri (NIL)		604	ImDs	M2 V M8 V	2	(E7B+1)	[4A2A]	BCe	8	1078
+Olde	N	1234	Willow	D648300-8	 	    Lo 		710	ImDs	K6 V	-3	(620-3)	[716A]	B	13	-36
+Olde	N	1235	Nemyer	X84637A-4	 	   Cp Lo (NIL)	B	403	ImDs	K8 V M1 V	-3	(B20+1)	[1141]	BF	11	22
+Olde	B	1301	Tantal	X000000-C	 	   As Va Di 		000	ImDs	K1 V	-1	(700+4)	[0000]	B	9	28
+Olde	B	1302	Arzhent	X000000-E	 	   As Va Di 		001	ImDs	M2 V	-1	(800-3)	[0000]	B	8	-24
+Olde	B	1303	Farina	X767766-5	 	   Ag Ri Ga (NIL)	B	800	ImDs	M2 V	0	(967-4)	[4774]	BC	10	-1512
+Olde	B	1305	Thurber	XAD5000-9	 	    Di 		034	ImDs	M2 V M8 V	-2	(F00+1)	[0000]	B	10	15
+Olde	B	1306	Veraq	X865877-5	 	  Ga Pa Ri Ph (NIL)	B	603	ImDs	M1 V	-1	(A75-1)	[8753]	BcCe	13	-350
+Olde	B	1307	Issek	X679622-3	 	    Ni 	B	400	ImDs	K1 V M9 V	-3	(850+1)	[A371]	B	12	40
+Olde	B	1309	Zetta	X421000-B	 	  Di He Na Pi Po (NIL)		020	ImDs	M3 V	-1	(B00+1)	[0000]	BD	8	11
+Olde	B	1310	Palique	X56866C-2	 	   Ag Ri Ni 	B	400	ImDs	K8 V M9 V	-1	(851+2)	[9592]	BC	9	80
+Olde	F	1311	Phoru	X575757-8	 	    Ag Pi (NIL)		202	ImDs	M2 V	-1	(E63-5)	[6697]	BCD	10	-1260
+Olde	F	1312	Marejen	X54566B-4	 	   Ag Ni 	B	402	ImDs	M1 V	-2	(850+2)	[4461]	BC	13	80
+Olde	F	1318	Walager	X974688-5	 	   Ag Ni 	B	604	ImDs	M2 V	-2	(853+1)	[6431]	BC	9	120
+Olde	F	1320	Skerry	X434000-8	 	    Di 		002	ImDs	M2 V	-3	(700+1)	[0000]	B	15	7
+Olde	J	1321	Marcena	C575752-8	 	    Ag Pi (NIL)	B	614	ImDs	K1 V	0	(E67+4)	[C759]	BCD	10	2352
+Olde	J	1322	Solee	X67586B-8	 	   Pa Pi Ph (NIL)	B	800	ImDs	M2 V M5 V	-2	(A78+1)	[6696]	BcDe	12	560
+Olde	J	1327	Barnet	X631000-C	 	   Di Na Po (NIL)		014	ImDs	M0 V M1 V	-1	(F00+1)	[0000]	B	10	15
+Olde	J	1328	Tequila	X571643-4	 	   He Ni 	B	314	ImDs	M2 V	-3	(852+1)	[6347]	B	9	80
+Olde	N	1331	Corrig	X622000-9	 	  Di He Na Po 		003	ImDs	F4 V M9 V	-2	(B00-3)	[0000]	B	10	-33
+Olde	N	1333	L'Steich	X9D4000-F	 	    Di (NIL)		014	ImDs	K4 V	-1	(G00-4)	[0000]	B	8	-64
+Olde	N	1338	Spencer	X89A110-2	 	   Lo Wa 	B	411	ImDs	M0 V	-3	(500+1)	[1141]	B	10	5
+Olde	N	1339	Kal	E778410-8	 	   Ni Pa 		502	ImDs	G1 V M8 V	-3	(830-3)	[516C]	Bc	11	-72
+Olde	B	1401	Pallad	X000000-F	 	  As Va Di Na 		004	ImDs	K1 V	-1	(C00+1)	[0000]	B	11	12
+Olde	B	1403	Andicotte	X626000-C	 	   Di In (NIL)		023	ImDs	M2 V	0	(G00-1)	[0000]	BE	8	-16
+Olde	B	1405	Aristera	X567767-2	 	   Ag Ri Mr (NIL)	B	401	ImDs	M1 V M8 V	0	(964+1)	[7731]	BC	11	216
+Olde	B	1408	Levan	X412000-9	 	  Di Ic Na Pi 		003	ImDs	M1 V	-2	(D00+3)	[0000]	BD	14	39
+Olde	F	1412	Chrimarko	X591776-4	 	   He Pi (NIL)		300	ImDs	G2 V M6 V	-2	(965+4)	[3574]	BD	12	1080
+Olde	F	1414	Kata	X99776C-5	 	    Ag Pi (NIL)	B	603	ImDs	M2 V M6 V	-1	(968+5)	[8668]	BCD	9	2160
+Olde	F	1415	Thanatos	C653648-7	 	   Ni Po 		314	ImDs	M2 V	-2	(852-1)	[545B]	B	10	-80
+Olde	J	1422	Hindahl	X754000-B	 	    Di (NIL)		000	ImDs	K0 V	-1	(C00+3)	[0000]	B	8	36
+Olde	J	1424	Kmak	X69686F-6	 	   Pa Pi Ph (NIL)		101	ImDs	K2 V	-2	(B74+3)	[9665]	BcDe	8	924
+Olde	J	1426	Herbe	X8C5000-9	 	   Di Fl 		003	ImDs	M1 V	-2	(900+1)	[0000]	B	9	9
+Olde	J	1427	Lawart	X78A558-3	 	  Ni Pr Wa (NIL)	B	202	ImDs	K3 V K9 V	-3	(A40-3)	[6253]	Bc	12	-120
+Olde	N	1431	Nex	X554766-5	 	    Ag (NIL)	B	713	ImDs	M0 V M9 V	-1	(96B+3)	[C662]	BC	7	1782
+Olde	N	1432	Junak	X67176F-5	 	   He Pi (NIL)	B	703	ImDs	M3 V M9 V	-2	(969+2)	[9575]	BD	9	972
+Olde	N	1437	Teldora	E554785-8	 	    Ag (NIL)		903	ImDs	M0 V	-1	(C64-5)	[866A]	BC	6	-1440
+Olde	B	1502	Antres	X839000-7	 	    Di 		004	ImDs	M3 V M5 V	-3	(700+4)	[0000]	B	8	28
+Olde	B	1503	Terzin	X544202-0	 	    Lo (NIL)	B	604	ImDs	G3 V	-3	(C10+1)	[4152]	B	10	12
+Olde	B	1504	Scytha	X555588-2	 	   Ag Ni 	B	210	ImDs	M2 V	-2	(743-2)	[6347]	BC	12	-168
+Olde	B	1507	Leome	D672200-7	 	   He Lo (NIL)		501	ImDs	M3 V	-3	(B10+1)	[1128]	B	9	11
+Olde	B	1508	Treviere	D564786-8	 	    Ag Ri (NIL)		500	ImDs	K3 V M0 V	0	(968+2)	[7758]	BC	13	864
+Olde	B	1510	Fezzan	X500000-8	 	  Di Na Va 		003	ImDs	K0 V	-3	(B00-2)	[0000]	B	14	-22
+Olde	F	1512	Lyart	X200000-E	 	  Di Na In Va 		010	ImDs	M0 V M2 V	0	(D00+1)	[0000]	BE	11	13
+Olde	F	1517	Krag	X737000-A	 	    Di 		003	ImDs	M3 V	-1	(B00-1)	[0000]	B	7	-11
+Olde	F	1519	Galiano	X767867-3	 	  Ga Pa Ri Ph (NIL)	B	604	ImDs	M0 V M0 V	-1	(A77+1)	[A7A4]	BcCe	7	490
+Olde	F	1520	Kunni	X87466B-5	 	   Ag Ni 	B	414	ImDs	M3 V M7 V	-2	(850-2)	[4428]	BC	14	-80
+Olde	J	1527	Yontez	X663955-6	 	   Hi Pr (NIL)	B	902	ImDs	M3 V M3 V	-1	(B82-3)	[7867]	BcE	12	-528
+Olde	J	1528	Kruml	X430000-A	 	  De Di Po 		003	ImDs	G1 V M6 V	-1	(900+1)	[0000]	B	9	9
+Olde	N	1532	Sarid	X000000-D	 	  As Va Di Na Pi 		004	ImDs	K6 V	-1	(D00+2)	[0000]	BD	8	26
+Olde	N	1540	Coast	X400000-B	 	   Di Va 		013	ImDs	M3 V M8 V	-1	(900-1)	[0000]	B	14	-9
+Olde	B	1602	Sardis	X554788-7	 	   Ag Mr (NIL)	B	800	ImDs	G2 V	-1	(965+1)	[5637]	BC	10	270
+Olde	B	1603	Chayne	X311000-F	 	   Di Ic 		005	ImDs	K1 V	-1	(C00-3)	[0000]	B	8	-36
+Olde	B	1604	Medallion	X310000-F	 	    Di 		003	ImDs	G0 V	-1	(A00+1)	[0000]	B	13	10
+Olde	B	1605	Krupp	E588755-7	 	    Ag Ri (NIL)		202	ImDs	G0 V	0	(964+1)	[2757]	BC	6	216
+Olde	B	1609	Gryphon	X424000-D	 	    Di 		001	ImDs	M2 V	-1	(800-1)	[0000]	B	14	-8
+Olde	B	1610	Darius	X555778-8	 	    Ag (NIL)		402	ImDs	M1 V M9 V	-1	(B68-3)	[A656]	BC	5	-1584
+Olde	F	1611	Anirl	X431000-B	 	   Di Na Po 		005	ImDs	K1 V M5 V	-1	(D00+5)	[0000]	B	14	65
+Olde	J	1621	Aniston	X412000-C	 	   Di Ic 		001	ImDs	M2 V M6 V	-1	(800-2)	[0000]	B	13	-16
+Olde	J	1623	Dothan	X549000-A	 	   Di Pi (NIL)		003	ImDs	M2 V M9 V	-1	(D00-4)	[0000]	BD	11	-52
+Olde	J	1626	Canton	X544758-6	 	    Ag (NIL)	B	120	ImDs	M1 V	-1	(968+2)	[9675]	BC	9	864
+Olde	J	1628	Astrid	X200000-8	 	   Di Va 		001	ImDs	K5 V M2 V	-3	(600+2)	[0000]	B	6	12
+Olde	J	1629	Olney	X511000-B	 	 Di Ic Mr Na Pi 		004	ImDs	M2 V	-1	(E00+3)	[0000]	BD	7	42
+Olde	N	1633	Nimz	X422000-A	 	  Di He Na Po 		000	ImDs	G8 V	-1	(800-4)	[0000]	B	8	-32
+Olde	N	1636	Tuer	X8C3000-B	 	   Di Fl (ENIL)		013	ImDs	A1 V	-1	(D00+1)	[0000]	B	10	13
+Olde	C	1702	Dredel	C557322-8	 	    Lo 		323	ImDs	K8 V M0 V	-2	(820-2)	[512A]	B	10	-32
+Olde	C	1709	Shilhen	X565110-3	 	    Lo 	B	721	ImDs	M1 V	-3	(400+1)	[4172]	B	12	4
+Olde	C	1710	Yestor	E667433-3	 	  Ga Ni Pa 	B	504	ImDs	K1 V M8 V M2 V	-3	(631-4)	[7151]	Bc	13	-72
+Olde	G	1717	Sharrif	X9B7000-A	 	   Di Fl 		005	ImDs	M0 V	-1	(C00+2)	[0000]	B	11	24
+Olde	G	1718	Akka	X74A420-5	 	   Ni Wa 	B	304	ImDs	M3 V	-3	(832-1)	[8178]	B	12	-48
+Olde	G	1719	Bonsher	X86596C-9	 	  Ga Hi Pr (NIL)	B	520	ImDs	M2 V M5 V	0	(D84+1)	[7919]	BcE	9	416
+Olde	K	1721	Rotal	X546000-A	 	   Di Pi (NIL)		002	ImDs	M0 V M2 V	-1	(C00-3)	[0000]	BD	11	-36
+Olde	K	1727	Bote	X7787C9-7	 	    Ag Pi (NIL)	B	200	ImDs	K3 V M8 V	-1	(964+4)	[8646]	BCD	12	864
+Olde	O	1732	So Skire	X65788C-1	 	  Ga Pa Ph (NIL)	B	204	ImDs	M1 V	-2	(A79+1)	[A673]	Bce	10	630
+Olde	O	1733	Keghe	X6B6000-8	 	   Di Fl 		002	ImDs	G5 III	-3	(600-1)	[0000]	B	13	-6
+Olde	O	1734	Ehart	X548000-4	 	    Di 		012	ImDs	M0 V	-3	(300+3)	[0000]	B	11	9
+Olde	O	1735	Lamneth	X543799-5	 	    Pi Po (NIL)		714	ImDs	K0 V M8 V	-2	(96A+4)	[4553]	BD	12	2160
+Olde	O	1736	Poyzen	E797200-3	 	    Lo 	B	503	ImDs	M3 V	-3	(410+1)	[2124]	B	11	4
+Olde	C	1802	Simblent	B57A746-A	 	    Wa 		101	ImDs	M3 V M3 V	2	(966-4)	[B97A]	B	12	-1296
+Olde	C	1803	Ahri	X5579CD-5	 	    Hi (NIL)	B	703	ImDs	M2 V M9 V	-1	(C85-1)	[A885]	BE	13	-480
+Olde	C	1804	Lhmoore	X422000-C	 	 Cp Di He Na In Po (NIL)		023	ImDs	M2 V	0	(G00+1)	[0000]	BEF	13	16
+Olde	C	1805	Zell	X8D6000-D	 	    Di 		023	ImDs	M1 V	-1	(A00-5)	[0000]	B	13	-50
+Olde	C	1806	Abeare	X553530-4	 	   Ni Po 	B	312	ImDs	K1 V	-3	(743+2)	[7297]	B	13	168
+Olde	C	1809	Louks	X9AA000-9	 	  An Di Fl 		004	ImDs	M3 V M3 V	-2	(C00-2)	[0000]	B	8	-24
+Olde	G	1817	Layor	E768641-7	 	   Ag Ri Ni 		220	ImDs	M2 V M3 V	-1	(852+1)	[4524]	BC	15	80
+Olde	K	1821	Ames	X500000-B	 	  Di Na Pi Va 		010	ImDs	G1 V	-1	(B00-2)	[0000]	BD	9	-22
+Olde	K	1822	Ropram	X567424-1	 	   Ni Pa (NIL)	B	424	ImDs	M3 V	-3	(C30+2)	[3181]	Bc	9	72
+Olde	K	1825	Mager	E866874-8	 	  Ga Pa Ri Ph (NIL)		115	ImDs	K6 V M4 V	-1	(F7A+2)	[7796]	BcCe	11	2100
+Olde	K	1826	Antalan	X435000-A	 	    Di 		013	ImDs	M3 V	-1	(A00+5)	[0000]	B	10	50
+Olde	K	1827	Rolf	E594878-8	 	   Pa Pi Ph (NIL)		103	ImDs	K2 V	-2	(C75+1)	[C698]	BcDe	8	420
+Olde	K	1829	Letron	E572444-5	 	   He Ni (NIL)		301	ImDs	M1 V M3 V	-3	(A32+1)	[4134]	B	10	60
+Olde	O	1833	Targa	E577567-5	 	   Ag Ni 		410	ImDs	M1 V	-2	(741+1)	[6315]	BC	12	28
+Olde	O	1834	Peart	X56576E-5	 	   Ag Ri Cp (NIL)		812	ImDs	K4 V M0 V	0	(968+1)	[7756]	BCF	13	432
+Olde	O	1835	Cobham	X79A220-0	 	   Lo Wa (NIL)		902	ImDs	K3 V M5 V	-3	(B10-1)	[5111]	B	9	-11
+Olde	O	1836	Grenbard	X422000-A	 	  Di He Po 		011	ImDs	K5 V M2 V	-1	(700-1)	[0000]	B	15	-7
+Olde	O	1837	Cleland	X7C8000-A	 	   Di Fl (ENIL)		011	ImDs	M2 V	-1	(B00+1)	[0000]	B	9	11
+Olde	O	1838	Janazzo	C554678-9	 	   Ag Ni 		623	ImDs	M2 V	0	(D55+4)	[865C]	BC	12	1300
+Olde	O	1839	Wrangell	X666234-3	 	   Ga Lo 		703	ImDs	G2 V	-3	(510-1)	[4125]	B	6	-5
+Olde	O	1840	Dobbet	D574530-7	 	   Ag Ni (NIL)		320	ImDs	M1 V	-2	(B41+1)	[7376]	BC	15	44
+Olde	C	1904	Fulinara	E566200-3	 	    Lo 		823	ImDs	M2 V M7 V	-3	(510-3)	[1147]	B	9	-15
+Olde	C	1906	Debruler	X9D6000-8	 	    Di 		004	ImDs	M0 V M5 V	-3	(800-2)	[0000]	B	11	-16
+Olde	C	1907	Algren	X653778-7	 	    Po (NIL)	B	812	ImDs	M2 V	-2	(963-1)	[7559]	B	15	-162
+Olde	C	1909	Silvis	D544577-6	 	   Ag Ni 		503	ImDs	M2 V	-2	(740+1)	[6337]	BC	8	28
+Olde	C	1910	Biros	X594121-5	 	    Lo 		504	ImDs	K7 V	-3	(400-2)	[1195]	B	13	-8
+Olde	G	1911	Mnash	X200000-F	 	 Cp Di Na In Va 		013	ImDs	M0 V	0	(F00-3)	[0000]	BEF	11	-45
+Olde	G	1920	Cenno	X97A320-3	 	   Lo Wa (NIL)		202	ImDs	M2 V M7 V	-3	(A20+4)	[5123]	B	8	80
+Olde	K	1922	Cupprio	X665155-0	 	   Ga Lo 	B	214	ImDs	K1 V	-3	(400+1)	[1171]	B	11	4
+Olde	K	1925	Moppo	X836000-B	 	    Di (NIL)		014	ImDs	M2 V	-1	(E00-3)	[0000]	B	11	-42
+Olde	K	1928	Phildelia	X100000-D	 	  Di Na Pi Va 		014	ImDs	G4 V	-1	(E00-4)	[0000]	BD	8	-56
+Olde	O	1934	Barlow	E687549-6	 	  Ag Pr Ga Ni 		513	ImDs	M1 V M4 V	-2	(742-3)	[33A6]	BcC	10	-168
+Olde	O	1936	Bonham	X89686D-2	 	   Pa Pi Ph (NIL)	B	900	ImDs	M3 V M5 V	-2	(A74+4)	[9635]	BcDe	12	1120
+Olde	O	1937	Schotz	D546624-5	 	   Ag Ni (NIL)	B	312	ImDs	M2 V	-2	(A53+1)	[8454]	BC	7	150
+Olde	O	1938	Burbelson	X648524-4	 	   Ag Ni 		413	ImDs	M2 V	-2	(744+1)	[3325]	BC	13	112
+Olde	C	2003	Ince	X565310-5	 	    Lo 		500	ImDs	G0 V M0 V	-3	(420+1)	[1168]	B	8	8
+Olde	C	2004	Arend	XAB8000-8	 	   Di Fl 		000	ImDs	K2 V M0 V	-3	(600-2)	[0000]	B	13	-12
+Olde	C	2005	134-635	X6A5000-0	 	   Ba Fl 		013	ImDs	K2 V	-3	(200-5)	[0000]	B	10	-10
+Olde	C	2006	Dese	X57A76A-3	 	   Pi Wa (NIL)		624	ImDs	M3 V	-2	(A65-2)	[8532]	BD	14	-600
+Olde	C	2008	Phoub	X547310-6	 	    Lo 		503	ImDs	K6 V	-3	(520+3)	[1134]	B	13	30
+Olde	G	2013	Pashintor	X528000-9	 	   Di Pi (NIL)		010	ImDs	K2 V	-2	(B00+2)	[0000]	BD	11	22
+Olde	G	2019	Leblion	X000000-C	 	   As Va Di 		000	ImDs	M9 III	-1	(700-2)	[0000]	B	9	-14
+Olde	K	2021	Villan	X431000-F	 	   Di Na Po (NIL)		013	ImDs	K8 V	-1	(F00-2)	[0000]	B	12	-30
+Olde	K	2022	Bytor	X54366E-5	 	   Ni Po 		401	ImDs	K3 V M4 V	-3	(851+1)	[6314]	B	14	40
+Olde	K	2030	Femerial	X665768-2	 	   Ag Ri Ga (NIL)	B	310	ImDs	M2 V M3 V	0	(96A+1)	[6741]	BC	13	540
+Olde	O	2031	Pohl	E776799-2	 	    Ag 	B	102	ImDs	G5 V M2 V	-1	(868+1)	[8641]	BC	11	384
+Olde	O	2036	Dunbar	X553530-2	 	   Ni Po 		520	ImDs	M1 V	-3	(740-2)	[2251]	B	7	-56
+Olde	O	2037	Mitmos	X434000-A	 	   Di Px 		023	ImDs	K3 V	-1	(C00-3)	[0000]	B	8	-36
+Olde	O	2039	Pratt	X877640-5	 	   Ag Ni 	B	200	ImDs	M2 V M8 V	-2	(850+1)	[2494]	BC	10	40
+Olde	C	2103	Drand	D544735-6	 	    Ag Pi (NIL)		601	ImDs	M1 V	-1	(968+3)	[5642]	BCD	7	1296
+Olde	C	2105	Yeaph	X675242-5	 	    Lo 		204	ImDs	K8 V	-3	(510-1)	[5162]	B	14	-5
+Olde	G	2114	Chenek	X985865-7	 	   Pa Ri Ph (NIL)		105	ImDs	K1 V	-1	(977+1)	[8768]	BcCe	12	441
+Olde	G	2120	Maazel	X310000-E	 	   Di Na Pi 		005	ImDs	A3 V M0 V	-1	(F00+1)	[0000]	BD	8	15
+Olde	K	2123	Sxip	X796797-6	 	    Ag Pi (NIL)	B	510	ImDs	K1 V	-1	(965-2)	[9682]	BCD	14	-540
+Olde	K	2124	Barsk	X100000-D	 	  Di Na Pi Va 		011	ImDs	M2 V	-1	(C00+1)	[0000]	BD	8	12
+Olde	K	2125	Mexit	X555000-E	 	    Di (NIL)		013	ImDs	M1 V	-1	(G00-1)	[0000]	B	9	-16
+Olde	K	2126	Lapper	X5557A9-1	 	    Ag (NIL)	B	203	ImDs	K3 V	-1	(966+3)	[6691]	BC	9	972
+Olde	K	2127	Elanor	X433000-C	 	   Di Na Po (NIL)		004	ImDs	M1 V	-1	(D00-2)	[0000]	B	7	-26
+Olde	K	2130	Darpi	X553656-8	 	   Ni Po 		902	ImDs	G0 V	-3	(A50+3)	[6365]	B	12	150
+Olde	O	2132	Atkins	XA9A96A-5	 	  Hi In Oc (NIL)	B	814	ImDs	M0 V	0	(B84+2)	[A916]	BE	10	704
+Olde	O	2134	Tama	C867500-6	 	  Ag Pr Ga Ni 	B	521	ImDs	F3 V M4 V	-1	(742+1)	[9489]	BcC	10	56
+Olde	O	2135	Khatru	D548100-7	 	    Lo 		114	ImDs	K2 V	-3	(500+2)	[1199]	B	8	10
+Olde	O	2137	Canzar	E545576-6	 	   Ag Ni 		415	ImDs	M1 V	-2	(741+1)	[5345]	BC	12	28
+Olde	C	2203	Thal	X599100-5	 	    Lo 		101	ImDs	M1 V	-3	(300+4)	[2174]	B	14	12
+Olde	C	2204	Imdra	X867347-3	 	   Ga Lo 	B	902	ImDs	M2 V	-3	(620+4)	[1111]	B	7	48
+Olde	C	2210	Millington	E58AA89-7	 	   Hi Wa (NIL)		101	ImDs	G1 V M0 V	-1	(998-4)	[B956]	BE	14	-2592
+Olde	G	2211	Gauras	E565541-5	 	   Ag Pr Ni 		223	ImDs	M0 V M4 V	-2	(742+2)	[3359]	BcC	14	112
+Olde	G	2212	Cimabue	X438000-A	 	    Di 		002	ImDs	M1 V M9 V	-1	(A00+3)	[0000]	B	11	30
+Olde	G	2215	Kuznets	X310000-C	 	   Di Na Pi 		003	ImDs	K0 V M3 V	-1	(D00+1)	[0000]	BD	7	13
+Olde	G	2218	Kantord	X510000-D	 	   Di Na In 		022	ImDs	K4 V M5 V	0	(F00-2)	[0000]	BE	11	-30
+Olde	K	2221	Gonzu	X580649-0	 	  De Ni Ri 	B	500	ImDs	K4 V	-2	(851+3)	[4494]	BC	13	120
+Olde	K	2225	Harple	X100000-E	 	  Di Na Pi Va 		012	ImDs	G2 V M5 V	-1	(C00+1)	[0000]	BD	14	12
+Olde	K	2227	Traynos	E56266E-6	 	   Ni Ri 	B	720	ImDs	M0 V	-2	(854+1)	[B473]	BC	13	160
+Olde	K	2228	Welzer	X57989D-2	 	   Ph Pi (NIL)	B	120	ImDs	K4 V M3 V	-2	(A73+3)	[9633]	BDe	15	630
+Olde	K	2229	Karse	D54158A-8	 	  He Ni Po (NIL)		404	ImDs	M0 V M3 V	-3	(E43+1)	[8217]	B	7	168
+Olde	O	2234	Palin	X430000-A	 	  De Di Po 		014	ImDs	M1 V M1 V	-1	(B00+3)	[0000]	B	8	33
+Olde	O	2236	Di Meola	D588249-6	 	    Lo 		214	ImDs	M1 V M5 V	-3	(410-4)	[3153]	B	9	-16
+Olde	O	2237	Hell	D560156-5	 	   De Lo 		111	ImDs	M3 V	-3	(500+1)	[1162]	B	11	5
+Olde	O	2240	Patuxant	X59776E-5	 	    Ag Pi (NIL)	B	514	SoCf	M1 V	-1	(967+2)	[8672]	BCD	14	756
+Olde	C	2305	Vate	X421000-A	 	  Di He Na Po 		003	ImDs	G1 V M4 V	-1	(B00-2)	[0000]	B	8	-22
+Olde	G	2315	Atil	X431000-F	 	   Di Na Po (NIL)		000	ImDs	K5 V M1 V	-1	(C00-4)	[0000]	B	12	-48
+Olde	K	2325	Kolop	E662624-8	 	   Ni Ri 	B	604	ImDs	K6 V M7 V	-2	(C50+2)	[9485]	BC	8	120
+Olde	K	2329	Samosk	X200000-F	 	 Cp Di Na In Va 		012	ImDs	G1 V	0	(E00+1)	[0000]	BEF	9	14
+Olde	O	2332	Valdost	E693556-5	 	    Ni 		403	ImDs	K4 V	-3	(740-2)	[2219]	B	11	-56
+Olde	O	2333	Clarke	E566876-7	 	   Pa Ri Ph (NIL)		123	ImDs	M2 V	-1	(973-1)	[6798]	BcCe	13	-189
+Olde	O	2340	Bordelon	X541699-4	 	  He Ni Po 		300	SoCf	G8 V	-3	(852+1)	[4312]	B	5	80
+Olde	C	2403	Tesb	X77A577-3	 	   Ni Wa 	B	403	ImDs	K3 V	-3	(742+1)	[5255]	B	13	56
+Olde	C	2405	Calan	X834000-9	 	    Di 		004	ImDs	G3 V	-2	(700+1)	[0000]	B	14	7
+Olde	C	2410	Kize	X100000-B	 	   Di Va 		010	ImDs	M3 V M3 V	-1	(400-1)	[0000]	B	14	-4
+Olde	G	2411	Sulpt	X410000-B	 	    Di 		002	ImDs	M7 III	-1	(900-3)	[0000]	B	10	-27
+Olde	G	2413	Bourj	X500000-9	 	  Di Na Pi Va 		004	ImDs	K0 V	-2	(D00+3)	[0000]	BD	7	39
+Olde	G	2416	Khar	X65976C-5	 	     (NIL)	B	404	ImDs	M0 V M5 V	-2	(966+4)	[B523]	B	8	1296
+Olde	G	2417	Khe	X63A000-B	 	   Di Wa 		002	ImDs	M1 V M3 V	-1	(900-2)	[0000]	B	14	-18
+Olde	G	2418	Khyme	X420000-A	 	  De He Di Po 		024	ImDs	G4 V	-1	(C00+2)	[0000]	B	11	24
+Olde	K	2422	Goldbach	E545300-5	 	    Lo 		402	ImDs	G8 V M9 V	-3	(520+1)	[4147]	B	14	10
+Olde	K	2424	Kolipio	X426000-7	 	    Di 		005	ImDs	M1 V	-3	(800-3)	[0000]	B	11	-24
+Olde	K	2425	Allenz	D656100-5	 	   Ga Lo 		403	ImDs	M0 V M3 V	-3	(300-3)	[111A]	B	6	-9
+Olde	K	2428	Quest	E766678-8	 	  Ag Ri Ga Ni 	B	822	ImDs	K8 V M3 V	-1	(C53+1)	[7578]	BC	8	180
+Olde	O	2431	Salinos	E97A300-7	 	   Lo Wa (NIL)		205	ImDs	M1 V	-3	(A20+1)	[7163]	B	13	20
+Olde	O	2432	Hjorts	C553120-3	 	   Lo Po 		814	ImDs	M1 V	-2	(400-4)	[3161]	B	16	-16
+Olde	O	2434	Wuss	X787720-3	 	   Ag Ri Ga (NIL)	B	623	ImDs	G4 V M7 V	0	(966+4)	[B712]	BC	9	1296
+Olde	O	2439	Khan	X634000-9	 	    Di (NIL)		003	SoCf	M2 V	-2	(C00-1)	[0000]	B	8	-12
+Olde	O	2440	Digriz	D689446-8	 	    Ni 		404	SoCf	M2 V	-3	(A33-1)	[7176]	B	8	-90
+Olde	D	2502	Lamber	E87565A-7	 	   Ag Ni 		600	ImDs	K9 V M9 V	-2	(852-4)	[846B]	BC	9	-320
+Olde	D	2510	Sonfeld	X69A567-4	 	   Ni Wa 		403	ImDs	M2 V M3 V	-3	(740+4)	[5265]	B	13	112
+Olde	H	2511	Dorp	X433000-9	 	   Di Po 		015	ImDs	G5 V M3 V	-2	(900+1)	[0000]	B	9	9
+Olde	L	2523	Usinea	X310000-F	 	  Cp Di Na In 		024	ImDs	G7 V M8 V	0	(H00-2)	[0000]	BEF	9	-34
+Olde	L	2524	Vreeland	E553736-8	 	    Po 		104	ImDs	K0 V	-2	(C64+1)	[5546]	B	7	288
+Olde	L	2529	092-007	X66A224-7	 	   Lo Wa 		502	ImDs	M3 V M5 V	-3	(310+1)	[3157]	B	9	3
+Olde	P	2533	Surren	E877685-8	 	   Ag Ni 	B	603	ImDs	M2 V M6 V	-2	(B54+4)	[7419]	BC	12	880
+Olde	P	2536	Lemos	X8C5000-F	 	 Cp Di Fl In (ENIL)		004	ImDs	M0 V M2 V	0	(F00+1)	[0000]	BEF	15	15
+Olde	P	2537	Sontar	X9C4000-C	 	  Di Fl In (ENIL)		014	ImDs	G3 V M6 V	0	(G00-1)	[0000]	BE	11	-16
+Olde	P	2538	Vleeman	X000000-E	 	  As Va Di Na In 		024	ImDs	K4 V	0	(J00-1)	[0000]	BE	14	-18
+Olde	D	2601	Acrolund	X777783-4	 	    Ag Pi (NIL)	B	723	ImDs	K0 V	-1	(967-2)	[5613]	BCD	12	-756
+Olde	D	2602	Carmon	E89889B-5	 	   Pa Pi Ph (NIL)	B	910	ImDs	M2 V	-2	(A7A-2)	[B645]	BcDe	11	-1400
+Olde	D	2603	Loydecal	X551765-0	 	    Po (NIL)	B	202	ImDs	M0 V M4 V	-2	(A67-5)	[4581]	B	11	-2100
+Olde	D	2605	Benson	X201000-A	 	  Di Ic Va Na 		004	ImDs	K2 V M0 V	-1	(C00-1)	[0000]	B	11	-12
+Olde	D	2607	Polluc	X000000-B	 	  As Va Di Na Pi 		004	ImDs	M1 V M4 V M2 V	-1	(D00+5)	[0000]	BD	9	65
+Olde	D	2609	Gilway	X84576E-5	 	   Ag Pi Cp (NIL)	B	403	ImDs	G0 V	-1	(966-5)	[5627]	BCDF	10	-1620
+Olde	H	2611	Warner	X56466A-5	 	   Ag Ri Ni 		702	ImDs	M2 V	-1	(851+1)	[2576]	BC	10	40
+Olde	L	2621	New Dakar	X8D3000-B	 	    Di (NIL)		001	ImDs	M1 V	-1	(A00-1)	[0000]	B	7	-10
+Olde	L	2622	Vendtup Station	X769141-7	 	    Lo 		914	ImDs	M3 V	-3	(600+3)	[1139]	B	12	18
+Olde	L	2628	Porrl	X858215-6	 	    Lo 		700	ImDs	M0 V M2 V	-3	(410-1)	[3144]	B	11	-4
+Olde	P	2631	Aice	X7C8000-B	 	   Di Fl 		004	ImDs	K1 V	-1	(B00+2)	[0000]	B	12	22
+Olde	P	2632	Kodants	B554776-7	 	    Ag (NIL)	B	104	ImDs	M0 V	1	(964+1)	[A84A]	BC	8	216
+Olde	P	2633	Zi	X311000-F	 	  Di Ic Na In 		003	ImDs	M0 V M0 V	0	(F00-1)	[0000]	BE	14	-15
+Olde	P	2639	An Cizow	X000000-9	 	   As Va Di 		003	SoCf	G2 V	-2	(900-1)	[0000]	B	15	-9
+Olde	P	2640	Phront	XAA5000-E	 	  Di Fl In (ENIL)		014	SoCf	K4 V	0	(H00+1)	[0000]	BE	10	17
+Olde	D	2704	Rannow	X430000-B	 	 De Di Mr Po 		002	ImDs	M2 V	-1	(800-2)	[0000]	B	13	-16
+Olde	D	2705	Daslon	X876675-5	 	   Ag Ni 	B	520	ImDs	K5 V M2 V	-2	(850-1)	[2435]	BC	10	-40
+Olde	D	2706	Rusco	X646668-4	 	   Ag Ni 	B	423	ImDs	M2 V	-2	(851+1)	[7423]	BC	10	40
+Olde	D	2707	Makan	X66A545-2	 	  Ni Pr Wa 		412	ImDs	M3 V	-3	(740-3)	[3231]	Bc	14	-84
+Olde	H	2711	Pradock	X567887-2	 	   Pa Ri Ph (NIL)	B	113	ImDs	M7 III	-1	(974+1)	[5753]	BcCe	8	252
+Olde	L	2726	Lannor	E543785-6	 	    Pi Po (NIL)		911	ImDs	M0 V	-2	(966+3)	[75A6]	BD	10	972
+Olde	L	2727	Republicos	X64A100-3	 	   Lo Wa 	B	512	ImDs	M2 V	-3	(700+4)	[3151]	B	13	28
+Olde	L	2728	Vendtup	X64A86D-3	 	  Ph Pi Wa 	B	714	ImDs	M0 V	-2	(774-5)	[7681]	BDe	9	-980
+Olde	P	2733	Caprica	X420000-D	 	  De He Di Po 		014	ImDs	K0 V	-1	(800+1)	[0000]	B	12	8
+Olde	P	2736	Berlitzi	X439000-E	 	    Di (NIL)		005	ImDs	M0 V M2 V	-1	(F00+3)	[0000]	B	11	45
+Olde	P	2739	Stech	X000000-B	 	   As Va Di 		001	SoCf	K1 V M1 V	-1	(800+1)	[0000]	B	10	8
+Olde	P	2740	Jeamasm	XAC5000-D	 	   Di Fl (ENIL)		023	SoCf	M1 V M6 V	-1	(F00-1)	[0000]	B	13	-15
+Olde	D	2801	Nautz	E853873-8	 	   Ph Po (NIL)	B	101	ImDs	M0 V M1 V	-2	(A77-1)	[4658]	Be	14	-490
+Olde	D	2803	Caborn	X733000-9	 	   Di Na Po 		010	ImDs	M2 V M7 V	-2	(900-1)	[0000]	B	5	-9
+Olde	D	2806	Dycarl	X558768-7	 	    Ag (NIL)	B	905	ImDs	M3 V M4 V	-1	(96A+1)	[C687]	BC	10	540
+Olde	D	2807	Zin	X9BA000-E	 	   Di Fl 		002	ImDs	G3 V	-1	(600-2)	[0000]	B	11	-12
+Olde	H	2811	Fentel	EA7867A-7	 	   Ag Ni 	B	622	ImDs	M2 V	-2	(853+2)	[9485]	BC	8	240
+Olde	H	2814	Doerr	X310000-9	 	   Di Na Pi 		004	ImDs	M2 V M2 V	-2	(E00-2)	[0000]	BD	11	-28
+Olde	H	2816	Barron	X300000-8	 	   Di Va 		003	ImDs	K4 V	-3	(900-2)	[0000]	B	6	-18
+Olde	H	2818	Torrel	X557777-5	 	    Ag (NIL)		304	ImDs	M2 V	-1	(C69-1)	[5664]	BC	12	-648
+Olde	L	2823	Albach	X558126-2	 	    Lo 		604	ImDs	M3 V	-3	(600+1)	[4151]	B	10	6
+Olde	L	2824	Burncloud	XAB5000-9	 	   Di Fl 		012	ImDs	M3 V M4 V	-2	(B00+4)	[0000]	B	15	44
+Olde	L	2825	Ayra	X521000-B	 	  Di He Na Pi Po (NIL)		023	ImDs	M3 V	-1	(E00+3)	[0000]	BD	8	42
+Olde	L	2828	Scorch	X541000-7	 	  Di He In Po (NIL)		000	ImDs	G2 V	-2	(B00+1)	[0000]	BE	13	11
+Olde	L	2829	Cold Rock	X400000-7	 	  Di Na Va 		005	ImDs	M2 III	-3	(800+2)	[0000]	B	12	16
+Olde	P	2832	Tanbeck	X420000-A	 	  De He Di Na Pi Po (NIL)		013	ImDs	M2 V	-1	(E00+3)	[0000]	BD	17	42
+Olde	P	2833	Fletcher	X311000-C	 	  Di Ic Na Pi 		014	ImDs	M2 V M6 V	-1	(E00-2)	[0000]	BD	13	-28
+Olde	P	2835	Syrim	X86A868-3	 	  Ph Ri Wa (NIL)	B	614	ImDs	K1 V M9 V	-1	(C77-3)	[7723]	BCe	8	-1764
+Olde	P	2838	Lusky	X947335-4	 	    Lo (NIL)	B	914	SoCf	K1 V M7 V	-3	(B20+1)	[2184]	B	12	22
+Olde	D	2907	Horejs	X685420-3	 	  Ga Ni Pa 		522	ImDs	M2 V	-3	(730-2)	[3162]	Bc	10	-42
+Olde	D	2909	Straker	E567685-8	 	   Ag Ri Ni 		302	ImDs	M0 V	-1	(A50+1)	[5558]	BC	11	50
+Olde	H	2911	Nash	X422000-A	 	  Di He Na In Po (NIL)		003	ImDs	K5 V	0	(E00+2)	[0000]	BE	10	28
+Olde	H	2914	Garz	X8D6000-D	 	    Di 		014	ImDs	M0 V M3 V	-1	(A00+2)	[0000]	B	10	20
+Olde	H	2916	Kalemn	X553573-5	 	   Ni Po 		514	ImDs	K6 V M4 V	-3	(742-3)	[A279]	B	8	-168
+Olde	H	2917	Paro	X9CA000-9	 	   Di Fl 		003	ImDs	G1 V	-2	(B00+2)	[0000]	B	13	22
+Olde	L	2924	Reine	D79A949-7	 	  Hi Pi Wa 		104	ImDs	M2 V	-1	(883+1)	[D844]	BDE	8	192
+Olde	L	2928	Olorna	E553525-5	 	   Ni Po 	B	401	ImDs	G1 V M0 V	-3	(740+1)	[1269]	B	13	28
+Olde	P	2933	Dunashaap	X9C4000-9	 	   Di Fl (ENIL)		004	ImDs	M2 V	-2	(D00-1)	[0000]	B	10	-13
+Olde	P	2934	Maurcam	X84A9EG-7	 	  Hi In Wa (NIL)		702	ImDs	M1 V M5 V M4 V	0	(983+1)	[6947]	BE	12	216
+Olde	P	2935	Hiland	XAC5000-B	 	   Di Fl (ENIL)		011	ImDs	M3 V	-1	(C00-1)	[0000]	B	14	-12
+Olde	D	3003	Crowell	E678636-5	 	   Ag Ni 		704	ImDs	M3 V	-2	(853-1)	[7453]	BC	9	-120
+Olde	D	3004	Smales	X586722-1	 	    Ag Ri (NIL)	B	703	ImDs	M3 V	0	(966+3)	[7765]	BC	15	972
+Olde	D	3006	Voskl	X843220-6	 	   Lo Po (NIL)		704	ImDs	G6 IV	-3	(B10-4)	[1147]	B	14	-44
+Olde	H	3012	Quen	D566332-3	 	    Lo 		522	ImDs	M3 V	-3	(520+2)	[1172]	B	10	20
+Olde	H	3015	Yesta	X557112-1	 	   Cp Lo (NIL)		202	ImDs	M0 V	-3	(B00+2)	[11A1]	BF	12	22
+Olde	L	3025	Chapet	X510000-E	 	    Di 		001	NaHu	M2 V	-1	(700+1)	[0000]	B	6	7
+Olde	P	3031	Roth	X97A353-2	 	   Lo Wa 	B	902	CsIm	M2 V	-3	(420+4)	[8123]	B	8	32
+Olde	P	3036	Ord	X571410-2	 	   He Ni 	B	605	NaHu	M2 V M6 V	-3	(730+3)	[5133]	B	16	63
+Olde	P	3039	Stad	X433000-E	 	   Di Na Po (NIL)		001	SoCf	M2 V	-1	(D00+1)	[0000]	B	9	13
+Olde	P	3040	Markham	D54A854-9	 	 Mr Ph Pi Wa (NIL)		103	SoCf	K2 V M7 V	-1	(D77-2)	[9758]	BDe	12	-1274
+Olde	D	3102	Siaj	E540558-7	 	  De He Ni Po 		200	ImDs	M2 V M4 V	-3	(740+2)	[3285]	B	13	56
+Olde	H	3111	Carris	X9D6000-8	 	    Di 		004	ImDs	M1 V	-3	(800+1)	[0000]	B	11	8
+Olde	L	3125	New Titan	X100000-C	 	   Di Va 		003	NaHu	M0 III D	-1	(A00-5)	[0000]	B	9	-50
+Olde	L	3126	Neuruhr	X576549-3	 	   Ag Ni 	B	402	ImDs	M0 V M2 V	-2	(744+1)	[2381]	BC	7	112
+Olde	L	3128	Portine	X561479-4	 	    Ni 		511	NaHu	G3 V M0 V M9 V	-3	(733+2)	[6142]	B	11	126
+Olde	P	3131	Hendura	XAC5000-D	 	  Di Fl In (ENIL)		004	NaHu	M1 V	0	(G00-2)	[0000]	BE	13	-32
+Olde	P	3136	Melock	XA555A8-0	 	   Ag Ni 	B	212	CsIm	M0 V	-2	(744+2)	[8371]	BC	15	224
+Olde	D	3204	Engle	DA57968-6	 	    Hi (NIL)	B	423	ImDs	M2 V	-1	(A83+1)	[A825]	BE	13	240
+Olde	D	3206	Drakenwald	D99A174-9	 	   Lo Wa 		900	ImDs	K0 V	-2	(600-1)	[1167]	B	6	-6
+Olde	D	3209	Van Cleef	X310000-C	 	   Di Na 		012	CsIm	M2 V M7 V	-1	(B00+4)	[0000]	B	9	44
+Olde	D	3210	Crakatoa	X554235-2	 	    Lo (NIL)		424	NaHu	F3 V	-3	(B10-3)	[2127]	B	14	-33
+Olde	H	3212	Srzilkrozia	X653730-4	 	    Po (NIL)	B	323	ImDs	K8 V M5 V	-2	(960+1)	[6583]	B	14	54
+Olde	H	3213	Kresh	X641411-4	 	  He Ni Po 		505	ImDs	M0 V M3 V	-3	(632+1)	[3136]	B	15	36
+Olde	L	3223	En Liverech	C89A412-7	 	   Ni Wa 		503	NaHu	G7 V M4 V	-2	(632+3)	[2237]	B	8	108
+Olde	L	3224	Lorsch	E98A302-6	 	   Lo Wa 		902	NaHu	M1 V M2 V	-3	(520-4)	[115A]	B	6	-40
+Olde	L	3225	Haven	X537000-9	 	    Di 		013	ImDs	K7 V M9 V	-2	(B00+1)	[0000]	B	7	11
+Olde	L	3226	Curuna	X793400-7	 	    Ni 		304	NaHu	K3 V M4 V M7 V	-3	(630+1)	[1159]	B	10	18
+Olde	L	3229	Urbain	X553879-5	 	   Ph Po (NIL)		600	ImDs	M3 V M4 V M9 V	-2	(A76-2)	[7643]	Be	13	-840
+Olde	P	3233	Andra	X545352-4	 	    Lo (NIL)		104	CsIm	G3 V	-3	(A20+1)	[1125]	B	10	20
+Olde	P	3238	Laste	X725000-7	 	    Di 		014	CsIm	K0 V M3 V	-3	(400+1)	[0000]	B	13	4
