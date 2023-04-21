@@ -44,19 +44,22 @@ sub MAIN( $sector ) {
 				do-wave( $config, $uwp );
 				$milieuPostwave ~= $uwp.show-line ~ "\n";
 				$allThree   ~= $config.get-exit-year ~ "\t" ~ $uwp.show-line ~ "\n";
+
+				# 1508
+				$uwp.wave4-do-one-recovery-epoch(-1);
+				$milieu1508 ~= $uwp.show-line ~ "\n";
+				$allThree   ~= "1508\t" ~ $uwp.show-line ~ "\n";
 			}
 			elsif $command eq 'virus' {			
 				do-virus( $config, $uwp );	
 				$milieu1201 ~= $uwp.show-line ~ "\n";
 				$allThree   ~= "1201\t" ~ $uwp.show-line ~ "\n";
 			}
+			elsif $command eq 'garden' {
+				$uwp.do-garden-world;
+			}
 		}
-
-		# 1508
-		$uwp.wave4-do-one-recovery-epoch(-1);
-		$milieu1508 ~= $uwp.show-line ~ "\n";
-		$allThree   ~= "1508\t" ~ $uwp.show-line ~ "\n";
-
+		
 		# 1900
 		$uwp.wave4-do-one-recovery-epoch(0);
 		$milieu1900 ~= $uwp.show-line ~ "\n";
@@ -85,7 +88,7 @@ sub do-virus( $config, $uwp ) {
 
 sub do-wave( $config, $uwp ) {
 	if $config.in-cow( $uwp.get-hex ) { 
-		$uwp.set-allegiance( 'CoWx' );
+		# $uwp.set-allegiance( 'CoWx' );
 	} else {
 		$uwp.do-wave-except-recovery;
 		$uwp.set-allegiance( 'Wild' );

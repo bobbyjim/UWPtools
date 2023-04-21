@@ -1,3 +1,4 @@
+use Util;
 
 class UWP is export {
 
@@ -21,7 +22,7 @@ class UWP is export {
 	has Int $!initial-tl-roll;
 	has Int $!tl-reduction is default(0);
 
-    has Str @!specialRemarks;
+    has Str $!specialRemarks;
 
 	has Str  $!NIL;
 	has Str  $!calculatedNIL;
@@ -50,13 +51,30 @@ class UWP is export {
 	has Int $!RU;
 
 	my %h2d = ((0..9),('A'..'H'),('J'..'N'),('P'..'Z')).flat Z=> (0..33);
-	my %d2h = ((0..33) Z=> ((0..9),('A'..'H'),('J'..'N'),('P'..'Z')).flat);
+	my @d2h = 0...9, 'A'...'H', 'J'...'N', 'P'...'Z';
 
 	method minflux {
 		my $f1 = (^6).pick - (^6).pick;
 		$f1 = -1 if $f1 < 0;
 		$f1 = 1  if $f1 > 0;
 		return $f1;
+	}
+
+	method distance-to( $hex ) {
+		return Util.distance(
+			Util.hex2rowcol( $!hex ),
+			Util.hex2rowcol( $hex )
+		)
+	}
+
+	method roll-starport {
+		my $roll = (^6).pick + (^6).pick + 2;
+		$!starport = 'A' if 2 <= $roll <= 4;
+		$!starport = 'B' if 5 <= $roll <= 6;
+		$!starport = 'C' if 7 <= $roll <= 8;
+		$!starport = 'D' if 9 == $roll;
+		$!starport = 'E' if 10 <= $roll <= 11;
+		$!starport = 'X' if 12 == $roll;
 	}
 	
 	method init-remarks {
@@ -70,7 +88,7 @@ class UWP is export {
 		push @r, 'As' if $str ~~ /^.000/;
 		push @r, 'De' if $str ~~ /^..<[2..9]>0/;
 		push @r, 'Fl' if $str ~~ /^..<[ABC]><[1..9A]>/;
-		push @r, 'Ga' if $str ~~ /^.<[678]><[568]><[567]>/;
+		push @r, 'Ga' if &.is-garden-world;
 		push @r, 'He' if $str ~~ /^.<[3..9ABC]><[2479ABC]><[012]>/;
 		push @r, 'Ic' if $str ~~ /^..<[01]><[1..9A]>/;
 		push @r, 'Oc' if $str ~~ /^.<[A..F]><[3..9DEF]>A/;
@@ -143,10 +161,34 @@ class UWP is export {
 
     method get-name { $!name }
     method get-hex { $!hex }
+	method get-col { ($!hex / 100).Int } # e.g. 1910 is row 19
+	method get-row { $!hex % 100 }       # e.g. 1910 is col 10
     method get-tl { $!tl }
 	method get-pm { $!pop-mult }
 	method get-zone { $!zone }
 	method get-allegiance { $!allegiance || '' }
+	method allegiance-is( $a ) { $a eq $!allegiance };
+
+    method is-strong-world {
+		#
+		#  Strong Worlds require importance and Jump Capability.
+		#
+		#  Call it Ix 4+.  Let's test that theory.  Can you have
+		#  an Importance 4 world without jump capability?
+		#
+		#  Say you have Starport C, TL 9, Ag Ri ... nope it's 
+		#  vanishingly difficult.  So Ix 4+ is a pretty good
+		#  yardstick.
+		#
+		return $!ix >= 4;
+	}
+
+    method is-garden-world {
+		return True if 
+			(6 <= $!siz <= 8) &&
+			($!atm == 5 || $!atm == 6 || $!atm == 8) &&
+			(5 <= $!hyd <= 7);
+	}
 
     method is-dieback(-->Bool) {
 		if ($!pop == 0)
@@ -324,13 +366,17 @@ class UWP is export {
 	}
 	
 	method parseSpecialRemarks( $remarks ) {
-		# we're looking for any of:ab an cp cs cx sa lk mr re 
-		@!specialRemarks = ();
-		my $str = &.study-uwp;
 
-        for 'Ab', 'An', 'Cp', 'Cs', 'Cx', 'Lk', 'Mr', 'Re', 'Sa' -> $code {
-			push @!specialRemarks, $code if $remarks ~~ /$code /;
-		}
+		# Kill These: 
+		#
+		# As De Fl Ga He Ic Oc Va Wa 
+		# Di Ba Lo Ni Ph Hi
+		# Pa Ag Na Px Pi In Po Pr Ri
+		# Cy Mr Cp Cs Cx O:xxxx
+		#
+
+		$!specialRemarks = $remarks ~ ' ';
+		$!specialRemarks ~~ s:g/(As|De|Fl|Ga|He|Ic|Oc|Va|Wa|Di|Ba|Lo|Ni|Ph|Ni|Ph|Hi|Pa|Ag|Na|Px|Pi|In|Po|Pr|Ri|Cy|Mr|Cp|Cs|Cx|O\:\d\d\d\d) //;
 	}
 
     #
@@ -452,10 +498,10 @@ class UWP is export {
 		$strangeness   = 1 if $strangeness < 1;
 		$symbols  	   = 1 if $symbols < 1;
 
-		$!cx =  %d2h{ $heterogeneity }.Str;
-		$!cx ~= %d2h{ $acceptance }.Str;
-		$!cx ~= %d2h{ $strangeness }.Str;
-		$!cx ~= %d2h{ $symbols }.Str;
+		$!cx =  @d2h[ $heterogeneity ].Str;
+		$!cx ~= @d2h[ $acceptance ].Str;
+		$!cx ~= @d2h[ $strangeness ].Str;
+		$!cx ~= @d2h[ $symbols ].Str;
 	}
 	
 	method show-nobility {
@@ -465,7 +511,7 @@ class UWP is export {
 				     &.get-population-remarks.flat,
 				     &.get-economic-remarks.flat,
 				     &.get-climate-remarks($!HZ).flat,
- 				     @!specialRemarks.flat;
+ 				     $!specialRemarks;
 
 		my $remarks = @remarks.join( ' ' );
 
@@ -541,6 +587,14 @@ class UWP is export {
 		$!pop-mult = (^9).pick + 1;
 	}
 
+	method randomize-low-population {
+		loop {
+			$!pop = (^6).pick + (^6).pick;
+			last if 0 < $!pop < 7;
+		}
+		$!pop-mult = (^9).pick + 1;
+	}
+
     method reroll-gov {
 		return if $!pop == 0;
  	    $!gov = $!pop - 7 + (^6).pick + 1 + (^6).pick + 1;
@@ -571,29 +625,29 @@ class UWP is export {
  	method show-uwp {
 		my @out;
 		@out.push( $!starport, 
-				%d2h{ $!siz },
-				%d2h{ $!atm },
-		        %d2h{ $!hyd },
-		        %d2h{ $!pop },
-		        %d2h{ $!gov },
-		        %d2h{ $!law },
+				@d2h[ $!siz ],
+				@d2h[ $!atm ],
+		        @d2h[ $!hyd ],
+		        @d2h[ $!pop ],
+		        @d2h[ $!gov ],
+		        @d2h[ $!law ],
 		        '-',
-	 	        %d2h{ $!tl } );
+	 	        @d2h[ $!tl ] );
 		return @out.join('');
 	}
 
     method show-uwp-Ix {
-		return "{$!ix}";
+		return '{ ' ~ $!ix ~ ' }';
 	}
 
 	method show-uwp-Ex {
 		&.calc-resources;
-		my $out = %d2h{ $!resources };
-		$out ~= %d2h{ $!labor };
-		$out ~= %d2h{ $!infrastructure };
-		$out ~= '-' if $!efficiency < 0;
-		$out ~= '+' if $!efficiency >= 0;
-		$out ~= %d2h{ $!efficiency.abs };
+		my $out = @d2h[ $!resources      ];
+		$out   ~= @d2h[ $!labor          ];
+		$out   ~= @d2h[ $!infrastructure ];
+		$out   ~= '-' if $!efficiency < 0;
+		$out   ~= '+' if $!efficiency >= 0;
+		$out   ~= @d2h[ $!efficiency.abs ];
 		return "($out)";
 	}
 
@@ -797,12 +851,25 @@ class UWP is export {
 		&.calc-extensions-and-RU;
 	}
 
+	method do-garden-world {
+		# intended as a post-wave, post-virus phenomena:
+		# barren garden worlds might get a small population.
+		return unless &.is-garden-world;
+		return unless $!pop == 0;
+
+		&.roll-starport;
+		&.randomize-low-population;
+		&.reroll-gov-and-law;
+		&.calc-tl(0);
+		&.set-allegiance('GaHu');
+	}
+
 	method show-line {
 		my @remarks = &.get-planetary-remarks.flat,
 				     &.get-population-remarks.flat,
 				     &.get-economic-remarks.flat,
 				     &.get-climate-remarks($!HZ).flat,
-				     @!specialRemarks.flat;
+				     $!specialRemarks;
 
 		my $remarks = @remarks.sort.join( ' ' ) ~ ' ';
 		$remarks ~= $!NIL || $!calculatedNIL;
@@ -827,24 +894,5 @@ class UWP is export {
 			$!RU
 		);
 		return @out.join( "\t" );
-
-#		my $out = $!sector;
-#		$out ~= "\t"	~ $!SS;
-#		$out ~= "\t"	~ $!hex;
-#		$out ~= "\t"	~ $!name;
-#		$out ~= "\t"	~ &.show-uwp;
-#		$out ~= "\t"	~ &.show-bases;
-#		$out ~= "\t"	~ $remarks;
-#		$out ~= "\t"	~ &.get-zone;
-#		$out ~= "\t"	~ &.show-PBG;
-#		$out ~= "\t"	~ $!allegiance;
-#		$out ~= "\t"	~ $!stars;
-#		$out ~= "\t"	~ &.show-uwp-Ix;
-#		$out ~= "\t"	~ &.show-uwp-Ex;
-#		$out ~= "\t"	~ &.show-uwp-Cx;
-#		$out ~= "\t"	~ &.show-nobility;
-#		$out ~= "\t"	~ $!otherWorlds;
-#		$out ~= "\t"	~ $!RU;
-#		return $out;
 	}
 }

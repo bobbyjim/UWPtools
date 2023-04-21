@@ -17,13 +17,20 @@ class Travellermap-Config is export {
 	method includes-virus { return $!order ~~ /virus/ }
 	method includes-wave  { return $!order ~~ /wave/  }
 
+    method sanity( %cfg ) {
+		die "\n\n  Error: cannot find default-order in config file.\n\n" unless %cfg.EXISTS-KEY('default-order');
+	}
+
 	method parse( $file ) {
 		my %toml = from-toml( :$file );
+		&.sanity(%toml);
+
 		$!exit-year = "unknown";
    		$!exit-year = (1199 + 41.47 * (2 + %toml<location><y>)).Int.Str
 			if %toml<location>.EXISTS-KEY('y');
 
 		@!order = %toml{ 'default-order' }.flat;
+
 		$!order = @!order.join( ' ' );
 		$!order ~= " *NO VIRUS* " unless $!order ~~ /virus/;
 		$!order ~= " *NO WAVE* "  unless $!order ~~ /wave/;
@@ -38,9 +45,14 @@ class Travellermap-Config is export {
 		$!virus-kill-hexes				= '';
 		
 		if %toml.EXISTS-KEY('virus') {
-			$!virus-preserve-allegiances = %toml<virus><preserve-by-allegiances> if %toml<virus>.EXISTS-KEY('preserve-by-allegiances');
-			$!virus-kill-hexes = %toml<virus><kill-hexes> if %toml<virus>.EXISTS-KEY('kill-hexes');
-			$!virus-preserve-hexes = %toml<virus><preserve-by-hex> if %toml<virus>.EXISTS-KEY('preserve-by-hex');
+			$!virus-preserve-allegiances = %toml<virus><preserve-by-allegiances> 
+				if %toml<virus>.EXISTS-KEY('preserve-by-allegiances');
+
+			$!virus-kill-hexes = %toml<virus><kill-hexes> 
+				if %toml<virus>.EXISTS-KEY('kill-hexes');
+
+			$!virus-preserve-hexes = %toml<virus><preserve-by-hex> 
+				if %toml<virus>.EXISTS-KEY('preserve-by-hex');
 		}
 
 		return @!order;
@@ -51,7 +63,7 @@ class Travellermap-Config is export {
     	push @out, "\tDefault Order    \t " ~ @!order;
 		push @out, "\tWave Exit year   \t $!exit-year";
 		push @out, "\tCOW location     \t " ~ %!wave-preserve-area<center> if %!wave-preserve-area;
-		push @out, "\tVirus preserves  \t " ~ $!virus-preserve-allegiances if $!virus-preserve-allegiances;
+		push @out, "\tVirus preserves  \t " ~ $!virus-preserve-allegiances if $!virus-preserve-allegiances;		
 		return @out.join( "\n" );
 	}
 

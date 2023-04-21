@@ -1,440 +1,440 @@
 Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
-Spin	A	0101	Zeycude	C430416-A	 	  De Ni Po 		513	Wild	K9 V	0	(C31-1)	[945B]	B	8	-36
-Spin	A	0102	Reno	C420796-A	 	   De He Na Pi Po (NIL)		303	Wild	G8 V M1 V	1	(C67-4)	[881B]	BD	12	-2016
-Spin	A	0103	Errere	B563650-C	 	   Ni Ri 		410	Wild	M1 V M4 V	2	(953-1)	[7858]	BC	9	-135
-Spin	A	0104	Cantrel	X566000-9	 	    Di 		020	Wild	F1 V	-2	(600-4)	[0000]	B	12	-24
-Spin	A	0108	Gyomar	X8B2000-8	 	   Di Fl He (ENIL)		024	Wild	A8 V	-3	(G00+1)	[0000]	B	14	16
-Spin	E	0111	Atson	D310000-8	 	    Di 		033	Wild	K8 V	-3	(D00+2)	[0000]	B	10	26
-Spin	E	0114	Yiktor	E6B6000-A	 	   Di Fl 		023	Wild	G4 V M4 V	-1	(B00+1)	[0000]	B	12	11
-Spin	E	0115	Xhosa	EA95000-5	 	    Di 		010	Wild	M0 V	-3	(300+1)	[0000]	B	8	3
-Spin	I	0122	Junction	D550320-4	 	  De Lo Po 		810	Wild	M2 V M3 V	-3	(620-1)	[21A2]	B	10	-12
-Spin	I	0129	Uniqua	E625000-7	 	    Di 		010	Wild	K9 V M9 V	-3	(700-3)	[0000]	B	8	-21
-Spin	I	0130	Garoo	A200877-A	 	  Na Pi Ph Va 		310	Wild	M1 V M5 V	2	(B7D+1)	[8A6A]	BDe	9	1001
-Spin	M	0133	Emape	B564474-A	N 	   Ni Pa 		103	Wild	M0 V	1	(A33+1)	[1525]	Bc	6	90
-Spin	M	0139	Raweh	X430000-B	T 	  De Di Po 		020	Wild	G3 V M1 V	-1	(700-2)	[0000]	B	5	-14
-Spin	M	0140	876-574	E687000-3	 	   Di Ga 		002	Wild	K7 V	-3	(400+1)	[0000]	B	11	4
-Spin	A	0202	Thengo	C868447-5	 	   Ni Pa 		401	Wild	G5 V M3 V	-2	(731+1)	[5216]	Bc	12	21
-Spin	E	0212	Prinx	C43667C-6	 	    Ni 		520	Wild	A9 V K8 V	-2	(852-1)	[3425]	B	9	-80
-Spin	E	0215	Rushu	E7666B8-4	 	  Ag Ri Ga Ni 		603	Wild	G0 V M3 V	-1	(851+1)	[5554]	BC	8	40
-Spin	E	0218	Bael	E200000-8	 	   Di Va 		012	Wild	K2 V	-3	(600-3)	[0000]	B	9	-18
-Spin	I	0223	Stern-Stern	X421000-B	 	  Di He Po 		001	Wild	M0 V M3 V	-1	(800+1)	[0000]	B	9	8
-Spin	I	0230	886-945	E833000-0	 	   Ba Po 		004	Wild	F8 V	-3	(200+3)	[0000]	B	16	6
-Spin	M	0231	Saxe	EAA5000-8	 	   Di Fl 		010	Wild	A2 V	-3	(800-2)	[0000]	B	9	-16
-Spin	M	0236	Andor	X695000-9	 	   An Di (NIL)		003	Wild	F3 V	-2	(C00+1)	[0000]	B	6	12
-Spin	M	0240	769-422	E754488-7	 	   Ni Pa 		324	Wild	G2 V	-3	(632+1)	[5147]	Bc	10	36
-Spin	A	0301	Rio	C686589-9	 	  Ag Pr Ga Ni 		301	Wild	M0 V M1 V	0	(941-3)	[6579]	BcC	8	-108
-Spin	A	0303	Gesentown	D311000-C	 	   Di Ic 		001	Wild	M2 V M9 V	-1	(900+3)	[0000]	B	12	27
-Spin	A	0304	Chronor	A636973-D	 	   Cp Hi (NIL)		410	Wild	F8 V	3	(C88-1)	[AC5D]	BEF	5	-768
-Spin	A	0307	Atsa	B433789-A	 	   An Na Po (NIL)		210	Wild	F7 V M3 V	2	(A69+1)	[6957]	B	8	540
-Spin	E	0311	Mizan-fel	D562000-8	 	    Di 		023	Wild	F3 V	-3	(C00+1)	[0000]	B	13	12
-Spin	I	0321	Nonym	C433872-A	 	   Na Po Ph (NIL)		423	Wild	G0 V	1	(F79-1)	[69AF]	Be	14	-945
-Spin	I	0325	Laberv	D554000-7	 	    Di 		034	Wild	G0 V	-3	(600-3)	[0000]	B	12	-18
-Spin	I	0326	Ektron	C432631-8	 	   Na Po Ni 		223	Wild	M1 V	-2	(D50-2)	[7457]	B	14	-130
-Spin	M	0332	Gothe	E421000-7	 	  Di He Po 		010	Wild	F5 V	-3	(700-1)	[0000]	B	9	-7
-Spin	M	0333	Mirriam	B999779-A	NW	    Pi (NIL)		214	Wild	G6 V	3	(F6C+2)	[6A9C]	BD	13	2160
-Spin	M	0336	Candory	E593000-8	 	   An Di 		020	Wild	F6 V M3 V	-3	(A00-1)	[0000]	B	5	-10
-Spin	M	0340	Wonderay	E88A457-5	 	   Ni Wa 		210	Wild	M1 V M3 V	-3	(630-2)	[3176]	B	7	-36
-Spin	E	0412	Sansibar	E200000-A	 	   Di Va 		001	Wild	M3 V M3 V	-1	(600-4)	[0000]	B	12	-24
-Spin	E	0414	Attica	C400533-8	 	   Ni Va 		510	Wild	K1 V M6 V	-2	(840+2)	[937D]	B	8	64
-Spin	E	0416	Retinae	E8C6000-9	 	   Di Fl (ENIL)		010	Wild	M1 V	-2	(C00-2)	[0000]	B	11	-24
-Spin	I	0421	Zamine	C8979CB-A	 	   Hi In (NIL)		123	Wild	M3 V	3	(G86-1)	[7C98]	BE	12	-768
-Spin	I	0425	Engrange	C554740-8	 	    Ag (NIL)		101	Wild	M1 V M3 V	0	(A67+1)	[675B]	BC	10	420
-Spin	I	0426	Ilium	B54479A-9	 	    Ag Pi (NIL)		901	Wild	G3 V M8 V	2	(B6B-3)	[4977]	BCD	6	-2178
-Spin	I	0427	Roget	B566774-9	 	    Ag Ri (NIL)		220	Wild	F8 V M3 V	3	(B69-4)	[9A28]	BC	7	-2376
-Spin	I	0429	Kardin	E553000-6	 	  An Di Po 		010	Wild	F7 V	-3	(300+1)	[0000]	B	10	3
-Spin	I	0430	Bularia	E774000-5	 	    Di 		010	Wild	K5 V M3 V	-3	(800+2)	[0000]	B	8	16
-Spin	M	0433	Jone	B79277C-9	N 	   He Pi (NIL)		610	Wild	G8 V M5 V	1	(A69+5)	[6817]	BD	13	2700
-Spin	M	0440	Jinx	D100000-7	 	   Di Va 		002	Wild	G3 IV D	-3	(300+1)	[0000]	B	10	3
-Spin	A	0503	Whenge	D648000-8	 	    Di 		010	Wild	F8 V	-3	(800+2)	[0000]	B	13	16
-Spin	E	0511	Terra Nova	E786000-9	 	   Di Ga 		012	Wild	K2 V	-2	(800-2)	[0000]	B	8	-16
-Spin	E	0512	Asmodeus	E596000-5	 	    Di 		005	Wild	K8 V	-3	(600-1)	[0000]	B	11	-6
-Spin	E	0518	Faisal	D545000-5	 	    Di 		010	Wild	K9 V M7 V	-3	(600-1)	[0000]	B	9	-6
-Spin	I	0526	Rorre	D765300-4	 	   Ga Lo 		503	Wild	F4 V M2 V	-3	(820+1)	[3185]	B	13	16
-Spin	I	0527	Mire	A665987-A	 	 Cx Ga Hi Pr (NIL)		410	Wild	K6 V	3	(D86+1)	[AC3E]	BcE	10	624
-Spin	I	0528	Condaria	E5477BA-5	 	    Ag Pi (NIL)		601	Wild	K3 V M0 V	-1	(96A+1)	[3677]	BCD	12	540
-Spin	I	0530	Dorannia	E421000-8	 	  Di He Po 		010	Wild	K4 V	-3	(800-2)	[0000]	B	9	-16
-Spin	M	0532	Ucella	D574000-7	 	    Di 		010	Wild	F2 V M2 V	-3	(800-3)	[0000]	B	8	-24
-Spin	M	0533	Penelope	C560673-4	 	  De Ni Ri 		123	Wild	F6 V M2 V	-1	(851-1)	[5546]	BC	10	-40
-Spin	M	0534	Karin	A7677BB-C	NS	  Ag Ri Ga Mr (NIL)		310	Wild	G7 V	5	(A69-3)	[8C7C]	BCf	6	-1620
-Spin	M	0538	Wonstar	B555754-8	N 	    Ag (NIL)		210	Wild	M0 V	1	(A6B+1)	[5895]	BC	5	660
-Spin	M	0539	Froin	E535000-9	 	    Di 		001	Wild	M2 V M7 V	-2	(500+1)	[0000]	B	12	5
-Spin	A	0601	Enlas-du	E975679-6	 	   Ag Ni (NIL)		823	Wild	F1 V	-2	(953-4)	[6417]	BC	14	-540
-Spin	A	0605	Algebaster	X665000-9	 	   Di Ga 		010	Wild	M0 V M1 V	-2	(900+1)	[0000]	B	10	9
-Spin	A	0607	Rasatt	E883000-7	 	    Di 		010	Wild	F0 V	-3	(600+1)	[0000]	B	6	6
-Spin	A	0608	Ninjar	A311555-E	 	  Ic Mr Ni 		210	Wild	A4 V	1	(946+2)	[264G]	B	6	432
-Spin	A	0610	Sheyou	B756651-B	 	  Ag Ga Ni (NIL)		711	Wild	F4 V M0 V	2	(B56+2)	[6889]	BC	13	660
-Spin	E	0613	Lebeau	B869514-B	 	   Ni Pr 		401	Wild	G8 V M5 V	1	(847+2)	[46A9]	Bc	10	448
-Spin	E	0614	Querion	B554755-A	 	   Ag Cp (NIL)		204	Wild	G6 V	3	(D68+5)	[4A1A]	BCF	13	3120
-Spin	E	0618	Dekalb	EA8A67A-6	 	  Ni Oc Ri (NIL)		820	Wild	M1 V	-2	(954+2)	[2447]	BC	13	360
-Spin	E	0620	Winston	E887000-6	 	   Di Ga 		001	Wild	K5 V M9 V	-3	(700-1)	[0000]	B	6	-7
-Spin	I	0622	Terant 340	D540576-9	 	  De He Ni Po 		423	Wild	G0 V M5 V	-2	(C41+4)	[6318]	B	8	192
-Spin	I	0624	Jacent	A433778-D	 	    Na Po (NIL)		310	Wild	M0 V	2	(A6C-1)	[595A]	B	7	-720
-Spin	I	0625	494-908	X893000-0	 	   Ba Re 		010	Wild	M1 V	-3	(200+1)	[0000]	B	6	2
-Spin	I	0627	Darrian	A463879-D	 	  An Ph Ri (NIL)		825	Wild	G1 V D	3	(J7A+2)	[5B2F]	BCe	10	2520
-Spin	M	0632	Gohature	C754775-7	S	    Ag (NIL)		223	Wild	F8 V	0	(96A+3)	[7717]	BC	15	1620
-Spin	M	0637	Quhaiathat	C31467B-9	 	   Ic Ni 		810	Wild	K8 V	-1	(A53-1)	[A57C]	B	6	-150
-Spin	M	0638	Lakou	E779000-7	 	    Di 		001	Wild	M2 V	-3	(600+1)	[0000]	B	13	6
-Spin	A	0703	Indo	E434000-6	 	    Di 		020	Wild	F6 V	-3	(800-2)	[0000]	B	11	-16
-Spin	A	0704	Nerewhon	E738413-7	 	    Ni 		220	Wild	K5 V	-3	(630-2)	[3144]	B	10	-36
-Spin	A	0705	Cipango	A886775-C	 	   Ag Ri Ga (NIL)		621	Wild	G2 V	4	(D6A+1)	[BB9D]	BCf	10	780
-Spin	A	0710	Stave	E766756-3	 	   Ag Ri Ga (NIL)		201	Wild	K9 V M2 V	0	(968+3)	[4784]	BC	8	1296
-Spin	E	0712	Rapp's World	E592000-8	 	   Di He 		002	Wild	K5 V M8 V	-3	(700+1)	[0000]	B	9	7
-Spin	E	0717	Thanber	D543000-C	 	   Di Po 		010	Wild	M0 V M1 V	-1	(900-2)	[0000]	B	9	-18
-Spin	E	0720	Entrope	E4369DH-B	 	    Hi (NIL)		410	Wild	G6 V M1 V	1	(D8C+4)	[5A3C]	BE	10	4992
-Spin	I	0721	Torment	X433000-6	 	   Di Po 		020	Wild	M0 V	-3	(400-2)	[0000]	B	12	-8
-Spin	I	0723	Trifuge	E546000-9	 	    Di 		010	Wild	F0 V	-2	(800-2)	[0000]	B	10	-16
-Spin	I	0724	Nosea	D432000-C	 	   Di Po 		020	Wild	M2 V	-1	(A00+1)	[0000]	B	13	10
-Spin	I	0727	Spume	D540000-A	 	  De He Di Po 		034	Wild	M2 V	-1	(B00+1)	[0000]	B	12	11
-Spin	I	0729	Ator	D426000-7	 	   An Di 		021	Wild	F7 V M2 V	-3	(400-2)	[0000]	B	6	-8
-Spin	M	0731	Ralhe	E424000-8	 	    Di 		001	Wild	M2 V M3 V	-3	(800+2)	[0000]	B	9	16
-Spin	M	0732	Iderati	A887631-C	N 	 Ag Ri Cp Ga Ni (NIL)		901	Wild	G9 V	3	(A58-2)	[496A]	BCF	11	-800
-Spin	M	0739	Tondoul	E513500-9	 	   Ic Ni 		301	Wild	K8 V M1 V	-2	(940+1)	[4336]	B	10	36
-Spin	A	0805	Narval	D525000-7	 	    Di 		003	Wild	G4 V M6 V	-3	(800+2)	[0000]	B	10	16
-Spin	A	0807	Plaven	E845000-5	 	    Di 		010	Wild	G8 V M7 V	-3	(500+2)	[0000]	B	6	10
-Spin	A	0808	Quar	B53278A-B	N 	    Na Po (NIL)		201	Wild	M2 V	2	(A69+1)	[6979]	B	9	540
-Spin	A	0810	Frond	E9C3000-9	 	   Di Fl 		003	Wild	F8 V	-2	(800-2)	[0000]	B	12	-16
-Spin	E	0820	Anselhome	C310544-8	 	    Ni 		301	Wild	M0 V M1 V	-2	(843+1)	[6389]	B	7	96
-Spin	I	0822	Cunnonic	E657677-3	 	  Ag Ga Ni 		202	Wild	K0 V	-2	(853+1)	[9454]	BC	8	120
-Spin	I	0830	Debarre	X854000-9	 	    Di 		022	Wild	M2 V	-2	(700+1)	[0000]	B	15	7
-Spin	M	0834	875-496	E888415-7	S	   Ni Pa 		310	Wild	M3 V M7 V	-3	(633+1)	[4165]	Bc	8	54
-Spin	M	0837	Ochecate	E747000-7	 	    Di 		010	Wild	G8 V M8 V	-3	(700+1)	[0000]	B	7	7
-Spin	M	0838	Mewey	D786779-5	 	   Ag Ri Ga (NIL)		401	Wild	K3 V M3 V	0	(962-2)	[C776]	BC	8	-216
-Spin	M	0840	975-452	E100000-9	 	   Di Va 		021	Wild	M0 V	-2	(800+1)	[0000]	B	10	8
-Spin	B	0901	Condyole	E7A1000-8	 	   Di Fl He 		023	Wild	F8 V	-3	(C00-1)	[0000]	B	10	-12
-Spin	B	0902	Puparkin	X7B3000-9	 	   Di Fl 		002	Wild	K8 V M4 V	-2	(700+1)	[0000]	B	6	7
-Spin	B	0904	Chwistyoch	B766779-A	 	  Ag Ri Ga Mr (NIL)		224	Wild	M2 V	4	(F6D-2)	[CB26]	BCf	15	-2340
-Spin	B	0909	Gougeste	D572000-A	 	   Di He 		020	Wild	K2 V	-1	(900-2)	[0000]	B	10	-18
-Spin	F	0911	Caloran	C79679C-5	 	    Ag Pi (NIL)		110	Wild	G2 V M4 V	0	(96B+4)	[9716]	BCD	6	2376
-Spin	F	0912	899-076	E201000-8	 	   Di Ic Va 		020	Wild	F7 V	-3	(700+1)	[0000]	B	8	7
-Spin	F	0915	Quare	B200431-9	 	   Ni Va 		804	Wild	M3 V	0	(B33-4)	[5428]	B	10	-396
-Spin	F	0919	Zeta 2	X6B0000-0	 	  Ba He Re 		020	Wild	M0 V	-3	(200-1)	[0000]	B	13	-2
-Spin	J	0921	Hrunting	B563678-9	 	   Ni Ri (NIL)		813	Wild	M2 V	1	(D57+1)	[6735]	BC	10	455
-Spin	J	0922	Tizon	B5868DE-C	 	   Pa Ri Ph (NIL)		123	Wild	K2 IV M3 V	3	(F79-2)	[4B4D]	BcCe	15	-1890
-Spin	J	0927	Narsil	B5748AA-5	 	   Pa Pi Ph (NIL)		224	Wild	G6 IV M0 V	0	(C7B+1)	[4872]	BcDe	10	924
-Spin	J	0930	Flammarion	D623000-B	T 	   Di Po 		010	Wild	F8 V	-1	(800-1)	[0000]	B	11	-8
-Spin	N	0931	Asteltine	D7A7000-A	 	   Di Fl 		010	Wild	K7 V M3 V	-1	(700+2)	[0000]	B	10	14
-Spin	N	0938	Inchin	D420000-A	 	  De He Di Po 		023	Wild	F0 V	-1	(A00+3)	[0000]	B	8	30
-Spin	N	0940	Singer	D553799-6	 	    Po (NIL)		201	Wild	M2 V M2 V	-2	(967+4)	[A552]	B	9	1512
-Spin	B	1004	Esalin	C565542-9	 	   Ag Pr Ni 		823	Wild	F3 V M2 V	0	(D44+2)	[2546]	BcC	9	416
-Spin	B	1005	Ruby	X400000-B	T 	   Di Va 		001	Wild	M1 V M3 V	-1	(700-3)	[0000]	B	9	-21
-Spin	B	1006	Emerald	B766542-A	S	  Ag Pr Ga Ni 		334	Wild	M1 V	2	(E47-4)	[174C]	BcC	12	-1568
-Spin	B	1010	Zenopit	D430000-7	 	  De Di Po 		022	Wild	M3 V	-3	(700-2)	[0000]	B	7	-14
-Spin	F	1011	Arden	B554897-7	 	   Pa Ph (NIL)		710	Wild	G4 V M5 V	0	(B76-3)	[783B]	Bce	12	-1386
-Spin	F	1018	Choleosti	E200000-9	 	   Di Va 		001	Wild	K9 V M4 V	-2	(400+2)	[0000]	B	5	8
-Spin	F	1020	Margesi	X575000-6	 	    Di 		010	Wild	K4 V M7 V	-3	(800-5)	[0000]	B	10	-40
-Spin	J	1022	Colada	B564610-B	 	   Ag Ri Ni 		111	Wild	K2 V M8 V	3	(A59-1)	[7959]	BC	10	-450
-Spin	J	1026	Anduril	B9857AC-A	 	    Ag Ri (NIL)		822	Wild	F2 V	4	(E6C-4)	[9B97]	BCf	11	-4032
-Spin	N	1031	567-908	E532000-0	 	   Ba Po 		010	Wild	K5 III D	-3	(200+1)	[0000]	B	9	2
-Spin	N	1037	Avastan	C433546-A	 	   Ni Px Po 		324	Wild	M3 V	0	(D42+1)	[253C]	B	11	104
-Spin	N	1040	Kuai Qing	C503777-9	 	   Ic Va Na Pi 		220	Wild	K3 V	0	(B66+3)	[472E]	BD	7	1188
-Spin	B	1102	Riverland	C566AEB-9	 	    Hi (NIL)		114	Wild	M2 V	1	(H98+1)	[9B35]	BE	14	1224
-Spin	B	1103	Clan	B67288A-A	 	  He Ph Pi (NIL)		201	Wild	K8 V	2	(B7B-2)	[9A46]	BDe	12	-1694
-Spin	B	1106	Jewell	A777999-C	NS	   Hi In (NIL)		423	Wild	G7 V	5	(G8D-5)	[EE98]	BEf	10	-8320
-Spin	B	1110	Zircon	D792000-8	 	   Di He 		024	Wild	F0 V	-3	(E00+1)	[0000]	B	12	14
-Spin	F	1116	Frenzie	E200000-A	T 	  Cp Di Va 		010	Wild	M3 III M2 V	-1	(700+1)	[0000]	BF	5	7
-Spin	F	1118	Garda-Vilis	B978799-A	S	    Ag Pi (NIL)		912	Wild	M3 V	3	(D68+1)	[2A19]	BCD	14	624
-Spin	F	1119	Vilis	A593777-8	 	    Pi (NIL)		420	Wild	G5 V M8 V	0	(D64-3)	[776D]	BD	9	-936
-Spin	J	1121	Mjolnir	D530000-A	 	  De Di Po 		022	Wild	A5 V G0 V	-1	(B00+2)	[0000]	B	12	22
-Spin	J	1123	Joyeuse	B564788-A	 	    Ag Ri (NIL)		201	Wild	M3 V M9 V	4	(A69+2)	[AB66]	BCf	13	1080
-Spin	J	1126	Orcrist	D8A6000-A	 	  Di Fl Lk (ENIL)		001	Wild	K7 V M7 V	-1	(A00+1)	[0000]	B	8	10
-Spin	J	1130	Enos	E350577-4	 	  De Ni Po 		310	Wild	M1 V	-3	(741+3)	[1247]	B	8	84
-Spin	N	1131	Faldor	E593000-5	 	    Di 		020	Wild	M2 V	-3	(800-5)	[0000]	B	7	-40
-Spin	N	1132	Bowman	D000000-9	S	   As Va Di 		031	Wild	M0 V	-2	(900+1)	[0000]	B	13	9
-Spin	N	1133	Squallia	C438674-9	 	    Ni 		220	Wild	F0 V	-1	(A55+2)	[553D]	B	8	500
-Spin	N	1138	Tarsus	B584556-C	 	   Ag Pr Ni 		902	Wild	K9 V	2	(A48+1)	[2739]	BcC	7	320
-Spin	B	1201	Ao-dai	E410695-7	 	   Na Ni 		212	Wild	K2 V M3 V	-3	(851-1)	[B323]	B	10	-40
-Spin	B	1204	Mongo	A568550-C	NS	   Ag Pr Ni 		103	Wild	M6 III M0 V	3	(B45-1)	[4819]	BcC	7	-220
-Spin	B	1209	Utoland	C573432-7	 	    Ni 		410	CoWx	M0 V	-2	(633-4)	[3219]	B	8	-216
-Spin	B	1210	Pequan	E56569B-4	 	   Ag Ri Ni 	A	910	CoWx	K5 V	-1	(855-1)	[9596]	BC	5	-200
-Spin	F	1212	Digitis	E53679C-6	 	     		120	CoWx	M3 V	-2	(865+3)	[A527]	B	8	720
-Spin	F	1213	Edinina	E400200-8	 	   Lo Va 	A	401	CoWx	K6 V M0 V	-3	(510+1)	[4188]	B	6	5
-Spin	F	1214	728-907	E955000-0	 	    Ba 		010	CoWx	F1 V M2 V	-3	(200+1)	[0000]	B	10	2
-Spin	F	1216	Stellatio	D5A4424-8	 	   Fl Ni 		210	CoWx	M3 V	-3	(732+3)	[417C]	B	14	126
-Spin	F	1217	Arkadia	E546878-6	 	   Pa Pi Ph (NIL)		502	CoWx	G8 V	-2	(A71-2)	[7618]	BcDe	7	-140
-Spin	J	1221	Gungnir	B544786-8	 	    Ag Pi (NIL)		432	CoWx	G3 IV M4 V	1	(E68-1)	[684B]	BCD	13	-672
-Spin	J	1223	Gram	A895972-B	 	  Cx Hi In (NIL)		703	CoWx	F2 V M2 V	4	(E89-1)	[7D2D]	BE	10	-1008
-Spin	J	1225	Excalibur	D424000-A	 	    Di (NIL)		002	Wild	K5 V	-1	(B00-1)	[0000]	B	10	-11
-Spin	N	1232	Walston	D544000-8	T 	    Di 		002	Wild	M2 V	-3	(700-1)	[0000]	B	8	-7
-Spin	N	1233	Flexos	E5A1000-8	 	   Di Fl He 		010	Wild	M1 V M2 V	-3	(700-3)	[0000]	B	8	-21
-Spin	N	1237	Collace	B6288AD-B	S	   Ph Pi (NIL)		301	Wild	F1 V M3 V	2	(C78-4)	[AA59]	BDe	5	-2688
-Spin	N	1238	Pavabid	C667858-5	 	  Ga Pa Ri Ph (NIL)		401	Wild	K7 V	0	(A79+2)	[8867]	BcCe	14	1260
-Spin	B	1305	Nakege	D591000-5	 	   Di He 		001	Wild	K2 V M0 V	-3	(500-1)	[0000]	B	14	-5
-Spin	B	1307	Lysen	X592000-A	T 	   Di He 		023	Wild	M3 V	-1	(D00-2)	[0000]	B	12	-26
-Spin	F	1311	Tremous Dex	B511410-C	 	   Ic Ni 		301	CoWx	K8 V M5 V	1	(736-1)	[555E]	B	8	-126
-Spin	F	1315	Mirriam	E572213-7	N 	   He Lo 		810	CoWx	F5 V	-3	(510-3)	[1146]	B	11	-15
-Spin	F	1320	Saurus	D888553-8	 	  Ag Pr Ni Sa 		620	CoWx	G8 V M1 V	-2	(942-1)	[333A]	BcC	13	-72
-Spin	J	1324	Tyrfing	B637736-A	 	     (NIL)		501	CoWx	M2 V	2	(A68-1)	[7967]	B	6	-480
-Spin	J	1325	Sacnoth	A77599B-B	 	   Hi In (NIL)		301	Wild	F9 V M3 V	4	(C89-5)	[4D58]	BEf	7	-4320
-Spin	J	1329	Caladbolg	B565776-A	S	    Ag Ri (NIL)		410	Wild	F7 V M0 V M4 V	4	(A66+1)	[5B3B]	BCf	9	360
-Spin	N	1331	Datrillian	E427000-8	 	    Di 		001	Wild	M1 V	-3	(900-3)	[0000]	B	9	-27
-Spin	N	1332	Nirton	X500000-0	 	   Ba Va 		011	Wild	M0 V	-3	(200-2)	[0000]	B	11	-4
-Spin	N	1337	Judice	E9B2000-0	 	   Ba Fl He 		021	Wild	M3 V	-3	(200+2)	[0000]	B	8	4
-Spin	N	1339	Trexalon	B561888-B	 	   Ph Ri (NIL)		423	Wild	K8 V	3	(F7B+4)	[BB7B]	BCe	13	4620
-Spin	N	1340	Motmos	B684532-6	N 	   Ag Pr Ni 		110	Wild	M2 V M2 V	0	(846+1)	[9547]	BcC	7	192
-Spin	B	1401	Foelen	B6386A8-8	 	    Ni 		310	Wild	K0 V	-1	(955-2)	[8568]	B	14	-450
-Spin	B	1402	Farreach	A200454-B	 	   Ni Va 		115	Wild	M3 III M0 V	1	(C33+1)	[356A]	B	10	108
-Spin	F	1411	Rangent	E67A658-8	 	   Ni Wa 		503	CoWx	K8 V	-3	(B50-1)	[5357]	B	14	-55
-Spin	F	1413	Denotam	B739511-A	N 	    Ni 		524	CoWx	M2 V	1	(D43+1)	[667B]	B	9	156
-Spin	F	1417	Ficant	E567300-5	 	    Lo 		910	CoWx	M0 V M1 V	-3	(520+1)	[1178]	B	13	10
-Spin	J	1424	Beater	B685688-A	 	  Ag Ri Ga Ni 		710	CoWx	K4 V	3	(956+1)	[991C]	BC	11	270
-Spin	J	1429	Gunn	E544000-8	 	    Di 		002	Wild	M3 V	-3	(500+1)	[0000]	B	9	5
-Spin	J	1430	Caliburn	E000546-A	 	   As Va Ni 		414	Wild	M2 V	-1	(C40+1)	[441C]	B	13	48
-Spin	N	1433	Noctocol	E7A57A5-8	 	    Fl (ENIL)		302	Wild	F5 V M2 V	-2	(B62+2)	[958A]	B	15	264
-Spin	N	1434	Tarkine	C566557-9	S	   Ag Pr Ni 		810	Wild	M0 V M2 V	0	(945-3)	[551B]	BcC	9	-540
-Spin	N	1435	Dallia	B8858C8-9	 	  Ga Pa Ri Ph (NIL)		110	Wild	F2 V	2	(B77+4)	[9A59]	BcCe	9	2156
-Spin	N	1436	Talos	E433000-9	 	   Di Po 		020	Wild	F9 V M1 V	-2	(900-2)	[0000]	B	9	-18
-Spin	B	1510	871-438	E722000-0	 	  Ba He Po 		001	CoWx	M3 V M8 V	-3	(200-2)	[0000]	B	7	-4
-Spin	F	1511	Tionale	C674487-8	 	   Ni Pa 	A	110	CoWx	M2 V M5 V	-2	(634+2)	[224A]	Bc	11	144
-Spin	F	1515	Calit	C4348AB-7	 	    Ph (NIL)		301	CoWx	K9 V M1 V	-1	(A7A+1)	[8797]	Be	4	700
-Spin	F	1519	Asgard	X5437BA-5	 	    Pi Po (NIL)	R	320	CoWx	F5 V M1 V	-2	(963-5)	[8545]	BD	13	-810
-Spin	F	1520	Tavonni	E567000-0	 	    Ba 		034	CoWx	G6 V	-3	(200-3)	[0000]	B	10	-6
-Spin	J	1522	Dyrnwyn	B958888-A	 	   Pa Ph (NIL)		201	CoWx	K4 V M8 V	2	(B77-2)	[8A3F]	Bce	7	-1078
-Spin	J	1523	Durendal	B687778-B	 	   Ag Ri Ga (NIL)		614	CoWx	M1 V	4	(E68-3)	[CB7D]	BCf	11	-2016
-Spin	J	1524	Hofud	B666855-A	 	  Ga Pa Ri Ph (NIL)		401	CoWx	G6 V M9 V	3	(B78+1)	[9B1E]	BcCe	8	616
-Spin	J	1525	Sting	B6457BB-A	 	    Ag Pi (NIL)		902	CoWx	M0 V	3	(B68+1)	[9A68]	BCD	9	528
-Spin	J	1526	Biter	E354000-A	 	    Di 		001	Wild	G7 V M1 V	-1	(900+1)	[0000]	B	8	9
-Spin	J	1529	Steel	E655000-0	 	  Ba Ga Re 		024	Wild	K8 V	-3	(200-2)	[0000]	B	15	-4
-Spin	N	1531	Dawnworld	E885000-0	 	   Ba Ga 		025	Wild	F8 V M2 V	-3	(200+1)	[0000]	B	17	2
-Spin	N	1532	Elixabeth	E426000-8	T 	    Di 		001	Wild	M1 V M5 V	-3	(700+5)	[0000]	B	8	35
-Spin	N	1533	Forine	D31299A-A	 	  Hi Ic Na In 		510	Wild	G9 V	2	(C8A+1)	[8B8E]	BE	8	960
-Spin	N	1537	Mertactor	B5626AB-B	S	   Ni Ri (NIL)		410	Wild	G1 V	2	(A57+4)	[483C]	BC	14	1400
-Spin	B	1604	Louzy	D4227AB-4	 	   He Na Pi Po (NIL)		610	Wild	M2 V	-2	(C63+1)	[6563]	BD	7	216
-Spin	B	1607	Grant	X664100-3	 	   Lo Re 	R	322	CoWx	K6 V	-3	(300-4)	[2177]	B	13	-12
-Spin	F	1611	Phlume	C887612-8	 	  Ag Ri Ga Ni 		810	CoWx	G5 V M8 V	0	(955-1)	[9613]	BC	5	-225
-Spin	J	1626	Iron	E529000-0	 	   Ba Re 		014	Wild	F0 V	-3	(200-1)	[0000]	B	9	-2
-Spin	J	1627	Bronze	E201000-0	 	  Ba Ic Va Re 		010	Wild	M3 V	-3	(200-2)	[0000]	B	5	-4
-Spin	J	1628	Mithril	E568000-0	 	   Ba Re 		001	Wild	F4 V	-3	(200-2)	[0000]	B	8	-4
-Spin	N	1631	Talchek	E7B1000-8	 	   Di Fl He 		001	Wild	K8 V M5 V	-3	(700+1)	[0000]	B	10	7
-Spin	N	1632	Milagro	E311733-7	 	   Ic Na Pi 		420	Wild	M2 V	-2	(965+3)	[2569]	BD	15	810
-Spin	N	1634	Pagaton	C7698BB-4	 	   Ph Ri (NIL)		413	Wild	F0 V	0	(A77-5)	[7841]	BCe	11	-2450
-Spin	N	1635	Binges	X500000-A	 	   Di Va 		020	Wild	M0 V	-1	(600+1)	[0000]	B	6	6
-Spin	N	1637	Mille Falcs	D9A2000-C	T 	  Di Fl He Mr 		001	Wild	M2 V	-1	(700+1)	[0000]	B	12	7
-Spin	C	1705	Efate	E646000-D	T 	   An Di (NIL)		000	Wild	F8 V	-1	(B00+1)	[0000]	B	8	11
-Spin	C	1706	Alell	B567876-A	 	   Pa Ri Ph (NIL)	A	110	CoWx	M1 V M7 V	3	(B7D+1)	[7B16]	BcCe	6	1001
-Spin	G	1711	Extolay	B555734-A	N 	    Ag (NIL)		910	CoWx	M2 V M4 V	3	(B6D+2)	[6A67]	BC	8	1716
-Spin	G	1719	Lanth	A879557-C	NS	   Cp Ni 		710	CoWx	F5 IV M1 V	2	(847+1)	[5759]	BF	14	224
-Spin	K	1721	Arba	C200226-B	 	   Lo Va 		510	CoWx	M2 V	0	(510+2)	[126B]	B	11	10
-Spin	K	1727	Wardn	B756355-C	S	   Ga Lo 		902	Wild	K2 V	1	(821+1)	[5467]	B	7	16
-Spin	K	1728	Olympia	X428000-7	 	    Di 		020	Wild	M3 V	-3	(500+2)	[0000]	B	6	10
-Spin	K	1729	Smoug	C540786-9	 	   De He Pi Po (NIL)		402	Wild	M1 V M7 V	0	(B64+1)	[B777]	BD	7	264
-Spin	O	1731	Grote	D400000-B	 	   Di Va 		024	Wild	F8 V	-1	(C00-1)	[0000]	B	11	-12
-Spin	O	1733	Lydia	E310410-7	 	    Ni 		602	Wild	M4 III M0 V	-3	(630+1)	[719A]	B	11	18
-Spin	O	1736	Melior	D540400-8	 	  De He Ni Po 		324	Wild	G3 V	-3	(C32-1)	[119A]	B	9	-72
-Spin	O	1737	Egypt	EAC6000-9	T 	  Di Fl Mr 		021	Wild	F8 V	-2	(A00+4)	[0000]	B	14	40
-Spin	O	1739	Aster	C86A474-9	 	   Ni Wa 		201	Wild	K9 V	-1	(732+1)	[337A]	B	14	42
-Spin	C	1802	Yres	BAC667A-9	 	   Fl Ni (ENIL)		835	Wild	G5 V	0	(H55+4)	[6665]	B	13	1700
-Spin	C	1803	Menorb	C652855-6	 	   Ph Po (NIL)		810	Wild	K2 V	-1	(B77-3)	[7764]	Be	7	-1617
-Spin	C	1805	Uakye	B439551-E	 	    Ni 		320	CoWx	M3 V	1	(947+2)	[667E]	B	12	504
-Spin	C	1806	Whanga	E676101-8	 	    Lo 		424	CoWx	G1 V M1 V	-3	(900+2)	[1138]	B	14	18
-Spin	C	1807	Knorbes	E8887BC-2	 	   Ag Ri An Re (NIL)		834	CoWx	G3 V	0	(965+1)	[6745]	BC	15	270
-Spin	C	1808	Forboldn	D893620-5	 	    Ni 		512	CoWx	G0 V	-3	(853+2)	[9323]	B	14	240
-Spin	C	1809	Ruie	C776988-7	 	   Hi In (NIL)	A	501	CoWx	G5 V	1	(B88+2)	[7A6A]	BE	9	1408
-Spin	C	1810	Jenghe	C799623-9	S	    Ni 		323	CoWx	M0 V	-1	(D55+2)	[352A]	B	11	650
-Spin	G	1811	Dinom	D30059A-A	 	  Ni Sa Va 		401	CoWx	A4 V	-1	(844+5)	[442B]	B	14	640
-Spin	G	1815	Ghandi	B311454-A	N 	   Ic Ni 		303	CoWx	F8 V M3 V	1	(933+1)	[553D]	B	13	81
-Spin	G	1817	Victoria	D6D7630-2	 	   An Ni (NIL)	R	812	CoWx	K6 V	-3	(952+1)	[9351]	B	8	90
-Spin	K	1822	Rabwhar	D544873-6	S	   Pa Pi Ph (NIL)	A	313	CoWx	K5 V	-2	(A74+1)	[C6A6]	BcDe	12	280
-Spin	K	1824	Adabicci	A571976-D	N 	  He Hi In (NIL)	A	101	CoWx	K8 V M8 V	4	(B89+1)	[AD5E]	BEf	6	792
-Spin	K	1825	Zaibon	B000530-B	 	   As Va Ni 		602	CoWx	M6 III M3 V	1	(945-3)	[562A]	B	9	-540
-Spin	K	1826	Tenalphi	A774721-E	 	   Ag Pi An (NIL)		410	CoWx	F7 V	3	(A6C+2)	[AA6D]	BCD	12	1440
-Spin	O	1836	Callia	E550856-6	 	  De Ph Po (NIL)		410	Wild	M3 V	-2	(A75+1)	[8626]	Be	11	350
-Spin	C	1903	Pixie	D100000-D	T 	  An Di Va 		001	Wild	K1 V M0 V	-1	(400-4)	[0000]	B	14	-16
-Spin	C	1904	Boughene	X8B3000-D	T 	  An Di Fl 		001	Wild	M1 V	-1	(800+1)	[0000]	B	13	8
-Spin	C	1909	Hefry	C20047B-7	S	   Ni Va 		420	CoWx	K6 II M2 V	-2	(633+4)	[4215]	B	13	216
-Spin	C	1910	Regina	A7888BC-C	NS	  An Cp Sa Pa Ri Ph (NIL)		503	CoWx	F7 V BD M3 V	4	(D7C+2)	[6C2F]	BcCeF	8	2184
-Spin	G	1912	Dinomn	B674635-9	S	   Ag Ni 		104	CoWx	G8 V	1	(C52+1)	[975A]	BC	11	120
-Spin	G	1916	Ylaven	X587533-3	 	   Ag Pr Ni 	R	922	CoWx	F9 V	-2	(740+1)	[A368]	BcC	11	28
-Spin	G	1918	Sonthert	D62667B-7	 	    Ni 	A	314	CoWx	K6 V M0 V	-3	(850+1)	[6376]	B	8	40
-Spin	G	1920	D'Ganzio	B420410-D	N 	  De He Ni Po 		312	CoWx	M0 V M3 V	1	(934-2)	[455B]	B	6	-216
-Spin	K	1924	Ianic	E560644-5	 	  De Ni Ri 		824	CoWx	M3 V M7 V	-2	(851+1)	[A444]	BC	9	40
-Spin	K	1927	Spirelle	C766896-8	S	  Ga Pa Ri Ph (NIL)		715	CoWx	G7 V	0	(G77-3)	[D84B]	BcCe	14	-2352
-Spin	O	1932	Mithras	X8B5000-8	 	   Di Fl 		002	Wild	M2 III M0 V	-3	(900+3)	[0000]	B	6	27
-Spin	O	1934	Weiss	E626000-B	 	    Di 		003	Wild	M1 V	-1	(900+1)	[0000]	B	10	9
-Spin	O	1935	Windsor	C783573-9	 	   Ni Pr 		110	Wild	K9 V M0 V	-1	(845-3)	[543B]	Bc	9	-480
-Spin	O	1937	Overnale	B554573-A	 	   Ag Ni 		923	Wild	G3 V	2	(D45-2)	[8768]	BC	17	-520
-Spin	O	1938	New Rome	B8378AC-B	N 	    Ph (NIL)		204	Wild	F8 V M0 V	2	(E7C+2)	[8A3B]	Be	12	2352
-Spin	O	1939	Craw	D573000-5	 	    Di 		023	Wild	G7 V	-3	(800-1)	[0000]	B	11	-8
-Spin	C	2005	Feri	B5848BD-B	S	   Pa Ri Ph (NIL)		620	CoWx	G4 V M3 V	3	(C79-4)	[9B2A]	BcCe	14	-3024
-Spin	C	2007	Roup	C77A974-7	S	  Hi In Wa (NIL)	A	323	CoWx	F9 V	1	(B8B-1)	[AA97]	BE	14	-968
-Spin	G	2011	Wypoc	E9C4653-9	 	   Fl Ni 	A	122	CoWx	M3 V	-2	(B54-4)	[3478]	B	9	-880
-Spin	K	2024	Derchon	C5127B7-8	S	   Ic Na Pi 		901	CoWx	M0 V M7 V	-1	(A66-1)	[8666]	BD	5	-360
-Spin	O	2035	Aki	B543757-8	 	    Pi Po (NIL)		214	Wild	G6 V M2 V	0	(G67+2)	[3777]	BD	16	1344
-Spin	O	2036	Glisten	A0009A6-F	NS	 As Va Cp Hi Na In 		411	Wild	K9 V	5	(D8F-2)	[5E9G]	BEF	13	-3120
-Spin	O	2038	Trane	C639421-B	 	   An Ni 		204	Wild	F4 V M3 V	0	(A35+2)	[848D]	B	12	300
-Spin	C	2106	Pscias	X555444-2	 	   Ni Pa 	R	401	CoWx	K5 V	-3	(630+2)	[3121]	Bc	14	36
-Spin	C	2110	Yori	C560788-9	 	  An De Ri (NIL)		713	CoWx	F1 V	1	(D65+5)	[9826]	BC	15	1950
-Spin	G	2111	Djinni	X559000-0	 	    Ba 	R	022	CoWx	K5 V	-3	(200-2)	[0000]	B	11	-4
-Spin	G	2112	Rech	D995772-6	 	    Ag Pi (NIL)	A	501	CoWx	M0 V	-1	(968+1)	[866A]	BCD	14	432
-Spin	K	2124	Lunion	A9959A9-D	NS	  Cp Hi In (NIL)		810	CoWx	G5 V	5	(C8A+1)	[9E8B]	BEF	11	960
-Spin	K	2125	Shirene	B984535-B	S	   Ag Pr Ni 	A	923	CoWx	G4 V M1 V M1 V	2	(C43+2)	[6758]	BcC	12	288
-Spin	K	2128	Penkwhar	D978300-6	 	    Lo 	A	120	CoWx	M0 V	-3	(520+1)	[1167]	B	9	10
-Spin	K	2129	Harvosette	C430735-9	 	   De Na Po (NIL)		610	Wild	M0 V M5 V	0	(A68+1)	[675B]	B	11	480
-Spin	O	2132	Centry	E422000-7	 	  Di He Po 		020	Wild	K3 V	-3	(600+3)	[0000]	B	10	18
-Spin	O	2134	Caledonia	X541000-5	 	  Di He Po 		010	Wild	M4 III M0 V	-3	(800+1)	[0000]	B	10	8
-Spin	O	2137	Sorel	E585635-2	 	   Ag Ri Ni 		421	Wild	G3 V M3 V	-1	(852+5)	[7591]	BC	8	400
-Spin	O	2138	Horosho	C437879-A	S	    Ph (NIL)		420	Wild	F4 V	1	(C7C-1)	[895C]	Be	10	-1008
-Spin	O	2140	Romar	B550352-8	NS	  De Lo Po 		512	Wild	K2 V M3 V	0	(920+1)	[1366]	B	6	18
-Spin	C	2201	Dentus	X979000-A	T 	    Di 		020	Wild	M2 V	-1	(900-2)	[0000]	B	10	-18
-Spin	C	2202	Kinorb	A663630-7	 	   Ni Ri 		522	Wild	G7 V	0	(852+1)	[366B]	BC	7	80
-Spin	C	2204	Beck's World	D883400-5	 	   An Ni 	A	701	CoWx	K0 V M2 V	-3	(630-1)	[6153]	B	10	-18
-Spin	C	2205	Enope	C411977-7	 	  Hi Ic Na In 		800	CoWx	K6 V M5 V	1	(B87-1)	[8A88]	BE	8	-616
-Spin	C	2207	Wochiers	EAC2879-9	 	   Fl He Ph (ENIL)	A	903	CoWx	F0 V	-1	(D78+1)	[776B]	Be	16	728
-Spin	G	2212	K'Kirka	CAA5210-8	 	   Fl Lo 		902	CoWx	M2 V	-2	(710-1)	[7149]	B	7	-7
-Spin	G	2215	Quopist	B551685-A	 	   Ni Po 	A	921	CoWx	M3 V	1	(B53-2)	[573B]	B	8	-330
-Spin	K	2224	Carse	C563352-A	 	    Lo 		601	CoWx	M3 V M6 V	0	(620-5)	[231E]	B	13	-60
-Spin	K	2228	Persephone	B7758B6-A	W	   Pa Pi Ph (NIL)		822	CoWx	M2 V	3	(E7F+5)	[7B26]	BcDe	10	7350
-Spin	O	2231	Marastan	D868758-6	S	   Ag Ri Re (NIL)		524	Wild	K7 V	0	(965-1)	[3713]	BC	12	-270
-Spin	O	2232	Crout	E435975-7	 	    Hi (NIL)		214	Wild	M7 III M2 V	-1	(B88-2)	[4848]	BE	9	-1408
-Spin	O	2233	Tirem	C7B58B9-9	 	   Fl Ph (ENIL)		221	Wild	K5 V	0	(E74-1)	[881A]	Be	13	-392
-Spin	O	2234	Inthe	C100421-B	 	   Ni Va 		424	Wild	K3 V	0	(D31+1)	[8467]	B	14	39
-Spin	O	2236	Tsarina	D420410-8	 	  De He Ni Po 		201	Wild	M2 V M2 V	-3	(930+2)	[1119]	B	10	54
-Spin	O	2237	Wurzburg	X795000-A	T 	    Di 		010	Wild	F8 V	-1	(600-2)	[0000]	B	7	-12
-Spin	C	2303	Yorbund	C7C6574-8	 	   Fl Ni 		220	CoWx	M3 V	-2	(944-3)	[536D]	B	9	-432
-Spin	C	2306	Shionthy	C00077C-8	 	  An As Va Na Pi 	R	714	CoWx	F6 V	-1	(E65-3)	[7696]	BD	14	-1260
-Spin	C	2308	Algine	X766989-4	 	  Ga Hi Pr (NIL)	R	723	CoWx	G9 V	-1	(B89-5)	[A826]	BcE	11	-3960
-Spin	C	2309	Yurst	E7B4658-9	 	  Fl Ni Px 		824	CoWx	K9 V	-2	(E52+3)	[4457]	B	13	420
-Spin	G	2311	Treece	D4328C8-8	 	   Na Po Ph (NIL)		810	CoWx	M1 V	-2	(B75-1)	[C6AC]	Be	9	-385
-Spin	G	2313	Echiste	C53A335-A	 	   Lo Wa 		720	CoWx	G4 V	0	(720-1)	[1368]	B	10	-14
-Spin	G	2314	Pirema	D691210-5	 	   He Lo 		102	CoWx	M2 V	-3	(310-4)	[1178]	B	7	-12
-Spin	G	2317	Rhise	C100547-A	 	   Ni Va 	A	610	CoWx	K7 V	0	(842+1)	[A586]	B	8	64
-Spin	G	2319	Ivendo	B424631-9	NS	    Ni 		112	CoWx	A9 V	1	(B55+1)	[4728]	B	11	275
-Spin	K	2321	Quiru	B565342-7	 	    Lo 		323	CoWx	M3 V	-1	(520-4)	[3253]	B	9	-40
-Spin	K	2322	Gorram	X554203-3	 	    Lo 	R	801	CoWx	K8 V M6 V	-3	(410+1)	[1126]	B	9	4
-Spin	K	2323	Resten	B310141-A	S	    Lo 		501	CoWx	K5 V M8 V	1	(401+4)	[124B]	B	10	16
-Spin	K	2324	Capon	B747778-A	N 	    Ag Pi (NIL)		710	CoWx	F9 V	3	(A6C-2)	[5A3A]	BCD	10	-1440
-Spin	K	2325	Sharrip	C575121-9	 	    Lo 		703	CoWx	K5 V	-1	(600-2)	[114B]	B	16	-12
-Spin	K	2327	Strouden	A745ABB-F	N 	   Hi In (NIL)		120	CoWx	G5 V M4 V	4	(D9B-2)	[8E5D]	BEf	8	-2574
-Spin	O	2331	Bicornn	E56355A-3	 	   Ni Pr 		210	Wild	F3 V M3 V	-3	(740-1)	[1253]	Bc	11	-28
-Spin	O	2334	Ffudn	A4148BD-C	 	  Ic Ph Pi 		304	Wild	M0 V	2	(E7C+2)	[AA7D]	BDe	12	2352
-Spin	O	2336	Bendor	A756658-C	NS	  Ag Ga Ni 		520	Wild	F5 V	3	(A56+1)	[999B]	BC	8	300
-Spin	C	2402	Heya	B687788-5	 	   Ag Ri Ga (NIL)		534	CoWx	K6 III M3 V	2	(964+3)	[7956]	BC	16	648
-Spin	C	2405	Keng	E5718AB-5	 	  He Ph Pi (NIL)	A	812	CoWx	G5 V M9 V	-2	(A74+4)	[C642]	BDe	6	1120
-Spin	C	2406	Moughas	CA5A588-B	 	   Ni Oc 		801	CoWx	K9 V M9 V	0	(844+3)	[5547]	B	13	384
-Spin	C	2408	Rethe	E430ACA-8	 	  De Hi Na Po (NIL)		123	CoWx	G7 V	-1	(H95-2)	[D957]	BE	11	-1530
-Spin	C	2410	Inthe	B575757-A	NS	   Ag Pi An (NIL)		423	CoWx	F8 V	4	(E6D-5)	[6B47]	BCDf	8	-5460
-Spin	G	2411	Keanou	C792200-8	S	   He Lo 		913	CoWx	M3 III M2 V	-2	(910+2)	[2156]	B	12	18
-Spin	G	2414	Tureded	C565588-9	 	   Ag Pr Ni 		614	CoWx	M3 V	0	(C43+1)	[255C]	BcC	11	144
-Spin	G	2415	Vreibefger	E581652-3	 	   Ni Ri 		101	CoWx	K9 V	-2	(754-2)	[5473]	BC	8	-280
-Spin	G	2416	La'Belle	C564121-4	 	    Lo 		701	CoWx	F2 V M3 V	-2	(300+2)	[2135]	B	11	6
-Spin	G	2417	Equus	B55A898-A	S	   Ph Wa (NIL)		202	CoWx	F6 V M1 V	2	(C77-1)	[7A18]	Be	12	-588
-Spin	G	2418	Icetina	B5245A8-7	N 	   Ni Px 		501	CoWx	K9 V M8 V	-1	(741-2)	[7498]	B	13	-56
-Spin	G	2419	Cogri	CA6A634-9	 	  Ni Oc Ri 		432	CoWx	M1 V	0	(D53+1)	[7637]	BC	8	195
-Spin	G	2420	Skull	C423742-9	N 	    Na Pi Po (NIL)		601	CoWx	M0 V M1 V	0	(A68+1)	[6799]	BD	12	480
-Spin	K	2425	Gandr	E000300-9	 	   As Va Lo 		803	CoWx	M1 V	-2	(820+4)	[618A]	B	9	64
-Spin	K	2426	Drolraw	EAB6377-8	 	   Fl Lo 		904	CoWx	F1 V	-3	(920+1)	[1148]	B	12	18
-Spin	D	2509	Paya	A655223-9	N 	   Ga Lo 		403	CoWx	F3 V	0	(710-3)	[1266]	B	14	-21
-Spin	D	2510	Dhian	C9A7678-8	 	   Fl Ni 	A	202	CoWx	K5 V	-2	(A52-1)	[5457]	B	13	-100
-Spin	H	2512	Kinorb	C549420-9	 	    Ni 		602	CoWx	F0 V K9 V	-1	(835+1)	[437A]	B	14	120
-Spin	H	2514	Gileden	C583100-6	 	    Lo 		303	CoWx	M1 V	-2	(300+3)	[4144]	B	13	9
-Spin	H	2519	Pannet	E9C5510-A	 	   Fl Ni 		924	CoWx	K5 V	-1	(E45+1)	[9456]	B	11	280
-Spin	H	2520	Garrincski	B632589-7	S	   Ni Px Po 		610	CoWx	M0 V M7 V	-1	(740+1)	[3478]	B	9	28
-Spin	L	2521	Heroni	B6449CD-8	 	   Hi In (NIL)	A	521	CoWx	F3 V	2	(E8E-1)	[7B18]	BE	14	-1568
-Spin	L	2523	Byret	B585756-7	 	    Ag Ri 		112	CoWx	G9 V	2	(868+4)	[8972]	BC	7	1536
-Spin	L	2527	Pimane	E500386-7	 	   Lo Va 		903	CoWx	K0 V	-3	(520+4)	[115B]	B	10	40
-Spin	P	2534	Burtson	C562647-8	 	   Ni Ri 		402	Wild	G4 V	-1	(A55+1)	[8518]	BC	13	250
-Spin	P	2536	Squanine	E300000-B	 	   Di Va 		003	Wild	F4 V M2 V	-1	(A00+1)	[0000]	B	8	10
-Spin	P	2537	Dobham	D550000-A	T 	  De Di Po 		023	Wild	G0 V	-1	(B00+1)	[0000]	B	11	11
-Spin	P	2538	Pyramus	E566000-2	 	    Di 		014	Wild	K6 V	-3	(500+1)	[0000]	B	11	5
-Spin	P	2539	Thisbe	E430475-6	 	  De Ni Po 		822	Wild	F8 V	-3	(730-1)	[3163]	B	10	-21
-Spin	P	2540	Aramis	B659776-6	 	     (NIL)		424	Wild	K5 V	0	(96A+3)	[7769]	B	9	1620
-Spin	D	2602	Corfu	C895620-8	 	  Ag An Ni 	A	422	CoWx	M0 V	-1	(C55-1)	[858A]	BC	7	-300
-Spin	D	2607	Focaline	EA88510-7	 	   Ag Pr Ni 		924	CoWx	F3 V	-2	(744-2)	[1335]	BcC	11	-224
-Spin	H	2612	Macene	B000489-D	N 	   As Va Ni 		901	CoWx	G8 V M8 V	1	(733-2)	[655C]	B	11	-126
-Spin	H	2613	Fulacin	A674214-D	 	   An Lo 		610	CoWx	G3 V	1	(511-3)	[43AG]	B	12	-15
-Spin	H	2620	Natoko	C8879BB-9	 	 An Ga Hi Pr (NIL)	A	204	CoWx	F4 V	1	(F89-1)	[6A8A]	BcE	9	-1080
-Spin	L	2621	Fosey	A633647-9	 	   Na Px Po Ni 		720	CoWx	M3 V	0	(A53+2)	[468A]	B	11	300
-Spin	L	2624	Mercury	B658655-9	NS	  Ag Mr Ni 		304	CoWx	F7 V	2	(C53-2)	[488B]	BC	13	-360
-Spin	L	2627	Tivid	C534475-8	 	    Ni 		401	CoWx	M3 V	-2	(730+3)	[2216]	B	11	63
-Spin	P	2637	Robin	C000599-C	 	   As Va Ni 		102	Wild	M2 V	0	(946+2)	[854B]	B	6	432
-Spin	P	2638	D'Mara	E75A776-5	 	    Wa (NIL)		410	Wild	F4 V	-2	(965+1)	[7525]	B	14	270
-Spin	P	2639	Keltchner	D525000-9	 	    Di 		002	Wild	K6 V	-2	(900-5)	[0000]	B	15	-45
-Spin	D	2701	Lablon	B646555-B	 	   Ag Ni 		303	CoWx	M2 III M4 V	2	(A45-4)	[8777]	BC	14	-800
-Spin	D	2706	Heguz	E66A220-9	 	   Lo Wa 		510	CoWx	K2 V M7 V	-2	(510+1)	[2144]	B	10	5
-Spin	D	2708	Violante	C669476-9	 	    Ni 		520	CoWx	G2 V	-1	(830+5)	[734B]	B	10	120
-Spin	H	2712	Risek	A425533-A	N 	    Ni 		501	CoWx	M2 V M3 V	1	(847+1)	[169E]	B	11	224
-Spin	H	2715	Porozlo	A86799D-9	 	  Ga Hi Pr (NIL)		901	CoWx	M1 V M9 V	2	(D8B+4)	[9B58]	BcE	11	4576
-Spin	H	2716	Rhylanor	A434ACA-H	NS	   Cp Hi (NIL)		110	CoWx	M2 V	5	(C9C-2)	[AF2K]	BEF	12	-2592
-Spin	H	2720	Loneseda	C86A275-7	 	   Lo Wa 		805	CoWx	K9 V	-2	(410+1)	[1133]	B	14	4
-Spin	L	2726	Carey	C579311-9	 	    Lo 		210	CoWx	M2 V M2 V	-1	(520+1)	[3248]	B	4	10
-Spin	L	2728	Duale	A543736-B	 	    Pi Po (NIL)	A	301	CoWx	M0 V M2 V	2	(A66-1)	[3978]	BD	5	-360
-Spin	P	2731	Tussinian	B678355-8	 	    Lo 		420	CoWx	K0 V	-1	(720-3)	[2246]	B	7	-42
-Spin	P	2733	Edenelt	A5638CC-B	 	   Ph Ri (NIL)		334	Wild	G7 V	3	(H77+2)	[AB3E]	BCe	10	1666
-Spin	P	2735	Conway	D894000-7	S	    Di 		011	Wild	F0 V M0 V	-3	(700+1)	[0000]	B	12	7
-Spin	P	2739	Dodds	C5439BF-5	S	   Hi In Po (NIL)		223	Wild	G7 V	1	(B89+1)	[DA25]	BE	13	792
-Spin	H	2811	Valhalla	E565459-6	 	   Ni Pa 		522	CoWx	G4 V	-3	(630+2)	[3188]	Bc	9	36
-Spin	H	2812	Zivije	C6B19B8-B	 	  Fl He Hi In (ENIL)	A	321	CoWx	G6 V	3	(E8A+1)	[CC89]	BE	11	1120
-Spin	H	2814	Jae Tellona	A560522-8	N 	 De Mr Ni Pr 		713	CoWx	F9 V	-1	(B44-4)	[443B]	Bc	9	-704
-Spin	H	2818	Gerome	X573000-0	 	    Ba 	R	001	CoWx	K2 V	-3	(200-3)	[0000]	B	11	-6
-Spin	L	2824	Catuz	C420420-9	 	  De He Ni Po 	A	510	CoWx	K8 V M6 V	-1	(733+1)	[8358]	B	5	63
-Spin	L	2827	Meleto	C675110-4	S	    Lo 		824	CoWx	F9 V	-2	(300-2)	[1167]	B	9	-6
-Spin	L	2828	Hexos	B53437A-8	N 	    Lo 		823	CoWx	K1 V M2 V	-1	(B20+4)	[5276]	B	10	88
-Spin	L	2830	Pedase	C415259-8	S	   Ic Lo 		901	CoWx	M2 V M7 V	-2	(610+2)	[4146]	B	11	12
-Spin	P	2832	Leander	E695000-5	 	    Di 		001	Wild	K5 V M1 V	-3	(400+1)	[0000]	B	10	4
-Spin	P	2833	Pepernium	D56747B-3	 	   Ni Pa 		903	Wild	M1 V	-3	(732-1)	[5113]	Bc	10	-42
-Spin	P	2834	Traltha	B590573-7	 	  An De He Ni 		410	Wild	F5 V	-1	(840+1)	[544B]	B	8	32
-Spin	P	2839	Farquahar	D625000-7	T 	    Di 		001	Wild	M3 V	-3	(700+1)	[0000]	B	11	7
-Spin	D	2905	Pavanne	E310000-0	 	    Ba 		025	CoWx	M0 V	-3	(200+1)	[0000]	B	12	2
-Spin	D	2906	Carsten	C427435-A	 	    Ni 		904	CoWx	M1 V	0	(A35+2)	[146F]	B	15	300
-Spin	D	2908	Zila	E556798-7	 	    Ag (NIL)	A	901	CoWx	K6 V M3 V	-1	(966+1)	[766B]	BC	8	324
-Spin	H	2912	Henoz	A545599-B	 	   Ag Ni 		924	CoWx	F3 V	2	(D46-1)	[175C]	BC	11	-312
-Spin	H	2913	Celepina	B434422-8	NS	    Ni 		201	CoWx	M2 V	0	(736+1)	[841A]	B	13	126
-Spin	H	2918	Gitosy	B000697-9	 	  As Va Na Ni 		610	CoWx	G6 V M3 V	0	(953+1)	[362C]	B	6	135
-Spin	L	2924	Moran	C567303-8	N 	    Lo 		101	CoWx	M3 V M7 V	-2	(620+1)	[116A]	B	10	12
-Spin	L	2927	Maitz	A201597-B	 	   Ic Va Ni 		222	CoWx	F1 V	1	(B44-2)	[6637]	B	11	-352
-Spin	L	2930	Mainz	C553320-9	S	   Lo Po 		803	CoWx	K2 V M7 V	-1	(820-2)	[321D]	B	11	-32
-Spin	P	2933	Raydrad	E994000-6	 	    Di 		003	Wild	M7 III M2 V	-3	(800-3)	[0000]	B	10	-24
-Spin	P	2934	Zyra	B555457-8	 	   Ni Pa 		301	Wild	K8 V	-1	(732+1)	[1383]	Bc	7	42
-Spin	P	2935	Murchison	D544000-6	T 	    Di 		005	Wild	M5 III M3 V	-3	(600+4)	[0000]	B	8	24
-Spin	P	2936	Hammermium	A552537-B	 	   Ni Po 		235	Wild	M3 V	1	(F47+1)	[86AA]	B	11	420
-Spin	P	2940	Thornnastor	D534000-8	S	    Di 		004	Wild	M1 V	-3	(A00-1)	[0000]	B	12	-10
-Spin	D	3001	Jesedipere	X775000-7	 	    Di 		011	Wild	F4 V	-3	(500+3)	[0000]	B	12	15
-Spin	D	3002	Yebab	C9A4898-8	 	   Fl Ph (ENIL)		912	CoWx	G9 V	-1	(D78+1)	[8728]	Be	10	728
-Spin	D	3003	Nasemin	B98A423-B	S	   Ni Wa 		612	CoWx	F5 V	1	(935+1)	[453E]	B	10	135
-Spin	D	3004	Zykoca	D994587-6	 	   Ag Ni 	A	320	CoWx	K9 V	-2	(740+4)	[3356]	BC	12	112
-Spin	D	3005	Aramanx	B657977-7	 	   Ga Hi (NIL)	A	110	CoWx	G0 V	1	(B85+2)	[9A42]	BE	13	880
-Spin	D	3008	Pysadi	C576672-3	 	   Ag Ni 	A	201	CoWx	F9 V M1 V	-1	(854-2)	[A532]	BC	8	-320
-Spin	D	3010	L'oeul d'Dieu	B98A523-B	N 	  Ni Pr Wa 		302	CoWx	G1 V M9 V	1	(943+1)	[569C]	Bc	6	108
-Spin	H	3015	Belizo	B895778-5	 	    Ag Pi 		123	CoWx	K1 V	1	(869+1)	[3857]	BCD	11	432
-Spin	H	3016	Kegena	E869522-3	 	   Ni Pr 	A	224	CoWx	F6 V	-3	(740+1)	[6271]	Bc	12	28
-Spin	H	3017	Heroni	E7A0678-8	 	   He Ni 		920	CoWx	G5 V	-3	(A53+1)	[A357]	B	8	150
-Spin	H	3019	457-973	X572748-5	 	   He Pi (NIL)	R	334	CoWx	G9 V	-2	(966-3)	[4555]	BD	10	-972
-Spin	H	3020	Somem	C301334-B	 	   Ic Va Lo 		401	CoWx	M2 V M7 V	0	(620+2)	[136G]	B	14	24
-Spin	L	3021	Brodie	C410446-7	 	    Ni 		214	CoWx	M1 III M7 V	-2	(634-1)	[5247]	B	15	-72
-Spin	L	3022	Rorise	C994104-A	 	    Lo 		502	CoWx	M1 V	0	(500+1)	[1179]	B	8	5
-Spin	L	3024	Jokotre	B654898-5	 	   Pa Ph (NIL)	A	710	CoWx	K6 V	0	(A72+2)	[885A]	Bce	9	280
-Spin	L	3025	Fornice	A554973-A	 	    Hi (NIL)		902	CoWx	M0 V	3	(E8D+3)	[DC4D]	BE	13	4368
-Spin	L	3026	Grille	E410374-7	 	    Lo 		701	CoWx	M2 V M2 V	-3	(520+1)	[8175]	B	12	10
-Spin	L	3029	Palique	A5119B9-E	 	  Hi Ic Na In 	A	120	CoWx	M0 V M1 V	4	(D8A-2)	[AD4F]	BEf	5	-2080
-Spin	L	3030	Nexine	D97A000-8	T 	   Di Wa 		001	Wild	G9 V M2 V	-3	(700+1)	[0000]	B	12	7
-Spin	P	3032	Katarulu	B552636-B	NW	  Mr Ni Po 		101	Wild	M0 V M9 V	2	(954-1)	[A88B]	B	9	-180
-Spin	P	3035	Prilissa	B985430-6	 	   Ni Pa 		910	Wild	K4 V	-1	(732+4)	[3333]	Bc	9	168
-Spin	P	3038	Tee-Tee-Tee	C310443-9	 	    Ni 		402	Wild	M2 V	-1	(931+3)	[335B]	B	7	81
-Spin	P	3039	Youghal	EA95000-B	 	    Di 		001	Wild	K3 V	-1	(600-2)	[0000]	B	14	-12
-Spin	P	3040	Tenelphi	D76A411-9	S	   Ni Wa 		201	Wild	F4 V M0 V	-2	(832+1)	[4279]	B	11	48
-Spin	D	3102	Rugbird	EAC5000-A	 	   Di Fl 		011	Wild	M1 V	-1	(A00-2)	[0000]	B	14	-20
-Spin	D	3103	Towers	B544445-A	S	   Ni Pa 	A	635	CoWx	G8 V K6 V	1	(E34-3)	[453A]	Bc	11	-504
-Spin	D	3104	Feneteman	C422202-C	 	  He Lo Po 		710	CoWx	G4 V M7 V	0	(510-1)	[129C]	B	4	-5
-Spin	D	3107	Lewis	D427477-6	 	    Ni 	R	701	CoWx	F8 V	-3	(630+1)	[1147]	B	9	18
-Spin	D	3110	Aramis	A5A0598-A	NS	  Cp He Ni 		710	CoWx	M2 V	2	(846+1)	[1789]	BF	9	192
-Spin	H	3111	Vinorian	B879654-A	 	    Ni 		810	CoWx	M3 V M4 V	1	(956-2)	[773A]	B	13	-540
-Spin	H	3112	Nutema	B864300-9	N 	    Lo 		822	CoWx	M3 V	0	(920+1)	[7319]	B	7	18
-Spin	H	3114	Huderu	X575000-0	 	    Ba 	R	020	CoWx	M0 V	-3	(200+2)	[0000]	B	10	4
-Spin	H	3118	Cipatwe	B5587AD-6	 	    Ag (NIL)		523	CoWx	M1 V	1	(969+1)	[7867]	BC	12	486
-Spin	H	3119	Vanejen	C686877-4	 	  Ga Pa Ri Ph (NIL)		320	CoWx	G1 V M0 V	0	(A7A-3)	[7851]	BcCe	11	-2100
-Spin	L	3123	Nadrin	D420320-6	S	  De He Lo Po 		120	CoWx	K5 V M1 V	-3	(420+1)	[4124]	B	15	8
-Spin	L	3124	Mora	AA99942-D	NS	  Cs Hi In (NIL)		812	CoWx	F0 V	5	(F8E+1)	[AE5A]	BEF	9	1680
-Spin	P	3138	Zephyr	X895000-5	 	    Di 		004	Wild	K5 V	-3	(700-3)	[0000]	B	9	-21
-Spin	P	3139	Chamois	D544000-5	T 	    Di 		023	Wild	F9 V	-3	(800-1)	[0000]	B	8	-8
-Spin	D	3202	Junidy	B434A7C-B	W	    Hi (NIL)		110	Wild	F7 V M2 V	4	(D9B+1)	[6E8C]	BEf	14	1287
-Spin	D	3207	Patinir	C000578-A	 	  An As Va Ni 		913	CoWx	F3 V	0	(C46+1)	[4567]	B	15	288
-Spin	D	3209	Natoko	B582210-8	N 	    Lo 		601	CoWx	M2 V M6 V	-1	(510+3)	[416A]	B	14	15
-Spin	D	3210	Reacher	C9A8553-9	 	   Fl Ni 	A	433	CoWx	G4 V	-1	(D40-5)	[645B]	B	12	-260
-Spin	H	3212	Margesi	A576222-B	NS	    Lo 		920	CoWx	F0 V	2	(612+3)	[146D]	B	12	36
-Spin	H	3216	Bevey	D420954-B	S	  De He Hi Na In Po (NIL)	A	424	CoWx	F4 V	2	(H88-1)	[9B1B]	BE	9	-1088
-Spin	H	3218	Tacaxeb	C430557-C	 	  De Ni Po 		101	CoWx	A5 V M2 V	0	(741+1)	[452C]	B	10	28
-Spin	H	3220	Powaza	C787576-5	 	  Ag Pr Ga Ni 		332	CoWx	K4 V M2 V	-1	(741-1)	[5456]	BcC	13	-28
-Spin	L	3223	Dojodo	C512333-7	S	   Ic Lo 		710	CoWx	M0 V	-2	(520-2)	[717A]	B	14	-20
-Spin	L	3228	Fenl's Gren	C647372-9	 	    Lo 	A	223	CoWx	K7 V	-1	(A20-1)	[524B]	B	12	-20
-Spin	P	3233	Ramiva	B3107CD-8	 	    Na Pi 		413	Wild	M3 V	0	(D68-3)	[573B]	BD	9	-1872
-Spin	P	3235	Trin	A8949CB-D	NS	  Cp Hi In (NIL)		401	Wild	G0 V	5	(D8H-2)	[7E6B]	BEF	8	-3536
-Spin	P	3236	Hazel	C645623-5	 	   Ag Ni (NIL)		310	Wild	F1 V M3 V	-1	(950-1)	[3523]	BC	14	-45
+Spin	A	0101	Zeycude	C430433-A	 	      De Ni Po 		513	Wild	K9 V	0	(C33-1)	[1458]	B	8	-108
+Spin	A	0102	Reno	C42075A-B	 	       Pz  De He Na Pi Po (NIL)		303	Wild	G8 V M1 V	1	(C67+3)	[788D]	BD	12	1512
+Spin	A	0103	Errere	B563653-C	 	    O:0304  Ni Ri 		410	Wild	M1 V M4 V	2	(953-4)	[482F]	BC	9	-540
+Spin	A	0104	Cantrel	X566000-9	 	     Di 		020	Wild	F1 V	-2	(600-1)	[0000]	B	12	-6
+Spin	A	0108	Gyomar	C8B28BB-8	 	     (Tethmari)  Fl He Ph (ENIL)		424	Wild	A8 V	-1	(G72+5)	[6768]	Be	14	1120
+Spin	E	0111	Atson	B310597-8	 	     Ni 		433	Wild	K8 V	-1	(D45-3)	[6426]	B	10	-780
+Spin	E	0114	Yiktor	X6B6000-A	 	     Di Fl 		023	Wild	G4 V M4 V	-1	(B00+1)	[0000]	B	12	11
+Spin	E	0115	Xhosa	EA95000-5	 	     Di 		010	Wild	M0 V	-3	(300-2)	[0000]	B	8	-6
+Spin	I	0122	Junction	D550000-4	 	     De Di Po 		010	Wild	M2 V M3 V	-3	(600+1)	[0000]	B	10	6
+Spin	I	0129	Uniqua	E625000-7	 	    O:0130  Di 		010	Wild	K9 V M9 V	-3	(700+4)	[0000]	B	8	28
+Spin	I	0130	Garoo	A2008A9-A	 	     Pz (roo)  Na Pi Ph Va 		310	Wild	M1 V M5 V	2	(B77-5)	[3A26]	BDe	9	-2695
+Spin	M	0133	Emape	E564000-B	T 	      Da  Di 		003	Wild	M0 V	-1	(A00+1)	[0000]	B	6	10
+Spin	M	0139	Raweh	D430000-B	T 	    Da  De Di Po 		020	Wild	G3 V M1 V	-1	(700+5)	[0000]	B	5	35
+Spin	M	0140	876-574	E687000-3	 	     Di Ga 		002	Wild	K7 V	-3	(400+1)	[0000]	B	11	4
+Spin	A	0202	Thengo	C868557-6	 	      Ag Pr Ni 		401	Wild	G5 V M3 V	-1	(741+1)	[5484]	BcC	12	28
+Spin	E	0212	Prinx	C436620-6	 	     Ni 		320	Wild	A9 V K8 V	-2	(853+1)	[5474]	B	9	120
+Spin	E	0215	Rushu	E766676-4	 	     rgW  Ag Ri Ga Ni 		503	Wild	G0 V M3 V	-1	(852-1)	[5545]	BC	8	-80
+Spin	E	0218	Bael	E200000-8	 	     Di Va 		012	Wild	K2 V	-3	(600-1)	[0000]	B	9	-6
+Spin	I	0223	Stern-Stern	E421000-B	 	    DaryW  Di He Po 		001	Wild	M0 V M3 V	-1	(800-4)	[0000]	B	9	-32
+Spin	I	0230	886-945	E833000-0	 	     Ba Po 		004	Wild	F8 V	-3	(200-4)	[0000]	B	16	-8
+Spin	M	0231	Saxe	EAA5000-8	 	     Di Fl 		010	Wild	A2 V	-3	(800-2)	[0000]	B	9	-16
+Spin	M	0236	Andor	X695000-9	 	    An  Fo DroyW  Di (NIL)		003	Wild	F3 V	-2	(C00-1)	[0000]	B	6	-12
+Spin	M	0240	769-422	E754000-8	 	     (minor)  Di 		024	Wild	G2 V	-3	(C00+4)	[0000]	B	10	48
+Spin	A	0301	Rio	C686651-9	 	      Ag Ri Ga Ni 		301	Wild	M0 V M1 V	1	(953-3)	[6766]	BC	8	-405
+Spin	A	0303	Gesentown	B311587-D	 	     Da  Ic Ni 		401	Wild	M2 V M9 V	1	(943-1)	[767H]	B	12	-108
+Spin	A	0304	Chronor	A636945-D	 	      Hi (NIL)		510	Wild	F8 V	3	(C89-1)	[7C8D]	BE	5	-864
+Spin	A	0307	Atsa	B433747-A	 	     An Pz  Na Po (NIL)		610	Wild	F7 V M3 V	2	(A69-3)	[5975]	B	8	-1620
+Spin	E	0311	Mizan-fel	D562000-8	 	      Di 		023	Wild	F3 V	-3	(C00+2)	[0000]	B	13	24
+Spin	I	0321	Nonym	C43388A-A	 	      Na Po Ph (NIL)		423	Wild	G0 V	1	(F78-2)	[695C]	Be	14	-1680
+Spin	I	0325	Laberv	E554000-7	 	     DaryW  Di 		034	Wild	G0 V	-3	(600-5)	[0000]	B	12	-30
+Spin	I	0326	Ektron	C432676-8	 	     la1 Dary8  Na Px Po Ni 		123	Wild	M1 V	-2	(D52+2)	[8456]	B	14	260
+Spin	M	0332	Gothe	E421000-7	 	    Da  Di He Po 		010	Wild	F5 V	-3	(700+1)	[0000]	B	9	7
+Spin	M	0333	Mirriam	B99979C-A	NW	     Pz  Pi (NIL)		314	Wild	G6 V	3	(F67-5)	[6A2A]	BD	13	-3150
+Spin	M	0336	Candory	D593000-8	 	    An Fo DroyW  Di 		020	Wild	F6 V M3 V	-3	(A00+1)	[0000]	B	5	10
+Spin	M	0340	Wonderay	E88A000-4	 	     Di Wa 		010	Wild	M1 V M3 V	-3	(600+3)	[0000]	B	7	18
+Spin	E	0412	Sansibar	X200000-A	 	    Droy4  Di Va 		001	Wild	M3 V M3 V	-1	(600+1)	[0000]	B	12	6
+Spin	E	0414	Attica	C400552-9	 	     Ni Va 		210	Wild	K1 V M6 V	-1	(844-1)	[2457]	B	8	-128
+Spin	E	0416	Retinae	E8C699C-9	 	    Pz (Tashaki) RsD  Fl Hi In (ENIL)		410	Wild	M1 V	1	(C8B-3)	[5A98]	BE	11	-3168
+Spin	I	0421	Zamine	C89787B-8	 	    Dary9  Pa Pi Ph (NIL)		923	Wild	M3 V	-1	(G77+5)	[A784]	BcDe	12	3920
+Spin	I	0425	Engrange	C554776-8	 	    la1 Dary8 O:0426  Ag (NIL)		301	Wild	M1 V M3 V	0	(A6B-1)	[676B]	BC	10	-660
+Spin	I	0426	Ilium	B544777-9	 	      DaryW  Ag Pi (NIL)		901	Wild	G3 V M8 V	2	(B66+4)	[896A]	BCD	6	1584
+Spin	I	0427	Roget	B56677A-9	 	     la6 Dary3  Ag Ri (NIL)		220	Wild	F8 V M3 V	3	(B66+3)	[AA2C]	BC	7	1188
+Spin	I	0429	Kardin	E553000-6	 	    An  Di Po 		010	Wild	F7 V	-3	(300+1)	[0000]	B	10	3
+Spin	I	0430	Bularia	D774000-5	 	      Di 		010	Wild	K5 V M3 V	-3	(800-1)	[0000]	B	8	-8
+Spin	M	0433	Jone	D792000-9	T 	    Pz  Di He (NIL)		010	Wild	G8 V M5 V	-2	(A00-4)	[0000]	B	13	-40
+Spin	M	0440	Jinx	D100000-7	 	    Da  Di Va 		002	Wild	G3 IV D	-3	(300-4)	[0000]	B	10	-12
+Spin	A	0503	Whenge	D648000-8	 	      Di 		010	Wild	F8 V	-3	(800-2)	[0000]	B	13	-16
+Spin	E	0511	Terra Nova	E786000-9	 	     Di Ga 		012	Wild	K2 V	-2	(800-1)	[0000]	B	8	-8
+Spin	E	0512	Asmodeus	E596000-5	 	      Di 		005	Wild	K8 V	-3	(600+1)	[0000]	B	11	6
+Spin	E	0518	Faisal	D545000-5	 	      Di 		010	Wild	K9 V M7 V	-3	(600-1)	[0000]	B	9	-6
+Spin	I	0526	Rorre	D765530-3	 	     DaryW  Ag Pr Ga Ni 		603	Wild	F4 V M2 V	-2	(841+2)	[8391]	BcC	13	64
+Spin	I	0527	Mire	A665988-A	 	    Dary8 la1  Ga Hi Pr (NIL)		610	Wild	K6 V	3	(D8F+2)	[BC2A]	BcE	10	3120
+Spin	I	0528	Condaria	E547788-5	 	     Pz  Ag Pi (NIL)		601	Wild	K3 V M0 V	-1	(969+1)	[6695]	BCD	12	486
+Spin	I	0530	Dorannia	E421000-8	 	     Di He Po 		010	Wild	K4 V	-3	(800+1)	[0000]	B	9	8
+Spin	M	0532	Ucella	D574000-7	 	      Di 		010	Wild	F2 V M2 V	-3	(800+1)	[0000]	B	8	8
+Spin	M	0533	Penelope	C560676-4	 	     De Ni Ri 		223	Wild	F6 V M2 V	-1	(854+2)	[8551]	BC	10	320
+Spin	M	0534	Karin	A7677CF-C	NS	     Pz   Ag Ri Ga (NIL)		210	Wild	G7 V	5	(A6G+1)	[7C3B]	BCf	6	960
+Spin	M	0538	Wonstar	B55577C-7	N 	    Pz  Ag (NIL)		510	Wild	M0 V	1	(96A+4)	[5875]	BC	5	2160
+Spin	M	0539	Froin	D535000-9	 	    RsZ  Di 		001	Wild	M2 V M7 V	-2	(500-4)	[0000]	B	12	-20
+Spin	A	0601	Enlas-du	E975746-6	 	      Ag Pi (NIL)		123	Wild	F1 V	-1	(966+2)	[C659]	BCD	14	648
+Spin	A	0605	Algebaster	C665653-9	 	      Ag Ri Ga Ni 		110	Wild	M0 V M1 V	1	(952+3)	[473C]	BC	10	270
+Spin	A	0607	Rasatt	E883400-7	 	     Ni 		210	Wild	F0 V	-3	(630+3)	[1158]	B	6	54
+Spin	A	0608	Ninjar	A311622-C	 	      Ic Na Ni 		210	Wild	A4 V	1	(957-4)	[872B]	B	6	-1260
+Spin	A	0610	Sheyou	B756674-A	 	    Ag Ga Ni (NIL)		711	Wild	F4 V M0 V	2	(B54+1)	[781B]	BC	13	220
+Spin	E	0613	Lebeau	E869000-C	 	      Di 		001	Wild	G8 V M5 V	-1	(800-4)	[0000]	B	10	-32
+Spin	E	0614	Querion	B554775-9	 	     (Sheol)  Ag (NIL)		304	Wild	G6 V	2	(D65-2)	[A975]	BC	13	-780
+Spin	E	0618	Dekalb	EA8A676-6	 	    Ni Oc Ri (NIL)		920	Wild	M1 V	-2	(953-5)	[8437]	BC	13	-675
+Spin	E	0620	Winston	E887000-6	 	       Di Ga 		001	Wild	K5 V M9 V	-3	(700-2)	[0000]	B	6	-14
+Spin	I	0622	Terant 340	D540557-A	 	     DaryW  De He Ni Po 		423	Wild	G0 V M5 V	-1	(C41-2)	[345E]	B	8	-96
+Spin	I	0624	Jacent	A4337BD-D	 	     DaryW  Na Po (NIL)		510	Wild	M0 V	2	(A67+1)	[898C]	B	7	420
+Spin	I	0625	494-908	X893000-0	 	    Fo Re  Ba 		010	Wild	M1 V	-3	(200+1)	[0000]	B	6	2
+Spin	I	0627	Darrian	A4639CA-F	 	   An  (Daryen)8 la0  Hi Pr (NIL)		125	Wild	G1 V D	3	(J88-3)	[5C3H]	BcE	10	-3456
+Spin	M	0632	Gohature	C754776-7	S	    O:0732  Ag (NIL)		223	Wild	F8 V	0	(968-2)	[77A6]	BC	15	-864
+Spin	M	0637	Quhaiathat	C314774-9	 	    Pz  Ic Pi 		210	Wild	K8 V	0	(A67+2)	[974A]	BD	6	840
+Spin	M	0638	Lakou	E779000-7	 	    Da  Di 		001	Wild	M2 V	-3	(600+1)	[0000]	B	13	6
+Spin	A	0703	Indo	E434434-7	 	    O:0605  Ni 		820	Wild	F6 V	-3	(830+2)	[51A6]	B	11	48
+Spin	A	0704	Nerewhon	E738475-7	 	     Ni 		420	Wild	K5 V	-3	(631-2)	[2157]	B	10	-36
+Spin	A	0705	Cipango	A88677A-C	 	      O:0304  Ag Ri Ga (NIL)		421	Wild	G2 V	4	(D6F+2)	[5B5C]	BCf	10	2340
+Spin	A	0710	Stave	E766774-2	 	     (Obeyery)  Ag Ri Ga (NIL)		201	Wild	K9 V M2 V	0	(969-1)	[8761]	BC	8	-486
+Spin	E	0712	Rapp's World	X592000-8	 	     Di He 		002	Wild	K5 V M8 V	-3	(700-1)	[0000]	B	9	-7
+Spin	E	0717	Thanber	D543000-C	 	     Di Po 		010	Wild	M0 V M1 V	-1	(900+1)	[0000]	B	9	9
+Spin	E	0720	Entrope	E43698B-9	 	    Pz  Hi (NIL)		610	Wild	G6 V M1 V	0	(D8B+3)	[7959]	BE	10	3432
+Spin	I	0721	Torment	X433000-6	 	    Fo DaryW   Di Po 		020	Wild	M0 V	-3	(400+1)	[0000]	B	12	4
+Spin	I	0723	Trifuge	X546000-9	 	     (Dphone)1 Dary9  Di 		010	Wild	F0 V	-2	(800+1)	[0000]	B	10	8
+Spin	I	0724	Nosea	B432652-D	 	     Da DaryW  Na Po Ni 		320	Wild	M2 V	1	(A57+3)	[A76C]	B	13	1050
+Spin	I	0727	Spume	D540000-A	 	     DaryW  De He Di Po 		034	Wild	M2 V	-1	(B00+3)	[0000]	B	12	33
+Spin	I	0729	Ator	D426000-7	 	    An  Di 		021	Wild	F7 V M2 V	-3	(400+1)	[0000]	B	6	4
+Spin	M	0731	Ralhe	E424000-8	 	     Di 		001	Wild	M2 V M3 V	-3	(800+1)	[0000]	B	9	8
+Spin	M	0732	Iderati	A887641-C	N 	      Ag Ri Ga Ni (NIL)		901	Wild	G9 V	3	(A55+1)	[698E]	BC	11	250
+Spin	M	0739	Tondoul	E513588-8	 	      Ic Ni 		401	Wild	K8 V M1 V	-3	(941+1)	[6285]	B	10	36
+Spin	A	0805	Narval	D525000-7	 	    Da  Di 		003	Wild	G4 V M6 V	-3	(800+1)	[0000]	B	10	8
+Spin	A	0807	Plaven	E845000-5	 	     Di 		010	Wild	G8 V M7 V	-3	(500+3)	[0000]	B	6	15
+Spin	A	0808	Quar	B532747-B	N 	     Pz  Na Po (NIL)		201	Wild	M2 V	2	(A6C+1)	[9919]	B	9	720
+Spin	A	0810	Frond	E9C3000-9	 	     Di Fl 		003	Wild	F8 V	-2	(800+3)	[0000]	B	12	24
+Spin	E	0820	Anselhome	C310577-8	 	     Ni 		501	Wild	M0 V M1 V	-2	(843-1)	[7348]	B	7	-96
+Spin	I	0822	Cunnonic	E657000-3	 	     la0 Dary9  Di Ga 		002	Wild	K0 V	-3	(800-4)	[0000]	B	8	-32
+Spin	I	0830	Debarre	E854000-9	 	     Di 		022	Wild	M2 V	-2	(700-2)	[0000]	B	15	-14
+Spin	M	0834	875-496	E888430-7	S	    Da  Ni Pa 		110	Wild	M3 V M7 V	-3	(633-1)	[6135]	Bc	8	-54
+Spin	M	0837	Ochecate	E747000-7	 	     O:1040  Di 		010	Wild	G8 V M8 V	-3	(700-3)	[0000]	B	7	-21
+Spin	M	0838	Mewey	D786789-5	 	     (Mewey)  Ag Ri Ga (NIL)		301	Wild	K3 V M3 V	0	(965+1)	[A728]	BC	8	270
+Spin	M	0840	975-452	E100000-9	 	     Di Va 		021	Wild	M0 V	-2	(800+1)	[0000]	B	10	8
+Spin	B	0901	Condyole	E7A1000-8	 	     (Vexx)  Di Fl He 		023	Wild	F8 V	-3	(C00-1)	[0000]	B	10	-12
+Spin	B	0902	Puparkin	E7B3000-9	 	    rg8  Di Fl 		002	Wild	K8 V M4 V	-2	(700+3)	[0000]	B	6	21
+Spin	B	0904	Chwistyoch	B7667BE-A	 	       Ag Ri Ga (NIL)		224	Wild	M2 V	4	(F6A-4)	[7B49]	BCf	15	-3600
+Spin	B	0909	Gougeste	D572000-A	 	    Da  Di He 		020	Wild	K2 V	-1	(900+1)	[0000]	B	10	9
+Spin	F	0911	Caloran	E796000-5	 	      Di (NIL)		010	Wild	G2 V M4 V	-3	(900+1)	[0000]	B	6	9
+Spin	F	0912	899-076	E201000-8	 	      Di Ic Va 		020	Wild	F7 V	-3	(700-3)	[0000]	B	8	-21
+Spin	F	0915	Quare	D200000-9	 	     Di Va 		004	Wild	M3 V	-2	(B00+1)	[0000]	B	10	11
+Spin	F	0919	Zeta 2	X6B0000-0	 	    Fo (Viji) Re  Ba He 		020	Wild	M0 V	-3	(200+2)	[0000]	B	13	4
+Spin	J	0921	Hrunting	B5637BB-9	 	     Ri (NIL)		113	Wild	M2 V	2	(D66-1)	[7929]	BC	10	-468
+Spin	J	0922	Tizon	B586899-A	 	      Pa Ri Ph (NIL)		123	Wild	K2 IV M3 V	3	(F79-1)	[8B6C]	BcCe	15	-945
+Spin	J	0927	Narsil	B574AB8-9	 	     Hi In (NIL)		224	Wild	G6 IV M0 V	3	(J99-2)	[8D46]	BE	10	-2916
+Spin	J	0930	Flammarion	X623000-B	T 	     Di Po 		010	Wild	F8 V	-1	(800-1)	[0000]	B	11	-8
+Spin	N	0931	Asteltine	X7A7000-A	 	     Di Fl 		010	Wild	K7 V M3 V	-1	(700+2)	[0000]	B	10	14
+Spin	N	0938	Inchin	D420000-A	 	      De He Di Po 		023	Wild	F0 V	-1	(A00+2)	[0000]	B	8	20
+Spin	N	0940	Singer	D5537A8-6	 	     Po (NIL)		401	Wild	M2 V M2 V	-2	(964+1)	[6511]	B	9	216
+Spin	B	1004	Esalin	C56557B-9	 	     Da  Ag Pr Ni 		123	Wild	F3 V M2 V	0	(D41+1)	[258A]	BcC	9	52
+Spin	B	1005	Ruby	B400447-B	S	     Ni Va 		101	Wild	M1 V M3 V	1	(733+1)	[153A]	B	9	63
+Spin	B	1006	Emerald	E766000-B	T 	       Di Ga 		034	Wild	M1 V	-1	(E00+1)	[0000]	B	12	14
+Spin	B	1010	Zenopit	D430536-7	 	     De Ni Po 		422	Wild	M3 V	-3	(740+1)	[7224]	B	7	28
+Spin	F	1011	Arden	B55488C-7	 	   Pz  Pa Ph (NIL)		310	Wild	G4 V M5 V	0	(B72-2)	[6866]	Bce	12	-308
+Spin	F	1018	Choleosti	E200000-9	 	     Di Va 		001	Wild	K9 V M4 V	-2	(400+1)	[0000]	B	5	4
+Spin	F	1020	Margesi	D575000-6	 	     Da  Di 		010	Wild	K4 V M7 V	-3	(800+4)	[0000]	B	10	32
+Spin	J	1022	Colada	B564512-C	 	      Ag Pr Ni 		311	Wild	K2 V M8 V	2	(A47-3)	[277D]	BcC	10	-840
+Spin	J	1026	Anduril	B98577A-A	 	       Ag Ri (NIL)		822	Wild	F2 V	4	(E6F+4)	[5B89]	BCf	11	5040
+Spin	N	1031	567-908	E532000-0	 	    (Shriekers)  Ba Po 		010	Wild	K5 III D	-3	(200-1)	[0000]	B	9	-2
+Spin	N	1037	Avastan	C433587-A	 	     Ni Px Po 		324	Wild	M3 V	0	(D45-1)	[155A]	B	11	-260
+Spin	N	1040	Kuai Qing	C503779-9	 	       Ic Va Na Pi 		220	Wild	K3 V	0	(B67-3)	[6738]	BD	7	-1386
+Spin	B	1102	Riverland	C566AA8-9	 	    Pz  Hi (NIL)		114	Wild	M2 V	1	(H99+1)	[CB58]	BE	14	1377
+Spin	B	1103	Clan	B672831-A	 	    Pz  He Ph Pi (NIL)		201	Wild	K8 V	2	(B77+1)	[8A4A]	BDe	12	539
+Spin	B	1106	Jewell	A777955-D	NS	     Hi In (NIL)		123	Wild	G7 V	5	(G8A-1)	[8E1A]	BEf	10	-1280
+Spin	B	1110	Zircon	X792000-8	 	    O:1011  Di He 		024	Wild	F0 V	-3	(E00+1)	[0000]	B	12	14
+Spin	F	1116	Frenzie	A200377-A	N 	      Lo Va 		510	Wild	M3 III M2 V	1	(721+3)	[4449]	B	5	42
+Spin	F	1118	Garda-Vilis	B97887A-A	S	     O:1119  Pa Pi Ph (NIL)		312	Wild	M3 V	2	(D78+1)	[AA7A]	BcDe	14	728
+Spin	F	1119	Vilis	A593959-B	 	     Hi In (NIL)		420	Wild	G5 V M8 V	4	(D8D-1)	[8D1A]	BEf	9	-1352
+Spin	J	1121	Mjolnir	B530553-B	 	     De Ni Po 		222	Wild	A5 V G0 V	1	(B47+4)	[262B]	B	12	1232
+Spin	J	1123	Joyeuse	B564774-A	 	     Pz  Ag Ri (NIL)		101	Wild	M3 V M9 V	4	(A6D+1)	[7B16]	BCf	13	780
+Spin	J	1126	Orcrist	B8A6785-A	 	    Lk  Fl (ENIL)		301	Wild	K7 V M7 V	2	(A6B-4)	[C995]	B	8	-2640
+Spin	J	1130	Enos	E350000-4	 	    Da  De Di Po 		010	Wild	M1 V	-3	(700+5)	[0000]	B	8	35
+Spin	N	1131	Faldor	E593000-5	 	    (Otarri)  Di 		020	Wild	M2 V	-3	(800-1)	[0000]	B	7	-8
+Spin	N	1132	Bowman	D000000-9	S	      As Va Di 		031	Wild	M0 V	-2	(900+2)	[0000]	B	13	18
+Spin	N	1133	Squallia	C438421-A	 	     Ni 		920	Wild	F0 V	0	(A31+3)	[1478]	B	8	90
+Spin	N	1138	Tarsus	X584000-A	 	       Di 		002	Wild	K9 V	-1	(A00+1)	[0000]	B	7	10
+Spin	B	1201	Ao-dai	E410530-8	 	      Ni 		812	Wild	K2 V M3 V	-3	(B40+1)	[1263]	B	10	44
+Spin	B	1204	Mongo	E568000-A	T 	       Di 		003	Wild	M6 III M0 V	-1	(B00-3)	[0000]	B	7	-33
+Spin	B	1209	Utoland	C57345A-8	 	    O:1011  Ni 		410	CoWx	M0 V	-2	(730+1)	[724C]	B	8	21
+Spin	B	1210	Pequan	E565658-5	 	     Da  Ag Ri Ni 	A	910	CoWx	K5 V	-1	(854+2)	[2563]	BC	5	320
+Spin	F	1212	Digitis	E536679-6	 	     Ni 		920	CoWx	M3 V	-3	(850+1)	[2377]	B	8	40
+Spin	F	1213	Edinina	E400231-7	 	    Da  Lo Va 	A	401	CoWx	K6 V M0 V	-3	(410+1)	[613A]	B	6	4
+Spin	F	1214	728-907	E955000-0	 	     Ba 		010	CoWx	F1 V M2 V	-3	(200-1)	[0000]	B	10	-2
+Spin	F	1216	Stellatio	D5A4499-8	 	    Fl Ni Px 		210	CoWx	M3 V	-3	(730+1)	[312C]	B	14	21
+Spin	F	1217	Arkadia	E54687C-6	 	      Pa Pi Ph (NIL)		602	CoWx	G8 V	-2	(A75-5)	[8643]	BcDe	7	-1750
+Spin	J	1221	Gungnir	B544744-8	 	      Ag Pi (NIL)		532	CoWx	G3 IV M4 V	1	(E67+1)	[A848]	BCD	13	588
+Spin	J	1223	Gram	A8959AA-B	 	      Hi In (NIL)		703	CoWx	F2 V M2 V	4	(E87+1)	[5D3C]	BEf	10	784
+Spin	J	1225	Excalibur	E424000-A	 	     Di (NIL)		002	Wild	K5 V	-1	(B00-1)	[0000]	B	10	-11
+Spin	N	1232	Walston	E544000-8	T 	    rg7  Di 		002	Wild	M2 V	-3	(700-2)	[0000]	B	8	-14
+Spin	N	1233	Flexos	E5A1000-8	 	      Di Fl He 		010	Wild	M1 V M2 V	-3	(700+1)	[0000]	B	8	7
+Spin	N	1237	Collace	B628777-B	S	      Pi (NIL)		501	Wild	F1 V M3 V	2	(C6A+1)	[C979]	BD	5	720
+Spin	N	1238	Pavabid	C667896-4	 	     Pz  Ga Pa Ri Ph (NIL)		101	Wild	K7 V	0	(A79+2)	[8873]	BcCe	14	1260
+Spin	B	1305	Nakege	D591000-5	 	    Da (minor)  Di He 		001	Wild	K2 V M0 V	-3	(500-1)	[0000]	B	14	-5
+Spin	B	1307	Lysen	D592000-A	T 	     Di He 		023	Wild	M3 V	-1	(D00-4)	[0000]	B	12	-52
+Spin	F	1311	Tremous Dex	B511454-D	 	     Ic Ni 		101	CoWx	K8 V M5 V	1	(737+1)	[754H]	B	8	147
+Spin	F	1315	Mirriam	E572222-7	N 	     He Lo 		910	CoWx	F5 V	-3	(510-1)	[1176]	B	11	-5
+Spin	F	1320	Saurus	D888543-7	 	     (Saurians)  Ag Pr Ni 		920	CoWx	G8 V M1 V	-2	(743-1)	[4334]	BcC	13	-84
+Spin	J	1324	Tyrfing	B6377BA-A	 	      (NIL)		601	CoWx	M2 V	2	(A69+1)	[795A]	B	6	540
+Spin	J	1325	Sacnoth	E775000-C	 	      Di (NIL)		001	Wild	F9 V M3 V	-1	(C00+3)	[0000]	B	7	36
+Spin	J	1329	Caladbolg	B56577C-A	S	      Ag Ri (NIL)		510	Wild	F7 V M0 V M4 V	4	(A69+4)	[AB6A]	BCf	9	2160
+Spin	N	1331	Datrillian	E427000-8	 	     Di 		001	Wild	M1 V	-3	(900-3)	[0000]	B	9	-27
+Spin	N	1332	Nirton	X500000-0	 	    Fo  Ba Va 		011	Wild	M0 V	-3	(200+4)	[0000]	B	11	8
+Spin	N	1337	Judice	E9B2000-0	 	     RsT  Ba Fl He 		021	Wild	M3 V	-3	(200+1)	[0000]	B	8	2
+Spin	N	1339	Trexalon	B5618C8-B	 	     Ph Ri (NIL)		523	Wild	K8 V	3	(F76+1)	[5B6E]	BCe	13	630
+Spin	N	1340	Motmos	X684000-5	T 	       Di 		010	Wild	M2 V M2 V	-3	(800-1)	[0000]	B	7	-8
+Spin	B	1401	Foelen	B638648-8	 	    Da (Chokari)4 Dolp2 O:1103  Ni 		410	Wild	K0 V	-1	(951-2)	[3559]	B	14	-90
+Spin	B	1402	Farreach	A200444-A	 	    Da  Ni Va 		215	Wild	M3 III M0 V	1	(C37-3)	[155A]	B	10	-756
+Spin	F	1411	Rangent	E67A676-7	 	     Ni Wa 		603	CoWx	K8 V	-3	(853+4)	[7388]	B	14	480
+Spin	F	1413	Denotam	B7395AA-A	N 	     Ni 		524	CoWx	M2 V	1	(D44+2)	[163C]	B	9	416
+Spin	F	1417	Ficant	E56737B-4	 	     Lo 		710	CoWx	M0 V M1 V	-3	(520-1)	[4144]	B	13	-10
+Spin	J	1424	Beater	B685674-A	 	      Ag Ri Ga Ni 		410	CoWx	K4 V	3	(955+2)	[396C]	BC	11	450
+Spin	J	1429	Gunn	E544000-8	 	    Da  Di 		002	Wild	M3 V	-3	(500-1)	[0000]	B	9	-5
+Spin	J	1430	Caliburn	E00047B-A	 	      As Va Ni 		514	Wild	M2 V	-1	(C34+1)	[533C]	B	13	144
+Spin	N	1433	Noctocol	E7A5000-8	 	    Di Fl (ENIL)		002	Wild	F5 V M2 V	-3	(B00-2)	[0000]	B	15	-22
+Spin	N	1434	Tarkine	C566675-7	S	     Da O:1435  Ag Ri Ni 		110	Wild	M0 V M2 V	0	(852-1)	[9644]	BC	9	-80
+Spin	N	1435	Dallia	B885832-9	 	      Ga Pa Ri Ph (NIL)		510	Wild	F2 V	2	(B7A-1)	[6A8A]	BcCe	9	-770
+Spin	N	1436	Talos	E43357C-9	 	     Ni Po 		220	Wild	F9 V M1 V	-2	(940-2)	[6359]	B	9	-72
+Spin	B	1510	871-438	E722000-0	 	     Ba He Po 		001	CoWx	M3 V M8 V	-3	(200-5)	[0000]	B	7	-10
+Spin	F	1511	Tionale	C674310-8	 	    Da (minor)  Lo 	A	810	CoWx	M2 V M5 V	-2	(620+1)	[3165]	B	11	12
+Spin	F	1515	Calit	C4348CD-7	 	     Ph (NIL)		701	CoWx	K9 V M1 V	-1	(A77-5)	[B767]	Be	4	-2450
+Spin	F	1519	Asgard	X543758-6	 	     Fo  Pi Po (NIL)	R	620	CoWx	F5 V M1 V	-2	(967+1)	[4565]	BD	13	378
+Spin	F	1520	Tavonni	E567000-0	 	     Ba 		034	CoWx	G6 V	-3	(200-3)	[0000]	B	10	-6
+Spin	J	1522	Dyrnwyn	B9588B9-A	 	     Pa Ph (NIL)		301	CoWx	K4 V M8 V	2	(B7B+1)	[8A2D]	Bce	7	847
+Spin	J	1523	Durendal	B687778-B	 	      Ag Ri Ga (NIL)		714	CoWx	M1 V	4	(E6B+3)	[5B4G]	BCf	11	2772
+Spin	J	1524	Hofud	B666888-9	 	      Ga Pa Ri Ph (NIL)		601	CoWx	G6 V M9 V	2	(B76+2)	[9A66]	BcCe	8	924
+Spin	J	1525	Sting	B645787-A	 	      Ag Pi (NIL)		802	CoWx	M0 V	3	(B6C+1)	[9A59]	BCD	9	792
+Spin	J	1526	Biter	B354678-A	 	     Ag Ni 		101	Wild	G7 V M1 V	2	(957-1)	[288A]	BC	8	-315
+Spin	J	1529	Steel	E655000-0	 	    Re  Ba Ga 		024	Wild	K8 V	-3	(200+3)	[0000]	B	15	6
+Spin	N	1531	Dawnworld	E885000-0	 	     Ba Ga 		025	Wild	F8 V M2 V	-3	(200+1)	[0000]	B	17	2
+Spin	N	1532	Elixabeth	E426000-8	T 	    O:1435  Di 		001	Wild	M1 V M5 V	-3	(700+4)	[0000]	B	8	28
+Spin	N	1533	Forine	D312974-A	 	      Hi Ic Na In 		110	Wild	G9 V	2	(C88+3)	[DB8B]	BE	8	2304
+Spin	N	1537	Mertactor	B562675-B	S	    Ni Ri (NIL)		310	Wild	G1 V	2	(A57-2)	[581D]	BC	14	-700
+Spin	B	1604	Louzy	D422688-4	 	       He Na Px Po Ni (NIL)		710	Wild	M2 V	-3	(C50+1)	[8326]	B	7	60
+Spin	B	1607	Grant	X664135-2	 	    Fo Re  Lo 	R	222	CoWx	K6 V	-3	(300-1)	[1143]	B	13	-3
+Spin	F	1611	Phlume	C887697-8	 	      Ag Ri Ga Ni 		710	CoWx	G5 V M8 V	0	(955-2)	[8679]	BC	5	-450
+Spin	J	1626	Iron	E529000-0	 	    Re  Ba 		014	Wild	F0 V	-3	(200+1)	[0000]	B	9	2
+Spin	J	1627	Bronze	E201000-0	 	     Re  Ba Ic Va 		010	Wild	M3 V	-3	(200+1)	[0000]	B	5	2
+Spin	J	1628	Mithril	E568000-0	 	    Re  Ba 		001	Wild	F4 V	-3	(200-1)	[0000]	B	8	-2
+Spin	N	1631	Talchek	E7B1000-8	 	     Da  Di Fl He 		001	Wild	K8 V M5 V	-3	(700+1)	[0000]	B	10	7
+Spin	N	1632	Milagro	E311756-8	 	      Ic Na Pi 		420	Wild	M2 V	-2	(B65-4)	[5559]	BD	15	-1320
+Spin	N	1634	Pagaton	C7698CC-4	 	     Ph Ri (NIL)		413	Wild	F0 V	0	(A77+3)	[5813]	BCe	11	1470
+Spin	N	1635	Binges	D500000-A	 	     Di Va 		020	Wild	M0 V	-1	(600+2)	[0000]	B	6	12
+Spin	N	1637	Mille Falcs	E9A2000-C	T 	       Di Fl He 		001	Wild	M2 V	-1	(700+3)	[0000]	B	12	21
+Spin	C	1705	Efate	A6469DH-F	NW	    An  Hi In (NIL)		500	Wild	F8 V	5	(B8A+1)	[DE7F]	BEf	8	880
+Spin	C	1706	Alell	B567852-B	 	     Pz  Pa Ri Ph (NIL)	A	210	CoWx	M1 V M7 V	3	(B78-2)	[CB59]	BcCe	6	-1232
+Spin	G	1711	Extolay	B555878-A	N 	    rg2  Pa Ph (NIL)		110	CoWx	M2 V M4 V	2	(B77-2)	[CA8E]	Bce	8	-1078
+Spin	G	1719	Lanth	A879573-B	NS	      Ni 		510	CoWx	F5 IV M1 V	2	(848-3)	[777B]	B	14	-768
+Spin	K	1721	Arba	C200256-C	 	     Lo Va 		410	CoWx	M2 V	0	(510-2)	[126A]	B	11	-10
+Spin	K	1727	Wardn	D756000-B	T 	      Di Ga 		002	Wild	K2 V	-1	(800-3)	[0000]	B	7	-24
+Spin	K	1728	Olympia	D428000-7	 	     Di 		020	Wild	M3 V	-3	(500-3)	[0000]	B	6	-15
+Spin	K	1729	Smoug	C540753-A	 	       De He Pi Po (NIL)		602	Wild	M1 V M7 V	1	(B68-1)	[786C]	BD	7	-528
+Spin	O	1731	Grote	A400311-A	 	     Lo Va 		624	Wild	F8 V	1	(C21+5)	[3448]	B	11	120
+Spin	O	1733	Lydia	E310400-8	 	     Ni 		302	Wild	M4 III M0 V	-3	(831-4)	[7129]	B	11	-96
+Spin	O	1736	Melior	D540000-7	 	     Da Jonk5 O:2036  De He Di Po 		024	Wild	G3 V	-3	(600-1)	[0000]	B	9	-6
+Spin	O	1737	Egypt	XAC6000-9	T 	      Di Fl 		021	Wild	F8 V	-2	(A00+1)	[0000]	B	14	10
+Spin	O	1739	Aster	C86A354-A	 	     Lo Wa 		901	Wild	K9 V	0	(720+2)	[4359]	B	14	28
+Spin	C	1802	Yres	BAC6787-9	 	     Fl (ENIL)		135	Wild	G5 V	1	(H65+3)	[B818]	B	13	1530
+Spin	C	1803	Menorb	C652996-7	 	     Hi Po (NIL)		310	Wild	K2 V	0	(B89+2)	[9944]	BE	7	1584
+Spin	C	1805	Uakye	B439515-D	 	     Ni 		120	CoWx	M3 V	1	(942-2)	[366B]	B	12	-144
+Spin	C	1806	Whanga	E676110-7	 	     Lo 		124	CoWx	G1 V M1 V	-3	(300-2)	[5186]	B	14	-6
+Spin	C	1807	Knorbes	E888754-3	 	     An Re  Ag Ri (NIL)		934	CoWx	G3 V	0	(96B+2)	[9717]	BC	15	1188
+Spin	C	1808	Forboldn	D8936A6-5	 	     Ni 		312	CoWx	G0 V	-3	(852+1)	[2357]	B	14	80
+Spin	C	1809	Ruie	C776974-7	 	    Pz (Daccamites)  Hi In (NIL)	A	601	CoWx	G5 V	1	(B8D+2)	[7A72]	BE	9	2288
+Spin	C	1810	Jenghe	C79969B-9	S	    O:1910  Ni 		123	CoWx	M0 V	-1	(D51+1)	[555A]	B	11	65
+Spin	G	1811	Dinom	D300586-A	 	    Sa  Ni Va 		201	CoWx	A4 V	-1	(841+1)	[8459]	B	14	32
+Spin	G	1815	Ghandi	B311425-9	N 	     Ic Ni 		303	CoWx	F8 V M3 V	0	(935-1)	[6478]	B	13	-135
+Spin	G	1817	Victoria	D6D7732-2	 	    An Fo  (NIL)	R	112	CoWx	K6 V	-2	(964+2)	[8581]	B	8	432
+Spin	K	1822	Rabwhar	D54489D-6	S	     Pz  Pa Pi Ph (NIL)	A	313	CoWx	K5 V	-2	(A72+1)	[B687]	BcDe	12	140
+Spin	K	1824	Adabicci	A571952-E	N 	    Pz  He Hi In (NIL)	A	101	CoWx	K8 V M8 V	4	(B8B+1)	[7D1F]	BEf	6	968
+Spin	K	1825	Zaibon	B00059B-B	 	      As Va Ni 		302	CoWx	M6 III M3 V	1	(942-2)	[464C]	B	9	-144
+Spin	K	1826	Tenalphi	A774772-E	 	    An   Ag Pi (NIL)		410	CoWx	F7 V	3	(A67-1)	[6A9E]	BCD	12	-420
+Spin	O	1836	Callia	E5508DC-7	 	     De Ph Po (NIL)		610	Wild	M3 V	-2	(A78-2)	[A656]	Be	11	-1120
+Spin	C	1903	Pixie	E100000-D	T 	    An   Di Va 		001	Wild	K1 V M0 V	-1	(400-1)	[0000]	B	14	-4
+Spin	C	1904	Boughene	X8B3000-D	T 	    An  Di Fl 		001	Wild	M1 V	-1	(800+1)	[0000]	B	13	8
+Spin	C	1909	Hefry	C200448-7	S	     Ni Va 		120	CoWx	K6 II M2 V	-2	(630+2)	[4217]	B	13	36
+Spin	C	1910	Regina	A7888DB-E	NS	     An  (Amindii)2 rg0 la0 Sa  Pa Ri Ph (NIL)		903	CoWx	F7 V BD M3 V	4	(D7D-1)	[5C6F]	BcCef	8	-1183
+Spin	G	1912	Dinomn	B674654-A	S	     Ag Ni 		204	CoWx	G8 V	2	(C57+1)	[4857]	BC	11	420
+Spin	G	1916	Ylaven	X587575-3	 	     Fo  Ag Pr Ni 	R	822	CoWx	F9 V	-2	(743+1)	[5371]	BcC	11	84
+Spin	G	1918	Sonthert	D626657-8	 	    Da  Ni 	A	414	CoWx	K6 V M0 V	-3	(D50+2)	[5357]	B	8	130
+Spin	G	1920	D'Ganzio	B420400-E	N 	      De He Ni Po 		312	CoWx	M0 V M3 V	1	(935+1)	[752E]	B	6	135
+Spin	K	1924	Ianic	E56068A-5	 	     De Ni Ri 		924	CoWx	M3 V M7 V	-2	(851-4)	[6438]	BC	9	-160
+Spin	K	1927	Spirelle	C766853-9	S	      Ga Pa Ri Ph (NIL)		915	CoWx	G7 V	1	(G78+1)	[7979]	BcCe	14	896
+Spin	O	1932	Mithras	E8B5000-8	 	      Di Fl 		002	Wild	M2 III M0 V	-3	(900-2)	[0000]	B	6	-18
+Spin	O	1934	Weiss	E626000-B	 	    Da O:2036  Di 		003	Wild	M1 V	-1	(900+1)	[0000]	B	10	9
+Spin	O	1935	Windsor	C783532-9	 	     Ni Pr 		310	Wild	K9 V M0 V	-1	(844+1)	[44AA]	Bc	9	128
+Spin	O	1937	Overnale	B554699-9	 	     Ag Ni 		223	Wild	G3 V	1	(D52+1)	[875C]	BC	17	130
+Spin	O	1938	New Rome	B837879-B	N 	    la3 O:2036  Ph (NIL)		304	Wild	F8 V M0 V	2	(E79+1)	[DA4D]	Be	12	882
+Spin	O	1939	Craw	E573000-5	 	    (Crawni)2 la8  Di 		023	Wild	G7 V	-3	(800+3)	[0000]	B	11	24
+Spin	C	2005	Feri	B58489D-B	S	      Pa Ri Ph (NIL)		420	CoWx	G4 V M3 V	3	(C7C-2)	[BB7B]	BcCe	14	-2016
+Spin	C	2007	Roup	C77A99B-7	S	    Pz  Hi In Wa (NIL)	A	323	CoWx	F9 V	1	(B89+4)	[9A35]	BE	14	3168
+Spin	G	2011	Wypoc	E9C4542-9	 	    Da  Fl Ni 	A	822	CoWx	M3 V	-2	(B42-2)	[337A]	B	9	-176
+Spin	K	2024	Derchon	C5128CD-8	S	     Ic Na Pi Ph 		201	CoWx	M0 V M7 V	-1	(A7A+4)	[572D]	BDe	5	2800
+Spin	O	2035	Aki	B5439DC-B	 	     Pz  Hi In Po (NIL)		214	Wild	G6 V M2 V	4	(G88-2)	[BD1C]	BEf	16	-2048
+Spin	O	2036	Glisten	A0009AB-F	NS	        As Va Hi Na In 		611	Wild	K9 V	5	(D8C+2)	[8E4D]	BEf	13	2496
+Spin	O	2038	Trane	C63947A-B	 	    An  Ni 		304	Wild	F4 V M3 V	0	(A33-2)	[3458]	B	12	-180
+Spin	C	2106	Pscias	X555432-2	 	    Fo  Ni Pa 	R	301	CoWx	K5 V	-3	(630+1)	[7163]	Bc	14	18
+Spin	C	2110	Yori	C560751-A	 	    An (Zhurphani)6 RsB  De Ri (NIL)		713	CoWx	F1 V	2	(D6A-1)	[694D]	BC	15	-780
+Spin	G	2111	Djinni	X559000-0	 	    Fo  Ba 	R	022	CoWx	K5 V	-3	(200-5)	[0000]	B	11	-10
+Spin	G	2112	Rech	D995788-6	 	     Pz  Ag Pi (NIL)	A	501	CoWx	M0 V	-1	(966-5)	[A666]	BCD	14	-1620
+Spin	K	2124	Lunion	A995A9A-F	NS	      Hi In (NIL)		110	CoWx	G5 V	5	(C9C+1)	[BF6D]	BEf	11	1296
+Spin	K	2125	Shirene	B984533-B	S	     Da  Ag Pr Ni 	A	923	CoWx	G4 V M1 V M1 V	2	(C43+3)	[674B]	BcC	12	432
+Spin	K	2128	Penkwhar	D978354-6	 	    Da  Lo 	A	320	CoWx	M0 V	-3	(520+2)	[4189]	B	9	20
+Spin	K	2129	Harvosette	C430772-9	 	      De Na Po (NIL)		310	Wild	M0 V M5 V	0	(A6B+1)	[B76E]	B	11	660
+Spin	O	2132	Centry	E422000-7	 	     Di He Po 		020	Wild	K3 V	-3	(600-4)	[0000]	B	10	-24
+Spin	O	2134	Caledonia	E541000-5	 	     Di He Po 		010	Wild	M4 III M0 V	-3	(800-3)	[0000]	B	10	-24
+Spin	O	2137	Sorel	E58558B-3	 	      Ag Pr Ni 		421	Wild	G3 V M3 V	-2	(840-3)	[1354]	BcC	8	-96
+Spin	O	2138	Horosho	C4378AC-A	S	     Ph (NIL)		520	Wild	F4 V	1	(C7A+4)	[697C]	Be	10	3360
+Spin	O	2140	Romar	D550000-8	T 	     De Di Po 		012	Wild	K2 V M3 V	-3	(900-4)	[0000]	B	6	-36
+Spin	C	2201	Dentus	E979000-A	T 	     Di 		020	Wild	M2 V	-1	(900+1)	[0000]	B	10	9
+Spin	C	2202	Kinorb	A663631-7	 	     Ni Ri 		322	Wild	G7 V	0	(852+1)	[1656]	BC	7	80
+Spin	C	2204	Beck's World	D883400-5	 	    An Da  Ni 	A	601	CoWx	K0 V M2 V	-3	(632+1)	[2176]	B	10	36
+Spin	C	2205	Enope	C411977-7	 	      Hi Ic Na In 		600	CoWx	K6 V M5 V	1	(B8D+2)	[6A64]	BE	8	2288
+Spin	C	2207	Wochiers	EAC2873-9	 	     Pz  Fl He Ph (ENIL)	A	703	CoWx	F0 V	-1	(D75+1)	[576C]	Be	16	455
+Spin	G	2212	K'Kirka	CAA5300-9	 	     Fl Lo 		202	CoWx	M2 V	-1	(720-1)	[125B]	B	7	-14
+Spin	G	2215	Quopist	B551643-A	 	    Da  Ni Po 	A	821	CoWx	M3 V	1	(B52-2)	[4777]	B	8	-220
+Spin	K	2224	Carse	C563354-A	 	     Lo 		601	CoWx	M3 V M6 V	0	(620-1)	[3319]	B	13	-12
+Spin	K	2228	Persephone	B77598B-C	W	      Hi In (NIL)		222	CoWx	M2 V	5	(E8B+3)	[9E3E]	BEf	10	3696
+Spin	O	2231	Marastan	D86879C-5	S	     Pz Re  Ag Ri (NIL)		224	Wild	K7 V	0	(966+2)	[B758]	BC	12	648
+Spin	O	2232	Crout	E4359A8-7	 	    Pz  Hi (NIL)		114	Wild	M7 III M2 V	-1	(B8A+1)	[A834]	BE	9	880
+Spin	O	2233	Tirem	C7B588D-9	 	      Fl Ph (ENIL)		221	Wild	K5 V	0	(E76+1)	[586C]	Be	13	588
+Spin	O	2234	Inthe	C100458-C	 	     Ni Va 		624	Wild	K3 V	0	(D33-3)	[649A]	B	14	-351
+Spin	O	2236	Tsarina	D420410-8	 	       De He Ni Po 		101	Wild	M2 V M2 V	-3	(930+1)	[1158]	B	10	27
+Spin	O	2237	Wurzburg	E795000-A	T 	    Da  Di 		010	Wild	F8 V	-1	(600-4)	[0000]	B	7	-24
+Spin	C	2303	Yorbund	C7C65AA-8	 	     Fl Ni 		320	CoWx	M3 V	-2	(941-1)	[7378]	B	9	-36
+Spin	C	2306	Shionthy	C00078A-8	 	     An  Fo  As Va Na Pi 	R	914	CoWx	F6 V	-1	(E69+1)	[B675]	BD	14	756
+Spin	C	2308	Algine	X766996-4	 	    Fo  Ga Hi Pr (NIL)	R	723	CoWx	G9 V	-1	(B85+2)	[6829]	BcE	11	880
+Spin	C	2309	Yurst	E7B4656-9	 	   (Ursty)  Fl Ni Px 		824	CoWx	K9 V	-2	(E53+1)	[747D]	B	13	210
+Spin	G	2311	Treece	D432872-8	 	     O:2410  Na Po Ph (NIL)		610	CoWx	M1 V	-2	(B7A+2)	[9677]	Be	9	1540
+Spin	G	2313	Echiste	C53A341-A	 	     Lo Wa 		720	CoWx	G4 V	0	(720+1)	[4357]	B	10	14
+Spin	G	2314	Pirema	D691102-6	 	     He Lo 		702	CoWx	M2 V	-3	(300-1)	[1158]	B	7	-3
+Spin	G	2317	Rhise	C100554-B	 	    Da  Ni Va 	A	610	CoWx	K7 V	0	(843+2)	[65A8]	B	8	192
+Spin	G	2319	Ivendo	B424589-A	NS	    Ni Px 		912	CoWx	A9 V	2	(B44+1)	[571B]	B	11	176
+Spin	K	2321	Quiru	B565313-7	 	     Lo 		423	CoWx	M3 V	-1	(520+5)	[1233]	B	9	50
+Spin	K	2322	Gorram	X554222-2	 	    Fo  Lo 	R	901	CoWx	K8 V M6 V	-3	(410+1)	[6151]	B	9	4
+Spin	K	2323	Resten	B310103-B	S	     Lo 		301	CoWx	K5 V M8 V	1	(401-5)	[1259]	B	10	-20
+Spin	K	2324	Capon	B7477CA-A	N 	      Ag Pi (NIL)		610	CoWx	F9 V	3	(A6F+2)	[6A5C]	BCD	10	1800
+Spin	K	2325	Sharrip	C575143-9	 	     Lo 		503	CoWx	K5 V	-1	(600-5)	[112A]	B	16	-30
+Spin	K	2327	Strouden	A745A96-F	N 	     Hi In (NIL)		220	CoWx	G5 V M4 V	4	(D9D-3)	[CE6G]	BEf	8	-4563
+Spin	O	2331	Bicornn	E563575-2	 	     Ni Pr 		110	Wild	F3 V M3 V	-3	(740+1)	[7211]	Bc	11	28
+Spin	O	2334	Ffudn	A414889-C	 	    Pz  Ic Ph Pi 		404	Wild	M0 V	2	(E7B+1)	[9A19]	BDe	12	1078
+Spin	O	2336	Bendor	A75669A-B	NS	     Ag Ga Ni 		420	Wild	F5 V	3	(A59-4)	[492A]	BC	8	-1800
+Spin	C	2402	Heya	B6877BA-5	 	      Ag Ri Ga (NIL)		834	CoWx	K6 III M3 V	2	(96C-2)	[7988]	BC	16	-1296
+Spin	C	2405	Keng	E571956-8	 	    Pz  He Hi In (NIL)	A	112	CoWx	G5 V M9 V	0	(D86+3)	[B929]	BE	6	1872
+Spin	C	2406	Moughas	CA5A536-B	 	     Ni Oc 		801	CoWx	K9 V M9 V	0	(843-3)	[554F]	B	13	-288
+Spin	C	2408	Rethe	E430ABD-8	 	      De Hi Na Po (NIL)		323	CoWx	G7 V	-1	(H96+1)	[E927]	BE	11	918
+Spin	C	2410	Inthe	B575777-9	NS	    An   Ag Pi (NIL)		423	CoWx	F8 V	3	(E68-1)	[CA99]	BCD	8	-672
+Spin	G	2411	Keanou	C792278-7	S	     He Lo 		913	CoWx	M3 III M2 V	-2	(510-1)	[4193]	B	12	-5
+Spin	G	2414	Tureded	C565586-9	 	      Ag Pr Ni 		814	CoWx	M3 V	0	(C44+1)	[4586]	BcC	11	192
+Spin	G	2415	Vreibefger	E5816BC-2	 	    RsE  Ni Ri 		101	CoWx	K9 V	-2	(750-1)	[5461]	BC	8	-35
+Spin	G	2416	La'Belle	C564133-4	 	     Lo 		901	CoWx	F2 V M3 V	-2	(300+3)	[5131]	B	11	9
+Spin	G	2417	Equus	B55A894-A	S	    Dolp1  Ph Wa (NIL)		302	CoWx	F6 V M1 V	2	(C7A-1)	[6A1B]	Be	12	-840
+Spin	G	2418	Icetina	B524551-8	N 	     Ni 		301	CoWx	K9 V M8 V	-1	(845+1)	[845A]	B	13	160
+Spin	G	2419	Cogri	CA6A674-9	 	     Ni Oc Ri 		632	CoWx	M1 V	0	(D53-1)	[2647]	BC	8	-195
+Spin	G	2420	Skull	C423720-9	N 	       Na Pi Po (NIL)		601	CoWx	M0 V M1 V	0	(A64+3)	[577C]	BD	12	720
+Spin	K	2425	Gandr	E000475-8	 	      As Va Ni 		103	CoWx	M1 V	-3	(830-1)	[8189]	B	9	-24
+Spin	K	2426	Drolraw	EAB6300-9	 	     Fl Lo 		904	CoWx	F1 V	-2	(920+1)	[1148]	B	12	18
+Spin	D	2509	Paya	A655210-9	N 	     Ga Lo 		603	CoWx	F3 V	0	(710-1)	[5236]	B	14	-7
+Spin	D	2510	Dhian	C9A768B-8	 	    Da  Fl Ni 	A	202	CoWx	K5 V	-2	(A54+1)	[645A]	B	13	200
+Spin	H	2512	Kinorb	C549476-9	 	     Ni 		302	CoWx	F0 V K9 V	-1	(835+3)	[1377]	B	14	360
+Spin	H	2514	Gileden	C58317B-5	 	     Lo 		203	CoWx	M1 V	-2	(300+1)	[1146]	B	13	3
+Spin	H	2519	Pannet	E9C5676-9	 	     Fl Ni 		124	CoWx	K5 V	-2	(E50+4)	[6464]	B	11	280
+Spin	H	2520	Garrincski	B632559-8	S	     Ni Px Po 		210	CoWx	M0 V M7 V	-1	(844-4)	[2478]	B	9	-512
+Spin	L	2521	Heroni	B644945-8	 	    Pz  Hi In (NIL)	A	821	CoWx	F3 V	2	(E87+2)	[CB39]	BE	14	1568
+Spin	L	2523	Byret	B58579A-6	 	      (Larianz)  Ag Ri 		112	CoWx	G9 V	2	(868-5)	[9919]	BC	7	-1920
+Spin	L	2527	Pimane	E500343-7	 	     Lo Va 		903	CoWx	K0 V	-3	(520-1)	[8158]	B	10	-10
+Spin	P	2534	Burtson	C562446-9	 	     O:2733  Ni 		102	Wild	G4 V	-1	(A33+2)	[8359]	B	13	180
+Spin	P	2536	Squanine	A300455-B	 	     Ni Va 		903	Wild	F4 V M2 V	1	(A33-2)	[454B]	B	8	-180
+Spin	P	2537	Dobham	A550423-9	S	     De Ni Po 		423	Wild	G0 V	0	(B34+1)	[544A]	B	11	132
+Spin	P	2538	Pyramus	E566000-2	 	     Di 		014	Wild	K6 V	-3	(500-2)	[0000]	B	11	-10
+Spin	P	2539	Thisbe	E430415-6	 	    Da  De Ni Po 		822	Wild	F8 V	-3	(733+1)	[3123]	B	10	63
+Spin	P	2540	Aramis	B659798-6	 	      (NIL)		424	Wild	K5 V	0	(968-1)	[9714]	B	9	-432
+Spin	D	2602	Corfu	C895541-9	 	    An Da  Ag Ni 	A	922	CoWx	M0 V	0	(C46+1)	[451B]	BC	7	288
+Spin	D	2607	Focaline	EA88510-7	 	      Ag Pr Ni 		724	CoWx	F3 V	-2	(740+3)	[9353]	BcC	11	84
+Spin	H	2612	Macene	B00057B-D	N 	      As Va Ni 		101	CoWx	G8 V M8 V	1	(745+1)	[662D]	B	11	140
+Spin	H	2613	Fulacin	A674244-D	 	    An  Lo 		810	CoWx	G3 V	1	(511+1)	[135B]	B	12	5
+Spin	H	2620	Natoko	C8879C7-9	 	   An  Pz  Ga Hi Pr (NIL)	A	304	CoWx	F4 V	1	(F85-4)	[AA99]	BcE	9	-2400
+Spin	L	2621	Fosey	A633644-9	 	      Na Po Ni 		820	CoWx	M3 V	0	(A53+3)	[767B]	B	11	450
+Spin	L	2624	Mercury	B658673-8	NS	      Ag Ni 		104	CoWx	F7 V	1	(C53-3)	[6749]	BC	13	-540
+Spin	L	2627	Tivid	C534446-8	 	    Ni Px 		401	CoWx	M3 V	-2	(732+1)	[4254]	B	11	42
+Spin	P	2637	Robin	C000523-C	 	     Da  As Va Ni 		102	Wild	M2 V	0	(945+1)	[9559]	B	6	180
+Spin	P	2638	D'Mara	E75A777-5	 	     Wa (NIL)		410	Wild	F4 V	-2	(965-2)	[8562]	B	14	-540
+Spin	P	2639	Keltchner	X525000-9	 	    O:Troj-2402  Di 		002	Wild	K6 V	-2	(900+1)	[0000]	B	15	9
+Spin	D	2701	Lablon	B646552-B	 	     Ag Ni 		603	CoWx	M2 III M4 V	2	(A45+2)	[775C]	BC	14	400
+Spin	D	2706	Heguz	E66A276-9	 	     Lo Wa 		710	CoWx	K2 V M7 V	-2	(510-1)	[112A]	B	10	-5
+Spin	D	2708	Violante	C669443-9	 	     Ni 		420	CoWx	G2 V	-1	(831-5)	[332B]	B	10	-120
+Spin	H	2712	Risek	A425574-A	N 	     Ni 		501	CoWx	M2 V M3 V	1	(845+2)	[7619]	B	11	320
+Spin	H	2715	Porozlo	A867AB9-B	 	     Ga Hi (NIL)		201	CoWx	M1 V M9 V	3	(D9D-2)	[9D1C]	BE	11	-3042
+Spin	H	2716	Rhylanor	A43498A-F	NS	     Llel4  Hi (NIL)		610	CoWx	M2 V	4	(C8F+1)	[8D6G]	BEf	12	1440
+Spin	H	2720	Loneseda	C86A200-8	 	     Lo Wa 		805	CoWx	K9 V	-2	(910-1)	[6187]	B	14	-9
+Spin	L	2726	Carey	C579222-9	 	     Lo 		810	CoWx	M2 V M2 V	-1	(510+2)	[719C]	B	4	10
+Spin	L	2728	Duale	A543723-B	 	     Pz RsA  Pi Po (NIL)	A	201	CoWx	M0 V M2 V	2	(A69-1)	[9929]	BD	5	-540
+Spin	P	2731	Tussinian	B678300-8	 	     Lo 		420	CoWx	K0 V	-1	(720-2)	[524A]	B	7	-28
+Spin	P	2733	Edenelt	A5638CH-B	 	    Pz  Ph Ri (NIL)		534	Wild	G7 V	3	(H78-3)	[CB4D]	BCe	10	-2856
+Spin	P	2735	Conway	D894000-7	S	      Di 		011	Wild	F0 V M0 V	-3	(700-1)	[0000]	B	12	-7
+Spin	P	2739	Dodds	C5439DF-7	S	     Pz  Hi In Po (NIL)		223	Wild	G7 V	1	(B88-2)	[7A58]	BE	13	-1408
+Spin	H	2811	Valhalla	E56548A-5	 	     Ni Pa 		822	CoWx	G4 V	-3	(630-4)	[6119]	Bc	9	-72
+Spin	H	2812	Zivije	C6B1975-B	 	     Pz  Fl He Hi In (ENIL)	A	321	CoWx	G6 V	3	(E8C+1)	[7C48]	BE	11	1344
+Spin	H	2814	Jae Tellona	A560510-8	N 	      De Ni Pr 		713	CoWx	F9 V	-1	(B44+1)	[7467]	Bc	9	176
+Spin	H	2818	Gerome	X573000-0	 	    Fo  Ba 	R	001	CoWx	K2 V	-3	(200+1)	[0000]	B	11	2
+Spin	L	2824	Catuz	C420420-9	 	     Da  De He Ni Po 	A	710	CoWx	K8 V M6 V	-1	(732+1)	[235B]	B	5	42
+Spin	L	2827	Meleto	C675101-5	S	     Lo 		924	CoWx	F9 V	-2	(300+1)	[4154]	B	9	3
+Spin	L	2828	Hexos	B534311-8	N 	     Lo 		923	CoWx	K1 V M2 V	-1	(B20-3)	[3249]	B	10	-66
+Spin	L	2830	Pedase	C415344-7	S	     Ic Lo 		101	CoWx	M2 V M7 V	-2	(520+1)	[1149]	B	11	10
+Spin	P	2832	Leander	E695000-5	 	     Di 		001	Wild	K5 V M1 V	-3	(400+1)	[0000]	B	10	4
+Spin	P	2833	Pepernium	D567432-3	 	      Ni Pa 		903	Wild	M1 V	-3	(730-1)	[4174]	Bc	10	-21
+Spin	P	2834	Traltha	B590621-6	 	     An  De He Ni 		410	Wild	F5 V	-1	(853+4)	[5549]	B	8	480
+Spin	P	2839	Farquahar	E625000-7	T 	     Di 		001	Wild	M3 V	-3	(700-3)	[0000]	B	11	-21
+Spin	D	2905	Pavanne	E310000-0	 	     Ba 		025	CoWx	M0 V	-3	(200-3)	[0000]	B	12	-6
+Spin	D	2906	Carsten	C42747A-A	 	     Ni 		804	CoWx	M1 V	0	(A33-1)	[142F]	B	15	-90
+Spin	D	2908	Zila	E556779-7	 	    Pz  Ag (NIL)	A	601	CoWx	K6 V M3 V	-1	(967+5)	[6673]	BC	8	1890
+Spin	H	2912	Henoz	A545589-B	 	     Ag Ni 		924	CoWx	F3 V	2	(D45-3)	[2797]	BC	11	-780
+Spin	H	2913	Celepina	B434473-8	NS	     Ni 		301	CoWx	M2 V	0	(733-3)	[548C]	B	13	-189
+Spin	H	2918	Gitosy	B000678-9	 	      As Va Na Ni 		810	CoWx	G6 V M3 V	0	(954-1)	[664A]	B	6	-180
+Spin	L	2924	Moran	C567300-8	N 	     Lo 		301	CoWx	M3 V M7 V	-2	(620-1)	[1145]	B	10	-12
+Spin	L	2927	Maitz	A201454-C	 	      Ic Va Ni 		922	CoWx	F1 V	1	(B32+1)	[854H]	B	11	66
+Spin	L	2930	Mainz	C553375-9	S	     Lo Po 		803	CoWx	K2 V M7 V	-1	(820-3)	[4277]	B	11	-48
+Spin	P	2933	Raydrad	E994000-6	 	      Di 		003	Wild	M7 III M2 V	-3	(800+1)	[0000]	B	10	8
+Spin	P	2934	Zyra	X555000-7	 	      Di 		001	Wild	K8 V	-3	(600+4)	[0000]	B	7	24
+Spin	P	2935	Murchison	X544000-6	T 	      Di 		005	Wild	M5 III M3 V	-3	(600+1)	[0000]	B	8	6
+Spin	P	2936	Hammermium	E552000-B	 	    Da  Di Po 		035	Wild	M3 V	-1	(F00-1)	[0000]	B	11	-15
+Spin	P	2940	Thornnastor	D534473-8	S	     Ni 		404	Wild	M1 V	-3	(A30-3)	[3169]	B	12	-90
+Spin	D	3001	Jesedipere	D775000-7	 	    rg3  Di 		011	Wild	F4 V	-3	(500-2)	[0000]	B	12	-10
+Spin	D	3002	Yebab	C9A4875-8	 	    (Ebokin)  Fl Ph (ENIL)		612	CoWx	G9 V	-1	(D76-2)	[775A]	Be	10	-1092
+Spin	D	3003	Nasemin	B98A421-B	S	     Ni Wa 		612	CoWx	F5 V	1	(936+1)	[8539]	B	10	162
+Spin	D	3004	Zykoca	D99459D-6	 	    Da  Ag Ni 	A	120	CoWx	K9 V	-2	(740+2)	[2362]	BC	12	56
+Spin	D	3005	Aramanx	B657977-7	 	    Pz  Ga Hi (NIL)	A	110	CoWx	G0 V	1	(B89-1)	[BA78]	BE	13	-792
+Spin	D	3008	Pysadi	C576630-3	 	    Da  Ag Ni 	A	301	CoWx	F9 V M1 V	-1	(851-1)	[B558]	BC	8	-40
+Spin	D	3010	L'oeul d'Dieu	B98A576-B	N 	     Ni Pr Wa 		502	CoWx	G1 V M9 V	1	(947-2)	[7688]	Bc	6	-504
+Spin	H	3015	Belizo	B8956AC-5	 	    la3  Ag Ni 		823	CoWx	K1 V	0	(853-2)	[5656]	BC	11	-240
+Spin	H	3016	Kegena	E869433-3	 	     Da O:2716  Ni 	A	924	CoWx	F6 V	-3	(730-3)	[3151]	B	12	-63
+Spin	H	3017	Heroni	E7A0678-8	 	     He Ni 		620	CoWx	G5 V	-3	(A50+1)	[3348]	B	8	50
+Spin	H	3019	457-973	X572740-5	 	    Fo (minor)  He Pi (NIL)	R	334	CoWx	G9 V	-2	(964+1)	[9518]	BD	10	216
+Spin	H	3020	Somem	C301311-B	 	      Ic Va Lo 		201	CoWx	M2 V M7 V	0	(620+3)	[237B]	B	14	36
+Spin	L	3021	Brodie	C410432-7	 	    O:3124  Ni 		214	CoWx	M1 III M7 V	-2	(630-4)	[6235]	B	15	-72
+Spin	L	3022	Rorise	C994103-A	 	     Lo 		702	CoWx	M1 V	0	(500+3)	[113B]	B	8	15
+Spin	L	3024	Jokotre	B654877-5	 	    Pz  Pa Ph (NIL)	A	810	CoWx	K6 V	0	(A76+1)	[7863]	Bce	9	420
+Spin	L	3025	Fornice	A554ACC-C	 	     Hi (NIL)		202	CoWx	M0 V	3	(E98-4)	[CD1C]	BE	13	-4032
+Spin	L	3026	Grille	E410311-7	 	     Lo 		801	CoWx	M2 V M2 V	-3	(520+2)	[4152]	B	12	20
+Spin	L	3029	Palique	A5119B9-E	 	     Pz O:3025  Hi Ic Na In 	A	120	CoWx	M0 V M1 V	4	(D8A-2)	[BD4B]	BEf	5	-2080
+Spin	L	3030	Nexine	D97A000-8	T 	    (Nexxies)  Di Wa 		001	Wild	G9 V M2 V	-3	(700+3)	[0000]	B	12	21
+Spin	P	3032	Katarulu	B552645-B	NW	      Ni Po 		301	Wild	M0 V M9 V	2	(958+2)	[782C]	B	9	720
+Spin	P	3035	Prilissa	B985536-6	 	      Ag Pr Ni 		410	Wild	K4 V	0	(742-5)	[8545]	BcC	9	-280
+Spin	P	3038	Tee-Tee-Tee	D310000-9	 	     Di 		002	Wild	M2 V	-2	(900+1)	[0000]	B	7	9
+Spin	P	3039	Youghal	EA95000-B	 	     Di 		001	Wild	K3 V	-1	(600+2)	[0000]	B	14	12
+Spin	P	3040	Tenelphi	D76A000-9	S	      Di Wa 		001	Wild	F4 V M0 V	-2	(800-1)	[0000]	B	11	-8
+Spin	D	3102	Rugbird	DAC5000-A	 	    Da  Di Fl 		011	Wild	M1 V	-1	(A00+1)	[0000]	B	14	10
+Spin	D	3103	Towers	B544476-A	S	    Da  Ni Pa 	A	735	CoWx	G8 V K6 V	1	(E34-2)	[2549]	Bc	11	-336
+Spin	D	3104	Feneteman	C422200-C	 	     He Lo Po 		710	CoWx	G4 V M7 V	0	(510+1)	[2268]	B	4	5
+Spin	D	3107	Lewis	D427459-7	 	    Fo  Ni 	R	701	CoWx	F8 V	-3	(630+1)	[6147]	B	9	18
+Spin	D	3110	Aramis	A5A0597-A	NS	      He Ni 		710	CoWx	M2 V	2	(843+1)	[8716]	B	9	96
+Spin	H	3111	Vinorian	B879677-9	 	     Ni 		610	CoWx	M3 V M4 V	0	(951+2)	[6674]	B	13	90
+Spin	H	3112	Nutema	B864354-9	N 	     Lo 		822	CoWx	M3 V	0	(920-3)	[7387]	B	7	-54
+Spin	H	3114	Huderu	X575000-0	 	    Fo  Ba 	R	020	CoWx	M0 V	-3	(200-4)	[0000]	B	10	-8
+Spin	H	3118	Cipatwe	B55878A-6	 	     Ag (NIL)		423	CoWx	M1 V	1	(969-2)	[3847]	BC	12	-972
+Spin	H	3119	Vanejen	C686846-4	 	     Chir1 RsG  Ga Pa Ri Ph (NIL)		720	CoWx	G1 V M0 V	0	(A7B-3)	[5825]	BcCe	11	-2310
+Spin	L	3123	Nadrin	D420200-7	S	      De He Lo Po 		720	CoWx	K5 V M1 V	-3	(410-1)	[516B]	B	15	-4
+Spin	L	3124	Mora	AA999A5-D	NS	      Hi In (NIL)		912	CoWx	F0 V	5	(F8F-5)	[6E7D]	BEf	9	-9000
+Spin	P	3138	Zephyr	E895000-5	 	     Da O:3235  Di 		004	Wild	K5 V	-3	(700-2)	[0000]	B	9	-14
+Spin	P	3139	Chamois	D544000-5	T 	      Di 		023	Wild	F9 V	-3	(800-3)	[0000]	B	8	-24
+Spin	D	3202	Junidy	B434957-A	W	    Pz (Llellewyloly)5  Hi (NIL)		910	Wild	F7 V M2 V	4	(D8C+1)	[8D4B]	BEf	14	1248
+Spin	D	3207	Patinir	C000642-9	 	     An  As Va Na Ni 		413	CoWx	F3 V	-1	(C52+2)	[8557]	B	15	240
+Spin	D	3209	Natoko	B582234-8	N 	     Lo 		601	CoWx	M2 V M6 V	-1	(510+2)	[5187]	B	14	10
+Spin	D	3210	Reacher	C9A8573-8	 	    Da  Fl Ni 	A	233	CoWx	G4 V	-2	(D42+1)	[8369]	B	12	104
+Spin	H	3212	Margesi	A576201-C	NS	     Lo 		820	CoWx	F0 V	2	(612-4)	[149C]	B	12	-48
+Spin	H	3216	Bevey	D42087A-8	S	       Pz  De He Na Pi Po Ph (NIL)	A	924	CoWx	F4 V	-2	(H73+1)	[668A]	BDe	9	357
+Spin	H	3218	Tacaxeb	C430434-B	 	     De Ni Po 		601	CoWx	A5 V M2 V	0	(734+3)	[542A]	B	10	252
+Spin	H	3220	Powaza	C787534-5	 	     O:3124  Ag Pr Ga Ni 		332	CoWx	K4 V M2 V	-1	(743-2)	[4476]	BcC	13	-168
+Spin	L	3223	Dojodo	C51237B-7	S	     Ic Lo 		710	CoWx	M0 V	-2	(520-1)	[4134]	B	14	-10
+Spin	L	3228	Fenl's Gren	C647325-9	 	    Da  Lo 	A	623	CoWx	K7 V	-1	(A20-1)	[3267]	B	12	-20
+Spin	P	3233	Ramiva	B310784-8	 	      Na Pi 		413	Wild	M3 V	0	(D6C-1)	[77A9]	BD	9	-936
+Spin	P	3235	Trin	A8947A9-B	NS	       Ag Pi (NIL)		701	Wild	G0 V	4	(D6E+3)	[8B37]	BCDf	8	3276
+Spin	P	3236	Hazel	C645676-5	 	    Pz  Ag Ni (NIL)		510	Wild	F1 V M3 V	-1	(954+1)	[B56A]	BC	14	180

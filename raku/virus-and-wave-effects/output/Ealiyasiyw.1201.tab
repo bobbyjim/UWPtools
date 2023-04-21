@@ -1,402 +1,402 @@
 Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
-Eali	A	0101	Oirlkho	X573440-0	 	    Ni 		610	AsSc	M2 V	-3	(733-2)	[6131]	B	10	-126
-Eali	A	0103	Aisaukh	X434000-6	 	    Di 		014	AsMw	M2 V	-3	(600-2)	[0000]	B	17	-12
-Eali	A	0104	Ftearya	X867577-2	 	  Ag Pr Ga Ni 	B	524	AsWc	G7 III D	-2	(741-2)	[1315]	BcC	16	-56
-Eali	A	0106	Yaiy'aho	X200000-A	 	   Di Va 		004	AsT9	K0 V	-1	(700+1)	[0000]	B	12	7
-Eali	A	0107	Eayuya	E575242-5	 	    Lo 		524	AsTv	K7 V	-3	(310-5)	[3151]	B	13	-15
-Eali	E	0113	Keiaoukhri	X310000-9	 	   Di Na 		000	AsWc	M3 V M7 V	-2	(800+1)	[0000]	B	7	8
-Eali	E	0114	Iywheiyel	X56A410-4	 	   Ni Wa 	B	503	AsWc	K1 V M7 V	-3	(630+1)	[7152]	B	10	18
-Eali	E	0115	Eaalkhel	X7B4000-D	 	   Di Fl 		010	AsWc	G2 V M0 V	-1	(800-1)	[0000]	B	11	-8
-Eali	E	0116	Hkauehirl	E765873-4	 	  Ga Pa Ri Ph (NIL)	B	700	AsT8	M1 V	-1	(A78-2)	[8773]	BcCe	9	-1120
-Eali	E	0119	Ikheaaw	X74A000-A	 	  Di Pi Wa (NIL)		004	AsWc	K4 V M2 V M1 V	-1	(D00-1)	[0000]	BD	13	-13
-Eali	I	0123	Yeltear	E56627C-7	 	    Lo 		704	AsWc	M9 III D	-3	(510-1)	[2172]	B	7	-5
-Eali	I	0124	Khaoworl	X310000-8	 	   Di Na 		034	AsVc	M0 V M1 V	-3	(F00+2)	[0000]	B	19	30
-Eali	I	0127	Khtewiyh	X7A5000-8	 	   Di Fl 		003	AsSc	M2 V M2 V	-3	(800-2)	[0000]	B	11	-16
-Eali	I	0130	Eawweaaw	X784310-5	 	    Lo 		213	AsT8	M7 II D	-3	(320+3)	[2127]	B	15	18
-Eali	M	0134	Eaeilr	X431000-6	 	   Di Po 		002	AsWc	K9 III D	-3	(300+2)	[0000]	B	8	6
-Eali	A	0201	Uirloikha	E578142-7	 	    Lo 		525	AsT6	K2 V	-3	(600+1)	[1149]	B	15	6
-Eali	A	0206	Tluakheaiy	D578555-4	 	   Ag Ni 		513	AsMw	G9 II	-2	(740-1)	[7348]	BC	10	-28
-Eali	A	0209	Oalrelyerl	E767424-7	 	  Ga Ni Pa 		204	AsVc	K0 V M7 V	-3	(630-2)	[7178]	Bc	14	-36
-Eali	A	0210	Eauioiwai	X56386F-3	 	   Ph Ri (NIL)		123	AsSc	K2 V	-1	(975-2)	[8743]	BCe	12	-630
-Eali	E	0213	Khteauwel	D6877BA-7	 	   Ag Ri Ga (NIL)		231	AsMw	K4 IV M9 V	0	(96A+1)	[6768]	BC	16	540
-Eali	E	0215	Aihaowkhtirl	X100000-7	 	   Di Va 		012	AsMw	M1 V	-3	(300-2)	[0000]	B	10	-6
-Eali	I	0221	Areaarleih	X633000-6	 	   Di Px Po 		024	AsSc	M2 V M2 V	-3	(600-1)	[0000]	B	15	-6
-Eali	I	0222	Hluahyahe	X526000-7	 	    Di 		003	AsT0	M2 V M5 V	-3	(300-1)	[0000]	B	11	-3
-Eali	I	0224	Eieyasoir	X697211-6	 	    Lo 		204	AsTv	M1 V M5 V M5 V	-3	(310-3)	[1134]	B	9	-9
-Eali	I	0227	Khaiheista	X542000-8	 	  Di He Pi Po (NIL)		001	AsVc	M2 V	-3	(B00+2)	[0000]	BD	6	22
-Eali	M	0231	Arlasye	E546757-8	 	    Ag Pi (NIL)		413	AsT7	M3 V	-1	(D68-3)	[966B]	BCD	14	-1872
-Eali	M	0233	Yawaaikh	X7A2000-C	 	   Di Fl He 		015	AsVc	M2 V	-1	(900+2)	[0000]	B	13	18
-Eali	M	0234	Htaoairlawi	X422000-B	 	  Di He Px Po 		004	AsMw	K3 V M1 V	-1	(B00+1)	[0000]	B	17	11
-Eali	M	0240	Failraiskea	X788479-6	 	   Ni Pa 	B	604	AsMw	F2 V	-3	(730+2)	[8185]	Bc	13	42
-Eali	A	0305	Oilrakhesaoh	X310000-B	 	    Di 		014	AsVc	M2 V	-1	(B00-3)	[0000]	B	17	-33
-Eali	A	0307	Yohiyalyo	X8B3000-A	 	  Di Fl Px 		004	AsMw	M1 V M8 V	-1	(A00-2)	[0000]	B	8	-20
-Eali	A	0309	Aweakhei	X7A5000-C	 	   Di Fl 		002	AsT9	K2 V	-1	(500-2)	[0000]	B	6	-10
-Eali	E	0311	Yeiyearailia	X100000-D	 	   Di Va 		004	AsMw	G6 V	-1	(900+3)	[0000]	B	15	27
-Eali	E	0318	Aulaiiyoileah	X310000-E	 	    Di 		024	AsT6	M1 V	-1	(D00-3)	[0000]	B	11	-39
-Eali	E	0320	Ftuiheaoel	X64A301-2	 	   Lo Wa 		704	AsSc	M3 V	-3	(420-2)	[3183]	B	14	-16
-Eali	I	0322	Oiaoilr	X000000-B	 	   As Va Di 		005	AsSc	K2 V	-1	(B00-5)	[0000]	B	14	-55
-Eali	M	0332	Yerlaiaie	X522000-7	 	  Di He Na Px Po 		005	AsTv	M2 V	-3	(800-4)	[0000]	B	16	-32
-Eali	A	0401	Yohiyalyo	X310000-A	 	    Di 		004	AsT3	K2 V	-1	(B00-1)	[0000]	B	11	-11
-Eali	A	0404	Kiryewola	X542440-6	 	  He Ni Po 		410	AsMw	G3 V M1 V	-3	(630+1)	[1124]	B	6	18
-Eali	A	0405	Yofteihya	X310000-C	 	   Di Na Pi 		000	AsTv	M0 V M2 V	-1	(900+2)	[0000]	BD	10	18
-Eali	A	0410	Yulyuaihyaoi	X531000-A	 	   Di Po 		000	AsMw	K9 V	-1	(300+1)	[0000]	B	9	3
-Eali	E	0414	Aliyaeakh	X424000-7	 	    Di 		000	AsT3	M1 V M8 V	-3	(500+4)	[0000]	B	7	20
-Eali	E	0416	Iyaleweawaooi	X310000-9	 	    Di 		003	AsMw	M5 III	-2	(600-1)	[0000]	B	9	-6
-Eali	E	0418	Teiih	X310000-8	 	   Di Na Pi 		013	AsWc	M3 V	-3	(D00+2)	[0000]	BD	14	26
-Eali	E	0419	Oukhheatrui	X310000-9	 	    Di 		024	AsSc	K4 V	-2	(C00-2)	[0000]	B	12	-24
-Eali	E	0420	Uieyuh	X84859B-5	 	   Ag Ni 	B	321	AsVc	K4 V	-2	(742-1)	[3366]	BC	8	-56
-Eali	I	0422	Aiwaueil	E666588-3	 	  Ag Pr Ga Ni 	B	300	AsMw	M0 V	-2	(744-2)	[1328]	BcC	8	-224
-Eali	I	0427	Eiwiilroah	X553133-3	 	   Lo Po 		504	AsVc	M3 V M8 V	-3	(500-2)	[1132]	B	12	-10
-Eali	I	0429	Ihhroeiyasas	X66A56D-1	 	  Ni Pr Wa 	B	313	AsTv	G2 V	-3	(740+2)	[5271]	Bc	14	56
-Eali	M	0431	O'hfyuiyw	X424000-B	 	    Di 		023	AsSc	G0 V	-1	(D00-2)	[0000]	B	16	-26
-Eali	M	0432	Auyashrakhew	X8B6000-A	 	   Di Fl 		002	AsMw	M2 V	-1	(800+1)	[0000]	B	10	8
-Eali	M	0437	Hyayelaa	X789423-5	 	    Ni 	B	203	AsVc	K0 V M3 V	-3	(630+2)	[114A]	B	8	36
-Eali	M	0439	Yoaokheah	D59A200-6	 	   Lo Wa 		203	AsTv	K0 V	-3	(310+4)	[1155]	B	16	12
-Eali	E	0511	Uawiywei	X772300-4	 	   He Lo 	B	624	AsMw	M1 V M7 V	-3	(420-3)	[4182]	B	13	-24
-Eali	E	0512	Eilriaiaus	X5748BC-3	 	   Pa Pi Ph (NIL)	B	723	AsSc	K1 V M0 V	-2	(A73+2)	[8677]	BcDe	13	420
-Eali	E	0513	Aokah	X574689-6	 	   Ag Ni 		600	AsMw	M0 II D	-2	(853-3)	[7424]	BC	12	-360
-Eali	E	0514	Altleaair	C561227-8	 	    Lo 		105	AsMw	K7 II D	-2	(810-3)	[1126]	B	13	-24
-Eali	E	0517	Hleaew	X531000-8	 	   Di Px Po 		021	AsVc	M3 V	-3	(A00+1)	[0000]	B	8	10
-Eali	E	0520	Uiheaail	X200000-E	 	  Di Na Pi Va 		014	AsSc	M1 V M5 V	-1	(E00+2)	[0000]	BD	13	28
-Eali	I	0522	Eaalrhteir	X100000-D	 	   Di Va 		000	AsSc	G8 V M2 V	-1	(500+1)	[0000]	B	8	5
-Eali	I	0523	Olrlauaai	X8C3000-B	 	   Di Fl (ENIL)		000	AsTv	M0 III	-1	(A00-3)	[0000]	B	9	-30
-Eali	I	0530	Eahyeai	X54367A-5	 	   Ni Po 	B	202	AsSc	K0 V	-3	(850-1)	[5357]	B	8	-40
-Eali	M	0540	Aiwtleal	X527000-B	 	   Di Pi (NIL)		014	AsVc	M2 V	-1	(E00+2)	[0000]	BD	10	28
-Eali	A	0603	Fiykhaseal	X692135-4	 	   He Lo 		412	AsT5	M2 V M5 V	-3	(600+4)	[3143]	B	12	24
-Eali	A	0605	Arlyasoi	C87A333-6	 	   Lo Wa 	B	200	AsTv	M1 V	-2	(520+1)	[6179]	B	7	10
-Eali	A	0607	Eaesyoalea	X8A8000-8	 	   Di Fl 		004	AsTv	G0 V	-3	(B00+1)	[0000]	B	15	11
-Eali	A	0608	Tyalhkehkaiiyw	X561530-1	 	   Ni Pr 	B	302	AsMw	M3 V	-3	(740+4)	[4253]	Bc	12	112
-Eali	E	0611	Orlkheaala	B54167A-7	 	  He Ni Po 		402	AsWc	A2 V	-1	(855+4)	[2519]	B	12	800
-Eali	E	0620	Iyrkyalo	X100000-7	 	   Di Va 		000	AsWc	K1 V M6 V	-3	(700+1)	[0000]	B	9	7
-Eali	I	0622	Ktoeiliyi	X100000-9	 	  Di Na Va 		004	AsVc	G1 V	-2	(C00+1)	[0000]	B	11	12
-Eali	I	0625	Eiriktakhha	D88A451-6	 	   Ni Wa 		313	AsMw	M5 II	-3	(631+1)	[314B]	B	14	18
-Eali	I	0627	Irii	X423000-9	 	   Di Na Px Po 		012	AsVc	M2 V M7 V	-2	(B00+2)	[0000]	B	6	22
-Eali	I	0629	Eoaoluu'hi'ye	DA8A330-7	 	   Lo Oc 		321	AsSc	K0 V	-3	(520-1)	[4189]	B	11	-10
-Eali	I	0630	Khailraioil	X637000-7	 	    Di (NIL)		025	AsMw	M3 V	-3	(A00+3)	[0000]	B	15	30
-Eali	M	0635	Iyryakhye	E695405-6	 	   Ni Pa 		304	AsMw	K0 V M6 V	-3	(633-2)	[5147]	Bc	15	-108
-Eali	M	0638	Eaeleal	X537000-8	 	    Di (NIL)		003	AsTv	G1 V	-3	(C00+5)	[0000]	B	11	60
-Eali	M	0640	Eahouoire	X423000-9	 	   Di Po 		003	AsSc	M3 V M7 V	-2	(700+1)	[0000]	B	8	7
-Eali	A	0702	Arsalreal	X9B4000-A	 	   Di Fl 		002	AsTv	M1 V	-1	(600-4)	[0000]	B	8	-24
-Eali	A	0704	Tleiuiyah	D665420-7	 	  Ga Ni Pa 		404	AsSc	G8 IV M8 V	-3	(632+5)	[116B]	Bc	8	180
-Eali	A	0706	Oiahalha	X9C8000-A	 	   Di Fl 		004	AsTv	K6 V M1 V	-1	(700+1)	[0000]	B	13	7
-Eali	A	0707	Hoahtei	X544656-5	 	   Ag Ni 		303	AsTv	M2 V	-2	(850-4)	[6472]	BC	11	-160
-Eali	A	0708	Eira	C99A115-6	 	   Lo Wa 	B	604	AsVc	M0 V M0 V	-2	(500-1)	[1167]	B	12	-5
-Eali	A	0709	Asoiiyshkaul	E676213-7	 	    Lo 		804	AsVc	G3 II M4 V D	-3	(310+1)	[2159]	B	11	3
-Eali	E	0712	Kyoiluayahai	D89A6AA-8	 	   Ni Wa 		310	AsWc	M3 V	-3	(950-1)	[4347]	B	8	-45
-Eali	E	0719	Ailyuwftea	X100000-D	 	  Di Na Pi Va 		023	AsWc	K1 V	-1	(E00+1)	[0000]	BD	9	14
-Eali	I	0723	Aihhelo	X000000-8	 	   As Va Di 		024	AsMw	G2 II M3 V	-3	(D00+1)	[0000]	B	15	13
-Eali	I	0724	Khteiuilkyus	D547215-6	 	    Lo 		415	AsTv	K9 V M8 V	-3	(410+1)	[2115]	B	13	4
-Eali	I	0725	Eahaiael	X587754-5	 	    Ag Ri (NIL)	B	410	AsT2	K1 V	0	(968+2)	[5742]	BC	11	864
-Eali	I	0728	Yarkhyah	X423000-7	 	   Di Po 		002	AsMw	M1 V M8 V	-3	(500+1)	[0000]	B	14	5
-Eali	M	0731	Waaihais	X526000-9	 	    Di 		022	AsSc	M3 V	-2	(800-3)	[0000]	B	11	-24
-Eali	M	0732	Ktiyyarlkhtiy	X54766A-7	 	   Ag Ni 		812	AsMw	M6 III M8 V M5 V	-2	(850+2)	[442C]	BC	13	80
-Eali	M	0737	Yulaah	X584643-6	 	   Ag Ri Ni 		602	AsSc	M5 III	-1	(851-2)	[4578]	BC	9	-80
-Eali	M	0738	Ui'aeaesiy	X9D4000-C	 	    Di 		013	AsTv	M8 III	-1	(A00+4)	[0000]	B	13	40
-Eali	M	0739	Awwiyahkhyeh	E546221-2	 	    Lo 		110	AsVc	K3 V	-3	(410-1)	[2152]	B	9	-4
-Eali	A	0803	Aiyar	X759569-4	 	    Ni 	B	303	AsT7	M1 V M2 V	-3	(741-4)	[1255]	B	10	-112
-Eali	A	0805	Yaeioh	D65876C-8	 	    Ag (NIL)		500	AsTv	M0 V M3 V	-1	(96A-1)	[4658]	BC	9	-540
-Eali	A	0807	Akhwyahloarl	X664894-5	 	   Pa Ri Ph (NIL)	B	603	AsVc	G7 III	-1	(A74+2)	[4797]	BcCe	11	560
-Eali	E	0814	Tokhhkyoh	X531000-C	 	   Di Po 		003	AsT0	M2 V	-1	(900+2)	[0000]	B	14	18
-Eali	E	0816	Yaoaarl	D774885-7	 	   Pa Pi Ph (NIL)		605	AsTv	M1 V	-2	(A77+1)	[9666]	BcDe	13	490
-Eali	E	0817	Eshkoakh	X300000-7	 	   Di Va 		004	AsTv	M2 V M3 V	-3	(300+2)	[0000]	B	11	6
-Eali	E	0818	Yeyaoirti	E544786-8	 	    Ag 		115	AsSc	G8 V M5 V	-1	(E64+5)	[7678]	BC	9	1680
-Eali	E	0820	Eawea'ye	X554322-5	 	    Lo 		801	AsTv	M2 V	-3	(320-2)	[51A9]	B	9	-12
-Eali	I	0822	Kiaoeah	X558677-7	 	   Ag Ni 	B	713	AsT3	M3 V	-2	(851-1)	[8465]	BC	10	-40
-Eali	I	0827	Ealwealrtiw	D783899-8	 	   Ph Ri (NIL)	B	124	AsVc	M2 V	-1	(F73+1)	[B78B]	BCe	11	315
-Eali	I	0828	Aisaoaoeh	E776343-5	 	    Lo 		703	AsVc	A5 III M6 V	-3	(320+1)	[1176]	B	10	6
-Eali	M	0833	Uieahaa	X7778CC-6	 	   Pa Pi Ph (NIL)		503	AsT9	M0 V	-2	(A73-4)	[8654]	BcDe	15	-840
-Eali	M	0838	Liewsiywuiw	XAA6000-8	 	   Di Fl 		004	AsVc	M0 V M2 V	-3	(700-2)	[0000]	B	12	-14
-Eali	B	0902	Yurtoakhyeul	X666220-4	 	   Ga Lo 		613	AsMw	G3 V	-3	(310-3)	[1117]	B	13	-9
-Eali	B	0905	Kiyiloeie	X100000-C	 	  Di Na Va 		035	AsWc	K1 V	-1	(G00+2)	[0000]	B	15	32
-Eali	B	0907	Elrkhtiy'teal	X431000-9	 	   Di Px Po 		000	AsTv	G5 III M8 V	-2	(700+1)	[0000]	B	8	7
-Eali	B	0908	Uhirlaoaarl	E548779-8	 	    Ag Pi (NIL)		702	AsSc	G4 V M6 V	-1	(B6A+2)	[8646]	BCD	14	1320
-Eali	B	0909	Hrayes	X310000-D	 	    Di 		012	AsSc	M2 V	-1	(700-2)	[0000]	B	6	-14
-Eali	B	0910	Elauyo	X100000-A	 	  Di Na Pi Va 		024	AsTv	G0 V	-1	(F00+5)	[0000]	BD	16	75
-Eali	F	0911	Hla'ei	X55547A-1	 	   Ni Pa (NIL)	B	414	AsSc	M2 V	-3	(B31-3)	[7175]	Bc	15	-99
-Eali	F	0912	Iykhiyea	X663478-2	 	    Ni 	B	513	AsWc	M2 V	-3	(733+4)	[4165]	B	9	252
-Eali	F	0914	Khisktoeea	X100000-9	 	   Di Va 		004	AsTv	K5 V	-2	(900+1)	[0000]	B	13	9
-Eali	F	0915	Uahoar	X510000-7	 	   Di Na 		002	AsT5	G1 V M1 V	-3	(800+1)	[0000]	B	13	8
-Eali	F	0920	Hwuarloauilr	X200000-8	 	   Di Va 		004	AsTv	K1 V	-3	(700-1)	[0000]	B	17	-7
-Eali	J	0922	Heauahau	E543232-3	 	   Lo Po 		800	AsT3	M3 V	-3	(410+1)	[3144]	B	10	4
-Eali	J	0923	Ahtlisouiy	X676555-5	 	   Ag Ni 		212	AsSc	M0 V M1 V	-2	(740-2)	[9365]	BC	12	-56
-Eali	J	0924	Wayohuaar	X626000-E	 	    Di 		002	AsTv	K1 V M7 V	-1	(900-1)	[0000]	B	10	-9
-Eali	J	0926	Iwhrouiyer	X578420-6	 	   Ni Pa 		522	AsSc	K2 V	-3	(630+1)	[8185]	Bc	14	18
-Eali	J	0927	Ekhyoso	X75A175-6	 	   Lo Wa 		404	AsMw	K0 V M1 V	-3	(400+1)	[3165]	B	13	4
-Eali	N	0935	Uoiwkhtei	X8A6000-9	 	   Di Fl 		005	AsSc	K7 III	-2	(D00-1)	[0000]	B	14	-13
-Eali	N	0936	Hweiiyaukh	C56369B-8	 	   Ni Ri 		203	AsSc	M4 II	-1	(B52-3)	[658A]	BC	9	-330
-Eali	N	0937	Oiyeliy	X434000-9	 	    Di 		004	AsWc	M3 V	-2	(B00+3)	[0000]	B	13	33
-Eali	B	1002	Kha'alurl	X74856D-6	 	   Ag Ni 		402	AsWc	G1 V	-2	(742+1)	[4374]	BC	15	56
-Eali	B	1003	E'waiihtla	X100000-8	 	  Di Na Va 		010	AsT2	M3 V M4 V	-3	(900+1)	[0000]	B	11	9
-Eali	B	1004	Uaeaiyskah	X546400-2	 	   Ni Pa 		504	AsMw	M0 V M1 V	-3	(730+2)	[5183]	Bc	9	42
-Eali	B	1006	Airiyrlyu'	X422000-D	 	  Di He Na In Po (NIL)		023	AsSc	G0 V	0	(G00-1)	[0000]	BE	13	-16
-Eali	B	1007	Yohkui	X433000-6	 	   Di Na Po (NIL)		003	NaDr	M1 V	-3	(B00+1)	[0000]	B	10	11
-Eali	B	1008	Ewaos	EA76100-6	 	    Lo 		424	AsTv	K5 V	-3	(300+1)	[3165]	B	12	3
-Eali	B	1010	Ftaushioueilr	X56579B-5	 	    Ag Ri (NIL)		604	AsTv	M2 V	0	(96A+1)	[6774]	BC	13	540
-Eali	F	1012	Ohaiyu'o	X647420-1	 	   Ni Pa 	B	403	AsTv	M0 V	-3	(632+2)	[1181]	Bc	11	72
-Eali	F	1016	Laaisea	X8689CA-6	 	   Hi Pr (NIL)	B	523	AsTv	G2 V M9 V	-1	(B8A-4)	[7849]	BcE	15	-3520
-Eali	F	1017	Alausiy	E894441-4	 	   Ni Pa 	B	304	AsTv	M0 V M9 V	-3	(632-5)	[4128]	Bc	14	-180
-Eali	F	1019	Areaolrrealr	X665322-6	 	   Ga Lo 		602	AsT3	M1 V	-3	(620-2)	[4138]	B	13	-24
-Eali	J	1021	Feaaloaal	XAC5000-D	 	   Di Fl (ENIL)		003	AsT3	G1 V	-1	(C00+2)	[0000]	B	9	24
-Eali	J	1024	Oyo'au	X75888B-0	 	   Pa Ph (NIL)	B	211	AsMw	M0 V M2 V	-2	(A75+1)	[A631]	Bce	7	350
-Eali	J	1027	Keiilheirleah	X300000-8	 	   Di Va 		023	AsT0	M2 V	-3	(A00-2)	[0000]	B	14	-20
-Eali	N	1032	Ailaw	X423000-9	 	   Di Po 		003	AsMw	M0 V M8 V	-2	(600+1)	[0000]	B	12	6
-Eali	N	1036	Hreiwuieahea	X794124-4	 	    Lo 		712	AsTv	K5 V M2 V	-3	(500-3)	[6121]	B	15	-15
-Eali	B	1103	Erlhyuyeioia	E989577-7	 	   Ni Pr 	B	414	AsTv	K7 II	-3	(740-2)	[5278]	Bc	9	-56
-Eali	B	1104	Yoelkhaoaishle	X428000-8	 	    Di 		004	AsTv	M3 V	-3	(A00+3)	[0000]	B	11	30
-Eali	B	1106	A'kyehyoiw	B556277-6	 	    Lo 		104	AsTv	M0 V	-1	(610-2)	[3127]	B	11	-12
-Eali	F	1111	Khihaua	X869311-7	 	    Lo 		714	AsTv	M1 V M5 V	-3	(320+2)	[3176]	B	12	12
-Eali	F	1112	Ahhyoe	X535000-C	 	   Di Px 		004	AsSc	K4 V	-1	(900+3)	[0000]	B	11	27
-Eali	F	1118	Eakhta	X677210-4	 	    Lo (NIL)	B	803	AsTv	M1 V	-3	(C10+3)	[1161]	B	8	36
-Eali	J	1123	Ooioiha	X563302-6	 	    Lo 		703	AsTv	M1 V M2 V	-3	(420+4)	[315A]	B	8	32
-Eali	J	1124	Fteailel	E698130-6	 	    Lo 		513	AsT9	K1 V	-3	(400+1)	[1183]	B	12	4
-Eali	J	1126	Auyal	X684132-6	 	    Lo 		523	AsT0	K9 V	-3	(500+4)	[2151]	B	15	20
-Eali	N	1132	Eaiyhwoiw	X425000-7	 	    Di 		000	AsSc	M2 V	-3	(400-1)	[0000]	B	13	-4
-Eali	B	1210	Aulhahhfelaas	X421000-A	 	  Di He Po 		004	AsMw	F1 II D	-1	(800+1)	[0000]	B	14	8
-Eali	F	1212	Hkoikheaoha	X310000-9	 	    Di 		004	AsSc	M3 V	-2	(700-3)	[0000]	B	7	-21
-Eali	F	1218	Eawkta'a	E866568-6	 	  Ag Pr Ga Ni 		403	AsSc	M0 V	-2	(744+2)	[9314]	BcC	11	224
-Eali	F	1220	Syiauhktaorl	X782655-4	 	   Ni Ri 		713	AsWc	M0 V M0 V	-2	(852+1)	[8497]	BC	11	80
-Eali	J	1222	Oheise	X100000-B	 	  Di Na In Va 		004	AsT0	M2 V M3 V	0	(F00-1)	[0000]	BE	12	-15
-Eali	J	1226	Aooislaiheeiw	X100000-8	 	   Di Va 		004	AsMw	M1 V	-3	(700-2)	[0000]	B	11	-14
-Eali	J	1227	Eiheleiil	X6B3000-8	 	   Di Fl 		004	AsMw	M1 V M2 V	-3	(900+2)	[0000]	B	15	18
-Eali	J	1230	Eiiyeakh	X776122-6	 	    Lo 		800	AsTv	M1 V	-3	(500-2)	[1145]	B	5	-10
-Eali	N	1231	Oioulaalrhkas	X536000-9	 	    Di 		033	AsVc	K4 V M4 V	-2	(C00-1)	[0000]	B	14	-12
-Eali	N	1233	Yashtoh	C547413-8	 	   Ni Pa 		304	AsT6	K7 V M6 V	-2	(A32-4)	[5257]	Bc	13	-240
-Eali	N	1234	Reiyrl	X555534-3	 	   Ag Ni 	B	313	AsSc	M0 V M1 V	-2	(741+1)	[2311]	BC	9	28
-Eali	N	1235	Aoheweiaulr	E544756-8	 	    Ag Pi (NIL)		601	AsSc	K3 V	-1	(A65+1)	[767C]	BCD	10	300
-Eali	B	1301	Eayurlua'	X624000-7	 	   Di Px 		003	AsMw	M3 III M0 V	-3	(700+2)	[0000]	B	6	14
-Eali	B	1304	Khtoioirea	E688243-6	 	    Lo 		604	AsMw	K9 V M6 V	-3	(510+1)	[1134]	B	7	5
-Eali	B	1305	Iheaw	E662432-7	 	    Ni 		600	AsMw	G4 V M2 V	-3	(730-4)	[6137]	B	6	-84
-Eali	B	1307	Eliyeiryairl	X787255-4	 	   Ga Lo 		203	AsMw	M0 V M8 V	-3	(410+1)	[1175]	B	12	4
-Eali	B	1308	Kakhiw	X564736-4	 	    Ag Ri (NIL)	B	103	AsMw	F4 V	0	(963+1)	[7732]	BC	13	162
-Eali	F	1311	Esyah	X310000-E	 	   Di Na In 		004	AsSc	G1 V	0	(G00+1)	[0000]	BE	9	16
-Eali	F	1318	Iylarlyawsieae	D677654-7	 	   Ag Ni 		204	AsSc	M2 V M2 V	-2	(850+1)	[2415]	BC	16	40
-Eali	F	1319	Eaealearl	X423000-A	 	   Di Na Po 		014	AsVc	G3 V M2 V	-1	(D00-4)	[0000]	B	17	-52
-Eali	J	1323	Tohai	X56396C-3	 	   Hi Pr (NIL)	B	603	AsSc	M3 V M3 V	-1	(B88+4)	[D861]	BcE	15	2816
-Eali	J	1324	Aoliei	X310000-E	 	    Di 		012	AsMw	G3 V	-1	(900+5)	[0000]	B	14	45
-Eali	J	1330	Yorlelra	X68678A-6	 	   Ag Ri Ga (NIL)	B	902	AsMw	G3 V	0	(966+2)	[6747]	BC	9	648
-Eali	N	1332	Iwieiyeh	X433000-C	 	   Di Na Po 		004	AsTv	F2 V M5 V M9 V	-1	(C00+2)	[0000]	B	16	24
-Eali	N	1333	Ilyaw	X576100-3	 	    Lo 		902	AsTv	M2 V	-3	(300-2)	[2162]	B	6	-6
-Eali	N	1339	Yelwyoe	X535000-8	 	    Di 		013	AsWc	A0 V M6 V	-3	(A00+2)	[0000]	B	12	20
-Eali	B	1403	Erlfooa	X86A422-2	 	   Ni Wa 	B	402	NaAs	M2 V M9 V	-3	(630-4)	[2161]	B	8	-72
-Eali	B	1405	Ftiakhearoi	X100000-D	 	   Di Va 		010	AsMw	K4 V M4 V	-1	(700-3)	[0000]	B	7	-21
-Eali	B	1408	Eaarwilhkaw	X776000-3	 	    Di 		000	AsMw	M2 V	-3	(300+1)	[0000]	B	9	3
-Eali	B	1410	Yuulreiaoisi	X546765-4	 	    Ag (NIL)		102	AsTv	M2 V	-1	(962-3)	[4631]	BC	7	-324
-Eali	F	1412	Oirleea	X553446-0	 	   Ni Po 	B	205	AsWc	M1 V M2 V	-3	(633-2)	[5181]	B	11	-108
-Eali	F	1414	Eaeayaah	B658212-2	 	    Lo 	B	304	AsSc	M2 V	-1	(410+2)	[6192]	B	12	8
-Eali	F	1415	Aihktiyuahkhei	X300000-B	 	   Di Va 		013	AsSc	G3 V	-1	(B00+2)	[0000]	B	15	22
-Eali	F	1417	Sahkhaiyar	X100000-8	 	   Di Va 		000	AsMw	G6 V M9 V	-3	(400-1)	[0000]	B	12	-4
-Eali	J	1421	Ealalkhtair	E589200-4	 	    Lo 		804	AsT0	K3 V	-3	(310-5)	[3135]	B	14	-15
-Eali	J	1423	Ahorei	X100000-9	 	   Di Va 		004	AsSc	G1 V	-2	(A00+1)	[0000]	B	15	10
-Eali	J	1425	Kaheyu	X768223-4	 	    Lo 		913	AsMw	M1 V M2 V	-3	(310+1)	[4157]	B	14	3
-Eali	J	1426	Aalreae	X100000-7	 	   Di Va 		002	AsVc	M1 V M3 V	-3	(500-1)	[0000]	B	14	-5
-Eali	J	1428	Heaeaekh	X668300-5	 	    Lo 		103	AsWc	G9 V	-3	(320+2)	[5192]	B	11	12
-Eali	N	1432	Aeakhhaheal	X9A6000-8	 	   Di Fl 		032	AsVc	M1 V	-3	(D00-4)	[0000]	B	10	-52
-Eali	N	1440	Tluaayaai	X736000-7	 	    Di (NIL)		012	AsWc	K1 V	-3	(A00+1)	[0000]	B	8	10
-Eali	B	1501	Oarlhteisyel	XAA5000-8	 	   Di Fl 		023	NaAs	K3 IV M9 V	-3	(B00+3)	[0000]	B	14	33
-Eali	F	1511	Yorloai	E551477-6	 	   Ni Po 	B	504	AsMw	M2 V M7 V	-3	(632-3)	[1147]	B	13	-108
-Eali	F	1512	Aolraaaleahaw	X9C4000-9	 	   Di Fl 		024	AsMw	G0 V	-2	(E00-3)	[0000]	B	15	-42
-Eali	F	1517	Eyeolyoawtear	X687100-2	 	   Ga Lo 	B	913	AsTv	M8 III K7 V	-3	(500+3)	[4164]	B	11	15
-Eali	F	1519	Iwouhstayes	X310000-E	 	   Di Na 		000	AsVc	M1 V M2 V	-1	(800-2)	[0000]	B	9	-16
-Eali	J	1521	Iho	X59647C-8	 	   Ni Pa (NIL)		501	AsSc	M1 V	-3	(D30-2)	[7128]	Bc	10	-78
-Eali	J	1523	Taouirihfti	X7C5000-B	 	   Di Fl 		002	AsTv	M1 V	-1	(A00+2)	[0000]	B	12	20
-Eali	J	1525	Ilahaiha	X100000-D	 	   Di Va 		005	AsWc	M3 V	-1	(B00+2)	[0000]	B	9	22
-Eali	J	1526	Ekhyoaoiharha	X85A110-1	 	   Lo Wa 	B	724	AsSc	G5 IV	-3	(400+4)	[1185]	B	11	16
-Eali	J	1527	Iraisafeie	X8C3000-A	 	   Di Fl 		025	AsSc	G3 II D	-1	(B00+1)	[0000]	B	13	11
-Eali	J	1528	Khiyoea	X73A000-C	 	   Di Wa 		002	AsWc	M0 V	-1	(800-1)	[0000]	B	7	-8
-Eali	J	1530	Oulrasliyakh	C552300-4	 	   Lo Po 		701	AsSc	K1 V M6 V	-2	(520-5)	[6181]	B	12	-50
-Eali	N	1531	Aaleiwaor	E654135-5	 	    Lo 		304	AsTv	M1 V	-3	(300-1)	[1117]	B	12	-3
-Eali	N	1534	Isoa'khtui	X435000-A	 	   Di Px 		013	AsVc	K3 V	-1	(B00-4)	[0000]	B	12	-44
-Eali	N	1537	Iyshtea	E542668-4	 	  He Ni Po 		820	AsMw	M2 V	-3	(850+5)	[A344]	B	14	200
-Eali	B	1607	Tlaiauh	X200000-7	 	  Di Na Va 		004	AsT9	M0 V	-3	(800+1)	[0000]	B	13	8
-Eali	B	1608	Yowaoeeaei	X426000-8	 	    Di 		002	AsWc	F4 V	-3	(800+2)	[0000]	B	7	16
-Eali	F	1614	Aihoalr	X310000-8	 	   Di Na Pi 		005	AsVc	M2 V	-3	(F00+2)	[0000]	BD	11	30
-Eali	F	1617	Aoeilrau	X100000-D	 	  Di Na Va 		000	AsWc	K0 V	-1	(800+1)	[0000]	B	12	8
-Eali	F	1619	Khehoirl	X777158-4	 	    Lo 		714	AsMw	K0 V	-3	(500+3)	[6184]	B	13	15
-Eali	F	1620	Ahroaea	X534000-9	 	   Di Px 		014	AsVc	M5 III M5 V	-2	(D00+3)	[0000]	B	16	39
-Eali	J	1626	Iuiy'khtiy	X100000-A	 	   Di Va 		023	AsSc	F5 V M4 V	-1	(800-1)	[0000]	B	14	-8
-Eali	J	1627	Ftahaoh	X432000-C	 	   Di Na Px Po 		012	AsSc	G0 V	-1	(B00+1)	[0000]	B	11	11
-Eali	J	1630	Eilrhkeair	X576120-1	 	    Lo 		613	AsSc	K0 IV	-3	(400-2)	[2181]	B	10	-8
-Eali	N	1638	Awhosairlkhayo	X733000-9	 	   Di Na Po (NIL)		000	AsT3	M2 V	-2	(900-4)	[0000]	B	5	-36
-Eali	N	1640	Iyul	X434000-D	 	   Di Px 		023	AsTv	M2 V M7 V	-1	(C00+5)	[0000]	B	13	60
-Eali	C	1707	Fye'iyra	X778000-1	 	    Di (NIL)		022	AsVc	G1 V	-3	(C00-2)	[0000]	B	13	-24
-Eali	C	1710	Aeirlyekheal	XAB5000-8	 	  Di Fl Px 		014	AsVc	A8 V M1 V	-3	(A00-2)	[0000]	B	13	-20
-Eali	G	1713	Eaaoaies	X64466A-6	 	   Ag Ni (NIL)		300	AsMw	M2 V	-2	(A53-4)	[5456]	BC	10	-600
-Eali	G	1714	Sa'ioyesaiy	X310000-A	 	   Di Na Pi 		004	AsSc	G9 V	-1	(E00+3)	[0000]	BD	16	42
-Eali	G	1715	Oeakhisi	X9A4000-8	 	   Di Fl 		024	AsWc	K1 V M4 V	-3	(C00+1)	[0000]	B	10	12
-Eali	G	1716	Tuyoyaa	X9B4000-9	 	   Di Fl 		003	AsTv	M4 III	-2	(B00-2)	[0000]	B	14	-22
-Eali	G	1720	Oiweeakh	X688402-6	 	   Ni Pa 	B	213	AsVc	K1 V	-3	(630+1)	[1155]	Bc	11	18
-Eali	K	1721	Yorlkar	X9D8000-7	 	    Di 		012	AsMw	M4 II	-3	(600+1)	[0000]	B	8	6
-Eali	K	1727	Osahkhteasoa	X439000-8	 	    Di 		004	AsSc	M5 III D	-3	(800-4)	[0000]	B	17	-32
-Eali	K	1728	Khieaohau	D785767-8	 	   Ag Ri Ga (NIL)		802	AsSc	M1 V M3 V M2 V	0	(B68-3)	[373D]	BC	10	-1584
-Eali	K	1729	Oiah	X63A000-B	 	   Di Wa 		023	AsSc	M0 V	-1	(900-3)	[0000]	B	16	-27
-Eali	O	1731	Yewaeaiis	X535000-7	 	   Di Px 		014	AsMw	K3 V M9 V	-3	(700+1)	[0000]	B	18	7
-Eali	O	1732	Arlauos	X889422-5	 	    Ni 	B	215	AsSc	K0 V M5 V	-3	(630-3)	[7134]	B	14	-54
-Eali	O	1734	Oi'a'hea	X554120-3	 	    Lo 		804	AsT8	G8 V M5 V	-3	(500+4)	[2151]	B	9	20
-Eali	O	1735	Yuaieh	X625000-7	 	    Di 		003	AsSc	M8 II	-3	(400+2)	[0000]	B	12	8
-Eali	O	1739	Uiraouaiih	X643146-1	 	   Lo Po 	B	921	AsVc	M1 V	-3	(500-2)	[1162]	B	13	-10
-Eali	C	1802	Khtektouh	XA9A122-4	 	   Lo Oc (NIL)	B	300	AsT4	K6 II	-3	(B00-1)	[1155]	B	6	-11
-Eali	C	1808	Oioayusoah	E86A557-5	 	  Ni Pr Wa 	B	503	AsTv	M3 V	-3	(741+1)	[A258]	Bc	15	28
-Eali	G	1812	Eihkho	X310000-A	 	   Di Na Pi 		014	AsMw	G4 V	-1	(F00+2)	[0000]	BD	14	30
-Eali	G	1814	Eauiwea	X8D3000-3	 	    Di (NIL)		013	AsMw	M0 V M3 V	-3	(900-5)	[0000]	B	13	-45
-Eali	G	1815	Ilkaao	X7B4000-E	 	  Di Fl Px 		003	AsMw	M1 V	-1	(900+3)	[0000]	B	15	27
-Eali	G	1819	Ealhalria	X436000-B	 	    Di 		000	AsSc	K5 V	-1	(400+4)	[0000]	B	5	16
-Eali	G	1820	Eihiouhftei	D541310-7	 	  He Lo Po 		413	AsSc	G4 V	-3	(420+1)	[3113]	B	12	8
-Eali	K	1821	Htaistea	X100000-D	 	  Di Na In Va 		004	AsSc	K4 V M3 V	0	(F00+1)	[0000]	BE	9	15
-Eali	K	1823	Htiah	XA79668-7	 	    Ni (NIL)	B	905	AsSc	M2 V	-3	(C51-2)	[9356]	B	16	-120
-Eali	K	1824	Iyskyar	X546775-5	 	    Ag Pi (NIL)	B	803	AsVc	M0 V	-1	(965+1)	[7657]	BCD	11	270
-Eali	K	1825	Yulriyyew	X528000-B	 	    Di 		001	AsT5	K4 V M1 V	-1	(900+5)	[0000]	B	7	45
-Eali	K	1828	Khtaoiwe	X425000-8	 	   Di Pi (NIL)		014	AsTv	M1 V M8 V	-3	(E00+1)	[0000]	BD	13	14
-Eali	O	1836	Erliyil	X561000-3	 	    Di 		001	AsVc	M3 V M8 V	-3	(300-3)	[0000]	B	10	-9
-Eali	O	1839	Eawhtuikhoah	XAC5000-9	 	   Di Fl (ENIL)		003	AsT0	M0 V M1 V	-2	(D00+1)	[0000]	B	11	13
-Eali	C	1904	Iouiiylus	X544725-5	 	    Ag 	B	102	AsVc	M0 V	-1	(86B-1)	[6696]	BC	9	-528
-Eali	C	1908	Yahaualiwilal	X635000-A	 	    Di 		000	AsVc	M1 V	-1	(300+3)	[0000]	B	3	9
-Eali	G	1911	Aorlailakh	X310000-A	 	    Di 		034	AsMw	K1 V	-1	(C00-1)	[0000]	B	13	-12
-Eali	G	1912	Kilrya	X310000-C	 	   Di Na In 		003	AsSc	M0 V M8 V	0	(E00+1)	[0000]	BE	7	14
-Eali	G	1914	Eahheilr	X787376-6	 	   Ga Lo 		203	AsSc	K5 V M1 V	-3	(320-2)	[618A]	B	10	-12
-Eali	G	1915	Yowtlol	E968200-6	 	    Lo 	B	700	AsTv	M3 V	-3	(310-3)	[4146]	B	6	-9
-Eali	G	1916	Iiyraw	E564345-7	 	    Lo 		904	AsVc	A3 V M7 V	-3	(420+2)	[4144]	B	9	16
-Eali	G	1919	Yeshleao	E977330-7	 	    Lo 		904	AsSc	K2 V M1 V	-3	(320-3)	[7198]	B	14	-18
-Eali	K	1922	Ftairlya	D545757-8	 	    Ag Pi (NIL)		220	AsVc	M2 V	-1	(B68-1)	[7646]	BCD	10	-528
-Eali	K	1923	Yoweaserl	X100000-B	 	  Di Na In Va 		015	AsSc	K2 V	0	(J00+4)	[0000]	BE	14	72
-Eali	K	1926	Khiewriaar	E576441-7	 	   Ni Pa 		321	AsT9	K6 V	-3	(631-1)	[3165]	Bc	12	-18
-Eali	K	1927	Htyeiylra	X434000-A	 	    Di 		034	AsSc	M3 V	-1	(F00-4)	[0000]	B	12	-60
-Eali	O	1933	Eauale	X9D5000-6	 	    Di 		010	AsSc	K0 V M1 V	-3	(400+3)	[0000]	B	9	12
-Eali	O	1937	A'akheiiylhwiy	XAA7000-8	 	   Di Fl 		013	AsT0	G5 V	-3	(700-3)	[0000]	B	7	-21
-Eali	O	1938	Hlaliyiaol	X7A2000-C	 	   Di Fl He 		000	AsT7	M1 V M2 V	-1	(700-3)	[0000]	B	5	-21
-Eali	G	2014	Eiskhteaoulr	X575232-6	 	    Lo 		402	AsTv	K5 V	-3	(510+2)	[4156]	B	7	10
-Eali	K	2025	Ihaaeaus	X587233-6	 	    Lo 		503	AsMw	M3 V	-3	(610+1)	[3133]	B	11	6
-Eali	O	2034	Iylareakh	X435000-A	 	    Di 		023	AsVc	K5 V M7 V M0 V	-1	(A00+1)	[0000]	B	14	10
-Eali	O	2038	Khaoeikh	E577322-5	 	    Lo 		804	AsT0	G7 IV	-3	(420+1)	[1155]	B	13	8
-Eali	C	2101	Aorlkaakh	X422000-7	 	  Di He Po 		003	NaAs	M1 V M9 V	-3	(600+3)	[0000]	B	10	18
-Eali	G	2111	Tiaiarle	X310000-E	 	    Di 		033	AsMw	M2 V M7 V	-1	(A00+2)	[0000]	B	18	20
-Eali	G	2113	Iweil	X551777-3	 	    Po (NIL)	B	500	AsVc	K3 V	-2	(961-1)	[A544]	B	10	-54
-Eali	G	2114	Sekhtai	E55A76B-5	 	    Wa (NIL)	B	601	AsTv	G2 V	-2	(B65+1)	[C587]	B	12	330
-Eali	G	2117	Ftalea	D571778-7	 	   He Pi (NIL)		713	AsSc	M1 V M3 V	-2	(A62-3)	[A554]	BD	15	-360
-Eali	G	2118	Aolaiaw	X634000-6	 	   Di Px 		003	AsMw	M2 V	-3	(700+1)	[0000]	B	14	7
-Eali	K	2122	Khaiheiiyaul	X526000-C	 	    Di 		023	AsT9	M2 V	-1	(B00+2)	[0000]	B	15	22
-Eali	O	2131	Eahtawa	X8C6000-9	 	   Di Fl 		022	AsTv	K3 V M7 V	-2	(B00-2)	[0000]	B	12	-22
-Eali	O	2132	Oawyeoaiya	X436000-E	 	    Di 		013	AsMw	F1 V	-1	(C00+1)	[0000]	B	11	12
-Eali	O	2135	Ftakhyues	X545378-3	 	    Lo 		704	AsSc	K5 V	-3	(420+5)	[6161]	B	13	40
-Eali	O	2136	Khaaur	X433000-B	 	   Di Na Po 		003	AsVc	M0 V	-1	(B00-3)	[0000]	B	12	-33
-Eali	C	2205	Akhuaao	X5A0000-8	 	   Di He 		023	NaAs	G4 V M9 V	-3	(D00+1)	[0000]	B	16	13
-Eali	G	2213	Khaahktya	D6597CA-5	 	     (NIL)		524	AsMw	K3 V	-2	(968+2)	[4583]	B	14	864
-Eali	G	2214	Ilreakh	D572568-4	 	   He Ni 		511	AsT2	M0 V	-3	(740+2)	[4283]	B	14	56
-Eali	K	2221	Tehyo	X421000-C	 	  Di He Na In Po (NIL)		000	AsSc	K3 V	0	(C00+1)	[0000]	BE	7	12
-Eali	K	2222	Okhayehauoil	X563186-5	 	    Lo 		904	AsSc	M0 V M1 V	-3	(500+1)	[6151]	B	11	5
-Eali	K	2224	Uarla	X555243-3	 	    Lo 	B	812	AsT3	M0 V	-3	(610-4)	[1131]	B	6	-24
-Eali	K	2225	Aoseie'	X100000-7	 	  Di Na In Va 		004	AsSc	M0 V	-2	(B00-1)	[0000]	BE	12	-11
-Eali	O	2232	Iskhais	E685779-8	 	   Ag Ri Ga (NIL)	B	212	AsWc	K2 V	0	(C66+2)	[8765]	BC	9	864
-Eali	O	2234	Awaeah	X423000-D	 	   Di Po 		012	AsVc	M2 V	-1	(600-3)	[0000]	B	7	-18
-Eali	O	2235	Tourlae	D674756-7	 	    Ag Pi (NIL)	B	223	AsTv	M1 V	-1	(967-4)	[5634]	BCD	11	-1512
-Eali	C	2301	Fteielria	XAB7000-8	 	   Di Fl 		000	NaAs	G0 V M1 V	-3	(800-5)	[0000]	B	8	-40
-Eali	C	2308	Khouleal	D65A574-8	 	   Ni Wa 		202	AsMw	M0 V	-3	(940-2)	[6258]	B	13	-72
-Eali	G	2312	Yo'aosoi	X8A5000-8	 	  Di Fl Px 		014	AsMw	K7 V	-3	(B00+3)	[0000]	B	17	33
-Eali	G	2314	Yoliyeirlalr	X200000-A	 	  Di Na Pi Va 		004	AsMw	A3 V	-1	(E00-2)	[0000]	BD	11	-28
-Eali	G	2320	Iraois	D554477-4	 	   Ni Pa 		211	AsSc	G3 V M0 V	-3	(630+1)	[5154]	Bc	8	18
-Eali	K	2323	Yewehhar	X645424-1	 	   Ni Pa 	B	304	AsTv	M2 V M7 V	-3	(633+1)	[1163]	Bc	12	54
-Eali	K	2326	Fearah	X99A768-5	 	   Pi Wa (NIL)	B	202	AsSc	G6 IV M7 V	-2	(C62-1)	[C531]	BD	12	-144
-Eali	K	2327	Eiyehei	C558475-5	 	   Ni Pa 		502	AsMw	K3 V M1 V	-2	(631+1)	[4215]	Bc	14	18
-Eali	K	2329	Hlyeiyuikiy	X855876-4	 	  Ga Pa Ph (NIL)	B	202	AsWc	M1 V	-2	(A76+2)	[5615]	Bce	14	840
-Eali	O	2333	Iyrlelas	X432000-6	 	   Di Na Px Po 		004	AsMw	K1 V	-3	(800+3)	[0000]	B	12	24
-Eali	O	2340	Hkeauas	X582333-6	 	    Lo 		512	AsSc	K3 V	-3	(520-3)	[4176]	B	10	-30
-Eali	C	2408	Ehiyliu	X65456C-2	 	   Ag Ni 		401	AsSc	K4 III M2 V D	-2	(743+3)	[8351]	BC	10	252
-Eali	C	2410	Htehis	X897531-3	 	   Ag Ni 	B	200	AsSc	G4 V	-2	(740+2)	[7395]	BC	11	56
-Eali	G	2412	Khyoaeia	X100000-C	 	   Di Va 		024	AsVc	M1 V	-1	(900+4)	[0000]	B	12	36
-Eali	G	2417	Erlourfeal	X87A151-0	 	   Lo Wa 	B	520	AsVc	M2 V M4 V	-3	(300-2)	[1191]	B	10	-6
-Eali	K	2425	Yakyu	X58586F-4	 	   Pa Ri Ph (NIL)	B	900	AsSc	G6 V M7 V	-1	(B79-5)	[7716]	BcCe	8	-3465
-Eali	K	2430	Easai	E599110-3	 	    Lo 		902	AsMw	M0 V	-3	(300+4)	[1168]	B	6	12
-Eali	O	2432	Hoiew	C566247-7	 	    Lo 		801	AsSc	G4 II M8 V M7 V	-2	(510+1)	[1199]	B	8	5
-Eali	O	2433	Yeheais	E643713-5	 	    Po 	B	104	AsSc	M6 II M2 V	-2	(869-3)	[3575]	B	8	-1296
-Eali	D	2510	Hkeaei	X662200-5	 	    Lo 		612	AsWc	M2 V	-3	(610+2)	[1138]	B	12	12
-Eali	H	2514	Kewhalreh	X578749-6	 	    Ag Pi (NIL)	B	700	AsVc	A1 V M7 V	-1	(964+1)	[B641]	BCD	6	216
-Eali	H	2515	Ftehi	X866573-6	 	  Ag Pr Ga Ni 		303	AsTv	K3 V	-2	(742-2)	[1352]	BcC	14	-112
-Eali	L	2521	Eaoiryu'	X300000-7	 	   Di Va 		005	AsSc	G0 V M8 V	-3	(500-1)	[0000]	B	12	-5
-Eali	L	2522	Yaea	X100000-B	 	  Di Na Va 		011	AsMw	M2 V M9 V	-1	(A00+1)	[0000]	B	11	10
-Eali	L	2525	Ftiyloeal	X100000-9	 	  Di Na Pi Va 		014	AsT0	M3 V	-2	(E00+1)	[0000]	BD	12	14
-Eali	L	2526	Aealeilr	X100000-9	 	   Di Va 		014	AsSc	M1 V	-2	(C00+2)	[0000]	B	14	24
-Eali	P	2531	Ftiweayeha	X8A7000-8	 	   Di Fl (ENIL)		003	AsSc	A2 V	-3	(D00-5)	[0000]	B	11	-65
-Eali	P	2539	Yesuaouaeil	XAA5000-9	 	   Di Fl 		013	AsVc	K2 V	-2	(700+1)	[0000]	B	10	7
-Eali	D	2604	Ahetaowa	X535000-C	 	    Di 		003	NaAs	M2 V M3 V M4 V	-1	(A00-1)	[0000]	B	11	-10
-Eali	D	2605	Ftairai	X310000-7	 	   Di Na In 		000	NaAs	M3 V	-2	(B00-3)	[0000]	BE	6	-33
-Eali	D	2609	Iyaaahai	X7C2000-9	 	   Di Fl He 		005	AsT5	M7 III D	-2	(C00+1)	[0000]	B	13	12
-Eali	D	2610	Eaaileishryaor	XAD5000-B	 	    Di (NIL)		004	AsVc	M3 V	-1	(D00+2)	[0000]	B	10	26
-Eali	H	2612	Iwuaalr	X87A766-3	 	   Pi Wa (NIL)	B	924	AsTv	M3 V	-2	(A64-2)	[9521]	BD	17	-480
-Eali	L	2621	Awkhouas	X893678-3	 	    Ni 	B	604	AsVc	M1 V M9 V	-3	(851-1)	[8317]	B	13	-40
-Eali	L	2628	Uaahaoaouh	E582374-6	 	    Lo 		424	AsSc	K0 V M3 V	-3	(420-1)	[6157]	B	10	-8
-Eali	L	2630	Elrouwsoi	X8A7000-D	 	   Di Fl 		014	AsT5	G8 V M6 V	-1	(A00+2)	[0000]	B	12	20
-Eali	P	2631	Aisaoheiltlalr	X8C4000-9	 	   Di Fl (ENIL)		004	AsTv	M2 V	-2	(D00+4)	[0000]	B	12	52
-Eali	P	2638	Aihoairl	X576120-3	 	    Lo 		912	AsT4	G8 V	-3	(500-1)	[1155]	B	15	-5
-Eali	D	2704	Uailraul	E559630-4	 	    Ni 		803	NaAs	K0 V M3 V	-3	(852+1)	[5394]	B	12	80
-Eali	D	2710	Yooiwhi	X561232-3	 	    Lo 	B	722	AsTv	M2 V	-3	(510-5)	[1144]	B	7	-25
-Eali	H	2712	Alriyeaos	X649100-3	 	    Lo 		303	AsVc	M1 V	-3	(400-1)	[1161]	B	12	-4
-Eali	H	2714	Ileyawea	E788324-3	 	    Lo 	B	300	NaAs	M1 III	-3	(520-4)	[6112]	B	4	-40
-Eali	H	2720	Toaakhitleil	E554511-2	 	   Ag Ni (NIL)		204	NaAs	G2 V M4 V	-2	(B42+1)	[5372]	BC	10	88
-Eali	L	2721	Ftao	E576632-5	 	   Ag Ni (NIL)		804	NaAs	M0 V M3 V	-2	(B51-3)	[3456]	BC	11	-165
-Eali	L	2722	Hwalyaea	X310000-B	 	    Di 		003	AsVc	M2 V	-1	(900+5)	[0000]	B	12	45
-Eali	L	2723	Yelrtaieoah	X300000-9	 	   Di Va 		004	AsMw	K4 V	-2	(A00+5)	[0000]	B	12	50
-Eali	L	2725	Eatlei	X785998-8	 	  Ga Hi Pr (NIL)		603	AsSc	K1 V	-1	(E86+1)	[9847]	BcE	15	672
-Eali	L	2729	Ftalaoear	X5A0000-8	 	   Di He 		000	AsSc	M2 V	-3	(400-2)	[0000]	B	8	-8
-Eali	P	2732	Hkahaoralr	B776310-6	 	    Lo 		302	AsTv	M1 V	-1	(320+1)	[1256]	B	10	6
-Eali	P	2737	Eaweaiwya	E796774-7	 	    Ag Pi (NIL)	B	212	AsMw	M0 V	-1	(964+2)	[8647]	BCD	11	432
-Eali	P	2738	Eilehaiiyh	X434000-8	 	    Di 		023	AsMw	K5 V M9 V	-3	(800-3)	[0000]	B	9	-24
-Eali	P	2740	Ou'ao	E543457-6	 	   Ni Po 		610	AsWc	K4 V	-3	(732+5)	[4165]	B	11	210
-Eali	D	2807	Fterlyuhlye	X310000-7	 	   Di Na In 		024	NaAs	M0 V	-2	(C00-2)	[0000]	BE	10	-24
-Eali	D	2809	Eaheoil	X789178-2	 	    Lo 	B	912	AsMw	K1 V M1 V	-3	(500+2)	[3123]	B	14	10
-Eali	H	2814	Staoirheah	X9A4000-8	 	  Di Fl Px 		015	AsMw	M2 V	-3	(E00-3)	[0000]	B	13	-42
-Eali	H	2815	Yeeri	X100000-7	 	   Di Va 		003	NaAs	K6 V	-3	(400-3)	[0000]	B	10	-12
-Eali	H	2816	Iyyoeaw	E5577AB-1	 	    Ag (NIL)	B	915	NaAs	K4 V M3 V	-1	(963-1)	[7661]	BC	15	-162
-Eali	H	2817	Teawea	X536000-6	 	    Di 		013	IsDo	M2 V	-3	(700-2)	[0000]	B	14	-14
-Eali	H	2819	Aliywei	C997155-7	 	    Lo 		604	IsDo	G0 V	-2	(500+3)	[1195]	B	11	15
-Eali	L	2821	Ktaihei	X310000-9	 	   Di Na Pi 		004	IsDo	K3 V	-2	(E00-1)	[0000]	BD	12	-14
-Eali	L	2822	Auyuhsti	X433000-8	 	   Di Po 		001	IsDo	M2 V	-3	(600+1)	[0000]	B	9	6
-Eali	L	2823	Yalealhkirl	X100000-7	 	   Di Va 		003	IsDo	G4 V	-3	(600+1)	[0000]	B	7	6
-Eali	L	2826	Khaeaai	E687656-3	 	  Ag Ri Ga Ni 	B	714	NaAs	K7 V M9 V	-1	(855+1)	[3555]	BC	9	200
-Eali	L	2828	Ilekhahke	D967845-5	 	   Pa Ri Ph (NIL)	B	904	AsMw	G4 V	-1	(775-1)	[6772]	BcCe	11	-245
-Eali	L	2829	Khtiuarel	X431000-9	 	   Di Na Po (NIL)		004	AsTv	M7 III	-2	(E00+1)	[0000]	B	9	14
-Eali	P	2835	Awalea	X637000-7	 	    Di 		001	AsTv	M0 V	-3	(800+3)	[0000]	B	5	24
-Eali	P	2837	Hkase	E78A6A9-8	 	  Ni Ri Wa 		702	AsVc	K8 V	-2	(A52+1)	[746C]	BC	11	100
-Eali	P	2839	Fuaeihel	X559486-5	 	    Ni 		202	AsT6	K4 V	-3	(633+1)	[1168]	B	14	54
-Eali	D	2907	Ikhuaei	E786630-3	 	  Ag Ri Ga Ni 	B	204	NaAs	K1 III	-1	(852+3)	[9548]	BC	14	240
-Eali	D	2910	Tlelyeoa	X583721-5	 	    Ri (NIL)	B	713	AsT8	M0 V	-1	(964+3)	[6668]	BC	8	648
-Eali	H	2911	Eiea'yorl	X426000-A	 	    Di 		004	AsMw	G3 V M9 V	-1	(C00-4)	[0000]	B	13	-48
-Eali	H	2912	Youirlei	X668310-6	 	    Lo 		614	AsSc	M0 V	-3	(420+1)	[1177]	B	17	8
-Eali	H	2913	Ewae	E575647-7	 	   Ag Ni 		201	AsVc	K3 V	-2	(850+3)	[643C]	BC	4	120
-Eali	H	2919	Kaoeiwoas	X421000-7	 	  Di He Na Pi Po (NIL)		004	IsDo	M3 V	-3	(900-2)	[0000]	BD	13	-18
-Eali	L	2921	Eahhkaeas	X625000-7	 	    Di 		003	IsDo	M2 V M9 V	-3	(500+1)	[0000]	B	7	5
-Eali	L	2922	Uisewalwei	X556577-0	 	   Ag Ni 	B	203	IsDo	M0 V M4 V	-2	(743+4)	[4341]	BC	9	336
-Eali	L	2923	Erlaw	D644101-6	 	    Lo (NIL)		814	IsDo	K0 V M6 V M0 V	-3	(B00-2)	[1111]	B	12	-22
-Eali	L	2925	Kaouaiylr	E546745-5	 	    Ag Pi (NIL)	B	623	NaAs	K3 V M3 V	-1	(968+4)	[7647]	BCD	11	1728
-Eali	P	2932	Yesail	D5738A8-5	 	   Ph Pi (NIL)	B	214	AsTv	K3 V M4 V	-2	(A71-3)	[6665]	BDe	12	-210
-Eali	P	2935	Aiiyhhkoaw	X573445-5	 	    Ni 		314	AsT9	K6 II	-3	(632+2)	[2145]	B	12	72
-Eali	P	2937	Kiysahikhaa	X879273-0	 	   Lo Re 	B	102	AsT4	M3 V M9 V	-3	(510-3)	[6111]	B	13	-15
-Eali	D	3006	Ye'iyeah	E662313-3	 	    Lo 		313	NaAs	F1 V	-3	(420+1)	[5151]	B	17	8
-Eali	H	3011	Eiskaeah	X623000-9	 	   Di Po 		022	AsT4	M2 V M7 V	-2	(900-3)	[0000]	B	16	-27
-Eali	H	3013	Easyah	X432000-C	 	   Di Na Po 		014	AsWc	G4 V M7 V	-1	(D00+1)	[0000]	B	14	13
-Eali	H	3015	Hkaearlwi	X766101-2	 	   Ga Lo 	B	202	AsMw	M2 V	-3	(300+4)	[1142]	B	10	12
-Eali	H	3018	Iywyeilka	X556833-1	 	   Pa Ph (NIL)	B	121	IsDo	K5 V	-2	(974-2)	[B6A4]	Bce	14	-504
-Eali	H	3020	Earlaieah	X564132-1	 	    Lo 		523	IsDo	K3 IV	-3	(500+4)	[1163]	B	14	20
-Eali	L	3021	Hlaseuikh	X200000-8	 	   Di Va 		014	IsDo	G1 V	-3	(C00+5)	[0000]	B	17	60
-Eali	L	3023	Heiyyahe	X100000-7	 	  Di Re Va 		004	IsDo	M2 V M3 V	-3	(700-3)	[0000]	B	11	-21
-Eali	P	3031	Feaei	X437000-B	 	    Di 		001	AsMw	K0 V	-1	(900-4)	[0000]	B	7	-36
-Eali	P	3032	Tlealoikh	X8B3000-8	 	   Di Fl 		003	AsTv	K3 II M4 V D	-3	(A00+1)	[0000]	B	6	10
-Eali	P	3033	Eihoeyokhara	X553726-6	 	    Po (NIL)	B	522	AsVc	M0 V	-2	(962+2)	[9514]	B	12	216
-Eali	P	3035	Hkaoi'	E579303-8	 	    Lo 		103	AsMw	M0 V M1 V	-3	(720-3)	[1154]	B	11	-42
-Eali	P	3036	Fteirhai	X9AA000-9	 	   Di Fl 		002	AsVc	K1 V	-2	(700-1)	[0000]	B	6	-7
-Eali	D	3102	Brirvoy	X5666BA-1	 	   Ag Ri Ni 	B	521	NaXX	G7 V M6 V	-1	(855+4)	[7563]	BC	9	800
-Eali	D	3108	Kea'yaaie	X000000-7	 	   As Va Di 		003	NaAs	M3 V	-3	(600+3)	[0000]	B	9	18
-Eali	H	3111	A'yoeah	X435000-6	 	    Di 		002	AsMw	G1 V M9 V	-3	(400-1)	[0000]	B	11	-4
-Eali	L	3122	Yuoul	X6A1000-8	 	  Di Fl He Px 		002	IsDo	M2 V	-3	(900-3)	[0000]	B	6	-27
-Eali	L	3125	Ftalhkealiy	X77A242-3	 	   Lo Wa 		303	IsDo	G7 III M9 V	-3	(510+2)	[1143]	B	12	10
-Eali	P	3133	Eiwhwe	D674111-5	 	    Lo 		523	AsMw	K1 V M8 V M9 V	-3	(500+1)	[1139]	B	14	5
-Eali	P	3135	Tileaye'	X678473-0	 	   Ni Pa 	B	301	AsSc	K3 V M1 V	-3	(633+5)	[4161]	Bc	12	270
-Eali	D	3210	Leseaua	X988444-2	 	   Ni Pa 	B	213	AsMw	K4 V M8 V	-3	(630+2)	[4147]	Bc	13	36
-Eali	H	3211	Hlearli	XAB5000-E	 	   Di Fl 		004	AsTv	K1 IV	-1	(B00+1)	[0000]	B	12	11
-Eali	H	3212	Wulooil	X5847A8-2	 	    Ag Ri (NIL)	B	312	AsT0	K0 V M9 V	0	(969+3)	[A723]	BC	11	1458
-Eali	H	3216	Khaea	X9B4000-9	 	  Di Fl Px 		001	AsVc	K9 V M2 V	-2	(600-3)	[0000]	B	7	-18
-Eali	H	3220	Saihe	E548334-3	 	    Lo 	B	612	IsDo	M3 V M9 V	-3	(520+2)	[1185]	B	15	20
-Eali	L	3222	Ktaoleas	X9C7000-9	 	   Di Fl 		021	IsDo	M3 V	-2	(600+2)	[0000]	B	10	12
-Eali	L	3223	Syoyorlea	X000000-C	 	   As Va Di 		003	IsDo	G6 V	-1	(600+1)	[0000]	B	9	6
-Eali	L	3225	Keiiokh	E571200-2	 	   He Lo 		224	NaAs	K8 V	-3	(310+1)	[1142]	B	16	3
-Eali	L	3226	Uawahtaleih	X839000-7	 	    Di 		000	NaAs	A4 V K6 V	-3	(300+1)	[0000]	B	9	3
-Eali	P	3231	Khasuareir	X54467B-3	 	   Ag Ni 	B	323	AsVc	K1 V	-2	(851-1)	[6483]	BC	18	-40
-Eali	P	3235	Hlorliarl	X6797AE-4	 	    Pi (NIL)	B	815	AsTv	M2 V M7 V	-2	(965+2)	[7561]	BD	16	540
+Eali	A	0101	Oirlkho	X57356B-3	 	     Ni 	B	210	AsSc	M2 V	-3	(740+2)	[7252]	B	10	56
+Eali	A	0103	Aisaukh	X434000-6	 	    Fo  Di 		014	AsMw	M2 V	-3	(600+2)	[0000]	B	17	12
+Eali	A	0104	Ftearya	D867549-7	 	      Ag Pr Ga Ni 	B	524	AsWc	G7 III D	-2	(741-1)	[1373]	BcC	16	-28
+Eali	A	0106	Yaiy'aho	X200000-A	 	    O:Hlak-3105  Di Va 		004	AsT9	K0 V	-1	(700-1)	[0000]	B	12	-7
+Eali	A	0107	Eayuya	E575334-6	 	    O:0405  Lo 		424	AsTv	K7 V	-3	(320-1)	[2164]	B	13	-6
+Eali	E	0113	Keiaoukhri	X310000-9	 	    Da  Di Na 		000	AsWc	M3 V M7 V	-2	(800+1)	[0000]	B	7	8
+Eali	E	0114	Iywheiyel	X56A441-1	 	     Ni Wa 	B	403	AsWc	K1 V M7 V	-3	(630-2)	[4144]	B	10	-36
+Eali	E	0115	Eaalkhel	X7B4000-D	 	     Di Fl 		010	AsWc	G2 V M0 V	-1	(800+4)	[0000]	B	11	32
+Eali	E	0116	Hkauehirl	E76586F-3	 	     Pz  Ga Pa Ri Ph (NIL)	B	700	AsT8	M1 V	-1	(A74+1)	[8744]	BcCe	9	280
+Eali	E	0119	Ikheaaw	X74A897-5	 	   Pz  Ph Pi Wa (NIL)	B	204	AsWc	K4 V M2 V M1 V	-2	(974-4)	[A624]	BDe	13	-1008
+Eali	I	0123	Yeltear	E566200-4	 	     Lo 		604	AsWc	M9 III D	-3	(510-2)	[1154]	B	7	-10
+Eali	I	0124	Khaoworl	X310000-8	 	     Di Na 		034	AsVc	M0 V M1 V	-3	(F00+1)	[0000]	B	19	15
+Eali	I	0127	Khtewiyh	X7A5000-8	 	     Di Fl 		003	AsSc	M2 V M2 V	-3	(800+2)	[0000]	B	11	16
+Eali	I	0130	Eawweaaw	X784100-3	 	     Lo 	B	713	AsT8	M7 II D	-3	(300+3)	[1171]	B	15	9
+Eali	M	0134	Eaeilr	X431000-6	 	     Di Po 		002	AsWc	K9 III D	-3	(300-3)	[0000]	B	8	-9
+Eali	A	0201	Uirloikha	E578310-7	 	      Lo 		525	AsT6	K2 V	-3	(620-2)	[1155]	B	15	-24
+Eali	A	0206	Tluakheaiy	E578500-4	 	     Ag Ni 	B	513	AsMw	G9 II	-2	(741-2)	[1342]	BC	10	-56
+Eali	A	0209	Oalrelyerl	E767444-4	 	     Ga Ni Pa 		204	AsVc	K0 V M7 V	-3	(631-1)	[1154]	Bc	14	-18
+Eali	A	0210	Eauioiwai	X563843-5	 	   Chir3  Ph Ri (NIL)		123	AsSc	K2 V	-1	(972-1)	[B738]	BCe	12	-126
+Eali	E	0213	Khteauwel	D687754-9	 	      Ag Ri Ga (NIL)		231	AsMw	K4 IV M9 V	1	(D69-4)	[A84D]	BC	16	-2808
+Eali	E	0215	Aihaowkhtirl	X100000-7	 	     Di Va 		012	AsMw	M1 V	-3	(300-2)	[0000]	B	10	-6
+Eali	I	0221	Areaarleih	X633000-6	 	     Di Px Po 		024	AsSc	M2 V M2 V	-3	(600+1)	[0000]	B	15	6
+Eali	I	0222	Hluahyahe	X526000-7	 	    Fo  Di 		003	AsT0	M2 V M5 V	-3	(300-3)	[0000]	B	11	-9
+Eali	I	0224	Eieyasoir	X697133-3	 	    O:0523  Lo 		204	AsTv	M1 V M5 V M5 V	-3	(300+1)	[1151]	B	9	3
+Eali	I	0227	Khaiheista	X542354-5	 	      He Lo Po (NIL)		101	AsVc	M2 V	-3	(A20+2)	[2183]	B	6	40
+Eali	M	0231	Arlasye	E5467BB-8	 	     Pz  Ag Pi (NIL)		413	AsT7	M3 V	-1	(D68-3)	[9656]	BCD	14	-1872
+Eali	M	0233	Yawaaikh	X7A2000-C	 	     O:Hlak-3035  Di Fl He 		015	AsVc	M2 V	-1	(900+1)	[0000]	B	13	9
+Eali	M	0234	Htaoairlawi	X422000-B	 	     Di He Px Po 		004	AsMw	K3 V M1 V	-1	(B00+4)	[0000]	B	17	44
+Eali	M	0240	Failraiskea	X788405-3	 	      Ni Pa 	B	604	AsMw	F2 V	-3	(730-2)	[4172]	Bc	13	-42
+Eali	A	0305	Oilrakhesaoh	X310000-B	 	     Di 		014	AsVc	M2 V	-1	(B00+1)	[0000]	B	17	11
+Eali	A	0307	Yohiyalyo	X8B3000-A	 	    Di Fl Px 		004	AsMw	M1 V M8 V	-1	(A00-3)	[0000]	B	8	-30
+Eali	A	0309	Aweakhei	X7A5000-C	 	     Di Fl 		002	AsT9	K2 V	-1	(500+1)	[0000]	B	6	5
+Eali	E	0311	Yeiyearailia	X100000-D	 	    O:0213  Di Va 		004	AsMw	G6 V	-1	(900-1)	[0000]	B	15	-9
+Eali	E	0318	Aulaiiyoileah	X310000-E	 	     Di 		024	AsT6	M1 V	-1	(D00-2)	[0000]	B	11	-26
+Eali	E	0320	Ftuiheaoel	X64A112-2	 	    O:0520  Lo Wa 	B	404	AsSc	M3 V	-3	(400-2)	[1131]	B	14	-8
+Eali	I	0322	Oiaoilr	X000000-B	 	      As Va Di 		005	AsSc	K2 V	-1	(B00+2)	[0000]	B	14	22
+Eali	M	0332	Yerlaiaie	X522000-7	 	      Di He Na Px Po 		005	AsTv	M2 V	-3	(800+1)	[0000]	B	16	8
+Eali	A	0401	Yohiyalyo	X310000-A	 	     Di 		004	AsT3	K2 V	-1	(B00+3)	[0000]	B	11	33
+Eali	A	0404	Kiryewola	D542459-5	 	     He Ni Po 		410	AsMw	G3 V M1 V	-3	(631-1)	[5153]	B	6	-18
+Eali	A	0405	Yofteihya	X310000-C	 	    Pz  Di Na Pi 		000	AsTv	M0 V M2 V	-1	(900+4)	[0000]	BD	10	36
+Eali	A	0410	Yulyuaihyaoi	X531000-A	 	    O:0213  Di Po 		000	AsMw	K9 V	-1	(300-2)	[0000]	B	9	-6
+Eali	E	0414	Aliyaeakh	X424000-7	 	     Di 		000	AsT3	M1 V M8 V	-3	(500-4)	[0000]	B	7	-20
+Eali	E	0416	Iyaleweawaooi	X310000-9	 	    O:0213  Di 		003	AsMw	M5 III	-2	(600-2)	[0000]	B	9	-12
+Eali	E	0418	Teiih	X310000-8	 	     Di Na Pi 		013	AsWc	M3 V	-3	(D00+2)	[0000]	BD	14	26
+Eali	E	0419	Oukhheatrui	X310000-9	 	     Di 		024	AsSc	K4 V	-2	(C00+1)	[0000]	B	12	12
+Eali	E	0420	Uieyuh	X848501-5	 	     Ag Ni 		321	AsVc	K4 V	-2	(742+1)	[2374]	BC	8	56
+Eali	I	0422	Aiwaueil	X666512-3	 	     Da  Ag Pr Ga Ni 	B	300	AsMw	M0 V	-2	(742+1)	[9354]	BcC	8	56
+Eali	I	0427	Eiwiilroah	C553210-8	 	    O:0627  Lo Po 		204	AsVc	M3 V M8 V	-2	(910+2)	[1185]	B	12	18
+Eali	I	0429	Ihhroeiyasas	X66A568-4	 	     Ni Pr Wa 		413	AsTv	G2 V	-3	(740-3)	[4257]	Bc	14	-84
+Eali	M	0431	O'hfyuiyw	X424000-B	 	     Di 		023	AsSc	G0 V	-1	(D00+2)	[0000]	B	16	26
+Eali	M	0432	Auyashrakhew	X8B6000-A	 	     Di Fl 		002	AsMw	M2 V	-1	(800+1)	[0000]	B	10	8
+Eali	M	0437	Hyayelaa	X789400-4	 	     Ni 	B	203	AsVc	K0 V M3 V	-3	(630+1)	[2156]	B	8	18
+Eali	M	0439	Yoaokheah	D59A345-6	 	     Lo Wa 		103	AsTv	K0 V	-3	(320+1)	[3174]	B	16	6
+Eali	E	0511	Uawiywei	X772310-5	 	     He Lo 		924	AsMw	M1 V M7 V	-3	(420-1)	[3161]	B	13	-8
+Eali	E	0512	Eilriaiaus	X5748B9-5	 	      Pa Pi Ph (NIL)	B	723	AsSc	K1 V M0 V	-2	(A75-2)	[5616]	BcDe	13	-700
+Eali	E	0513	Aokah	X57466A-6	 	     Ag Ni 	B	600	AsMw	M0 II D	-2	(852+2)	[7497]	BC	12	160
+Eali	E	0514	Altleaair	X561100-4	 	    O:0513  Lo 		905	AsMw	K7 II D	-3	(300-1)	[5134]	B	13	-3
+Eali	E	0517	Hleaew	X531000-8	 	     Di Px Po 		021	AsVc	M3 V	-3	(A00+1)	[0000]	B	8	10
+Eali	E	0520	Uiheaail	X200000-E	 	     Di Na Pi Va 		014	AsSc	M1 V M5 V	-1	(E00+1)	[0000]	BD	13	14
+Eali	I	0522	Eaalrhteir	X100000-D	 	     Di Va 		000	AsSc	G8 V M2 V	-1	(500+1)	[0000]	B	8	5
+Eali	I	0523	Olrlauaai	X8C3000-B	 	     Di Fl (ENIL)		000	AsTv	M0 III	-1	(A00+4)	[0000]	B	9	40
+Eali	I	0530	Eahyeai	X543689-6	 	     Ni Po 		202	AsSc	K0 V	-3	(850+3)	[3346]	B	8	120
+Eali	M	0540	Aiwtleal	X527000-B	 	   Pz  Di Pi (NIL)		014	AsVc	M2 V	-1	(E00-3)	[0000]	BD	10	-42
+Eali	A	0603	Fiykhaseal	X692100-4	 	    Fo  He Lo 		912	AsT5	M2 V M5 V	-3	(600+1)	[5173]	B	12	6
+Eali	A	0605	Arlyasoi	X87A332-4	 	     Lo Wa 	B	100	AsTv	M1 V	-3	(520-3)	[3173]	B	7	-30
+Eali	A	0607	Eaesyoalea	X8A8000-8	 	    Da  Di Fl 		004	AsTv	G0 V	-3	(B00+3)	[0000]	B	15	33
+Eali	A	0608	Tyalhkehkaiiyw	X561568-3	 	     Ni Pr 		302	AsMw	M3 V	-3	(740+1)	[4266]	Bc	12	28
+Eali	E	0611	Orlkheaala	C541687-9	 	     He Ni Po 		502	AsWc	A2 V	-1	(A52-4)	[454E]	B	12	-400
+Eali	E	0620	Iyrkyalo	X100000-7	 	     Di Va 		000	AsWc	K1 V M6 V	-3	(700+1)	[0000]	B	9	7
+Eali	I	0622	Ktoeiliyi	X100000-9	 	     Di Na Va 		004	AsVc	G1 V	-2	(C00+1)	[0000]	B	11	12
+Eali	I	0625	Eiriktakhha	X88A476-2	 	     Ni Wa 	B	213	AsMw	M5 II	-3	(631+3)	[7171]	B	14	54
+Eali	I	0627	Irii	X423000-9	 	      Di Na Px Po 		012	AsVc	M2 V M7 V	-2	(B00-2)	[0000]	B	6	-22
+Eali	I	0629	Eoaoluu'hi'ye	DA8A154-8	 	     Lo Oc 		521	AsSc	K0 V	-3	(800-1)	[116C]	B	11	-8
+Eali	I	0630	Khailraioil	X637000-7	 	    Pz  Di (NIL)		025	AsMw	M3 V	-3	(A00+1)	[0000]	B	15	10
+Eali	M	0635	Iyryakhye	X695498-3	 	     Ni Pa 	B	304	AsMw	K0 V M6 V	-3	(630+4)	[3146]	Bc	15	72
+Eali	M	0638	Eaeleal	X537000-8	 	   Di Pz  (NIL)		003	AsTv	G1 V	-3	(C00-1)	[0000]	B	11	-12
+Eali	M	0640	Eahouoire	X423000-9	 	     Di Po 		003	AsSc	M3 V M7 V	-2	(700-1)	[0000]	B	8	-7
+Eali	A	0702	Arsalreal	X9B4000-A	 	    O:0805  Di Fl 		002	AsTv	M1 V	-1	(600+2)	[0000]	B	8	12
+Eali	A	0704	Tleiuiyah	X665478-2	 	     Ga Ni Pa 	B	304	AsSc	G8 IV M8 V	-3	(631+2)	[1191]	Bc	8	36
+Eali	A	0706	Oiahalha	X9C8000-A	 	    O:0805  Di Fl 		004	AsTv	K6 V M1 V	-1	(700+5)	[0000]	B	13	35
+Eali	A	0707	Hoahtei	X544644-6	 	     Ag Ni 		303	AsTv	M2 V	-2	(853+1)	[643A]	BC	11	120
+Eali	A	0708	Eira	D99A212-7	 	     Lo Wa 		404	AsVc	M0 V M0 V	-3	(510+5)	[3119]	B	12	25
+Eali	A	0709	Asoiiyshkaul	X676313-6	 	    O:0807  Lo 		204	AsVc	G3 II M4 V D	-3	(320+1)	[1183]	B	11	6
+Eali	E	0712	Kyoiluayahai	X89A678-7	 	    Da  Ni Wa 		310	AsWc	M3 V	-3	(851-4)	[539B]	B	8	-160
+Eali	E	0719	Ailyuwftea	X100000-D	 	    Pz  Di Na Pi Va 		023	AsWc	K1 V	-1	(E00+1)	[0000]	BD	9	14
+Eali	I	0723	Aihhelo	X000000-8	 	      As Va Di 		024	AsMw	G2 II M3 V	-3	(D00+1)	[0000]	B	15	13
+Eali	I	0724	Khteiuilkyus	D547376-6	 	     Lo 		415	AsTv	K9 V M8 V	-3	(420+5)	[4157]	B	13	40
+Eali	I	0725	Eahaiael	X5877C7-6	 	     Pz  Ag Ri (NIL)		410	AsT2	K1 V	0	(967-1)	[9736]	BC	11	-378
+Eali	I	0728	Yarkhyah	X423000-7	 	     Di Po 		002	AsMw	M1 V M8 V	-3	(500+2)	[0000]	B	14	10
+Eali	M	0731	Waaihais	X526000-9	 	     Di 		022	AsSc	M3 V	-2	(800-2)	[0000]	B	11	-16
+Eali	M	0732	Ktiyyarlkhtiy	X547667-3	 	     Ag Ni 	B	712	AsMw	M6 III M8 V M5 V	-2	(850+2)	[6461]	BC	13	80
+Eali	M	0737	Yulaah	X584699-6	 	      Ag Ri Ni 		602	AsSc	M5 III	-1	(850+2)	[A598]	BC	9	80
+Eali	M	0738	Ui'aeaesiy	X9D4000-C	 	    Da  Di 		013	AsTv	M8 III	-1	(A00-3)	[0000]	B	13	-30
+Eali	M	0739	Awwiyahkhyeh	X546332-2	 	    O:0540  Lo 		410	AsVc	K3 V	-3	(420+1)	[1173]	B	9	8
+Eali	A	0803	Aiyar	X75956A-5	 	     Ni 		303	AsT7	M1 V M2 V	-3	(740-3)	[326A]	B	10	-84
+Eali	A	0805	Yaeioh	D65876C-5	 	     Ag (NIL)	B	400	AsTv	M0 V M3 V	-1	(969-1)	[A645]	BC	9	-486
+Eali	A	0807	Akhwyahloarl	X66486D-7	 	     Pz  Pa Ri Ph (NIL)	B	603	AsVc	G7 III	-1	(A77-1)	[A75A]	BcCe	11	-490
+Eali	E	0814	Tokhhkyoh	X531000-C	 	     Di Po 		003	AsT0	M2 V	-1	(900-2)	[0000]	B	14	-18
+Eali	E	0816	Yaoaarl	C774875-5	 	      Pa Pi Ph (NIL)	B	505	AsTv	M1 V	-1	(A78+1)	[4718]	BcDe	13	560
+Eali	E	0817	Eshkoakh	X300000-7	 	    Fo O:1118  Di Va 		004	AsTv	M2 V M3 V	-3	(300-2)	[0000]	B	11	-6
+Eali	E	0818	Yeyaoirti	E54477C-8	 	      Ag 		115	AsSc	G8 V M5 V	-1	(E67-2)	[6638]	BC	9	-1176
+Eali	E	0820	Eawea'ye	X554220-2	 	    O:1118  Lo 		401	AsTv	M2 V	-3	(310+3)	[6145]	B	9	9
+Eali	I	0822	Kiaoeah	X55866C-3	 	     Ag Ni 	B	613	AsT3	M3 V	-2	(854+1)	[6447]	BC	10	160
+Eali	I	0827	Ealwealrtiw	X783768-5	 	    Pz  Ri (NIL)	B	924	AsVc	M2 V	-1	(966+1)	[7666]	BC	11	324
+Eali	I	0828	Aisaoaoeh	X776310-5	 	    O:0827  Lo 		303	AsVc	A5 III M6 V	-3	(320+1)	[3147]	B	10	6
+Eali	M	0833	Uieahaa	X7778BD-6	 	      Pa Pi Ph (NIL)	B	503	AsT9	M0 V	-2	(A75-3)	[A643]	BcDe	15	-1050
+Eali	M	0838	Liewsiywuiw	XAA6000-8	 	    O:0540  Di Fl 		004	AsVc	M0 V M2 V	-3	(700-1)	[0000]	B	12	-7
+Eali	B	0902	Yurtoakhyeul	X666300-6	 	    O:Verg-0640  Ga Lo 		813	AsMw	G3 V	-3	(320+1)	[6136]	B	13	6
+Eali	B	0905	Kiyiloeie	X100000-C	 	     Di Na Va 		035	AsWc	K1 V	-1	(G00-4)	[0000]	B	15	-64
+Eali	B	0907	Elrkhtiy'teal	X431000-9	 	     Di Px Po 		000	AsTv	G5 III M8 V	-2	(700+5)	[0000]	B	8	35
+Eali	B	0908	Uhirlaoaarl	D54876A-5	 	      Ag Pi (NIL)	B	702	AsSc	G4 V M6 V	-1	(965+3)	[7641]	BCD	14	810
+Eali	B	0909	Hrayes	X310000-D	 	     Di 		012	AsSc	M2 V	-1	(700+2)	[0000]	B	6	14
+Eali	B	0910	Elauyo	X100000-A	 	    Pz  Di Na Pi Va 		024	AsTv	G0 V	-1	(F00-1)	[0000]	BD	16	-15
+Eali	F	0911	Hla'ei	X555112-7	 	     Lo (NIL)		914	AsSc	M2 V	-3	(B00-5)	[115A]	B	15	-55
+Eali	F	0912	Iykhiyea	X663422-2	 	      Ni 	B	513	AsWc	M2 V	-3	(733+1)	[2157]	B	9	63
+Eali	F	0914	Khisktoeea	X100000-9	 	     Di Va 		004	AsTv	K5 V	-2	(900-3)	[0000]	B	13	-27
+Eali	F	0915	Uahoar	X510000-7	 	     Di Na 		002	AsT5	G1 V M1 V	-3	(800-3)	[0000]	B	13	-24
+Eali	F	0920	Hwuarloauilr	X200000-8	 	    O:1118  Di Va 		004	AsTv	K1 V	-3	(700+2)	[0000]	B	17	14
+Eali	J	0922	Heauahau	E543100-3	 	    O:1021  Lo Po 		500	AsT3	M3 V	-3	(400-2)	[1181]	B	10	-8
+Eali	J	0923	Ahtlisouiy	X676410-0	 	     Ni Pa 	B	612	AsSc	M0 V M1 V	-3	(730+1)	[5181]	Bc	12	21
+Eali	J	0924	Wayohuaar	X626000-E	 	     Di 		002	AsTv	K1 V M7 V	-1	(900-3)	[0000]	B	10	-27
+Eali	J	0926	Iwhrouiyer	X578446-5	 	     Ni Pa 		522	AsSc	K2 V	-3	(630-3)	[6138]	Bc	14	-54
+Eali	J	0927	Ekhyoso	E75A375-7	 	     Lo Wa 		304	AsMw	K0 V M1 V	-3	(420+1)	[2176]	B	13	8
+Eali	N	0935	Uoiwkhtei	X8A6000-9	 	     Di Fl 		005	AsSc	K7 III	-2	(D00-4)	[0000]	B	14	-52
+Eali	N	0936	Hweiiyaukh	X563568-5	 	     Ni Pr 		503	AsSc	M4 II	-3	(842+1)	[4255]	Bc	9	64
+Eali	N	0937	Oiyeliy	X434000-9	 	     Di 		004	AsWc	M3 V	-2	(B00+4)	[0000]	B	13	44
+Eali	B	1002	Kha'alurl	X748576-3	 	     Ag Ni 	B	302	AsWc	G1 V	-2	(742-1)	[2366]	BC	15	-56
+Eali	B	1003	E'waiihtla	X100000-8	 	     Di Na Va 		010	AsT2	M3 V M4 V	-3	(900-3)	[0000]	B	11	-27
+Eali	B	1004	Uaeaiyskah	X546446-4	 	     Ni Pa 		504	AsMw	M0 V M1 V	-3	(732+2)	[3181]	Bc	9	84
+Eali	B	1006	Airiyrlyu'	X422000-D	 	       Di He Na In Po (NIL)		023	AsSc	G0 V	0	(G00+1)	[0000]	BE	13	16
+Eali	B	1007	Yohkui	X433000-6	 	     Fo  Di Na Po (NIL)		003	NaDr	M1 V	-3	(B00-4)	[0000]	B	10	-44
+Eali	B	1008	Ewaos	XA76221-6	 	     Lo 	B	624	AsTv	K5 V	-3	(310+5)	[2155]	B	12	15
+Eali	B	1010	Ftaushioueilr	X565750-5	 	      Ag Ri (NIL)	B	604	AsTv	M2 V	0	(96B+1)	[8788]	BC	13	594
+Eali	F	1012	Ohaiyu'o	X647489-2	 	     Ni Pa 	B	403	AsTv	M0 V	-3	(630+4)	[1162]	Bc	11	72
+Eali	F	1016	Laaisea	X868989-6	 	    Pz  Hi Pr (NIL)	B	523	AsTv	G2 V M9 V	-1	(B85+3)	[688A]	BcE	15	1320
+Eali	F	1017	Alausiy	E894487-6	 	     Ni Pa 		304	AsTv	M0 V M9 V	-3	(630+3)	[7143]	Bc	14	54
+Eali	F	1019	Areaolrrealr	X665244-5	 	      Ga Lo 		502	AsT3	M1 V	-3	(610+4)	[2199]	B	13	24
+Eali	J	1021	Feaaloaal	XAC5000-D	 	   Pz  Di Fl (ENIL)		003	AsT3	G1 V	-1	(C00+1)	[0000]	B	9	12
+Eali	J	1024	Oyo'au	X758869-0	 	    Fo  Pa Ph (NIL)	B	211	AsMw	M0 V M2 V	-2	(A77-3)	[4641]	Bce	7	-1470
+Eali	J	1027	Keiilheirleah	X300000-8	 	     Di Va 		023	AsT0	M2 V	-3	(A00-4)	[0000]	B	14	-40
+Eali	N	1032	Ailaw	X423000-9	 	    O:0732  Di Po 		003	AsMw	M0 V M8 V	-2	(600+2)	[0000]	B	12	12
+Eali	N	1036	Hreiwuieahea	X794222-5	 	     Lo 		512	AsTv	K5 V M2 V	-3	(510-1)	[5166]	B	15	-5
+Eali	B	1103	Erlhyuyeioia	E9895A8-7	 	     Ni Pr 	B	414	AsTv	K7 II	-3	(742+4)	[2269]	Bc	9	224
+Eali	B	1104	Yoelkhaoaishle	X428000-8	 	     Di 		004	AsTv	M3 V	-3	(A00-1)	[0000]	B	11	-10
+Eali	B	1106	A'kyehyoiw	X556276-5	 	      Lo 		204	AsTv	M0 V	-3	(610-3)	[1137]	B	11	-18
+Eali	F	1111	Khihaua	X869200-7	 	    O:1010  Lo 		114	AsTv	M1 V M5 V	-3	(310+4)	[5115]	B	12	12
+Eali	F	1112	Ahhyoe	X535000-C	 	   O:1311  Di Px 		004	AsSc	K4 V	-1	(900-1)	[0000]	B	11	-9
+Eali	F	1118	Eakhta	X677212-6	 	     Pz  Lo (NIL)		203	AsTv	M1 V	-3	(C10+3)	[4153]	B	8	36
+Eali	J	1123	Ooioiha	X563200-5	 	     Lo 		303	AsTv	M1 V M2 V	-3	(410+3)	[2197]	B	8	12
+Eali	J	1124	Fteailel	E698103-3	 	     Lo 		913	AsT9	K1 V	-3	(400-1)	[4152]	B	12	-4
+Eali	J	1126	Auyal	X684157-3	 	    O:1222  Lo 		823	AsT0	K9 V	-3	(500+1)	[31A3]	B	15	5
+Eali	N	1132	Eaiyhwoiw	X425000-7	 	     Di 		000	AsSc	M2 V	-3	(400-5)	[0000]	B	13	-20
+Eali	B	1210	Aulhahhfelaas	X421000-A	 	     Di He Po 		004	AsMw	F1 II D	-1	(800+1)	[0000]	B	14	8
+Eali	F	1212	Hkoikheaoha	X310000-9	 	    O:1311  Di 		004	AsSc	M3 V	-2	(700+2)	[0000]	B	7	14
+Eali	F	1218	Eawkta'a	X866575-3	 	      Ag Pr Ga Ni 	B	303	AsSc	M0 V	-2	(741-2)	[5331]	BcC	11	-56
+Eali	F	1220	Syiauhktaorl	X782695-5	 	     Ni Ri 	B	813	AsWc	M0 V M0 V	-2	(850-1)	[8457]	BC	11	-40
+Eali	J	1222	Oheise	X100000-B	 	     Pz  Di Na In Va 		004	AsT0	M2 V M3 V	0	(F00-1)	[0000]	BE	12	-15
+Eali	J	1226	Aooislaiheeiw	X100000-8	 	     Di Va 		004	AsMw	M1 V	-3	(700+1)	[0000]	B	11	7
+Eali	J	1227	Eiheleiil	X6B3000-8	 	     Di Fl 		004	AsMw	M1 V M2 V	-3	(900+2)	[0000]	B	15	18
+Eali	J	1230	Eiiyeakh	X776200-5	 	     Lo 		700	AsTv	M1 V	-3	(510-3)	[6154]	B	5	-15
+Eali	N	1231	Oioulaalrhkas	X536000-9	 	     Di 		033	AsVc	K4 V M4 V	-2	(C00+2)	[0000]	B	14	24
+Eali	N	1233	Yashtoh	D547457-7	 	     Ni Pa 		304	AsT6	K7 V M6 V	-3	(630-1)	[415B]	Bc	13	-18
+Eali	N	1234	Reiyrl	X555565-4	 	     Ag Ni 		313	AsSc	M0 V M1 V	-2	(744+3)	[9316]	BC	9	336
+Eali	N	1235	Aoheweiaulr	E54477C-8	 	      Ag Pi (NIL)		601	AsSc	K3 V	-1	(A67+1)	[A657]	BCD	10	420
+Eali	B	1301	Eayurlua'	X624000-7	 	    Di Px 		003	AsMw	M3 III M0 V	-3	(700+2)	[0000]	B	6	14
+Eali	B	1304	Khtoioirea	E688234-5	 	     Lo 		304	AsMw	K9 V M6 V	-3	(510+1)	[2116]	B	7	5
+Eali	B	1305	Iheaw	D662400-2	 	      Ni 	B	500	AsMw	G4 V M2 V	-3	(730-2)	[7142]	B	6	-42
+Eali	B	1307	Eliyeiryairl	X787215-3	 	     Ga Lo 		603	AsMw	M0 V M8 V	-3	(410-2)	[2145]	B	12	-8
+Eali	B	1308	Kakhiw	D564775-7	 	     Droy3  Ag Ri (NIL)		203	AsMw	F4 V	0	(965+3)	[4787]	BC	13	810
+Eali	F	1311	Esyah	X310000-E	 	      Di Na In 		004	AsSc	G1 V	0	(G00-2)	[0000]	BE	9	-32
+Eali	F	1318	Iylarlyawsieae	X677672-7	 	     Ag Ni 		204	AsSc	M2 V M2 V	-2	(854+1)	[9419]	BC	16	160
+Eali	F	1319	Eaealearl	X423000-A	 	      Di Na Po 		014	AsVc	G3 V M2 V	-1	(D00+1)	[0000]	B	17	13
+Eali	J	1323	Tohai	X563968-6	 	     Hi Pr (NIL)	B	603	AsSc	M3 V M3 V	-1	(B89+4)	[8869]	BcE	15	3168
+Eali	J	1324	Aoliei	X310000-E	 	     Di 		012	AsMw	G3 V	-1	(900-1)	[0000]	B	14	-9
+Eali	J	1330	Yorlelra	E686777-7	 	      Ag Ri Ga (NIL)	B	902	AsMw	G3 V	0	(967-1)	[A756]	BC	9	-378
+Eali	N	1332	Iwieiyeh	X433000-C	 	      Di Na Po 		004	AsTv	F2 V M5 V M9 V	-1	(C00+1)	[0000]	B	16	12
+Eali	N	1333	Ilyaw	E576101-6	 	     Lo 		602	AsTv	M2 V	-3	(300+3)	[3178]	B	6	9
+Eali	N	1339	Yelwyoe	X535000-8	 	     Di 		013	AsWc	A0 V M6 V	-3	(A00+1)	[0000]	B	12	10
+Eali	B	1403	Erlfooa	X86A473-1	 	     Ni Wa 	B	402	NaAs	M2 V M9 V	-3	(630+1)	[3141]	B	8	18
+Eali	B	1405	Ftiakhearoi	X100000-D	 	     Di Va 		010	AsMw	K4 V M4 V	-1	(700+1)	[0000]	B	7	7
+Eali	B	1408	Eaarwilhkaw	X776000-3	 	    O:1308  Di 		000	AsMw	M2 V	-3	(300-3)	[0000]	B	9	-9
+Eali	B	1410	Yuulreiaoisi	X546746-7	 	      Ag Pi (NIL)		202	AsTv	M2 V	-1	(964-2)	[3682]	BCD	7	-432
+Eali	F	1412	Oirleea	X553478-3	 	     Ni Po 	B	305	AsWc	M1 V M2 V	-3	(630+1)	[5152]	B	11	18
+Eali	F	1414	Eaeayaah	C658316-7	 	    O:1311  Lo 		904	AsSc	M2 V	-2	(420+1)	[2148]	B	12	8
+Eali	F	1415	Aihktiyuahkhei	X300000-B	 	     Di Va 		013	AsSc	G3 V	-1	(B00+1)	[0000]	B	15	11
+Eali	F	1417	Sahkhaiyar	X100000-8	 	     Di Va 		000	AsMw	G6 V M9 V	-3	(400+1)	[0000]	B	12	4
+Eali	J	1421	Ealalkhtair	E589134-6	 	    O:1222  Lo 		504	AsT0	K3 V	-3	(300+4)	[1154]	B	14	12
+Eali	J	1423	Ahorei	X100000-9	 	     Di Va 		004	AsSc	G1 V	-2	(A00+4)	[0000]	B	15	40
+Eali	J	1425	Kaheyu	X768345-2	 	     Lo 	B	813	AsMw	M1 V M2 V	-3	(320+5)	[5171]	B	14	30
+Eali	J	1426	Aalreae	X100000-7	 	     Di Va 		002	AsVc	M1 V M3 V	-3	(500-1)	[0000]	B	14	-5
+Eali	J	1428	Heaeaekh	X668233-6	 	     Lo 		203	AsWc	G9 V	-3	(310-1)	[4176]	B	11	-3
+Eali	N	1432	Aeakhhaheal	X9A6000-8	 	     Di Fl 		032	AsVc	M1 V	-3	(D00+2)	[0000]	B	10	26
+Eali	N	1440	Tluaayaai	X736000-7	 	    Pz  Di (NIL)		012	AsWc	K1 V	-3	(A00+1)	[0000]	B	8	10
+Eali	B	1501	Oarlhteisyel	XAA5000-8	 	     Di Fl 		023	NaAs	K3 IV M9 V	-3	(B00-1)	[0000]	B	14	-11
+Eali	F	1511	Yorloai	E551488-5	 	     Ni Po 		504	AsMw	M2 V M7 V	-3	(631-4)	[7185]	B	13	-72
+Eali	F	1512	Aolraaaleahaw	X9C4000-9	 	     Di Fl 		024	AsMw	G0 V	-2	(E00-3)	[0000]	B	15	-42
+Eali	F	1517	Eyeolyoawtear	E687332-3	 	     Ga Lo 	B	113	AsTv	M8 III K7 V	-3	(520-2)	[4143]	B	11	-20
+Eali	F	1519	Iwouhstayes	X310000-E	 	     Di Na 		000	AsVc	M1 V M2 V	-1	(800-5)	[0000]	B	9	-40
+Eali	J	1521	Iho	X5969BA-5	 	     Hi In (NIL)	B	801	AsSc	M1 V	0	(C82+5)	[8957]	BE	10	960
+Eali	J	1523	Taouirihfti	X7C5000-B	 	     Di Fl 		002	AsTv	M1 V	-1	(A00-2)	[0000]	B	12	-20
+Eali	J	1525	Ilahaiha	X100000-D	 	     Di Va 		005	AsWc	M3 V	-1	(B00-2)	[0000]	B	9	-22
+Eali	J	1526	Ekhyoaoiharha	X85A352-0	 	     Lo Wa 		824	AsSc	G5 IV	-3	(420-1)	[6171]	B	11	-8
+Eali	J	1527	Iraisafeie	X8C3000-A	 	    (Huosua)  Di Fl 		025	AsSc	G3 II D	-1	(B00+3)	[0000]	B	13	33
+Eali	J	1528	Khiyoea	X73A000-C	 	     Di Wa 		002	AsWc	M0 V	-1	(800+1)	[0000]	B	7	8
+Eali	J	1530	Oulrasliyakh	X552220-6	 	    O:1627  Lo Po 		501	AsSc	K1 V M6 V	-3	(510+1)	[4158]	B	12	5
+Eali	N	1531	Aaleiwaor	X654325-2	 	     Lo 	B	104	AsTv	M1 V	-3	(320+4)	[11A6]	B	12	24
+Eali	N	1534	Isoa'khtui	X435000-A	 	    Di Px 		013	AsVc	K3 V	-1	(B00+1)	[0000]	B	12	11
+Eali	N	1537	Iyshtea	X542678-6	 	     He Ni Po 		820	AsMw	M2 V	-3	(850-1)	[6394]	B	14	-40
+Eali	B	1607	Tlaiauh	X200000-7	 	     Di Na Va 		004	AsT9	M0 V	-3	(800+3)	[0000]	B	13	24
+Eali	B	1608	Yowaoeeaei	X426000-8	 	     Di 		002	AsWc	F4 V	-3	(800+3)	[0000]	B	7	24
+Eali	F	1614	Aihoalr	X310000-8	 	     Pz  Di Na Pi 		005	AsVc	M2 V	-3	(F00-2)	[0000]	BD	11	-30
+Eali	F	1617	Aoeilrau	X100000-D	 	     Di Na Va 		000	AsWc	K0 V	-1	(800-3)	[0000]	B	12	-24
+Eali	F	1619	Khehoirl	X777211-1	 	     Lo 	B	614	AsMw	K0 V	-3	(510-1)	[1141]	B	13	-5
+Eali	F	1620	Ahroaea	X534000-9	 	    Di Px 		014	AsVc	M5 III M5 V	-2	(D00+1)	[0000]	B	16	13
+Eali	J	1626	Iuiy'khtiy	X100000-A	 	    O:1728  Di Va 		023	AsSc	F5 V M4 V	-1	(800+2)	[0000]	B	14	16
+Eali	J	1627	Ftahaoh	X432000-C	 	      Di Na Px Po 		012	AsSc	G0 V	-1	(B00+2)	[0000]	B	11	22
+Eali	J	1630	Eilrhkeair	X576100-4	 	     Lo 		113	AsSc	K0 IV	-3	(400+1)	[1172]	B	10	4
+Eali	N	1638	Awhosairlkhayo	X733000-9	 	    Pz  Di Na Po (NIL)		000	AsT3	M2 V	-2	(900+4)	[0000]	B	5	36
+Eali	N	1640	Iyul	X434000-D	 	    Di Px 		023	AsTv	M2 V M7 V	-1	(C00+4)	[0000]	B	13	48
+Eali	C	1707	Fye'iyra	C778210-A	 	      Lo (NIL)		622	AsVc	G1 V	0	(G10-3)	[126D]	B	13	-48
+Eali	C	1710	Aeirlyekheal	XAB5000-8	 	   O:1707  Di Fl Px 		014	AsVc	A8 V M1 V	-3	(A00-2)	[0000]	B	13	-20
+Eali	G	1713	Eaaoaies	D644243-7	 	       Lo (NIL)		600	AsMw	M2 V	-3	(A10+4)	[5156]	B	10	40
+Eali	G	1714	Sa'ioyesaiy	X310000-A	 	      Di Na Pi 		004	AsSc	G9 V	-1	(E00+5)	[0000]	BD	16	70
+Eali	G	1715	Oeakhisi	X9A4000-8	 	     Di Fl 		024	AsWc	K1 V M4 V	-3	(C00-1)	[0000]	B	10	-12
+Eali	G	1716	Tuyoyaa	X9B4000-9	 	    Da  Di Fl 		003	AsTv	M4 III	-2	(B00+1)	[0000]	B	14	11
+Eali	G	1720	Oiweeakh	X688410-6	 	     Ni Pa 		213	AsVc	K1 V	-3	(630+4)	[3164]	Bc	11	72
+Eali	K	1721	Yorlkar	X9D8000-7	 	     Di 		012	AsMw	M4 II	-3	(600-2)	[0000]	B	8	-12
+Eali	K	1727	Osahkhteasoa	X439000-8	 	     Di 		004	AsSc	M5 III D	-3	(800+2)	[0000]	B	17	16
+Eali	K	1728	Khieaohau	D785768-6	 	      Ag Ri Ga (NIL)	B	702	AsSc	M1 V M3 V M2 V	0	(966-1)	[8798]	BC	10	-324
+Eali	K	1729	Oiah	X63A000-B	 	    O:1728  Di Wa 		023	AsSc	M0 V	-1	(900+1)	[0000]	B	16	9
+Eali	O	1731	Yewaeaiis	X535000-7	 	    Di Px 		014	AsMw	K3 V M9 V	-3	(700+2)	[0000]	B	18	14
+Eali	O	1732	Arlauos	X889476-2	 	     Ni 	B	215	AsSc	K0 V M5 V	-3	(632+1)	[6115]	B	14	36
+Eali	O	1734	Oi'a'hea	X554376-5	 	     Lo 	B	604	AsT8	G8 V M5 V	-3	(520+3)	[4131]	B	9	30
+Eali	O	1735	Yuaieh	X625000-7	 	     Di 		003	AsSc	M8 II	-3	(400+1)	[0000]	B	12	4
+Eali	O	1739	Uiraouaiih	X64327A-4	 	     Lo Po 		921	AsVc	M1 V	-3	(510+1)	[4145]	B	13	5
+Eali	C	1802	Khtektouh	XA9A420-4	 	      Ni Oc (NIL)	B	500	AsT4	K6 II	-3	(B30+2)	[4136]	B	6	66
+Eali	C	1808	Oioayusoah	E86A533-7	 	    Da  Ni Pr Wa 		503	AsTv	M3 V	-3	(742+1)	[2249]	Bc	15	56
+Eali	G	1812	Eihkho	X310000-A	 	      Di Na Pi 		014	AsMw	G4 V	-1	(F00-2)	[0000]	BD	14	-30
+Eali	G	1814	Eauiwea	X8D3000-3	 	   Di Fo  (NIL)		013	AsMw	M0 V M3 V	-3	(900-3)	[0000]	B	13	-27
+Eali	G	1815	Ilkaao	X7B4000-E	 	    Di Fl Px 		003	AsMw	M1 V	-1	(900+1)	[0000]	B	15	9
+Eali	G	1819	Ealhalria	X436000-B	 	     Di 		000	AsSc	K5 V	-1	(400-2)	[0000]	B	5	-8
+Eali	G	1820	Eihiouhftei	X541323-4	 	    O:1821  He Lo Po 		713	AsSc	G4 V	-3	(420+3)	[2175]	B	12	24
+Eali	K	1821	Htaistea	X100000-D	 	      Di Na In Va 		004	AsSc	K4 V M3 V	0	(F00+1)	[0000]	BE	9	15
+Eali	K	1823	Htiah	XA79223-5	 	      Lo (NIL)	B	105	AsSc	M2 V	-3	(C10+1)	[514A]	B	16	12
+Eali	K	1824	Iyskyar	D546721-9	 	      Ag Pi (NIL)	B	903	AsVc	M0 V	0	(C65+2)	[8738]	BCD	11	720
+Eali	K	1825	Yulriyyew	X528000-B	 	     Di 		001	AsT5	K4 V M1 V	-1	(900+1)	[0000]	B	7	9
+Eali	K	1828	Khtaoiwe	X425000-8	 	   Pz  Di Pi (NIL)		014	AsTv	M1 V M8 V	-3	(E00+3)	[0000]	BD	13	42
+Eali	O	1836	Erliyil	X561000-3	 	    O:2136  Di 		001	AsVc	M3 V M8 V	-3	(300+1)	[0000]	B	10	3
+Eali	O	1839	Eawhtuikhoah	XAC5000-9	 	    Pz  Di Fl (ENIL)		003	AsT0	M0 V M1 V	-2	(D00-1)	[0000]	B	11	-13
+Eali	C	1904	Iouiiylus	X544755-6	 	      Ag 		102	AsVc	M0 V	-1	(866-2)	[2654]	BC	9	-576
+Eali	C	1908	Yahaualiwilal	X635000-A	 	    O:1707  Di 		000	AsVc	M1 V	-1	(300+1)	[0000]	B	3	3
+Eali	G	1911	Aorlailakh	X310000-A	 	     Di 		034	AsMw	K1 V	-1	(C00+2)	[0000]	B	13	24
+Eali	G	1912	Kilrya	X310000-C	 	      Di Na In 		003	AsSc	M0 V M8 V	0	(E00+1)	[0000]	BE	7	14
+Eali	G	1914	Eahheilr	X787310-2	 	    O:1912  Ga Lo 	B	603	AsSc	K5 V M1 V	-3	(320+1)	[3111]	B	10	6
+Eali	G	1915	Yowtlol	E96817A-5	 	     Lo 		500	AsTv	M3 V	-3	(300+2)	[3165]	B	6	6
+Eali	G	1916	Iiyraw	X564300-4	 	     Lo 		504	AsVc	A3 V M7 V	-3	(420+1)	[1124]	B	9	8
+Eali	G	1919	Yeshleao	E977100-7	 	    O:1821  Lo 		204	AsSc	K2 V M1 V	-3	(300-4)	[4114]	B	14	-12
+Eali	K	1922	Ftairlya	D545787-9	 	     Pz  Ag Pi (NIL)		220	AsVc	M2 V	0	(B6B+2)	[5744]	BCD	10	1452
+Eali	K	1923	Yoweaserl	X100000-B	 	      Di Na In Va 		015	AsSc	K2 V	0	(J00+2)	[0000]	BE	14	36
+Eali	K	1926	Khiewriaar	D576477-3	 	     Ni Pa 		221	AsT9	K6 V	-3	(633-5)	[7191]	Bc	12	-270
+Eali	K	1927	Htyeiylra	X434000-A	 	     Di 		034	AsSc	M3 V	-1	(F00-2)	[0000]	B	12	-30
+Eali	O	1933	Eauale	X9D5000-6	 	     Di 		010	AsSc	K0 V M1 V	-3	(400+2)	[0000]	B	9	8
+Eali	O	1937	A'akheiiylhwiy	XAA7000-8	 	    O:1839  Di Fl 		013	AsT0	G5 V	-3	(700-1)	[0000]	B	7	-7
+Eali	O	1938	Hlaliyiaol	X7A2000-C	 	      Di Fl He 		000	AsT7	M1 V M2 V	-1	(700+3)	[0000]	B	5	21
+Eali	G	2014	Eiskhteaoulr	X575314-3	 	     Lo 		502	AsTv	K5 V	-3	(520-1)	[1175]	B	7	-10
+Eali	K	2025	Ihaaeaus	X587300-6	 	      Lo 		803	AsMw	M3 V	-3	(620+1)	[2153]	B	11	12
+Eali	O	2034	Iylareakh	X435000-A	 	     Di 		023	AsVc	K5 V M7 V M0 V	-1	(A00-3)	[0000]	B	14	-30
+Eali	O	2038	Khaoeikh	E577200-5	 	    O:1839  Lo 		204	AsT0	G7 IV	-3	(410+2)	[1116]	B	13	8
+Eali	C	2101	Aorlkaakh	X422000-7	 	     Di He Po 		003	NaAs	M1 V M9 V	-3	(600-4)	[0000]	B	10	-24
+Eali	G	2111	Tiaiarle	X310000-E	 	     Di 		033	AsMw	M2 V M7 V	-1	(A00-1)	[0000]	B	18	-10
+Eali	G	2113	Iweil	X551777-6	 	     Po (NIL)	B	500	AsVc	K3 V	-2	(964-2)	[6595]	B	10	-432
+Eali	G	2114	Sekhtai	D55A66A-3	 	    Pz  Ni Wa (NIL)	B	601	AsTv	G2 V	-3	(B50+4)	[6345]	B	12	220
+Eali	G	2117	Ftalea	E571989-8	 	     He Hi In (NIL)		713	AsSc	M1 V M3 V	0	(E87-3)	[D939]	BE	15	-2352
+Eali	G	2118	Aolaiaw	X634000-6	 	   Fo  Di Px 		003	AsMw	M2 V	-3	(700+4)	[0000]	B	14	28
+Eali	K	2122	Khaiheiiyaul	X526000-C	 	     Di 		023	AsT9	M2 V	-1	(B00+1)	[0000]	B	15	11
+Eali	O	2131	Eahtawa	X8C6000-9	 	     Di Fl 		022	AsTv	K3 V M7 V	-2	(B00-1)	[0000]	B	12	-11
+Eali	O	2132	Oawyeoaiya	X436000-E	 	     Di 		013	AsMw	F1 V	-1	(C00+3)	[0000]	B	11	36
+Eali	O	2135	Ftakhyues	X545100-4	 	     Lo 		404	AsSc	K5 V	-3	(400-2)	[3158]	B	13	-8
+Eali	O	2136	Khaaur	X433000-B	 	      Di Na Po 		003	AsVc	M0 V	-1	(B00+2)	[0000]	B	12	22
+Eali	C	2205	Akhuaao	X5A0000-8	 	     Di He 		023	NaAs	G4 V M9 V	-3	(D00-1)	[0000]	B	16	-13
+Eali	G	2213	Khaahktya	X659766-4	 	      (NIL)	B	524	AsMw	K3 V	-2	(963-1)	[A514]	B	14	-162
+Eali	G	2214	Ilreakh	X572577-2	 	     He Ni 	B	511	AsT2	M0 V	-3	(741-4)	[9246]	B	14	-112
+Eali	K	2221	Tehyo	X421000-C	 	       Di He Na In Po (NIL)		000	AsSc	K3 V	0	(C00-4)	[0000]	BE	7	-48
+Eali	K	2222	Okhayehauoil	X563243-2	 	    O:2221  Lo 		504	AsSc	M0 V M1 V	-3	(510+2)	[3177]	B	11	10
+Eali	K	2224	Uarla	X555200-5	 	      Lo 		612	AsT3	M0 V	-3	(610+1)	[1156]	B	6	6
+Eali	K	2225	Aoseie'	X100000-7	 	     Fo  Di Na In Va 		004	AsSc	M0 V	-2	(B00-5)	[0000]	BE	12	-55
+Eali	O	2232	Iskhais	E68578B-5	 	     Pz  Ag Ri Ga (NIL)		212	AsWc	K2 V	0	(964+4)	[3776]	BC	9	864
+Eali	O	2234	Awaeah	X423000-D	 	    O:2136  Di Po 		012	AsVc	M2 V	-1	(600-3)	[0000]	B	7	-18
+Eali	O	2235	Tourlae	X674753-6	 	      Ag Pi (NIL)	B	223	AsTv	M1 V	-1	(966+1)	[B619]	BCD	11	324
+Eali	C	2301	Fteielria	XAB7000-8	 	     Di Fl 		000	NaAs	G0 V M1 V	-3	(800-4)	[0000]	B	8	-32
+Eali	C	2308	Khouleal	D65A56A-4	 	    Da  Ni Wa 		202	AsMw	M0 V	-3	(742-1)	[1273]	B	13	-56
+Eali	G	2312	Yo'aosoi	X8A5000-8	 	    Di Fl Px 		014	AsMw	K7 V	-3	(B00-2)	[0000]	B	17	-22
+Eali	G	2314	Yoliyeirlalr	X200000-A	 	     Pz  Di Na Pi Va 		004	AsMw	A3 V	-1	(E00+1)	[0000]	BD	11	14
+Eali	G	2320	Iraois	E55447B-7	 	     Ni Pa 		311	AsSc	G3 V M0 V	-3	(630-1)	[4158]	Bc	8	-18
+Eali	K	2323	Yewehhar	C645430-4	 	     Ni Pa 	B	304	AsTv	M2 V M7 V	-2	(630-4)	[7246]	Bc	12	-72
+Eali	K	2326	Fearah	X99A56C-0	 	      Ni Wa (NIL)	B	502	AsSc	G6 IV M7 V	-3	(C43+1)	[9221]	B	12	144
+Eali	K	2327	Eiyehei	X558455-4	 	     Ni Pa 		502	AsMw	K3 V M1 V	-3	(630-3)	[1124]	Bc	14	-54
+Eali	K	2329	Hlyeiyuikiy	X855878-4	 	    Pz  Ga Pa Ph (NIL)	B	202	AsWc	M1 V	-2	(A71+1)	[9641]	Bce	14	70
+Eali	O	2333	Iyrlelas	X432000-6	 	      Di Na Px Po 		004	AsMw	K1 V	-3	(800-1)	[0000]	B	12	-8
+Eali	O	2340	Hkeauas	X582384-5	 	     Lo 		912	AsSc	K3 V	-3	(520+1)	[2153]	B	10	10
+Eali	C	2408	Ehiyliu	X65456D-4	 	     Ag Ni 		401	AsSc	K4 III M2 V D	-2	(744-2)	[2328]	BC	10	-224
+Eali	C	2410	Htehis	D897533-4	 	     Ag Ni 	B	200	AsSc	G4 V	-2	(740+3)	[1357]	BC	11	84
+Eali	G	2412	Khyoaeia	X100000-C	 	    O:2514  Di Va 		024	AsVc	M1 V	-1	(900-1)	[0000]	B	12	-9
+Eali	G	2417	Erlourfeal	X87A101-4	 	    O:2514  Lo Wa 	B	320	AsVc	M2 V M4 V	-3	(300-2)	[1125]	B	10	-6
+Eali	K	2425	Yakyu	X585867-4	 	     Pa Ri Ph (NIL)	B	900	AsSc	G6 V M7 V	-1	(B76+1)	[7787]	BcCe	8	462
+Eali	K	2430	Easai	E599301-3	 	     Lo 		502	AsMw	M0 V	-3	(320-2)	[1163]	B	6	-12
+Eali	O	2432	Hoiew	D566331-7	 	     Lo 		601	AsSc	G4 II M8 V M7 V	-3	(520+3)	[1156]	B	8	30
+Eali	O	2433	Yeheais	E643798-7	 	      Po 	B	104	AsSc	M6 II M2 V	-2	(863+4)	[25A7]	B	8	576
+Eali	D	2510	Hkeaei	X662123-4	 	     Lo 	B	712	AsWc	M2 V	-3	(600+1)	[2148]	B	12	6
+Eali	H	2514	Kewhalreh	X578765-4	 	     Pz  Ag Pi (NIL)		600	AsVc	A1 V M7 V	-1	(969+4)	[4649]	BCD	6	1944
+Eali	H	2515	Ftehi	X866568-4	 	      Ag Pr Ga Ni 	B	303	AsTv	K3 V	-2	(740-3)	[1333]	BcC	14	-84
+Eali	L	2521	Eaoiryu'	X300000-7	 	    O:2221  Di Va 		005	AsSc	G0 V M8 V	-3	(500+2)	[0000]	B	12	10
+Eali	L	2522	Yaea	X100000-B	 	     Di Na Va 		011	AsMw	M2 V M9 V	-1	(A00+3)	[0000]	B	11	30
+Eali	L	2525	Ftiyloeal	X100000-9	 	    Pz  Di Na Pi Va 		014	AsT0	M3 V	-2	(E00+1)	[0000]	BD	12	14
+Eali	L	2526	Aealeilr	X100000-9	 	     Di Va 		014	AsSc	M1 V	-2	(C00+3)	[0000]	B	14	36
+Eali	P	2531	Ftiweayeha	X8A7000-8	 	     Di Fl (ENIL)		003	AsSc	A2 V	-3	(D00-3)	[0000]	B	11	-39
+Eali	P	2539	Yesuaouaeil	XAA5000-9	 	     Di Fl 		013	AsVc	K2 V	-2	(700-1)	[0000]	B	10	-7
+Eali	D	2604	Ahetaowa	X535000-C	 	    (Ahetaowa)  Di 		003	NaAs	M2 V M3 V M4 V	-1	(A00+1)	[0000]	B	11	10
+Eali	D	2605	Ftairai	X310000-7	 	      Di Na In 		000	NaAs	M3 V	-2	(B00+1)	[0000]	BE	6	11
+Eali	D	2609	Iyaaahai	X7C2000-9	 	      Di Fl He 		005	AsT5	M7 III D	-2	(C00+2)	[0000]	B	13	24
+Eali	D	2610	Eaaileishryaor	XAD5000-B	 	     Di (NIL)		004	AsVc	M3 V	-1	(D00+2)	[0000]	B	10	26
+Eali	H	2612	Iwuaalr	X87A200-5	 	      Lo Wa (NIL)		424	AsTv	M3 V	-3	(A10+2)	[3173]	B	17	20
+Eali	L	2621	Awkhouas	X893653-6	 	     Ni 		604	AsVc	M1 V M9 V	-3	(850+2)	[5353]	B	13	80
+Eali	L	2628	Uaahaoaouh	E582331-4	 	    O:2425  Lo 		624	AsSc	K0 V M3 V	-3	(420-1)	[3126]	B	10	-8
+Eali	L	2630	Elrouwsoi	X8A7000-D	 	     Di Fl 		014	AsT5	G8 V M6 V	-1	(A00+1)	[0000]	B	12	10
+Eali	P	2631	Aisaoheiltlalr	X8C4000-9	 	   Pz  Di Fl (ENIL)		004	AsTv	M2 V	-2	(D00+1)	[0000]	B	12	13
+Eali	P	2638	Aihoairl	X576125-4	 	     Lo 		312	AsT4	G8 V	-3	(500-2)	[1196]	B	15	-10
+Eali	D	2704	Uailraul	E559677-1	 	     Ni 	B	803	NaAs	K0 V M3 V	-3	(853+1)	[4341]	B	12	120
+Eali	D	2710	Yooiwhi	X561179-4	 	     Lo 		122	AsTv	M2 V	-3	(500-2)	[1171]	B	7	-10
+Eali	H	2712	Alriyeaos	X649200-1	 	     Lo 	B	403	AsVc	M1 V	-3	(410-1)	[4171]	B	12	-4
+Eali	H	2714	Ileyawea	D788102-0	 	     Lo 	B	300	NaAs	M1 III	-3	(500+4)	[1171]	B	4	20
+Eali	H	2720	Toaakhitleil	E554774-5	 	    Pz  Ag (NIL)	B	304	NaAs	G2 V M4 V	-1	(B63+1)	[7655]	BC	10	198
+Eali	L	2721	Ftao	E57679A-5	 	     Pz  Ag Pi (NIL)	B	804	NaAs	M0 V M3 V	-1	(B68+1)	[8637]	BCD	11	528
+Eali	L	2722	Hwalyaea	X310000-B	 	     Di 		003	AsVc	M2 V	-1	(900+2)	[0000]	B	12	18
+Eali	L	2723	Yelrtaieoah	X300000-9	 	     Di Va 		004	AsMw	K4 V	-2	(A00-3)	[0000]	B	12	-30
+Eali	L	2725	Eatlei	X7859BF-7	 	     Ga Hi Pr (NIL)	B	603	AsSc	K1 V	-1	(B87+1)	[B844]	BcE	15	616
+Eali	L	2729	Ftalaoear	X5A0000-8	 	     Di He 		000	AsSc	M2 V	-3	(400+5)	[0000]	B	8	20
+Eali	P	2732	Hkahaoralr	X776223-4	 	    O:2932  Lo 		702	AsTv	M1 V	-3	(310-2)	[2188]	B	10	-6
+Eali	P	2737	Eaweaiwya	E79679C-8	 	     Pz  Ag Pi (NIL)		212	AsMw	M0 V	-1	(C65-5)	[6654]	BCD	11	-1800
+Eali	P	2738	Eilehaiiyh	X434000-8	 	     Di 		023	AsMw	K5 V M9 V	-3	(800-1)	[0000]	B	9	-8
+Eali	P	2740	Ou'ao	X543420-4	 	     Ni Po 		510	AsWc	K4 V	-3	(733+1)	[6142]	B	11	63
+Eali	D	2807	Fterlyuhlye	X310000-7	 	     Pz  Di Na In 		024	NaAs	M0 V	-2	(C00-3)	[0000]	BE	10	-36
+Eali	D	2809	Eaheoil	X789133-3	 	     Lo 	B	912	AsMw	K1 V M1 V	-3	(500-3)	[1151]	B	14	-15
+Eali	H	2814	Staoirheah	X9A4000-8	 	    Di Fl Px 		015	AsMw	M2 V	-3	(E00-1)	[0000]	B	13	-14
+Eali	H	2815	Yeeri	X100000-7	 	     Di Va 		003	NaAs	K6 V	-3	(400+5)	[0000]	B	10	20
+Eali	H	2816	Iyyoeaw	E557777-1	 	     Ag (NIL)	B	915	NaAs	K4 V M3 V	-1	(967+5)	[3641]	BC	15	1890
+Eali	H	2817	Teawea	X536000-6	 	     Di 		013	IsDo	M2 V	-3	(700-4)	[0000]	B	14	-28
+Eali	H	2819	Aliywei	C997202-7	 	     Lo 		404	IsDo	G0 V	-2	(510+2)	[115B]	B	11	10
+Eali	L	2821	Ktaihei	X310000-9	 	     Pz  Di Na Pi 		004	IsDo	K3 V	-2	(E00+1)	[0000]	BD	12	14
+Eali	L	2822	Auyuhsti	X433000-8	 	     Di Po 		001	IsDo	M2 V	-3	(600+4)	[0000]	B	9	24
+Eali	L	2823	Yalealhkirl	X100000-7	 	     Di Va 		003	IsDo	G4 V	-3	(600-3)	[0000]	B	7	-18
+Eali	L	2826	Khaeaai	E687687-3	 	      Ag Ri Ga Ni 		714	NaAs	K7 V M9 V	-1	(851+1)	[7565]	BC	9	40
+Eali	L	2828	Ilekhahke	X96798B-8	 	      Hi Pr (NIL)	B	104	AsMw	G4 V	-1	(B82-1)	[988C]	BcE	11	-176
+Eali	L	2829	Khtiuarel	X431000-9	 	      Di Na Po (NIL)		004	AsTv	M7 III	-2	(E00+3)	[0000]	B	9	42
+Eali	P	2835	Awalea	X637000-7	 	     Di 		001	AsTv	M0 V	-3	(800+2)	[0000]	B	5	16
+Eali	P	2837	Hkase	E78A675-6	 	    Da  Ni Ri Wa 	B	702	AsVc	K8 V	-2	(853+2)	[6442]	BC	11	240
+Eali	P	2839	Fuaeihel	X559446-7	 	     Ni 		202	AsT6	K4 V	-3	(632+5)	[6156]	B	14	180
+Eali	D	2907	Ikhuaei	E786648-3	 	      Ag Ri Ga Ni 	B	204	NaAs	K1 III	-1	(853-5)	[7553]	BC	14	-600
+Eali	D	2910	Tlelyeoa	C5837B9-8	 	     Ri (NIL)		713	AsT8	M0 V	0	(D6A-2)	[3734]	BC	8	-1560
+Eali	H	2911	Eiea'yorl	X426000-A	 	     Di 		004	AsMw	G3 V M9 V	-1	(C00+1)	[0000]	B	13	12
+Eali	H	2912	Youirlei	X668123-5	 	     Lo 		314	AsSc	M0 V	-3	(400+1)	[1197]	B	17	4
+Eali	H	2913	Ewae	E575610-8	 	     Ag Ni 		201	AsVc	K3 V	-2	(953-1)	[8447]	BC	4	-135
+Eali	H	2919	Kaoeiwoas	X421000-7	 	      Di He Na Pi Po (NIL)		004	IsDo	M3 V	-3	(900+1)	[0000]	BD	13	9
+Eali	L	2921	Eahhkaeas	X625000-7	 	     Di 		003	IsDo	M2 V M9 V	-3	(500+3)	[0000]	B	7	15
+Eali	L	2922	Uisewalwei	X556533-1	 	     Ag Ni 		203	IsDo	M0 V M4 V	-2	(740-2)	[5393]	BC	9	-56
+Eali	L	2923	Erlaw	D644221-4	 	      Lo (NIL)		314	IsDo	K0 V M6 V M0 V	-3	(B10+1)	[3117]	B	12	11
+Eali	L	2925	Kaouaiylr	D546777-4	 	      Ag Pi (NIL)	B	623	NaAs	K3 V M3 V	-1	(964+1)	[4665]	BCD	11	216
+Eali	P	2932	Yesail	X573898-4	 	     Ph Pi (NIL)	B	214	AsTv	K3 V M4 V	-2	(A77+1)	[6637]	BDe	12	490
+Eali	P	2935	Aiiyhhkoaw	X573477-3	 	     Ni 	B	214	AsT9	K6 II	-3	(630-2)	[3153]	B	12	-36
+Eali	P	2937	Kiysahikhaa	C879236-5	 	    O:Reav-0135  Lo 		902	AsT4	M3 V M9 V	-2	(510+1)	[1112]	B	13	5
+Eali	D	3006	Ye'iyeah	E662152-0	 	     Lo 	B	513	NaAs	F1 V	-3	(400+1)	[2162]	B	17	4
+Eali	H	3011	Eiskaeah	X623000-9	 	     Di Po 		022	AsT4	M2 V M7 V	-2	(900+1)	[0000]	B	16	9
+Eali	H	3013	Easyah	X432000-C	 	      Di Na Po 		014	AsWc	G4 V M7 V	-1	(D00+2)	[0000]	B	14	26
+Eali	H	3015	Hkaearlwi	X766100-0	 	    Fo  Ga Lo 	B	902	AsMw	M2 V	-3	(300-1)	[5131]	B	10	-3
+Eali	H	3018	Iywyeilka	X556885-0	 	    Pa Ph (NIL)	B	121	IsDo	K5 V	-2	(976-1)	[6641]	Bce	14	-378
+Eali	H	3020	Earlaieah	X564230-0	 	     Lo 		123	IsDo	K3 IV	-3	(510+3)	[5111]	B	14	15
+Eali	L	3021	Hlaseuikh	X200000-8	 	     Di Va 		014	IsDo	G1 V	-3	(C00+1)	[0000]	B	17	12
+Eali	L	3023	Heiyyahe	X100000-7	 	    O:Reav-0221  Di Va 		004	IsDo	M2 V M3 V	-3	(700+3)	[0000]	B	11	21
+Eali	P	3031	Feaei	X437000-B	 	     Di 		001	AsMw	K0 V	-1	(900+1)	[0000]	B	7	9
+Eali	P	3032	Tlealoikh	X8B3000-8	 	     Di Fl 		003	AsTv	K3 II M4 V D	-3	(A00+4)	[0000]	B	6	40
+Eali	P	3033	Eihoeyokhara	X553777-6	 	     Po (NIL)		522	AsVc	M0 V	-2	(962+1)	[4544]	B	12	108
+Eali	P	3035	Hkaoi'	E579314-6	 	     Lo 		603	AsMw	M0 V M1 V	-3	(420-1)	[4167]	B	11	-8
+Eali	P	3036	Fteirhai	X9AA000-9	 	     Di Fl 		002	AsVc	K1 V	-2	(700+1)	[0000]	B	6	7
+Eali	D	3102	Brirvoy	X566642-0	 	     Fo ChirW  Ag Ri Ni 	B	521	NaXX	G7 V M6 V	-1	(855-4)	[B561]	BC	9	-800
+Eali	D	3108	Kea'yaaie	X000000-7	 	     Fo  As Va Di 		003	NaAs	M3 V	-3	(600-3)	[0000]	B	9	-18
+Eali	H	3111	A'yoeah	X435000-6	 	     Di 		002	AsMw	G1 V M9 V	-3	(400+2)	[0000]	B	11	8
+Eali	L	3122	Yuoul	X6A1000-8	 	     Di Fl He Px 		002	IsDo	M2 V	-3	(900-4)	[0000]	B	6	-36
+Eali	L	3125	Ftalhkealiy	X77A125-2	 	    Fo  Lo Wa 		203	IsDo	G7 III M9 V	-3	(500+3)	[2121]	B	12	15
+Eali	P	3133	Eiwhwe	E674111-7	 	     Lo 		623	AsMw	K1 V M8 V M9 V	-3	(500+3)	[1157]	B	14	15
+Eali	P	3135	Tileaye'	X678400-2	 	     Ni Pa 	B	301	AsSc	K3 V M1 V	-3	(632-1)	[5161]	Bc	12	-36
+Eali	D	3210	Leseaua	C988453-4	 	     Ni Pa 		313	AsMw	K4 V M8 V	-2	(632+1)	[3274]	Bc	13	36
+Eali	H	3211	Hlearli	XAB5000-E	 	     Di Fl 		004	AsTv	K1 IV	-1	(B00+5)	[0000]	B	12	55
+Eali	H	3212	Wulooil	X58479B-2	 	     Fo  Ag Ri (NIL)	B	312	AsT0	K0 V M9 V	0	(965-2)	[5793]	BC	11	-540
+Eali	H	3216	Khaea	X9B4000-9	 	    Di Fl Px 		001	AsVc	K9 V M2 V	-2	(600-2)	[0000]	B	7	-12
+Eali	H	3220	Saihe	E548300-4	 	     Lo 		112	IsDo	M3 V M9 V	-3	(520+1)	[4161]	B	15	10
+Eali	L	3222	Ktaoleas	X9C7000-9	 	     Di Fl 		021	IsDo	M3 V	-2	(600+1)	[0000]	B	10	6
+Eali	L	3223	Syoyorlea	X000000-C	 	      As Va Di 		003	IsDo	G6 V	-1	(600-2)	[0000]	B	9	-12
+Eali	L	3225	Keiiokh	D571257-3	 	     He Lo 	B	624	NaAs	K8 V	-3	(310+1)	[1177]	B	16	3
+Eali	L	3226	Uawahtaleih	X839000-7	 	     Di 		000	NaAs	A4 V K6 V	-3	(300-2)	[0000]	B	9	-6
+Eali	P	3231	Khasuareir	X54467A-6	 	     Ag Ni 		323	AsVc	K1 V	-2	(852+5)	[7485]	BC	18	400
+Eali	P	3235	Hlorliarl	X679798-7	 	     Pi (NIL)	B	815	AsTv	M2 V M7 V	-2	(96A-2)	[9545]	BD	16	-1080
