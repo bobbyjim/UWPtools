@@ -5,8 +5,8 @@ use Sector;
 my $description = q:to/END/;
 *********************************************************
 *                                                       *
-*   Pocket Empires are small states, generally with a 	*
-*   uniform radius but with occasional irregularities. 	*
+*   Survivor States are pocket empires. They typically  *
+*   have an irregular radius.                         	*
 *                                                       *
 *********************************************************
 END
@@ -26,7 +26,12 @@ sub MAIN( $sectorName ) {
 	my $choice = (0..@strongWorlds.elems).pick;
 	my $chosen = @strongWorlds[ $choice ];
 
-	next unless $chosen;
+    my $ok = so $chosen;
+
+    unless $ok {
+		die @strongWorlds.elems, " strong worlds found in $sector\n";
+		exit;
+	}
 
 	#
 	#  OK we've picked one at random.
