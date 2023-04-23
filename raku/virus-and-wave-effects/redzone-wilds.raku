@@ -12,6 +12,7 @@ my $description = q:to/END/;
 END
 
 my Sector $sector = Sector.new;
+my %visited;
 
 sub MAIN( $sectorName ) {
 
@@ -37,7 +38,10 @@ sub propagateRedWilds( $row, $col, $heat ) {
 	return if $heat < 1;
 
 	my $hex = sprintf( "%02d%02d", $col, $row );
-	
+
+	return if %visited{ $hex };
+	%visited{ $hex } = 1;
+
 	if $sector.is-wilds( $hex ) {
     	$sector.set-allegiance( $hex, 'WiFo' );
 	}

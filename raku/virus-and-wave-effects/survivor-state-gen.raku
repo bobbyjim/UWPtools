@@ -64,6 +64,7 @@ sub claimArea( $row, $col, $alleg ) {
 
     return if $row < 1 || $row > 40 || $col < 1 || $col > 32;
 	my $hex = sprintf( "%02d%02d", $col, $row );
+
 	return if %visited{ $hex };
 	%visited{ $hex } = 1;
 
