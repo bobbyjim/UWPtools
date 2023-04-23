@@ -12,6 +12,7 @@ sub MAIN( $sector ) {
 	die "ERROR: config file not found for $sector" unless $file.IO.e;
 
 	say $sector, ':';
+	say "\tSource File     \t $source";
 
 	my ($header, @lines) =$source.IO.lines;
 	my @header = $header.split(/\t/);

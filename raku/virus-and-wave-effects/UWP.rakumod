@@ -193,6 +193,7 @@ class UWP is export {
     method is-dieback(-->Bool) {
 		if ($!pop == 0)
 		{
+			$!calculatedNIL = '';
 			$!pop-mult = 0;
 			$!gov      = 0;
 			$!law      = 0;
@@ -376,14 +377,16 @@ class UWP is export {
 		#
 
 		$!specialRemarks = $remarks ~ ' ';
-		$!specialRemarks ~~ s:g/(As|De|Fl|Ga|He|Ic|Oc|Va|Wa|Di|Ba|Lo|Ni|Ph|Ni|Ph|Hi|Pa|Ag|Na|Px|Pi|In|Po|Pr|Ri|Cy|Mr|Cp|Cs|Cx|O\:\d\d\d\d) //;
+		$!specialRemarks ~~ s:g/(As|De|Fl|Ga|He|Ic|Oc|Va|Wa|Di|Ba|Lo|Ni|Ph|Ni|Ph|Hi|Pa|Ag|Na|Px|Pi|Pz|Da|Fo|In|Po|Pr|Ri|Cy|Mr|Cp|Cs|Cx|O\:\d\d\d\d) //;
 	}
 
     #
 	#  Calculate based on the data. 
 	#
+	#  Commented out for now.
+	#
     method calc-NIL {
-		my $str = &.study-uwp;
+		#my $str = &.study-uwp;
 
 		$!calculatedNIL = "";
 
@@ -392,8 +395,8 @@ class UWP is export {
 		#$!calculatedNIL = "(CXN)"  if $str ~~ /^..0<[2..9DEF]>.0..\-<[^0]>$/;		# extinct
 		#$!calculatedNIL = "(CEXN)" if $str ~~ /^..<[ABC]>.0..\-<[^0]>$/;    		# extinct
 
-		$!calculatedNIL = "(ENIL)" if $str ~~ /^..<[ABC]>.<[789A..F]>/;
-		$!calculatedNIL = "(NIL)"  if $str ~~ /^..<[2..9DEF]>.<[789A..F]>/;
+		#$!calculatedNIL = "(ENIL)" if $str ~~ /^..<[ABC]>.<[789A..F]>/;
+		#$!calculatedNIL = "(NIL)"  if $str ~~ /^..<[2..9DEF]>.<[789A..F]>/;
 	}
 
 	method calc-tl( $tldm ) {

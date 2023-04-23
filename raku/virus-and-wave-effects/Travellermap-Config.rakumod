@@ -63,7 +63,9 @@ class Travellermap-Config is export {
     	push @out, "\tDefault Order    \t " ~ @!order;
 		push @out, "\tWave Exit year   \t $!exit-year";
 		push @out, "\tCOW location     \t " ~ %!wave-preserve-area<center> if %!wave-preserve-area;
-		push @out, "\tVirus preserves  \t " ~ $!virus-preserve-allegiances if $!virus-preserve-allegiances;		
+		push @out, "\tVirus preserves  \t " ~ $!virus-preserve-allegiances if $!virus-preserve-allegiances;	
+		push @out, "\tV preserve hexes \t " ~ $!virus-preserve-hexes       if $!virus-preserve-hexes;
+		push @out, "\tV kill hexes     \t " ~ $!virus-kill-hexes           if $!virus-kill-hexes;	
 		return @out.join( "\n" );
 	}
 
