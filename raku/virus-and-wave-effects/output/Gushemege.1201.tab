@@ -1,536 +1,536 @@
 Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance	Stars	{Ix}	(Ex)	[Cx]	Nobility	W	RU
-Gush	I	0125	Hannrii	X565523-2	 	       Ag Pr Ni 		404	ImDv	M2 V	-2	(743-3)	[4344]	BcC	9	-252
-Gush	I	0126	Egurgadi	X65A300-7	 	     Lo Wa 		303	ImDv	K1 V	-3	(420+1)	[2178]	B	9	8
-Gush	I	0130	Praodelf	XAB6000-A	 	     Di Fl (ENIL)		000	ImDv	G4 V M1 V	-1	(A00-2)	[0000]	B	13	-20
-Gush	M	0131	Sirir	X796443-2	 	    Fo  Ni Pa (NIL)	B	423	ImDv	K3 V	-3	(B31+5)	[2163]	Bc	12	165
-Gush	M	0132	Aapu	X560233-5	 	     De Lo 		400	ImDv	K1 V M2 V	-3	(510+3)	[1171]	B	13	15
-Gush	M	0135	Maerol	X200000-8	 	     Di Na Pi Va 		002	ImDv	K1 V	-3	(B00-4)	[0000]	BD	9	-44
-Gush	M	0136	Choltonrul	X587101-4	 	     TapaW  Lo 		424	ImDv	M0 V	-3	(600-1)	[1171]	B	10	-6
-Gush	M	0137	Ushulu	X782000-8	 	     Pz  Di (NIL)		000	ImDv	M0 V M4 V	-3	(B00-2)	[0000]	B	13	-22
-Gush	M	0138	Roolyz	X433000-B	 	     Di Po 		022	ImDv	G8 V M3 V M0 V	-1	(700+1)	[0000]	B	12	7
-Gush	M	0140	Joutect	X768250-3	 	     Lo 		700	ImDv	M0 V M7 V	-3	(310+1)	[4191]	B	12	3
-Gush	I	0222	Daze	X776247-4	 	     Lo 		800	ImDv	K7 V	-3	(510+2)	[2116]	B	6	10
-Gush	I	0223	Abalesk	X433000-C	 	     Di Po 		013	ImDv	M0 V	-1	(B00-5)	[0000]	B	13	-55
-Gush	I	0227	Stoend	X86A778-5	 	     Ri Wa (NIL)	B	324	ImDv	M2 V	-1	(966+5)	[4683]	BC	13	1620
-Gush	I	0228	Barren	X652000-0	 	    Fo  Ba Po 		000	ImDv	M1 V M2 V	-3	(200+1)	[0000]	B	13	2
-Gush	I	0229	Foussough	X6536AA-5	 	     Ni Po 		400	ImDv	K0 V M5 V	-3	(850+4)	[7365]	B	13	160
-Gush	I	0230	Estos	X425000-D	 	     Di 		005	ImDv	K2 V M6 V M1 V	-1	(D00-3)	[0000]	B	15	-39
-Gush	M	0231	Hentor	X503000-7	 	      Di Ic Va 		022	ImDv	M3 V D	-3	(700+3)	[0000]	B	16	21
-Gush	M	0233	Abaelou	X695245-3	 	    (eskalth)0  Lo 	B	503	ImDv	M1 V	-3	(510+1)	[3122]	B	11	5
-Gush	M	0236	Gihmentahlish	C895544-5	 	     Ag Ni 	B	522	ImDv	K7 V	-1	(740+1)	[3495]	BC	15	28
-Gush	M	0237	Strand	X548479-5	 	     Ni Pa (NIL)		302	ImDv	G4 V	-3	(B31+1)	[3145]	Bc	9	33
-Gush	M	0239	Ounash	X420000-7	 	     Fo  De He Di Po 		004	ImDv	K9 V	-3	(500-1)	[0000]	B	8	-5
-Gush	I	0327	Fay	X540000-9	 	      De He Di Po 		022	ImDv	M0 V M7 V	-2	(C00+1)	[0000]	B	8	12
-Gush	I	0328	Manuri	X543446-3	 	      Ni Po 	B	502	ImDv	K8 V M8 V	-3	(632-1)	[7111]	B	9	-36
-Gush	I	0329	Somit	X55A124-4	 	    Fo  Lo Wa 		200	ImDv	M0 V	-3	(500+1)	[1171]	B	12	5
-Gush	M	0332	Blezon	X572455-4	 	    Fo  He Ni 		223	ImDv	K2 V M8 V	-3	(630+1)	[4153]	B	12	18
-Gush	M	0333	Vaelouf	X537000-9	 	     Di 		011	ImDv	M0 V	-2	(700+1)	[0000]	B	8	7
-Gush	M	0334	Endran	X515000-A	 	     Di Ic 		003	ImDv	K3 IV M6 V	-1	(600+1)	[0000]	B	12	6
-Gush	M	0338	Phoenaeg	X560479-2	 	     Droy3   De Ni (NIL)		213	ImDv	G0 V M1 V	-3	(A30-2)	[9171]	B	12	-60
-Gush	M	0339	Sagal	X887ADA-5	 	    Fo  Ga Hi (NIL)	B	913	ImDv	K1 V M0 V	-1	(C99-2)	[B985]	BE	7	-1944
-Gush	I	0422	Rucciset	X514000-B	 	     Di Ic 		012	ImDv	K0 V	-1	(A00+3)	[0000]	B	7	30
-Gush	I	0428	Charlotte	X565154-0	 	     Lo 	B	400	ImDv	K6 V	-3	(500-1)	[1142]	B	11	-5
-Gush	M	0432	Trichach	D573445-6	 	     Ni 		204	ImDv	K8 V M9 V	-3	(630+2)	[8125]	B	13	36
-Gush	M	0433	Cemloch	X646778-5	 	      Ag Pi (NIL)	B	405	ImDv	M2 V	-1	(963+1)	[7665]	BCD	8	162
-Gush	M	0434	Nemeet	X430000-8	 	    Pz  De Di Na Po (NIL)		004	ImDv	M2 V	-3	(D00+1)	[0000]	B	9	13
-Gush	M	0435	Gwelbyph	X423000-8	 	      Di Po 		005	ImDv	K3 V	-3	(C00-1)	[0000]	B	8	-12
-Gush	M	0436	Flaslousk	X543556-4	 	     Ni Po 		510	ImDv	M4 V	-3	(741-3)	[7284]	B	12	-84
-Gush	M	0437	Jaeyelya	D58467A-6	 	     (Ael Yael)  Ag Ri Ni 		802	ImDv	K6 V	-1	(855+5)	[8557]	BC	10	1000
-Gush	M	0438	Lem	X532000-8	 	     Di Po 		000	ImDv	M1 V M3 V	-3	(400-2)	[0000]	B	10	-8
-Gush	M	0439	Dimkodrarn	X553457-3	 	      Ni Po 	B	203	ImDv	G0 V	-3	(630+2)	[1141]	B	13	36
-Gush	E	0517	Imaniik	D968899-3	 	    An ChirW  Pa Ri Ph (NIL)	B	124	ImDv	M0 V	-1	(975+4)	[7711]	BcCe	9	1260
-Gush	I	0526	Kinurgii	X200000-8	 	     Di Va 		022	ImDv	K3 V	-3	(800+1)	[0000]	B	9	8
-Gush	I	0527	Armec-Zamaa	X895378-5	 	     Lo 	B	503	ImDv	G3 V M7 V	-3	(520+1)	[1147]	B	11	10
-Gush	I	0529	Priinargh	X584200-6	 	     Lo 		110	ImDv	M2 V M4 V	-3	(310-4)	[2118]	B	11	-12
-Gush	I	0530	Burle's Point	X662121-3	 	     Lo 		402	ImDv	K3 V M2 V	-3	(400-1)	[1152]	B	7	-4
-Gush	M	0531	Rake	X425000-A	 	     Di 		002	ImDv	K3 V M4 V	-1	(900-1)	[0000]	B	13	-9
-Gush	M	0532	Soel	X8A5000-8	 	   Pz  Di Fl (ENIL)		002	ImDv	K0 V M1 V	-3	(B00-2)	[0000]	B	14	-22
-Gush	M	0536	Imagalu	D967976-5	 	      Hi Pr (NIL)	B	104	ImDv	M0 V	-1	(A87+4)	[E854]	BcE	13	2240
-Gush	M	0537	Wols	X764000-5	 	     Di 		000	ImDv	M0 V M4 V	-3	(300-3)	[0000]	B	11	-9
-Gush	A	0610	Habelut	X86A7CC-6	 	    Pz  Ri Wa (NIL)	B	202	NaHu	K3 V	-1	(964+1)	[A655]	BC	7	216
-Gush	E	0614	Deychavilosta	X200000-9	 	     Di Va 		024	ImDv	M2 V	-2	(D00-2)	[0000]	B	9	-26
-Gush	E	0617	Bubenel	X779100-3	 	     Lo 		512	ImDv	M3 V M7 V	-3	(400+1)	[1154]	B	6	4
-Gush	I	0623	Hartesh	X657552-3	 	     Ag Ga Ni 		205	ImDv	M1 V	-2	(740-1)	[8347]	BC	10	-28
-Gush	I	0626	Thelkourd	E560745-4	 	    Pz  De Ri (NIL)	B	513	ImDv	K4 V M5 V	-1	(966-3)	[2661]	BC	9	-972
-Gush	I	0627	Guhnesh	E757146-5	 	     Ga Lo 		400	ImDv	M2 V M2 V	-3	(400+3)	[1123]	B	13	12
-Gush	I	0628	Norton	D571458-8	 	     He Ni 		202	ImDv	K3 V M2 V M1 V	-3	(833-5)	[315A]	B	5	-360
-Gush	I	0630	Orren Station	D545830-9	 	      Pa Pi Ph (NIL)	B	124	ImDv	G4 V M6 V	-1	(F72+1)	[D764]	BcDe	10	210
-Gush	M	0631	Homage	D594674-5	 	    Da  Ag Ni 		612	ImDv	M2 V	-2	(850+1)	[9417]	BC	6	40
-Gush	M	0632	Vipach	X738000-A	 	     Di 		010	ImDv	K4 V M5 V	-1	(700+3)	[0000]	B	14	21
-Gush	M	0634	Sern	XAE6000-7	 	      Di 		000	ImDv	M0 V	-3	(400-1)	[0000]	B	10	-4
-Gush	M	0639	Asiilish	X565130-4	 	      Lo 	B	214	ImDv	K3 V M4 V M4 V	-3	(600+1)	[1151]	B	13	6
-Gush	M	0640	Chezpan	X200000-B	 	     Di Na Pi Va 		002	ImDv	K4 V M2 V	-1	(B00+1)	[0000]	BD	9	11
-Gush	E	0718	Pannolk	X79A432-1	 	     Ni Wa 		500	ImDv	M0 V	-3	(730+1)	[31A1]	B	13	21
-Gush	I	0722	Younis	X310000-C	 	     Di 		004	ImDv	K3 V	-1	(B00+2)	[0000]	B	8	22
-Gush	I	0723	Inapiirn	D542886-9	 	     (pethi)  He Ph Pi Po (NIL)		210	ImDv	G2 V	-1	(B72-4)	[875D]	BDe	12	-616
-Gush	I	0725	Tungohl	X411000-E	 	     Di Ic 		014	ImDv	M3 V M4 V	-1	(900+3)	[0000]	B	16	27
-Gush	I	0727	Hulr	X73A000-9	 	     Di Wa (NIL)		014	ImDv	M2 V M5 V	-2	(G00+5)	[0000]	B	8	80
-Gush	I	0728	Wenton	X433000-A	 	     Di Po 		000	ImDv	M2 V	-1	(700-1)	[0000]	B	7	-7
-Gush	I	0729	Jousta	X300000-D	 	     Di Va 		022	ImDv	M3 V	-1	(B00-4)	[0000]	B	12	-44
-Gush	M	0732	Th'dir	X100000-E	 	     Di Va 		013	ImDv	M4 V	-1	(A00+1)	[0000]	B	10	10
-Gush	M	0733	Dendaash	X9C7000-B	 	     Di Fl 		004	ImDv	A6 V M6 V	-1	(900-3)	[0000]	B	15	-27
-Gush	M	0737	Zamashuug	X585133-3	 	     Lo 		100	ImDv	K6 V M3 V	-3	(300+1)	[11A6]	B	13	3
-Gush	M	0738	Dikaash	X627000-D	 	      Di In (NIL)		001	ImDv	M4 V	0	(C00-4)	[0000]	BE	13	-48
-Gush	M	0740	Wilson	X100000-B	 	     Di Va 		000	ImDv	M2 V M4 V	-1	(500-1)	[0000]	B	13	-5
-Gush	A	0803	Menguno	X7B2000-8	 	      Di Fl He 		000	CsIm	K1 V M3 V	-3	(800+1)	[0000]	B	7	8
-Gush	A	0810	Gelhhach	X558656-6	 	    (Hhrachddrumm)  Ag Ni 		301	NaHu	M3 V M3 V	-2	(850-3)	[5468]	BC	13	-120
-Gush	E	0813	Kkoymjirad	X555541-4	 	     Ag Ni 		500	ImDv	K4 V	-2	(743-3)	[9384]	BC	7	-252
-Gush	E	0820	Asshashur	E576632-8	 	      Ag Ni 		520	ImDv	M3 V	-2	(A52-2)	[4455]	BC	8	-200
-Gush	I	0824	Nonescue	X547222-6	 	     Lo 		605	ImDv	K1 V M1 V	-3	(510+3)	[3174]	B	10	15
-Gush	I	0826	Delaag	X8B3000-B	 	     Di Fl (ENIL)		013	ImDv	M3 V M5 V	-1	(E00-2)	[0000]	B	10	-28
-Gush	I	0827	Loniva	X203000-8	 	      Di Ic Va 		005	ImDv	M2 V	-3	(900-3)	[0000]	B	11	-27
-Gush	I	0829	Query	X645443-2	 	     Ni Pa 	B	302	ImDv	K2 V	-3	(630+1)	[1162]	Bc	12	18
-Gush	M	0831	Tenraash	X79A440-1	 	     Ni Wa 	B	402	ImDv	G4 V	-3	(730-1)	[2132]	B	8	-21
-Gush	M	0839	Ginupa	X559447-3	 	    Pz  Ni (NIL)		403	ImDv	G0 V	-3	(B30-1)	[7163]	B	11	-33
-Gush	M	0840	Teuterom	X502000-C	 	      Di Ic Va 		013	ImDv	M2 V M4 V	-1	(A00-5)	[0000]	B	7	-50
-Gush	F	0912	Gakhamesh	D68369C-5	 	     Ni Ri 		200	ImDv	K7 V	-2	(853+1)	[2456]	BC	6	120
-Gush	F	0914	Chulesh	E5756B9-6	 	    Da   Ag Ni 		313	ImDv	K4 V M9 V	-2	(850+1)	[A431]	BC	12	40
-Gush	F	0920	Drayrk	X550567-2	 	     De Ni Po 	B	203	ImDv	M0 V M2 V	-3	(740-3)	[5231]	B	9	-84
-Gush	J	0921	Obarr	X534000-B	 	     Di 		004	ImDv	M3 V	-1	(C00+4)	[0000]	B	7	48
-Gush	J	0922	Chang	X775120-1	 	     Lo 	B	603	ImDv	K2 V	-3	(300+2)	[3161]	B	9	6
-Gush	J	0923	Liini	XA9A9CB-8	 	     Hi Oc Pi (NIL)	B	102	ImDv	M0 V M0 V	-1	(D86-1)	[D82C]	BDE	10	-624
-Gush	J	0924	Zilu	X426000-B	 	    Da  Di 		001	ImDv	M2 V M6 V	-1	(600-5)	[0000]	B	5	-30
-Gush	J	0925	Tamesh	X87A000-9	 	    Di Pi Wa (NIL)		002	ImDv	M1 V	-2	(B00+1)	[0000]	BD	7	11
-Gush	J	0926	Igamaal	D557643-9	 	      Ag Ni 		503	ImDv	M2 V M6 V M7 V	-1	(B53+2)	[6584]	BC	13	330
-Gush	J	0927	Saol	X678454-7	 	     Ni Pa 		221	ImDv	G5 V	-3	(631+1)	[1157]	Bc	13	18
-Gush	J	0928	Ongelbal	E692227-6	 	     He Lo 		213	ImDv	M2 V	-3	(510-4)	[3173]	B	13	-20
-Gush	J	0930	Dehruu	X542573-6	 	     He Ni Po 		223	ImDv	M2 V	-3	(740-3)	[6264]	B	10	-84
-Gush	N	0933	Taalish	X572500-4	 	     He Ni 		203	ImDv	M2 V M4 V	-3	(742+2)	[3243]	B	12	112
-Gush	N	0934	Eycoltou	E887300-7	 	     Ga Lo 		901	ImDv	M3 V M8 V	-3	(320+1)	[5139]	B	9	6
-Gush	N	0935	Lemantine	X865300-3	 	     Ga Lo 	B	200	ImDv	G1 V M6 V	-3	(420+2)	[5142]	B	12	16
-Gush	N	0936	Baalaansh	E5616A9-6	 	     Ni Ri 		504	ImDv	G4 V M5 V	-2	(850+1)	[647A]	BC	10	40
-Gush	N	0937	Gamaliss	X572440-8	 	     He Ni 		500	ImDv	F3 V	-3	(630+1)	[513B]	B	12	18
-Gush	N	0940	Swinedune	X000000-8	 	      As Va Di 		000	ImDv	K3 V	-3	(700-2)	[0000]	B	9	-14
-Gush	F	1013	Munnarn	X410000-F	 	     Di 		002	ImDv	M3 V M5 V	-1	(900-4)	[0000]	B	11	-36
-Gush	F	1015	Usdiki	X66496E-1	 	     Pz  Hi Pr (NIL)	B	503	ImDv	M0 V M0 V M9 V	-1	(B85+1)	[A855]	BcE	10	440
-Gush	F	1018	Toraago	X544445-6	 	     Ni Pa 		400	ImDv	M0 V M3 V	-3	(630+5)	[1187]	Bc	10	90
-Gush	F	1019	Lishuggi	B56566A-4	 	      Ag Ri Ni 		814	ImDv	M0 V M2 V	1	(853+1)	[3782]	BC	13	120
-Gush	F	1020	Shir	X100000-F	 	     Di Na Va 		004	ImDv	M2 V	-1	(C00+1)	[0000]	B	7	12
-Gush	J	1021	Bragg	E571147-3	 	     He Lo 		200	ImDv	K9 V M9 V	-3	(500-2)	[3113]	B	6	-10
-Gush	J	1023	Lorris	X420000-B	 	      De He Di Po 		015	ImDv	K3 V	-1	(B00-3)	[0000]	B	15	-33
-Gush	J	1025	Ienda	E767400-6	 	      Ga Ni Pa 		404	ImDv	M2 V M8 V	-3	(630-4)	[4164]	Bc	11	-72
-Gush	J	1026	Fiaf	X78A456-4	 	     Ni Wa 		300	ImDv	M3 V	-3	(630+1)	[8163]	B	9	18
-Gush	J	1027	Taluu	X200000-A	 	      Di Na Pi Va 		022	ImDv	M0 V M9 V	-1	(E00-2)	[0000]	BD	7	-28
-Gush	J	1029	Justine	E570676-8	 	      De He Ni 		702	ImDv	M2 V	-3	(A50+1)	[6356]	B	7	50
-Gush	N	1033	Nukyls	C54069A-7	 	      De He Ni Po 	B	811	ImDv	K2 V	-2	(852-2)	[5464]	B	10	-160
-Gush	N	1036	Maernon	X678672-3	 	     Ag Ni 	B	303	ImDv	G0 V M3 V	-2	(850-1)	[8461]	BC	12	-40
-Gush	N	1038	Sharim	X435000-F	 	      Di (NIL)		000	ImDv	M3 V	-1	(B00+4)	[0000]	B	7	44
-Gush	N	1039	He'alaan'drl	X424000-7	 	     Di Px 		001	ImDv	K0 V M8 V	-3	(700-4)	[0000]	B	9	-28
-Gush	F	1118	Heffone	X433000-C	 	     Di Px Po 		000	ImDv	K5 V	-1	(700-2)	[0000]	B	9	-14
-Gush	F	1119	Aintrin	X637000-C	 	     Di 		014	ImDv	M3 V M6 V	-1	(D00+1)	[0000]	B	9	13
-Gush	F	1120	Vlu'da'rin	X504000-8	 	       Di Ic Va 		004	ImDv	M1 V M2 V M8 V	-3	(B00+1)	[0000]	B	10	11
-Gush	J	1122	Panisse	X436000-6	 	    Fo  Di 		013	ImDv	M2 V	-3	(600-2)	[0000]	B	15	-12
-Gush	J	1123	Rumulaar	D88A222-4	 	     Lo Wa 		901	ImDv	M2 V	-3	(410+3)	[1152]	B	6	12
-Gush	J	1124	Creca	X524000-A	 	    Di Px 		012	ImDv	K2 V	-1	(A00+1)	[0000]	B	12	10
-Gush	J	1125	Hanseat	X300000-C	 	     Di Va 		000	ImDv	K4 V	-1	(700-1)	[0000]	B	13	-7
-Gush	J	1127	Unuv	X423000-0	 	    Fo (minor)  Ba Po 		002	ImDv	M2 V M9 V	-3	(200-1)	[0000]	B	6	-2
-Gush	J	1128	Kaakaa	X550556-3	 	     De Ni Po 	B	402	ImDv	K4 V	-3	(740+4)	[1287]	B	8	112
-Gush	J	1129	Intnalta	X420000-E	 	      De He Di Po 		013	ImDv	M1 V M4 V	-1	(A00-4)	[0000]	B	11	-40
-Gush	N	1133	Kemshigesh	X532000-8	 	     Di Po 		013	ImDv	K2 V M8 V	-3	(B00+1)	[0000]	B	10	11
-Gush	N	1135	Podero	X565786-5	 	      Ag Ri (NIL)	B	613	ImDv	M0 V	0	(966-2)	[7715]	BC	7	-648
-Gush	N	1136	Uin	X543567-2	 	     Ni Po 	B	303	ImDv	K0 V	-3	(741-2)	[5212]	B	14	-56
-Gush	N	1137	Draerch	X312000-D	 	     Di Ic Na 		000	ImDv	M2 V M3 V M6 V	-1	(800+1)	[0000]	B	12	8
-Gush	N	1139	Weaf	X777777-7	 	      Ag Pi (NIL)	B	202	ImDv	K0 V	-1	(968+2)	[4637]	BCD	15	864
-Gush	N	1140	Rellena	X898300-2	 	     Lo 	B	510	ImDv	K2 V M6 V M0 V	-3	(420+4)	[3153]	B	11	32
-Gush	B	1209	Fementok	X426000-B	 	     Di 		023	ImDv	G7 V	-1	(B00-2)	[0000]	B	11	-22
-Gush	F	1213	Ushamdidishar	X8C3000-B	 	     Di Fl 		025	ImDv	M1 III	-1	(F00+3)	[0000]	B	11	45
-Gush	J	1221	Coernelf	X410000-7	 	     Di 		002	ImDv	M2 V	-3	(700+2)	[0000]	B	6	14
-Gush	J	1223	Syrol	X5636BE-6	 	    Da   Ni Ri 		503	ImDv	F5 V	-2	(851+1)	[442B]	BC	10	40
-Gush	J	1225	Forgane	X421000-E	 	     Di He Po 		024	ImDv	M3 V	-1	(B00-1)	[0000]	B	11	-11
-Gush	J	1227	Iest	X431000-A	 	     Droy3  Di Na Po 		024	ImDv	M2 V	-1	(E00+2)	[0000]	B	9	28
-Gush	J	1228	Indurain	X555543-7	 	     Ag Ni 		303	ImDv	M2 V	-2	(744-4)	[831B]	BC	9	-448
-Gush	N	1231	Find	X675414-4	 	     Ni Pa 	B	223	ImDv	M2 V	-3	(632-1)	[1121]	Bc	8	-36
-Gush	N	1233	Mercator	E54048A-7	 	      De He Ni Po 		303	ImDv	G1 V	-3	(630+2)	[518B]	B	8	36
-Gush	N	1234	Sidur Ishki	X312000-F	 	      (Sidurii)  Di Ic Na In 		020	ImDv	M0 V M0 V	0	(D00+1)	[0000]	BE	6	13
-Gush	N	1235	Icon	X434000-7	 	    Di Px 		015	ImDv	K1 V	-3	(800-2)	[0000]	B	9	-16
-Gush	N	1236	Shiiki	X55166F-1	 	     Ni Po (NIL)	B	710	ImDv	G0 V	-3	(B53-1)	[8365]	B	12	-165
-Gush	N	1237	Gumahler	X6557AC-2	 	    Fo (Gumahl)  Ag Ga (NIL)	B	305	ImDv	K1 V M6 V	-1	(963+2)	[7681]	BC	8	324
-Gush	N	1239	Zalanor	X100000-A	 	     Di Na Va 		024	ImDv	G7 V M3 V	-1	(E00+5)	[0000]	B	9	70
-Gush	B	1308	Loskuuatav	X544669-5	 	     Ag Ni 		704	ImDv	G3 V M0 V	-2	(853+1)	[9487]	BC	13	120
-Gush	F	1319	Chansingol	X57067C-4	 	      De He Ni 		312	ImDv	K3 V	-3	(850+2)	[5344]	B	10	80
-Gush	J	1321	Lish	X665237-4	 	     Ga Lo 		321	ImDv	M0 V M5 V	-3	(510-1)	[1185]	B	13	-5
-Gush	J	1322	Berall	X587110-1	 	     Lo 	B	704	ImDv	G9 V	-3	(500+2)	[6111]	B	9	10
-Gush	J	1328	Vesuata	X430000-D	 	     De Di Po 		003	ImDv	K4 V M9 V M9 V	-1	(900-1)	[0000]	B	7	-9
-Gush	N	1331	Camal	X421000-8	 	      Di He Na Po 		003	ImDv	G9 IV M6 V	-3	(B00+5)	[0000]	B	10	55
-Gush	N	1333	Wingate	X87766B-1	 	      Ag Ni 	B	200	ImDv	M0 V	-2	(852+4)	[34A2]	BC	9	320
-Gush	N	1334	Sidur Haski	X786111-1	 	     Ga Lo 	B	120	ImDv	M0 V	-3	(500-3)	[1151]	B	13	-15
-Gush	N	1337	Thon	D745569-4	 	     Ag Ni 	B	310	ImDv	K4 V	-2	(742-3)	[8341]	BC	14	-168
-Gush	N	1340	Depsorn	X543226-3	 	    O:Ilel-1101  Lo Po 		703	ImDv	F7 V M3 V	-3	(510+1)	[3156]	B	12	5
-Gush	B	1407	Assunne	XAE7000-9	 	     Di 		021	ImDv	K0 V M8 V	-2	(600-2)	[0000]	B	7	-12
-Gush	F	1412	Platon	X83A000-F	 	      Di Wa 		020	ImDv	M3 V	-1	(800+2)	[0000]	B	7	16
-Gush	F	1414	Lanaas	X999455-5	 	     Ni 	B	504	ImDv	K0 V	-3	(632+1)	[1118]	B	10	36
-Gush	F	1417	Guzrin	X836000-7	 	     Di 		025	ImDv	K8 V	-3	(400-3)	[0000]	B	12	-12
-Gush	J	1422	Yellsar	E562853-5	 	     Ph Ri (NIL)		803	ImDv	G2 V M8 V	-1	(A7A+2)	[6746]	BCe	13	1400
-Gush	J	1423	Fairbriar	X411000-B	 	     Di Ic Na Pi 		004	ImDv	M0 V	-1	(D00+3)	[0000]	BD	11	39
-Gush	J	1425	Diro	X000000-D	 	      As Va Di 		003	ImDv	G8 V	-1	(800+1)	[0000]	B	10	8
-Gush	J	1426	Tikav	C563885-7	 	       Ph Ri (NIL)	B	704	ImDv	M1 V M2 V	0	(A7B+1)	[584A]	BCe	13	770
-Gush	J	1430	Xerxes	X526000-C	 	     Di 		000	ImDv	M2 V M7 V	-1	(700+1)	[0000]	B	13	7
-Gush	N	1431	Arailiur	X500000-A	 	     Di Va 		000	ImDv	G8 V M4 V	-1	(300-2)	[0000]	B	12	-6
-Gush	N	1432	Confex	XAC5000-A	 	     Di Fl 		020	ImDv	M0 V	-1	(500-1)	[0000]	B	13	-5
-Gush	N	1433	Vueegmala	X629000-8	 	     Di 		003	ImDv	M2 V M6 V	-3	(A00-1)	[0000]	B	13	-10
-Gush	N	1434	Tromiishur	X626000-B	 	     Di Pi (NIL)		024	ImDv	M0 V M7 V	-1	(F00+1)	[0000]	BD	12	15
-Gush	N	1439	Shupin	X9599EE-8	 	      Hi (NIL)	B	304	ImDv	M2 V	-1	(F88-1)	[9879]	BE	10	-960
-Gush	N	1440	Ovchek	X635000-E	 	     Di 		000	ImDv	M0 V M9 V	-1	(400-3)	[0000]	B	6	-12
-Gush	B	1507	Puumariash	X300000-C	 	     Pz  Di Na Pi Va 		004	ImDv	K5 V M2 V	-1	(E00+5)	[0000]	BD	11	70
-Gush	B	1510	Opiwiath	X543400-3	 	     Ni Po 	B	400	ImDv	K2 V	-3	(630+3)	[6155]	B	12	54
-Gush	F	1512	Gagushilaag	X57156A-3	 	     He Ni 	B	202	ImDv	G1 V	-3	(740-3)	[5257]	B	14	-84
-Gush	F	1518	Divkar	X58248B-5	 	       Ni 		614	ImDv	M3 V	-3	(730+1)	[8158]	B	10	21
-Gush	F	1519	Higli	E561844-5	 	     Ph Ri (NIL)	B	300	ImDv	M3 V M7 V	-1	(A79+5)	[5764]	BCe	13	3150
-Gush	F	1520	Mentule	X651135-4	 	     Lo Po (NIL)		903	ImDv	K4 V M1 V	-3	(A00+1)	[1172]	B	8	10
-Gush	J	1521	Haysher	E764873-5	 	     Pz  Pa Ri Ph (NIL)	B	303	ImDv	G9 V M0 V	-1	(A72-2)	[B717]	BcCe	8	-280
-Gush	J	1522	Cervantes	D567674-7	 	       Ag Ri Ni 		211	ImDv	M2 V	-1	(854+5)	[6579]	BC	11	800
-Gush	J	1523	Colehco	XAE7000-A	 	    GrayW  Di 		023	ImDv	M3 V M7 V	-1	(900+2)	[0000]	B	10	18
-Gush	J	1525	Andonin	X410000-B	 	     Di 		003	ImDv	K9 V	-1	(700-2)	[0000]	B	15	-14
-Gush	J	1526	Griissound	X562577-4	 	     Ni Pr 		312	ImDv	M0 V	-3	(740+1)	[5276]	Bc	6	28
-Gush	J	1528	Whiapluur	X598521-3	 	     Ag Ni 	B	213	ImDv	G2 V M5 V	-2	(744+3)	[9375]	BC	10	336
-Gush	J	1529	Twahoy	X541451-6	 	     He Ni Po 		404	ImDv	M1 V M1 V	-3	(632-1)	[5177]	B	10	-36
-Gush	J	1530	Hemster	X420000-B	 	      De He Di Po 		005	ImDv	M0 V	-1	(C00-2)	[0000]	B	14	-24
-Gush	N	1531	Oneria	X787432-3	 	     Ga Ni Pa 		305	ImDv	M2 V	-3	(630-1)	[6157]	Bc	15	-18
-Gush	N	1532	Polygamy	C549613-7	 	     Ni 		900	ImDv	K3 V	-2	(854+1)	[9448]	B	13	160
-Gush	N	1534	Sinerhk	X656645-4	 	     Ag Ga Ni 	B	304	ImDv	G1 V M6 V M2 V	-2	(854-1)	[3487]	BC	8	-160
-Gush	N	1539	Here	X543769-6	 	      Po (NIL)	B	103	ImDv	K4 V	-2	(962+3)	[6565]	B	14	324
-Gush	N	1540	Chiras	X555222-4	 	     Lo 		203	ImDv	M0 V	-3	(510+1)	[1141]	B	8	5
-Gush	B	1605	Maa	X100000-9	 	     Pz  Di Na Pi Va 		004	ImDv	M0 V M6 V	-2	(E00+1)	[0000]	BD	7	14
-Gush	F	1612	Booce	E899476-4	 	     Ni 	B	300	ImDv	M2 V	-3	(631+1)	[51A5]	B	12	18
-Gush	F	1613	Lendaarii	X798455-4	 	     Ni Pa 	B	402	ImDv	M4 V	-3	(631-1)	[5117]	Bc	11	-18
-Gush	F	1615	Abir	D545613-8	 	      Ag Ni 		603	ImDv	M0 V	-2	(B50+3)	[8438]	BC	8	165
-Gush	F	1616	Imaparlu	X556972-5	 	     Hi (NIL)	B	304	ImDv	G1 V	-1	(B86+2)	[8853]	BE	10	1056
-Gush	F	1618	Gabradio	X611000-D	 	     Di Ic Na Pi 		035	ImDv	M0 V M7 V	-1	(H00+3)	[0000]	BD	12	51
-Gush	F	1619	Engallent	X550102-3	 	     De Lo Po (NIL)		721	ImDv	K9 V	-3	(A00+3)	[3116]	B	12	30
-Gush	F	1620	Kerek	X000000-C	 	      As Va Di Na 		003	ImDv	G5 III D	-1	(B00+1)	[0000]	B	10	11
-Gush	J	1622	Blullaygh	E648440-5	 	     Ni Pa 		303	ImDv	K1 V	-3	(633-2)	[11A2]	Bc	10	-108
-Gush	J	1623	Fraynj	D848569-2	 	     Ag Ni 	B	200	ImDv	K3 IV	-2	(741-1)	[9353]	BC	9	-28
-Gush	J	1624	Leraag	X520000-9	 	      De He Di Po 		003	ImDv	M0 V M1 V	-2	(900+1)	[0000]	B	6	9
-Gush	J	1625	Emur	D564579-6	 	      Ag Pr Ni 		214	ImDv	G0 V	-2	(742+2)	[5398]	BcC	9	112
-Gush	J	1627	Nuuhlam	X400000-9	 	     Di Va 		022	ImDv	M3 V	-2	(700-2)	[0000]	B	13	-14
-Gush	J	1629	Pesuune	X534000-A	 	     Di 		015	ImDv	K1 V M1 V	-1	(D00-2)	[0000]	B	9	-26
-Gush	N	1637	Zinzan	X433000-B	 	      Di Na Po 		004	ImDv	K3 V	-1	(C00+2)	[0000]	B	17	24
-Gush	N	1638	Budeeshou	X597373-5	 	      Lo 		904	ImDv	G2 V	-3	(620-2)	[6147]	B	12	-24
-Gush	N	1640	Llest	E78A335-6	 	     Lo Wa 		803	ImDv	M0 V	-3	(420+1)	[7145]	B	8	8
-Gush	C	1702	Eesonwiy	E5475AA-5	 	     Ag Ni 	B	422	ImDv	F6 V M0 V	-2	(741+2)	[A339]	BC	7	56
-Gush	G	1712	Gaanriigashii	D757410-7	 	     Ga Ni Pa 		304	ImDv	K8 V	-3	(632-1)	[6155]	Bc	7	-36
-Gush	G	1715	Vehko	C665651-8	S	      Ag Ri Ga Ni 	B	315	ImDv	M1 V M2 V	0	(E55+1)	[864B]	BC	12	350
-Gush	G	1717	Arsuch	X566494-4	 	     Ni Pa 	B	504	ImDv	G0 V M8 V	-3	(633-2)	[5132]	Bc	8	-108
-Gush	G	1718	Iktaakas	D74A103-5	 	     Lo Wa 		810	ImDv	M3 V M3 V	-3	(300+2)	[1162]	B	12	6
-Gush	K	1721	Guslas	X000000-8	 	      As Va Di Na 		000	ImDv	M2 V	-3	(800+1)	[0000]	B	9	8
-Gush	K	1722	Ethbray	C87A124-8	 	     Lo Wa 		203	ImDv	M0 V	-2	(800-3)	[1138]	B	8	-24
-Gush	K	1723	Uurgikhushi	X562530-6	 	     Ni Pr 		203	ImDv	M2 V M3 V	-3	(740+1)	[9286]	Bc	13	28
-Gush	K	1724	Velte	X772434-7	 	     He Ni 		205	ImDv	K6 V M2 V	-3	(633+1)	[3167]	B	8	54
-Gush	K	1727	Stedeng	X424000-8	 	     Di 		020	ImDv	M0 V M2 V	-3	(A00-4)	[0000]	B	10	-40
-Gush	O	1732	Muthi	D873777-6	 	      (NIL)	B	114	ImDv	K6 V M2 V	-2	(966+1)	[9566]	B	8	324
-Gush	O	1733	Arnuukara	X560000-E	 	    Pz  De Di (NIL)		013	ImDv	M2 V	-1	(G00+3)	[0000]	B	7	48
-Gush	O	1734	Arniche	X427000-9	 	      Di 		002	ImDv	K8 V M8 V	-2	(A00+2)	[0000]	B	15	20
-Gush	O	1735	Ushiia	X200000-B	 	     Di Va 		030	ImDv	M3 V	-1	(900+2)	[0000]	B	9	18
-Gush	O	1737	Ceoth	X595130-6	 	     Lo 		614	ImDv	M1 V M2 V	-3	(500+3)	[2145]	B	12	15
-Gush	O	1739	Khii Sheik	X433000-B	 	     Di Px Po 		000	ImDv	K2 V M2 V	-1	(600+1)	[0000]	B	13	6
-Gush	O	1740	Derry	X100000-F	 	     Di Va 		024	ImDv	M2 V	-1	(B00+3)	[0000]	B	9	33
-Gush	C	1801	Roy	X430000-F	 	     De Di Na Po (NIL)		003	ImDv	M0 V	-1	(C00-1)	[0000]	B	12	-12
-Gush	C	1810	Moseesi	X310000-8	 	      Di Na Pi 		000	ImDv	M1 V	-3	(A00+3)	[0000]	BD	9	30
-Gush	G	1811	Crufra	D583400-4	 	     Ni 		404	ImDv	M2 V	-3	(630-4)	[1159]	B	12	-72
-Gush	G	1814	Apay Maru	D5578B8-7	 	    Pa Ph (NIL)	B	104	ImDv	M2 V	-2	(974+1)	[4659]	Bce	10	252
-Gush	G	1815	Temom	X423000-C	 	     Di Po 		020	ImDv	M1 V M5 V	-1	(800+1)	[0000]	B	12	8
-Gush	G	1816	Lumuiimshi	X311000-D	 	     Di Ic 		010	ImDv	M1 V	-1	(800-4)	[0000]	B	14	-32
-Gush	G	1818	Windcrest	X568459-2	 	     Ni Pa 	B	212	ImDv	M2 V	-3	(632+1)	[3195]	Bc	6	36
-Gush	K	1821	Iirshuur	D54417A-6	 	     Lo 		934	ImDv	G2 V M4 V	-3	(500+1)	[1173]	B	10	5
-Gush	K	1822	Ayltha	X54415A-3	 	     Lo 		313	ImDv	G5 V	-3	(500+3)	[1183]	B	13	15
-Gush	K	1823	Tire	XAE5000-B	 	     Di 		012	ImDv	G2 IV	-1	(800-1)	[0000]	B	13	-8
-Gush	K	1826	Dawru	X89A568-2	 	     Ni Wa 	B	300	ImDv	M2 V	-3	(740+1)	[8292]	B	13	28
-Gush	K	1828	Khalun	X200000-8	 	     Di Va 		005	ImDv	M2 V M5 V	-3	(A00-1)	[0000]	B	12	-10
-Gush	O	1832	Oaxaca	X85A252-3	 	    Lo Wa (NIL)		905	ImDv	M1 V M5 V	-3	(910-3)	[1164]	B	11	-27
-Gush	O	1833	Nimshikake	X664577-5	 	      Ag Pr Ni 	B	402	ImDv	M1 V M5 V	-2	(742-3)	[7372]	BcC	7	-168
-Gush	O	1835	Rean	X567567-6	 	       Ag Pr Ni 		203	ImDv	M3 V M9 V	-2	(741-2)	[534A]	BcC	7	-56
-Gush	O	1839	Cholo	E565677-6	 	      Ag Ri Ni 		802	ImDv	M2 V M8 V	-1	(850-1)	[5572]	BC	13	-40
-Gush	C	1905	Trama	X7B2000-C	 	      Di Fl He 		003	ImDv	G0 II	-1	(A00-4)	[0000]	B	6	-40
-Gush	G	1911	Shirkii	E556444-5	 	     Ni Pa 		414	ImDv	M0 V	-3	(631+1)	[4165]	Bc	13	18
-Gush	G	1914	Edjbaston	X76A6B6-7	 	     Ni Ri Wa 		302	ImDv	M2 V	-2	(850-3)	[7425]	BC	9	-120
-Gush	G	1915	Dukshii Em	X88A775-7	 	      Ri Wa 	B	101	ImDv	K2 V	-1	(864+1)	[5643]	BC	8	192
-Gush	G	1916	Oyuch	X550442-4	 	     De Ni Po 	B	300	ImDv	M2 V	-3	(633+1)	[6168]	B	11	54
-Gush	K	1921	Mezregh	X726000-7	 	     Di 		003	ImDv	M1 V	-3	(500+2)	[0000]	B	7	10
-Gush	K	1923	Arcfest	XA69688-3	 	     Ni Ri 	B	210	ImDv	K2 V M3 V	-2	(854+3)	[5445]	BC	9	480
-Gush	K	1924	Toyuysk	X787953-4	 	     Pz DroyW  Ga Hi Pr (NIL)	B	103	ImDv	K8 V	-1	(A86+1)	[C848]	BcE	11	480
-Gush	K	1925	Fay	E778654-6	 	    Da  Ag Ni 	B	521	ImDv	M1 V	-2	(851+5)	[7426]	BC	13	200
-Gush	K	1926	Howarth	X5628C9-7	 	    Pz  Ph Ri (NIL)		613	ImDv	M1 V	-1	(A76+1)	[5769]	BCe	9	420
-Gush	K	1927	Yaektyu	X75A000-5	 	     Di Wa 		003	ImDv	G4 V	-3	(800-2)	[0000]	B	7	-16
-Gush	K	1930	Unlardigard	X310000-E	 	     Pz  Di Na In 		004	ImDv	M2 V	0	(F00+3)	[0000]	BE	9	45
-Gush	O	1932	Hopkins	X567420-2	 	     Ni Pa 		303	ImDv	K3 V	-3	(630-1)	[4141]	Bc	11	-18
-Gush	O	1933	Oyrayt	X586131-6	 	     Lo 		200	ImDv	M0 V	-3	(500-2)	[1172]	B	7	-10
-Gush	O	1935	Aisteaya	X56357A-6	 	    Da la6  Ni Pr 		220	ImDv	M2 V	-3	(742-4)	[6268]	Bc	9	-224
-Gush	O	1936	Atu Ista	X679523-3	 	     Ni 	B	410	ImDv	M2 V	-3	(740-1)	[4231]	B	8	-28
-Gush	C	2007	Ranant	E551A77-6	 	     Hi Po (NIL)	B	102	ImLc	G1 V	-1	(A91-5)	[99A7]	BE	7	-450
-Gush	C	2008	Sypny	E552738-8	 	      Po 		104	ImLc	M3 V M7 V	-2	(C68+4)	[855A]	B	13	2304
-Gush	G	2015	Sadguumishmak	E585652-8	 	      Ag Ri Ni 		910	ImDv	K2 V	-1	(951-3)	[4598]	BC	11	-135
-Gush	G	2018	Rellblud	X540535-5	 	      De He Ni Po 		402	ImDv	M1 V M3 V M4 V	-3	(740-4)	[7233]	B	12	-112
-Gush	G	2019	Buggar	X9A6000-A	 	     Di Fl 		000	ImDv	G3 V M5 V M8 V	-1	(700-2)	[0000]	B	12	-14
-Gush	G	2020	Oukictach	X564540-6	 	       Ag Pr Ni 	B	500	ImDv	K4 V	-2	(741-3)	[633B]	BcC	12	-84
-Gush	K	2021	Vuyha	X657654-6	 	     Ag Ga Ni 		702	ImDv	M0 V M5 V	-2	(852+4)	[5496]	BC	6	320
-Gush	K	2022	Tahnidse	X421000-C	 	      Di He Na Px Po 		012	ImDv	K3 V M9 V	-1	(B00-2)	[0000]	B	10	-22
-Gush	K	2029	Trill	X784967-4	 	     Hi Pr (NIL)	B	215	ImDv	M1 V	-1	(B87+1)	[A887]	BcE	10	616
-Gush	O	2031	Sombani	X422000-F	 	     Di He Po 		023	ImDv	M1 V M2 V	-1	(B00+3)	[0000]	B	10	33
-Gush	O	2036	Gushirdiimi	X542674-6	 	     Pz  He Ni Po (NIL)		923	ImDv	M1 V	-3	(B50+1)	[5365]	B	11	55
-Gush	O	2037	Highbury	X424000-B	 	     Di Pi (NIL)		002	ImDv	M3 V	-1	(C00+2)	[0000]	BD	8	24
-Gush	O	2038	Yolai'	C758644-4	 	    la4  Ag Ni 	B	813	ImDv	M0 V	-1	(850+3)	[7541]	BC	12	120
-Gush	O	2040	Tiirmmay	X431000-B	 	     Di Px Po 		004	ImDv	M1 V	-1	(A00-3)	[0000]	B	13	-30
-Gush	C	2105	Mishiin	X432000-9	 	     Di Na Po (NIL)		003	ImLc	G4 V M2 V	-2	(C00-1)	[0000]	B	7	-12
-Gush	C	2106	Ivto	X425000-B	 	     Di 		004	ImLc	M1 V M7 V	-1	(A00-1)	[0000]	B	11	-10
-Gush	C	2107	K'ketopan	X432000-9	 	      Di Po 		024	ImLc	M2 V	-2	(C00+1)	[0000]	B	9	12
-Gush	C	2108	Hilcaa	X540977-5	 	      Pz  De He Hi In Po (NIL)	B	422	ImLc	M2 V M3 V	0	(A86+1)	[D985]	BE	12	480
-Gush	C	2110	Brice	X89976F-4	 	      Pi (NIL)	B	400	ImLc	M2 V	-2	(965+1)	[4587]	BD	13	270
-Gush	G	2113	Eennusinak	X551130-4	 	     Lo Po 		603	ImDv	K0 V M5 V	-3	(500-1)	[1184]	B	13	-5
-Gush	G	2115	Pihkiit	X420000-7	 	     Da  De He Di Po 		002	ImDv	M0 V	-3	(600-1)	[0000]	B	13	-6
-Gush	G	2119	Nogo	XA9A774-7	 	      Oc Pi (NIL)	B	201	ImDv	M2 V M7 V	-2	(A64+2)	[8539]	BD	9	480
-Gush	G	2120	Esh Purshuur	X570000-4	 	      De He Di 		030	ImDv	M0 V M1 V	-3	(300+1)	[0000]	B	8	3
-Gush	K	2121	Oyrnigh	X67A457-5	 	     Ni Wa 	B	515	ImDv	K6 V M7 V M1 V	-3	(631-1)	[7162]	B	10	-18
-Gush	K	2122	Thatbe	D541642-7	 	     He Ni Po 		904	ImDv	K4 V	-3	(850+3)	[83A7]	B	15	120
-Gush	K	2124	Mzimbe	X420000-B	 	       De He Di Po 		024	ImDv	M2 V	-1	(C00-4)	[0000]	B	9	-48
-Gush	K	2125	Nchena	X200000-9	 	     Di Va 		005	ImDv	M3 V	-2	(800+1)	[0000]	B	8	8
-Gush	K	2127	Tlauwao	X430000-9	 	     Pz la3  De Di Na Po (NIL)		004	ImDv	K0 V M9 V M7 V	-2	(G00+2)	[0000]	B	10	32
-Gush	K	2128	Feaf	X549232-6	 	     Lo 		804	ImDv	A3 V	-3	(410-3)	[7148]	B	13	-12
-Gush	K	2130	Fudaochoyrn	X000000-F	 	      As Va Di 		003	ImDv	K0 V M1 V	-1	(900+1)	[0000]	B	8	9
-Gush	O	2131	Glipli	X525000-9	 	     Di 		020	ImDv	M2 V	-2	(600+1)	[0000]	B	13	6
-Gush	O	2132	Edoy	X556411-0	 	    Da  Ni Pa 	B	224	ImDv	M2 V M7 V	-3	(630-1)	[1151]	Bc	14	-18
-Gush	O	2134	Cledsetsaenn	X000000-E	 	      As Va Di 		033	ImDv	K1 V	-1	(D00+1)	[0000]	B	10	13
-Gush	O	2136	Bitesofrach	X787145-3	 	     Ga Lo 	B	225	ImDv	M0 V	-3	(500+1)	[1193]	B	11	5
-Gush	O	2139	Wesas	X696341-2	 	     Lo 		303	ImDv	G4 V	-3	(420+4)	[1112]	B	12	32
-Gush	O	2140	Kuwiru	X510000-9	 	     Di 		010	ImDv	G4 V	-2	(700+1)	[0000]	B	9	7
-Gush	C	2202	Mestitela	D5558AC-7	 	    Pz  Pa Ph (NIL)		303	ImLc	K2 V M5 V	-2	(A77-3)	[6656]	Bce	11	-1470
-Gush	C	2205	Uurkhi	X421000-8	 	       Di He Na Px Po 		012	ImLc	K3 V	-3	(B00-3)	[0000]	B	8	-33
-Gush	C	2206	Painntu	X547679-5	 	     Ag Ni 	B	801	ImLc	M3 V	-2	(850+2)	[3413]	BC	6	80
-Gush	C	2207	Irkhi	X67868A-6	 	    LancW  Ag Ni (NIL)	B	222	ImLc	K2 V	-2	(B52-2)	[9455]	BC	13	-220
-Gush	C	2210	Sehnaihal	E658875-6	 	     Pa Ph (NIL)	B	813	ImLc	M2 V	-2	(A79-3)	[8668]	Bce	17	-1890
-Gush	G	2213	Vilir's World	X9B4000-9	 	      Di Fl 		034	ImDv	K1 V M3 V	-2	(F00-3)	[0000]	B	10	-45
-Gush	G	2215	Murshen	X585473-2	 	      Ni Pa 	B	610	ImDv	G1 V	-3	(730+1)	[3151]	Bc	11	21
-Gush	G	2216	Seaport	X59566F-3	 	    (Giiguuglum)  Ag Ni 	B	414	ImDv	M2 V	-2	(850+2)	[5464]	BC	8	80
-Gush	G	2217	Ashsha	X422000-D	 	     Di He Px Po 		003	ImDv	M1 V	-1	(A00-1)	[0000]	B	12	-10
-Gush	K	2221	K'ke Say	E6835AB-6	 	     Ni Pr 		220	ImDv	K4 V	-3	(742-3)	[7239]	Bc	10	-168
-Gush	K	2223	Deewaa	X430000-6	 	    Fo  De Di Po 		003	ImDv	M1 V M5 V	-3	(500+1)	[0000]	B	13	5
-Gush	K	2224	Kamurinmur	X560521-5	 	      De Ni Pr (NIL)		413	ImDv	K0 V M8 V	-3	(B40+1)	[2265]	Bc	11	44
-Gush	K	2225	Elpple	X310000-A	 	     Di 		003	ImDv	M3 V	-1	(800+1)	[0000]	B	11	8
-Gush	K	2227	Helge	X693575-5	 	     Ni 		310	ImDv	M1 V M2 V	-3	(740-3)	[4276]	B	8	-84
-Gush	K	2228	Wrechner	X432000-C	 	       Di Na Po 		005	ImDv	K5 V M1 V	-1	(D00-4)	[0000]	B	10	-52
-Gush	K	2229	Xanten	E593556-7	 	     Ni 		522	ImDv	K1 V M5 V M2 V	-3	(740+3)	[7236]	B	9	84
-Gush	O	2231	Zanish	X677975-5	 	    Pz  Hi Pi (NIL)		103	ImDv	M0 V	-1	(B87+1)	[9862]	BDE	13	616
-Gush	O	2233	Khugika	X553899-2	 	    Fo  Ph Po (NIL)	B	403	ImDv	M3 V	-2	(A75+2)	[7653]	Be	15	700
-Gush	O	2237	Thanarmoos	X524000-E	 	     Di 		004	ImDv	M1 V	-1	(700-3)	[0000]	B	10	-21
-Gush	O	2240	Lleska	X622000-7	 	    Fo  Di He Po 		012	ImDv	K1 V	-3	(300+1)	[0000]	B	12	3
-Gush	C	2301	Ecolette	X432000-7	 	     Pz LancW  Di Na Po (NIL)		023	ImLc	G3 V	-3	(A00+1)	[0000]	B	18	10
-Gush	C	2303	Kiind	X868567-5	 	      Ag Pr Ni 	B	312	ImLc	G0 V M6 V	-2	(743+4)	[9367]	BcC	16	336
-Gush	C	2305	Sharenga	X68496E-0	 	     Pz LancW  Hi Pr (NIL)	B	402	ImLc	K3 V M4 V	-1	(B89-4)	[9821]	BcE	6	-3168
-Gush	C	2306	Mulanje	X797112-5	 	     (Edlun)3 Chir7  Lo 		124	ImLc	K1 V	-3	(600+1)	[1196]	B	13	6
-Gush	C	2307	Penelasse	X421000-B	 	     Di He Po 		000	ImLc	M1 V M4 V	-1	(700+2)	[0000]	B	10	14
-Gush	C	2308	Choma	X540523-4	 	      De He Ni Po 	B	301	ImLc	G3 V	-3	(740-3)	[1254]	B	8	-84
-Gush	C	2309	Oroth	X672200-6	 	     He Lo 		701	ImLc	M2 V	-3	(510+4)	[3143]	B	14	20
-Gush	C	2310	Viskka	X79459B-3	 	     Ag Ni 	B	200	ImLc	M1 V M1 V	-2	(740+2)	[5354]	BC	13	56
-Gush	G	2313	Ed	X57A565-0	 	       Ni Wa (NIL)	B	513	ImDv	M0 V	-3	(C43+1)	[A271]	B	10	144
-Gush	G	2316	Tu Tandi	E647478-5	 	     Ni Pa 		400	ImDv	G3 V M3 V	-3	(631+3)	[1153]	Bc	13	54
-Gush	G	2318	Mimip	D876423-5	 	     Ni Pa 	B	500	ImDv	M1 V	-3	(630+1)	[5137]	Bc	10	18
-Gush	G	2320	Bleayn	E674575-6	 	     Ag Ni 	B	200	ImDv	K3 V	-2	(744+1)	[9336]	BC	13	112
-Gush	K	2323	Syss	X400000-8	 	     Di Na Pi Va 		010	ImDv	M9 III D M5 V	-3	(A00-5)	[0000]	BD	5	-50
-Gush	K	2325	Droun	C543126-5	 	      Lo Po (NIL)		200	ImDv	K1 V	-2	(B00+5)	[1119]	B	11	55
-Gush	K	2326	Rashiidaa	E655452-8	 	     Ga Ni Pa 		201	ImDv	G2 V M5 V	-3	(730+2)	[7149]	Bc	14	42
-Gush	K	2330	Idull Ra	X560743-4	 	      De Ri (NIL)		724	ImDv	G2 V	-1	(962-1)	[7625]	BC	11	-108
-Gush	O	2331	Aying	X73A000-7	 	     Di Wa 		014	ImDv	G0 V M7 V	-3	(600+1)	[0000]	B	8	6
-Gush	O	2332	Danla	X672678-4	 	     He Ni 		813	ImDv	M1 V	-3	(853+2)	[3347]	B	10	240
-Gush	O	2333	Tethaym	X000000-E	 	      As Va Di Na Pi 		003	ImDv	K2 V M0 V M4 V	-1	(C00+4)	[0000]	BD	9	48
-Gush	O	2334	Gerhardus	E552752-8	 	     Po (NIL)		823	ImDv	K4 V M7 V	-2	(E63+1)	[C587]	B	9	252
-Gush	O	2335	Chipoka	E666757-5	 	       Ag Ri Ga (NIL)	B	324	ImDv	M2 V M6 V	0	(964+3)	[6748]	BC	12	648
-Gush	O	2336	Arapenpa	X5409D8-7	 	      De He Hi In Po 	B	625	ImDv	G5 V M5 V	0	(887+2)	[A94C]	BE	12	896
-Gush	O	2337	Giffard	X513000-7	 	     Di Ic Na 		023	ImDv	M3 V	-3	(800-4)	[0000]	B	8	-32
-Gush	O	2339	Thulm	X656159-4	 	     Ga Lo 	B	304	ImDv	M0 V M1 V	-3	(500+3)	[1162]	B	7	15
-Gush	O	2340	Elk	E874578-6	 	     Ag Ni 	B	512	ImDv	M1 V M3 V	-2	(742+4)	[4314]	BC	6	224
-Gush	C	2404	Hannbrous	X759659-2	 	     Ni 	B	420	ImLc	K3 V M5 V	-3	(850+4)	[7354]	B	6	160
-Gush	C	2406	Ellus	X73A000-C	 	    Pz LancW  Di Wa (NIL)		003	ImLc	M2 V	-1	(D00-2)	[0000]	B	10	-26
-Gush	C	2408	Cirsel	X538000-E	 	     Di 		023	ImLc	M3 V	-1	(B00+1)	[0000]	B	13	11
-Gush	C	2410	Admalaknii	X88A322-3	 	     Lo Wa 		404	ImLc	K0 V M9 V	-3	(620+1)	[1144]	B	13	12
-Gush	G	2411	Cerell	D78A210-3	 	     Lo Wa 	B	602	ImLc	M0 V	-3	(610+2)	[2184]	B	5	12
-Gush	G	2414	Wolstene	X000000-B	 	      As Va Di Na 		003	ImLc	M2 V M6 V	-1	(B00+1)	[0000]	B	10	11
-Gush	G	2415	Kikhi Zun	X77A343-3	 	     Lo Wa 	B	800	ImLc	M1 V M2 V	-3	(620+1)	[1116]	B	11	12
-Gush	G	2418	Liebing	X621000-D	 	       Di He Na Px Po 		000	ImDv	M1 V M4 V	-1	(800+1)	[0000]	B	12	8
-Gush	K	2422	Vilk	E785651-7	 	      Ag Ri Ga Ni 	B	210	ImDv	K5 V M0 V	-1	(852+1)	[8574]	BC	12	80
-Gush	K	2424	Plouraandva	X432000-E	 	     Di Na Po (NIL)		000	ImDv	K3 V M0 V	-1	(900-3)	[0000]	B	5	-27
-Gush	K	2425	Kieaasu	X430000-6	 	     De Di Po 		014	ImDv	G0 V	-3	(700-3)	[0000]	B	8	-21
-Gush	K	2426	Jazep	C592552-8	 	     He Ni 		534	ImDv	K1 V	-2	(E40+1)	[4387]	B	10	56
-Gush	K	2427	Twiga	X502000-A	 	      Di Ic Va 		000	ImDv	M2 V	-1	(600+1)	[0000]	B	6	6
-Gush	K	2428	Llalnair	X429000-7	 	     Di 		002	ImDv	F9 V M8 V	-3	(600+1)	[0000]	B	12	6
-Gush	K	2429	Chitete	X420000-9	 	      De He Di Po 		002	ImDv	M3 V M7 V	-2	(800+1)	[0000]	B	9	8
-Gush	K	2430	Aawn	X434000-8	 	     Di 		005	ImDv	M2 V	-3	(D00+2)	[0000]	B	13	26
-Gush	O	2431	Kiaan	E583672-8	 	     Ni Ri 		903	ImDv	M2 V M5 V M9 V	-2	(B53+1)	[B47B]	BC	12	165
-Gush	O	2434	Muaash	X565204-2	 	     Lo 		512	ImDv	M0 V M3 V	-3	(410-3)	[1151]	B	7	-12
-Gush	O	2438	Jars	X500000-D	 	     Di Va 		004	ImDv	M0 V M6 V	-1	(B00+2)	[0000]	B	8	22
-Gush	O	2439	Susadi	X8C3000-F	 	      Di Fl In (ENIL)		001	ImDv	M3 V	0	(C00-2)	[0000]	BE	9	-24
-Gush	O	2440	Oyrk	X557453-6	 	     Ni Pa 		513	ImDv	M0 V M7 V	-3	(632-2)	[1158]	Bc	7	-72
-Gush	D	2501	Kell	E76A876-5	 	    Pz  Ph Ri Wa (NIL)	B	702	ImLc	M0 V M3 V	-1	(A74-3)	[8731]	BCe	11	-840
-Gush	D	2502	Sayayr	X735000-6	 	   Di Pz  (NIL)		010	ImLc	K1 V M0 V	-3	(900+1)	[0000]	B	8	9
-Gush	D	2503	Bradt Landing	X8B9000-9	 	     Di Fl 		023	ImLc	M2 V	-2	(800+4)	[0000]	B	12	32
-Gush	D	2504	Routeburn	E570531-5	 	      De He Ni 	B	201	ImLc	M3 V M7 V	-3	(740-3)	[7235]	B	8	-84
-Gush	D	2507	Shiramuunir	D544476-7	S	    Pz LancW  Ni Pa (NIL)		231	ImLc	K1 V M7 V	-3	(C33+1)	[414B]	Bc	13	108
-Gush	D	2509	Jonosva	X9C7000-9	 	      Di Fl (ENIL)		003	ImLc	G0 III D	-2	(D00+4)	[0000]	B	9	52
-Gush	H	2511	Gurdadusu	X736000-7	 	     Di 		003	ImLc	M0 V M6 V	-3	(700+1)	[0000]	B	10	7
-Gush	H	2512	Andelech	X436000-9	 	     Di 		004	ImLc	K9 V	-2	(A00-3)	[0000]	B	9	-30
-Gush	H	2513	Masa	X421000-F	 	      Pz LancW  Di He Na In Po (NIL)		000	ImLc	M3 V	0	(C00+1)	[0000]	BE	9	12
-Gush	H	2514	Rutkowski	X637000-B	 	      Di 		003	ImLc	M1 V M2 V	-1	(700-2)	[0000]	B	10	-14
-Gush	H	2517	Royef	X542233-4	 	     He Lo Po 		905	ImLc	K5 V	-3	(410+1)	[1151]	B	12	4
-Gush	L	2521	Joand	D899677-7	 	     Ni 	B	604	ImDv	K8 V M3 V	-3	(853-1)	[7367]	B	12	-120
-Gush	L	2523	Mapock	X546332-6	 	     Lo 		900	ImDv	G7 V	-3	(520-5)	[4117]	B	10	-50
-Gush	L	2525	Ioyx	X6B2000-B	 	      Di Fl He 		003	ImDv	G9 V	-1	(700-4)	[0000]	B	16	-28
-Gush	L	2526	Joffe's World	X310000-C	 	     Di Na 		002	ImDv	F3 V	-1	(A00-1)	[0000]	B	10	-10
-Gush	L	2527	Etwefrewa	X56656D-2	 	      Ag Pr Ni 		420	ImDv	G3 V	-2	(741+1)	[5353]	BcC	15	28
-Gush	P	2532	Yntulk	X889877-1	 	     Ph Ri (NIL)	B	224	ImDv	K4 V	-1	(A78+5)	[A761]	BCe	13	2800
-Gush	P	2536	Sers	C540534-9	 	      De He Ni Po 		512	ImDv	K4 V	-1	(A45+3)	[7425]	B	9	600
-Gush	P	2537	Stallfe	D986444-6	 	     Ni Pa 		524	ImDv	M0 V M1 V	-3	(632+1)	[6135]	Bc	11	36
-Gush	P	2538	Thulm	X87A275-3	 	     Lo Wa 		503	ImDv	M2 V M4 V	-3	(510+4)	[3152]	B	13	20
-Gush	P	2539	Hate	X98886A-4	 	     Pz  Pa Ri Ph (NIL)	B	804	ImDv	M3 V	-1	(A76+1)	[C713]	BcCe	13	420
-Gush	P	2540	Temes	X649886-5	 	    Fo  Ph Pi (NIL)	B	903	ImDv	G2 V M4 V M0 V	-2	(A75-1)	[6633]	BDe	9	-350
-Gush	D	2609	Ellje	X796598-1	 	     Ag Ni 	B	415	ImLc	K2 V	-2	(740+3)	[1344]	BC	13	84
-Gush	D	2610	Tosiv	X525000-8	 	     Di 		010	ImLc	K4 V M6 V	-3	(800-5)	[0000]	B	11	-40
-Gush	H	2612	Maru	X8C5000-A	 	     Di Fl 		024	ImLc	M3 V	-1	(B00+4)	[0000]	B	12	44
-Gush	H	2613	Nourm	X647433-7	 	     Ni Pa 		202	ImLc	K8 V M0 V	-3	(632+1)	[3176]	Bc	8	36
-Gush	H	2614	Upllor	X5588AB-4	 	    Gray5  Pa Ph (NIL)	B	620	ImLc	K1 V	-2	(A76+3)	[8685]	Bce	9	1260
-Gush	H	2615	Erdousse	X785534-5	 	     Da  Ag Pr Ga Ni 		424	ImLc	M2 V	-2	(743+1)	[8371]	BcC	14	84
-Gush	H	2617	Une	X438000-9	 	    Gray2   Di 		004	ImLc	G9 V	-2	(A00-2)	[0000]	B	14	-20
-Gush	H	2618	Courtesy	X647254-1	 	     Lo 	B	604	ImLc	M1 V M1 V	-3	(410+2)	[6143]	B	8	8
-Gush	H	2619	Guumishmak	X434000-9	 	    Di Px 		014	ImLc	M0 V M6 V	-2	(C00+1)	[0000]	B	11	12
-Gush	H	2620	Akushis	X000000-B	 	      Pz LancW  As Va Di Na In 		004	ImLc	M1 V	0	(F00-5)	[0000]	BE	17	-75
-Gush	L	2625	Khankaar	X633000-8	 	     Di Po 		002	ImDv	M3 V	-3	(700-1)	[0000]	B	11	-7
-Gush	L	2626	Bliand	X948485-4	 	     Ni Pa 	B	222	ImDv	M1 V	-3	(631+1)	[7165]	Bc	10	18
-Gush	L	2627	Imarshas	X9C6000-9	 	    Pz  Di Fl In (ENIL)		024	ImDv	M0 V M6 V M2 V	-1	(H00+1)	[0000]	BE	12	17
-Gush	L	2628	Kunggy	E885252-5	 	     Ga Lo 		111	ImDv	M0 V	-3	(310-3)	[2151]	B	5	-9
-Gush	L	2629	Nosy Be	D69A210-7	 	     Lo Wa 		800	ImDv	M0 V M2 V	-3	(810-3)	[416B]	B	13	-24
-Gush	L	2630	Majunga	X89A7A8-8	 	      Wa 		110	ImDv	G1 V	-2	(962+1)	[85AB]	B	11	108
-Gush	P	2632	Croft	E55075A-8	 	    Pz  De Po (NIL)		602	ImDv	G0 V	-2	(B60+1)	[7576]	B	9	66
-Gush	P	2633	Pequan	X543232-4	 	     Lo Po 		710	ImDv	K1 V M9 V	-3	(410-1)	[2151]	B	6	-4
-Gush	P	2634	Katsue	X436000-7	 	     Di 		003	ImDv	G3 V	-3	(700-1)	[0000]	B	6	-7
-Gush	P	2637	Darkaoul	X425000-F	 	     Di 		010	ImDv	G0 V	-1	(800+1)	[0000]	B	14	8
-Gush	P	2639	Tudjman	X687676-5	 	      Ag Ri Ga Ni 		800	ImDv	K3 V	-1	(851+4)	[4563]	BC	11	160
-Gush	D	2701	Fubanan	XA9A245-3	 	     Lo Oc 	B	900	ImLc	K4 V	-3	(610+1)	[3164]	B	9	6
-Gush	D	2704	Kyla	XA7A230-2	 	    LancW  Lo Oc 	B	900	ImLc	K1 V M9 V	-3	(410+1)	[3151]	B	13	4
-Gush	D	2705	Xenicus	XAE5000-9	 	     Di 		004	ImLc	M8 III	-2	(C00+4)	[0000]	B	7	48
-Gush	D	2706	Sinish Giken	X431000-A	 	      Di Na Px Po 		020	ImLc	G0 V G3 V	-1	(A00+1)	[0000]	B	13	10
-Gush	D	2707	Hunnan	X56079C-5	 	    Pz  De Ri (NIL)	B	403	ImLc	M2 V M6 V	-1	(968+2)	[4644]	BC	9	864
-Gush	D	2709	Minev	E540301-7	 	      De He Lo Po 		204	ImLc	M0 V M5 V	-3	(520+1)	[1145]	B	14	10
-Gush	H	2713	Kinshasa	E86889B-5	 	     Pz Lanc5 Gray1  Pa Ri Ph (NIL)	B	712	ImLc	K2 V M8 V	-1	(A71+1)	[B734]	BcCe	11	70
-Gush	H	2715	Bruyrkna	X8B3000-9	 	   Pz Gray1  Di Fl (ENIL)		004	ImLc	K3 V	-2	(D00-3)	[0000]	B	8	-39
-Gush	H	2716	Shakhamash	X94A101-3	 	      (Hanen)9 Gray1  Lo Wa (NIL)	B	403	ImLc	K0 V M3 V	-3	(B00+1)	[1161]	B	8	11
-Gush	H	2717	Lallvi	E587878-8	 	     LancW  Pa Ri Ph (NIL)	B	804	ImLc	K3 V	-1	(E79-3)	[5749]	BcCe	9	-2646
-Gush	L	2723	Doposeng	D594101-8	 	     Lo 		700	ImDv	M1 V	-3	(300+4)	[1177]	B	12	12
-Gush	L	2724	Memern	X540120-0	 	      De He Lo Po 	B	502	ImDv	K0 V M9 V	-3	(500-1)	[1134]	B	12	-5
-Gush	L	2725	Moytra	X636000-B	 	     Di (NIL)		010	ImDv	M1 V M5 V	-1	(B00-4)	[0000]	B	11	-44
-Gush	L	2726	Loholoka	D556221-5	 	     Lo 		400	ImDv	M2 V	-3	(510+3)	[1164]	B	12	15
-Gush	L	2730	Irkhun	E550976-7	 	     De Hi Po (NIL)	B	200	ImDv	M1 V M2 V	-1	(A82+1)	[9857]	BE	12	160
-Gush	P	2732	Khossfoy	X430000-6	 	    Fo  De Di Po 		022	ImDv	K7 V M9 V	-3	(500+1)	[0000]	B	13	5
-Gush	P	2734	Traynor	X434000-8	 	     Di 		013	ImDv	K1 V	-3	(B00+1)	[0000]	B	12	11
-Gush	P	2735	Moy	X758877-7	 	     Pa Ph (NIL)	B	114	ImDv	M1 V M2 V	-2	(A73-1)	[56A5]	Bce	10	-210
-Gush	P	2737	Chechen	E597211-7	 	     Lo 		922	ImDv	M1 V M3 V	-3	(310+1)	[115A]	B	9	3
-Gush	P	2738	Khalun	X421000-7	 	    Fo  Di He Po 		004	ImDv	K5 V	-3	(500-1)	[0000]	B	10	-5
-Gush	P	2740	Iishli	X888478-5	 	     Ni Pa 		313	ImDv	M1 V	-3	(633-1)	[3115]	Bc	8	-54
-Gush	D	2801	Aakmi	E765747-8	 	      Ag Ri Ga (NIL)		300	ImLc	K2 V	0	(965-2)	[6756]	BC	4	-540
-Gush	D	2802	Trindewranda	X422000-A	 	     Di He Px Po 		003	ImLc	K1 V	-1	(A00-5)	[0000]	B	9	-50
-Gush	D	2804	Giikika	E544676-5	 	     Ag Ni 	B	510	ImLc	K1 V	-2	(850+3)	[6434]	BC	9	120
-Gush	D	2806	Sahee	X96A68A-3	 	     Ni Ri Wa 	B	802	ImLc	M2 V	-2	(854+1)	[7497]	BC	7	160
-Gush	D	2807	Ka Maz	X580334-1	 	    Fo   De Lo 		404	ImLc	M0 V	-3	(620+5)	[6171]	B	7	60
-Gush	D	2809	Luuen	X421000-E	 	     Di He Po 		004	ImLc	M3 V	-1	(A00+1)	[0000]	B	11	10
-Gush	D	2810	Mekar	X584569-2	 	      Ag Pr Ni 		400	ImLc	M0 V	-2	(743+1)	[3337]	BcC	8	84
-Gush	H	2812	Koinunmatie	X566155-3	 	    GrayW  Lo 		404	ImLc	M2 V	-3	(500+1)	[4135]	B	11	5
-Gush	H	2813	Lumu	D553136-4	 	    Gray2  Lo Po 		503	ImLc	K6 V M7 V	-3	(600-2)	[2157]	B	15	-12
-Gush	H	2814	Tuuttka	C876745-6	 	     Gray7  Ag 	B	102	ImLc	M0 V	0	(864-5)	[3764]	BC	15	-960
-Gush	H	2815	Liigash	C688876-7	 	     (Graytch)   Pa Ri Ph (NIL)	B	702	ImLc	G3 Ib BD	0	(A75+3)	[7835]	BcCe	12	1050
-Gush	H	2820	Teklemos	E895842-8	 	     LancW  Pa Pi Ph (NIL)		303	ImLc	M2 V	-2	(D77-1)	[B687]	BcDe	8	-637
-Gush	L	2821	Fuch	X551610-5	 	     Ni Po 		903	ImDv	M2 V	-3	(850-2)	[4385]	B	10	-80
-Gush	L	2822	Zomandao	D688435-3	 	      Ni Pa 	B	600	ImDv	M0 V	-3	(730+1)	[1137]	Bc	7	21
-Gush	L	2824	Anech Issan	E56469E-6	 	      Ag Ri Ni 		402	ImDv	K1 V	-1	(850+1)	[B576]	BC	11	40
-Gush	L	2828	Ushuuri	X83A000-C	 	     Di Wa (NIL)		013	ImDv	M0 V M6 V	-1	(F00-1)	[0000]	B	7	-15
-Gush	L	2829	Sersoolm	X420000-B	 	       Pz  De He Di Na Pi Po (NIL)		022	ImDv	M1 V M1 V	-1	(E00+4)	[0000]	BD	11	56
-Gush	L	2830	Dendouth	X200000-8	 	      Di Na Va 		001	ImDv	M2 V	-3	(900-2)	[0000]	B	10	-18
-Gush	P	2831	Abact	X672404-4	 	       He Ni (NIL)		504	ImDv	M0 V	-3	(A31+3)	[7177]	B	8	90
-Gush	P	2833	Grebele	E540414-4	 	      De He Ni Po 	B	305	ImDv	M3 V M8 V	-3	(630+2)	[7156]	B	12	36
-Gush	P	2834	Drigelm	X666877-2	 	     Pz  Ga Pa Ri Ph (NIL)	B	313	ImDv	M2 V M9 V	-1	(A76+1)	[C731]	BcCe	14	420
-Gush	P	2835	Muugegdan	X424000-B	 	    Di Pi (NIL)		003	ImDv	M3 V M9 V	-1	(C00+1)	[0000]	BD	9	12
-Gush	P	2837	Rashiidaa	X580445-2	 	     De Ni 	B	214	ImDv	M0 V M7 V	-3	(630+1)	[5191]	B	10	18
-Gush	P	2838	Trauch	X783174-6	 	     Lo 		302	ImDv	M1 V	-3	(500-1)	[1144]	B	10	-5
-Gush	P	2839	Kadar	X542000-E	 	       Di He In Po (NIL)		020	ImDv	M1 V M4 V M1 V	0	(D00-3)	[0000]	BE	10	-39
-Gush	P	2840	Odinga	X431000-7	 	     Di Po 		004	ImDv	M3 V M8 V	-3	(700+3)	[0000]	B	15	21
-Gush	D	2904	Pucuro	X64267A-2	 	    Da  He Ni Po 	B	301	ImLc	K9 V M9 V	-3	(850+1)	[5363]	B	7	40
-Gush	D	2905	Beheld	E557568-6	 	     Ag Ni 		514	ImLc	K4 V	-2	(741+5)	[4375]	BC	10	140
-Gush	D	2906	Tasazhas	X898589-3	 	     Ag Ni 	B	411	ImLc	M3 V	-2	(740-1)	[2345]	BC	9	-28
-Gush	D	2907	Lishan	X310000-E	 	      Di Na In 		013	ImLc	M2 V	0	(F00-2)	[0000]	BE	7	-30
-Gush	D	2910	Muidmu	XAE7000-E	 	     Di 		000	ImLc	K6 V	-1	(500-1)	[0000]	B	7	-5
-Gush	H	2912	Lohme	X848112-0	 	     Lo 	B	401	ImLc	M3 V M4 V	-3	(400+1)	[1114]	B	11	4
-Gush	H	2914	Twele	X000000-E	 	     Gray5   As Va Di Na 		010	ImLc	K7 V M5 V	-1	(900-1)	[0000]	B	14	-9
-Gush	H	2915	Jasper	X563576-5	 	    Gray4   Ni Pr 		200	ImLc	G2 V M4 V	-3	(743-2)	[5227]	Bc	13	-168
-Gush	H	2916	Tinisutta	E679410-8	 	    Gray0  Ni 		203	ImLc	M1 V M2 V	-3	(930+2)	[716B]	B	14	54
-Gush	H	2917	Aran	X542153-4	 	     Fo  He Lo Po (NIL)		202	ImLc	K1 IV	-3	(A00-2)	[1123]	B	12	-20
-Gush	H	2919	Oneria	X544201-6	 	     Lo 		500	ImLc	M2 V	-3	(310+1)	[2169]	B	11	3
-Gush	H	2920	Mezregh	X8B9000-A	 	     Di Fl (ENIL)		014	ImLc	M3 V M8 V	-1	(F00-1)	[0000]	B	12	-15
-Gush	L	2921	Edat	X437000-D	 	     Di (NIL)		002	ImDv	M2 V M4 V M9 V	-1	(C00+1)	[0000]	B	8	12
-Gush	L	2923	Goye	E767544-3	 	       Ag Pr Ga Ni 	B	310	ImDv	G3 V	-2	(741+1)	[6398]	BcC	14	28
-Gush	L	2924	Oieakh	X437000-6	 	     Di 		012	ImDv	M3 V	-3	(300+1)	[0000]	B	11	3
-Gush	L	2925	Hkeakewoirea'	X9989CA-2	 	    la4  Hi In (NIL)	B	702	ImDv	G3 V M7 V	0	(B87-4)	[7954]	BE	9	-2464
-Gush	L	2930	Taeahtaho	X887158-1	 	    la7  Ga Lo 	B	304	ImDv	K2 V	-3	(500+1)	[1161]	B	10	5
-Gush	P	2931	Kikuyu	X7897AA-3	 	     Ri (NIL)	B	804	ImDv	M2 V M4 V	-1	(964+1)	[4636]	BC	12	216
-Gush	P	2937	Eralt	XAB8000-8	 	     Di Fl 		003	ImDv	M9 III D	-3	(900+1)	[0000]	B	16	9
-Gush	P	2938	Azwhew	X577105-6	 	     Lo 		100	ImDv	M3 V	-3	(300-2)	[6164]	B	13	-6
-Gush	P	2939	Ann	E873442-5	 	     Ni 	B	303	ImDv	G2 V	-3	(630-3)	[5157]	B	6	-54
-Gush	D	3002	Fuqui	X533000-6	 	      Di Na Px Po 		000	ImLc	K3 V	-3	(800+1)	[0000]	B	8	8
-Gush	D	3003	Nyamuleju	X540559-6	 	      De He Ni Po 		204	ImLc	M2 V	-3	(743+3)	[6272]	B	10	252
-Gush	D	3004	Raoh	D55577A-9	 	    LancW   Ag (NIL)		500	ImLc	M2 V M2 V	0	(966-2)	[572D]	BC	13	-648
-Gush	D	3006	Upaniv	X567413-3	 	    Da  Ni Pa 	B	303	ImLc	M1 V M9 V	-3	(633+1)	[4122]	Bc	13	54
-Gush	D	3007	Ivahllo	X756246-4	 	    S'mr3  Ga Lo 	B	700	ImLc	K7 V M1 V	-3	(510+3)	[21A3]	B	11	15
-Gush	D	3008	Suhho	X300000-B	 	     Di Va 		003	ImLc	K4 V	-1	(600+3)	[0000]	B	16	18
-Gush	D	3009	Miz*rskua'mr	E553411-4	 	    S'mrW Kiak0   Ni Po 		302	ImLc	M0 V	-3	(632+3)	[6156]	B	13	108
-Gush	H	3012	Fuqui	X789876-5	 	    Pz  Ph Ri (NIL)		314	ImLc	M2 V M7 V	-1	(A73+3)	[7731]	BCe	17	630
-Gush	H	3013	Amda	X632000-9	 	      Di Na Po (NIL)		000	ImLc	K4 V	-2	(900-1)	[0000]	B	13	-9
-Gush	H	3014	Vell	X667677-6	 	      Ag Ri Ga Ni 	B	304	ImLc	K8 V M2 V	-1	(851+1)	[3549]	BC	11	40
-Gush	H	3015	Asylum	X6B3000-B	 	     Di Fl 		024	ImLc	G6 V	-1	(C00-3)	[0000]	B	11	-36
-Gush	H	3016	Depot	X540479-1	 	     Da   De He Ni Po 	B	524	ImLc	G4 V	-3	(830-1)	[1156]	B	9	-24
-Gush	H	3017	Kaagaarkha	X835000-8	 	   Di GrayW  (NIL)		003	ImLc	K0 IV	-3	(C00-3)	[0000]	B	8	-36
-Gush	L	3023	Suysu	X000000-B	 	      Pz la3  As Va Di Na Pi 		012	ImDv	M2 V	-1	(D00+4)	[0000]	BD	13	52
-Gush	L	3024	Brase	X756500-5	 	     Ag Ga Ni 	B	504	ImDv	K1 V M3 V	-2	(742+2)	[4326]	BC	7	112
-Gush	L	3026	Beangub	E786476-4	 	      Ga Ni Pa 	B	600	ImDv	K8 V M2 V	-3	(730+1)	[1185]	Bc	12	21
-Gush	L	3027	Gier	D596477-7	 	     Ni Pa 		503	ImDv	G2 V M8 V	-3	(632+2)	[4157]	Bc	13	72
-Gush	L	3028	Doucttru	D798456-8	 	     Ni Pa 		205	ImDv	K8 V	-3	(B31+1)	[518C]	Bc	11	33
-Gush	L	3029	Phaln	X420000-E	 	         De He Di Na In Po (NIL)		012	ImDv	K4 V M9 V	0	(E00-5)	[0000]	BE	10	-70
-Gush	P	3031	Teghde	X560497-6	 	     De Ni 		513	ImDv	M2 V	-3	(632+1)	[4127]	B	13	36
-Gush	P	3033	Sabhaash	E665222-7	 	     Ga Lo 		402	ImDv	K0 V	-3	(310+5)	[6198]	B	13	15
-Gush	P	3034	Ukham	X310000-9	 	     Di 		023	ImDv	K2 III	-2	(B00-2)	[0000]	B	9	-22
-Gush	P	3035	Taleoo	D957868-8	 	      Pa Ph (NIL)	B	903	ImDv	M0 V	-2	(D73-1)	[5646]	Bce	10	-273
-Gush	P	3038	Kieaasu	X667300-7	 	    laW  Ga Lo 		920	ImDv	K1 V	-3	(320+2)	[1156]	B	5	12
-Gush	P	3039	Uskent	X55A200-4	 	     Lo Wa 		200	ImDv	M3 V	-3	(310-4)	[1185]	B	9	-12
-Gush	D	3101	Inkia	E794743-4	 	      Ag Pi (NIL)	B	610	ImLc	M3 V M8 V	-1	(962-4)	[6611]	BCD	11	-432
-Gush	D	3103	Yta Akat	X8B3000-8	 	    Da (Lumu)  Di Fl 		003	ImLc	G0 V M9 V	-3	(A00-1)	[0000]	B	11	-10
-Gush	D	3104	Tullyree	X435000-6	 	     Di 		004	ImLc	K3 V M8 V	-3	(700+3)	[0000]	B	10	21
-Gush	D	3105	Kukhun	X65896E-2	 	     (Lancians)  Hi (NIL)	B	403	ImLc	K0 V	-1	(B88+1)	[B854]	BE	12	704
-Gush	D	3106	Aphu	D795641-5	 	     Ag Ni 	B	825	ImLc	M3 V	-2	(852+5)	[5473]	BC	11	400
-Gush	D	3107	Llaet	X587355-7	 	     Lo 		811	ImLc	K4 V M4 V	-3	(320+2)	[416B]	B	8	12
-Gush	D	3110	Urssursfa'	D565420-2	 	    S'mrW Kiak0  Ni Pa 		403	ImLc	M2 V	-3	(632+1)	[1162]	Bc	13	36
-Gush	H	3112	Sykell	X310000-A	 	     Di 		010	ImLc	M1 V	-1	(700-2)	[0000]	B	14	-14
-Gush	H	3116	Alp	X403000-7	 	       Di Ic Va 		013	ImLc	K3 V M4 V	-3	(700+1)	[0000]	B	14	7
-Gush	H	3117	Eskstant	X9B7000-B	 	   Pz  Di Fl (ENIL)		003	ImLc	M3 V M8 V	-1	(C00+3)	[0000]	B	10	36
-Gush	H	3118	Koustorm	X537000-7	 	     Di (NIL)		010	ImLc	K4 V	-3	(900-3)	[0000]	B	14	-27
-Gush	L	3122	Vammuun	X200000-A	 	     Di Va 		000	ImDv	A1 V	-1	(700-5)	[0000]	B	12	-35
-Gush	L	3126	Bivaud	X9C5000-D	 	     Di Fl 		003	ImDv	K1 V M7 V	-1	(A00+1)	[0000]	B	12	10
-Gush	L	3130	Akhudgir	XA87300-1	 	     Lo 	B	104	ImDv	K7 V	-3	(320+3)	[1151]	B	9	18
-Gush	P	3131	Leant	X763878-6	 	     Ph Ri (NIL)	B	630	ImDv	M2 V	-1	(A78+1)	[4769]	BCe	13	560
-Gush	P	3137	As On As	B766621-6	 	      Ag Ri Ga Ni 	B	700	ImDv	G2 V M3 V	1	(856+3)	[6727]	BC	6	720
-Gush	P	3139	Enturtepra	X899000-4	 	     Di 		003	ImDv	M2 V M7 V	-3	(300-2)	[0000]	B	11	-6
-Gush	P	3140	Ladi	X432000-C	 	    Pz  Di Na Po (NIL)		003	ImDv	M1 V	-1	(C00+1)	[0000]	B	12	12
-Gush	D	3202	Kumkhap	X78A589-5	 	      Ni Pr Wa 		302	ImLc	G8 V M6 V	-3	(741+2)	[3236]	Bc	12	56
-Gush	D	3203	Miha	X779000-4	 	    LancW  Di 		012	ImLc	M1 V	-3	(300-3)	[0000]	B	6	-9
-Gush	D	3205	Bearnagh	E643531-7	 	    S'mr3  Ni Po 		523	ImLc	G5 IV M9 V	-3	(740-2)	[8247]	B	10	-56
-Gush	D	3206	Hillalk	X100000-9	 	     Di Na Pi Va 		005	ImLc	A1 V	-2	(E00+1)	[0000]	BD	11	14
-Gush	D	3208	Chzaar	X638000-C	 	   Di S'mrW Kiak0  (NIL)		024	ImLc	G1 V M7 V	-1	(F00+1)	[0000]	B	9	15
-Gush	D	3210	Sadetha	X504000-9	 	      Di Ic Va 		024	ImLc	K0 V M3 V	-2	(C00-2)	[0000]	B	11	-24
-Gush	H	3211	Gudak	X55777B-6	 	     Ag (NIL)	B	600	ImLc	M2 V	-1	(968+2)	[8654]	BC	10	864
-Gush	H	3212	Sktrassui'ia	X561568-3	 	     Ni Pr 	B	304	ImLc	K4 V M7 V	-3	(740+1)	[2233]	Bc	9	28
-Gush	H	3214	Leut	X310000-B	 	     Di 		000	ImLc	K1 V M5 V	-1	(700-3)	[0000]	B	9	-21
-Gush	H	3217	Salliatt	E886838-8	 	     LancW  Ga Pa Ri Ph (NIL)	B	613	ImLc	G5 V M6 V	-1	(E74-5)	[9767]	BcCe	9	-1960
-Gush	H	3218	Senlis	X54788B-8	 	    LancW  Pa Pi Ph (NIL)		803	ImLc	M2 V M2 V	-2	(E73+1)	[966C]	BcDe	10	294
-Gush	H	3219	Merchant	D544333-3	 	      Lo 		903	ImLc	M0 V	-3	(620-2)	[4153]	B	11	-24
-Gush	L	3223	Vohitsara	X310000-D	 	     Di 		003	ImDv	M3 V	-1	(A00+1)	[0000]	B	14	10
-Gush	L	3224	Ars	E6567B7-6	 	     Ag Ga (NIL)		204	ImDv	M2 V	-1	(966-1)	[B665]	BC	11	-324
-Gush	L	3226	Joyrest	X546474-4	 	      Ni Pa 		604	ImDv	G0 V	-3	(733+1)	[4173]	Bc	9	63
-Gush	L	3228	Moskett	X200000-7	 	    Pz  Di Na Pi Va 		025	ImDv	M0 V	-3	(900+4)	[0000]	BD	11	36
-Gush	L	3230	Tsihombe	X764487-4	 	     Ni Pa 	B	300	ImDv	M2 V	-3	(631+1)	[7154]	Bc	13	18
-Gush	P	3231	Staya	X200000-B	 	     Di Va 		010	ImDv	M2 V M8 V	-1	(500+3)	[0000]	B	10	15
-Gush	P	3235	Ikaak	X434000-8	 	     Di 		010	ImDv	K3 V	-3	(700+1)	[0000]	B	11	7
-Gush	P	3236	Fadia	E596678-7	 	     Ag Ni 		215	ImDv	K2 V M0 V	-2	(850+1)	[7444]	BC	10	40
-Gush	P	3237	Revd	X9887A8-3	 	      Ag Ri (NIL)	B	820	ImDv	G6 V	0	(966+3)	[6781]	BC	12	972
-Gush	P	3240	Haiwhou	X432000-D	 	      Di Na Po 		004	ImDv	M0 V M3 V	-1	(C00+3)	[0000]	B	14	36
+Gush	I	0125	Hannrii	X565555-5	 	       Ag Pr Ni 		404	ImDv	M2 V	{ -2 }	(744+3)	[3363]	BcC	9	336
+Gush	I	0126	Egurgadi	X65A345-3	 	     Lo Wa 	B	903	ImDv	K1 V	{ -3 }	(420+2)	[2143]	B	9	16
+Gush	I	0130	Praodelf	XAB6000-A	 	     Di Fl 		000	ImDv	G4 V M1 V	{ -1 }	(A00+2)	[0000]	B	13	20
+Gush	M	0131	Sirir	X796476-2	 	      Ni Pa 		423	ImDv	K3 V	{ -3 }	(B30-3)	[3181]	Bc	12	-99
+Gush	M	0132	Aapu	X560244-2	 	     De Lo 		100	ImDv	K1 V M2 V	{ -3 }	(510-3)	[2191]	B	13	-15
+Gush	M	0135	Maerol	X200000-8	 	     Di Na Pi Va 		002	ImDv	K1 V	{ -3 }	(B00+1)	[0000]	BD	9	11
+Gush	M	0136	Choltonrul	X587311-6	 	     TapaW  Lo 		324	ImDv	M0 V	{ -3 }	(620+1)	[3172]	B	10	12
+Gush	M	0137	Ushulu	E782997-7	 	      Hi Pr 	B	800	ImDv	M0 V M4 V	{ -1 }	(B89-1)	[8838]	BcE	13	-792
+Gush	M	0138	Roolyz	X433000-B	 	     Di Po 		022	ImDv	G8 V M3 V M0 V	{ -1 }	(700+1)	[0000]	B	12	7
+Gush	M	0140	Joutect	X768300-0	 	     Lo 	B	200	ImDv	M0 V M7 V	{ -3 }	(320-2)	[2131]	B	12	-12
+Gush	I	0222	Daze	E776154-6	 	     Lo 		300	ImDv	K7 V	{ -3 }	(500+1)	[1143]	B	6	5
+Gush	I	0223	Abalesk	X433000-C	 	     Di Po 		013	ImDv	M0 V	{ -1 }	(B00-4)	[0000]	B	13	-44
+Gush	I	0227	Stoend	X86A758-5	 	     Ri Wa 	B	324	ImDv	M2 V	{ -1 }	(969+1)	[3615]	BC	13	486
+Gush	I	0228	Barren	X652000-0	 	      Ba Po 		000	ImDv	M1 V M2 V	{ -3 }	(200-5)	[0000]	B	13	-10
+Gush	I	0229	Foussough	X653673-4	 	     Ni Po 		400	ImDv	K0 V M5 V	{ -3 }	(850+1)	[6334]	B	13	40
+Gush	I	0230	Estos	X425000-D	 	     Di 		005	ImDv	K2 V M6 V M1 V	{ -1 }	(D00-2)	[0000]	B	15	-26
+Gush	M	0231	Hentor	X503000-7	 	      Di Ic Va 		022	ImDv	M3 V D	{ -3 }	(700+3)	[0000]	B	16	21
+Gush	M	0233	Abaelou	E695221-5	 	    (eskalth)0  Lo 		903	ImDv	M1 V	{ -3 }	(510+1)	[4173]	B	11	5
+Gush	M	0236	Gihmentahlish	C89556E-3	 	     Ag Ni 	B	522	ImDv	K7 V	{ -1 }	(741+4)	[4461]	BC	15	112
+Gush	M	0237	Strand	E548451-7	 	     Ni Pa 		302	ImDv	G4 V	{ -3 }	(B33-1)	[31A9]	Bc	9	-99
+Gush	M	0239	Ounash	X420000-7	 	       De He Di Po 		004	ImDv	K9 V	{ -3 }	(500-2)	[0000]	B	8	-10
+Gush	I	0327	Fay	B540776-6	 	       De He Pi Po 		422	ImDv	M0 V M7 V	{ 0 }	(865+4)	[3775]	BD	8	960
+Gush	I	0328	Manuri	X543433-2	 	      Ni Po 	B	402	ImDv	K8 V M8 V	{ -3 }	(630-1)	[5141]	B	9	-18
+Gush	I	0329	Somit	X55A304-2	 	      Lo Wa 	B	600	ImDv	M0 V	{ -3 }	(520+1)	[2161]	B	12	10
+Gush	M	0332	Blezon	X572453-2	 	      He Ni 	B	223	ImDv	K2 V M8 V	{ -3 }	(630+1)	[1141]	B	12	18
+Gush	M	0333	Vaelouf	X537000-9	 	     Di 		011	ImDv	M0 V	{ -2 }	(700+1)	[0000]	B	8	7
+Gush	M	0334	Endran	X515000-A	 	     Di Ic 		003	ImDv	K3 IV M6 V	{ -1 }	(600+2)	[0000]	B	12	12
+Gush	M	0338	Phoenaeg	E560300-2	 	     Droy3   De Lo 		713	ImDv	G0 V M1 V	{ -3 }	(A20+3)	[3153]	B	12	60
+Gush	M	0339	Sagal	X887ADC-3	 	      Ga Hi 	B	913	ImDv	K1 V M0 V	{ -1 }	(C96+1)	[E912]	BE	7	648
+Gush	I	0422	Rucciset	X514000-B	 	     Di Ic 		012	ImDv	K0 V	{ -1 }	(A00+2)	[0000]	B	7	20
+Gush	I	0428	Charlotte	X565300-2	 	     Lo 		900	ImDv	K6 V	{ -3 }	(520-4)	[3162]	B	11	-40
+Gush	M	0432	Trichach	D57345A-5	 	     Ni 		204	ImDv	K8 V M9 V	{ -3 }	(631+3)	[1177]	B	13	54
+Gush	M	0433	Cemloch	D646752-8	 	      Ag Pi 		505	ImDv	M2 V	{ -1 }	(E67+1)	[6666]	BCD	8	588
+Gush	M	0434	Nemeet	X430000-8	 	      De Di Na Po 		004	ImDv	M2 V	{ -3 }	(D00+1)	[0000]	B	9	13
+Gush	M	0435	Gwelbyph	X423000-8	 	      Di Po 		005	ImDv	K3 V	{ -3 }	(C00-2)	[0000]	B	8	-24
+Gush	M	0436	Flaslousk	E543577-7	 	     Ni Po 		510	ImDv	M4 V	{ -3 }	(743+1)	[4233]	B	12	84
+Gush	M	0437	Jaeyelya	D584646-5	 	     (Ael Yael)  Ag Ri Ni 		802	ImDv	K6 V	{ -1 }	(853+2)	[6561]	BC	10	240
+Gush	M	0438	Lem	X532000-8	 	     Di Po 		000	ImDv	M1 V M3 V	{ -3 }	(400-4)	[0000]	B	10	-16
+Gush	M	0439	Dimkodrarn	X553414-4	 	      Ni Po 		203	ImDv	G0 V	{ -3 }	(631-2)	[1185]	B	13	-36
+Gush	E	0517	Imaniik	C968879-2	 	    An ChirW  Pa Ri Ph 	B	124	ImDv	M0 V	{ 0 }	(978+4)	[8881]	BcCe	9	2016
+Gush	I	0526	Kinurgii	X200000-8	 	     Di Va 		022	ImDv	K3 V	{ -3 }	(800-3)	[0000]	B	9	-24
+Gush	I	0527	Armec-Zamaa	X895304-5	 	     Lo 	B	903	ImDv	G3 V M7 V	{ -3 }	(520+1)	[1121]	B	11	10
+Gush	I	0529	Priinargh	X584000-1	 	     Di 		010	ImDv	M2 V M4 V	{ -3 }	(300-1)	[0000]	B	11	-3
+Gush	I	0530	Burle's Point	X662223-2	 	     Lo 	B	302	ImDv	K3 V M2 V	{ -3 }	(410+2)	[7141]	B	7	8
+Gush	M	0531	Rake	X425000-A	 	     Di 		002	ImDv	K3 V M4 V	{ -1 }	(900-2)	[0000]	B	13	-18
+Gush	M	0532	Soel	X8A5000-8	 	     Di Fl 		002	ImDv	K0 V M1 V	{ -3 }	(B00+1)	[0000]	B	14	11
+Gush	M	0536	Imagalu	D96797B-8	 	      Hi Pr 		104	ImDv	M0 V	{ -1 }	(E86-3)	[5828]	BcE	13	-2016
+Gush	M	0537	Wols	X764000-4	 	     Di 		000	ImDv	M0 V M4 V	{ -3 }	(300-4)	[0000]	B	11	-12
+Gush	A	0610	Habelut	X86A779-6	 	      Ri Wa 	B	202	NaHu	K3 V	{ -1 }	(96A+5)	[7658]	BC	7	2700
+Gush	E	0614	Deychavilosta	X200000-9	 	     Di Va 		024	ImDv	M2 V	{ -2 }	(D00+2)	[0000]	B	9	26
+Gush	E	0617	Bubenel	X779322-6	 	     Lo 		212	ImDv	M3 V M7 V	{ -3 }	(420-1)	[1122]	B	6	-8
+Gush	I	0623	Hartesh	D657534-6	 	     Ag Ga Ni 	B	205	ImDv	M1 V	{ -2 }	(741+3)	[538A]	BC	10	84
+Gush	I	0626	Thelkourd	E560777-7	 	      De Ri 	B	513	ImDv	K4 V M5 V	{ -1 }	(967-3)	[A668]	BC	9	-1134
+Gush	I	0627	Guhnesh	E757210-4	 	     Ga Lo 		300	ImDv	M2 V M2 V	{ -3 }	(410-3)	[2142]	B	13	-12
+Gush	I	0628	Norton	E57147A-8	 	     He Ni 		202	ImDv	K3 V M2 V M1 V	{ -3 }	(831-2)	[6198]	B	5	-48
+Gush	I	0630	Orren Station	X545768-5	 	       Ag Pi 	B	924	ImDv	G4 V M6 V	{ -1 }	(966-2)	[4665]	BCD	10	-648
+Gush	M	0631	Homage	D59469C-8	 	      Ag Ni 		612	ImDv	M2 V	{ -2 }	(B51+1)	[344C]	BC	6	55
+Gush	M	0632	Vipach	X738000-A	 	     Di 		010	ImDv	K4 V M5 V	{ -1 }	(700-4)	[0000]	B	14	-28
+Gush	M	0634	Sern	XAE6000-7	 	      Di 		000	ImDv	M0 V	{ -3 }	(400+1)	[0000]	B	10	4
+Gush	M	0639	Asiilish	X565135-2	 	      Lo 		914	ImDv	K3 V M4 V M4 V	{ -3 }	(600-1)	[6183]	B	13	-6
+Gush	M	0640	Chezpan	X200000-B	 	     Di Na Pi Va 		002	ImDv	K4 V M2 V	{ -1 }	(B00+4)	[0000]	BD	9	44
+Gush	E	0718	Pannolk	X79A421-3	 	     Ni Wa 	B	500	ImDv	M0 V	{ -3 }	(730-3)	[7174]	B	13	-63
+Gush	I	0722	Younis	X310000-C	 	     Di 		004	ImDv	K3 V	{ -1 }	(B00-2)	[0000]	B	8	-22
+Gush	I	0723	Inapiirn	X542227-3	 	     (pethi)  He Lo Po 		710	ImDv	G2 V	{ -3 }	(A10+1)	[4131]	B	12	10
+Gush	I	0725	Tungohl	X411000-E	 	     Di Ic 		014	ImDv	M3 V M4 V	{ -1 }	(900-3)	[0000]	B	16	-27
+Gush	I	0727	Hulr	X73A000-9	 	     Di Wa 		014	ImDv	M2 V M5 V	{ -2 }	(G00-2)	[0000]	B	8	-32
+Gush	I	0728	Wenton	X433000-A	 	     Di Po 		000	ImDv	M2 V	{ -1 }	(700+1)	[0000]	B	7	7
+Gush	I	0729	Jousta	X300000-D	 	     Di Va 		022	ImDv	M3 V	{ -1 }	(B00+2)	[0000]	B	12	22
+Gush	M	0732	Th'dir	X100000-E	 	     Di Va 		013	ImDv	M4 V	{ -1 }	(A00-2)	[0000]	B	10	-20
+Gush	M	0733	Dendaash	X9C7000-B	 	     Di Fl 		004	ImDv	A6 V M6 V	{ -1 }	(900+2)	[0000]	B	15	18
+Gush	M	0737	Zamashuug	X585101-4	 	     Lo 		300	ImDv	K6 V M3 V	{ -3 }	(300-2)	[1146]	B	13	-6
+Gush	M	0738	Dikaash	X627000-D	 	      Di In 		001	ImDv	M4 V	{ 0 }	(C00+1)	[0000]	BE	13	12
+Gush	M	0740	Wilson	X100000-B	 	     Di Va 		000	ImDv	M2 V M4 V	{ -1 }	(500+1)	[0000]	B	13	5
+Gush	A	0803	Menguno	X7B2000-8	 	      Di Fl He 		000	CsIm	K1 V M3 V	{ -3 }	(800-1)	[0000]	B	7	-8
+Gush	A	0810	Gelhhach	X558658-6	 	    (Hhrachddrumm)  Ag Ni 	B	301	NaHu	M3 V M3 V	{ -2 }	(852+3)	[9426]	BC	13	240
+Gush	E	0813	Kkoymjirad	E555587-6	 	     Ag Ni 	B	500	ImDv	K4 V	{ -2 }	(740-2)	[1398]	BC	7	-56
+Gush	E	0820	Asshashur	E576687-8	 	      Ag Ni 		520	ImDv	M3 V	{ -2 }	(A53+1)	[B457]	BC	8	150
+Gush	I	0824	Nonescue	X547230-5	 	     Lo 		905	ImDv	K1 V M1 V	{ -3 }	(510+1)	[1157]	B	10	5
+Gush	I	0826	Delaag	X8B3000-B	 	     Di Fl 		013	ImDv	M3 V M5 V	{ -1 }	(E00-2)	[0000]	B	10	-28
+Gush	I	0827	Loniva	X203000-8	 	      Di Ic Va 		005	ImDv	M2 V	{ -3 }	(900+1)	[0000]	B	11	9
+Gush	I	0829	Query	X645476-8	 	     Ni Pa 		402	ImDv	K2 V	{ -3 }	(830+3)	[4138]	Bc	12	72
+Gush	M	0831	Tenraash	X79A47B-4	 	     Ni Wa 	B	502	ImDv	G4 V	{ -3 }	(730+2)	[9122]	B	8	42
+Gush	M	0839	Ginupa	X559769-4	 	       	B	803	ImDv	G0 V	{ -2 }	(B68-2)	[5574]	B	11	-1056
+Gush	M	0840	Teuterom	X502000-C	 	      Di Ic Va 		013	ImDv	M2 V M4 V	{ -1 }	(A00-1)	[0000]	B	7	-10
+Gush	F	0912	Gakhamesh	E683610-8	 	     Ni Ri 		200	ImDv	K7 V	{ -2 }	(850+4)	[644A]	BC	6	160
+Gush	F	0914	Chulesh	E575676-3	 	       Ag Ni 	B	313	ImDv	K4 V M9 V	{ -2 }	(852-3)	[3442]	BC	12	-240
+Gush	F	0920	Drayrk	X550567-5	 	     De Ni Po 	B	203	ImDv	M0 V M2 V	{ -3 }	(743-2)	[4218]	B	9	-168
+Gush	J	0921	Obarr	X534000-B	 	     Di 		004	ImDv	M3 V	{ -1 }	(C00-3)	[0000]	B	7	-36
+Gush	J	0922	Chang	X775300-6	 	     Lo 		603	ImDv	K2 V	{ -3 }	(320+1)	[1169]	B	9	6
+Gush	J	0923	Liini	XA9A554-8	 	      Ni Oc 		502	ImDv	M0 V M0 V	{ -3 }	(D41+3)	[4287]	B	10	156
+Gush	J	0924	Zilu	X426000-B	 	      Di 		001	ImDv	M2 V M6 V	{ -1 }	(600-2)	[0000]	B	5	-12
+Gush	J	0925	Tamesh	D87A983-7	 	    Hi In Wa 	B	302	ImDv	M1 V	{ 0 }	(98B+1)	[7938]	BE	7	792
+Gush	J	0926	Igamaal	D557656-9	 	      Ag Ni 		503	ImDv	M2 V M6 V M7 V	{ -1 }	(B52-5)	[7569]	BC	13	-550
+Gush	J	0927	Saol	X678455-7	 	     Ni Pa 		221	ImDv	G5 V	{ -3 }	(630-2)	[1146]	Bc	13	-36
+Gush	J	0928	Ongelbal	E692300-7	 	     He Lo 		313	ImDv	M2 V	{ -3 }	(520+1)	[1147]	B	13	10
+Gush	J	0930	Dehruu	X542579-6	 	     He Ni Po 		223	ImDv	M2 V	{ -3 }	(742+1)	[1244]	B	10	56
+Gush	N	0933	Taalish	X572553-3	 	     He Ni 		203	ImDv	M2 V M4 V	{ -3 }	(741+1)	[9244]	B	12	28
+Gush	N	0934	Eycoltou	E887131-4	 	     Ga Lo 		801	ImDv	M3 V M8 V	{ -3 }	(300+1)	[1143]	B	9	3
+Gush	N	0935	Lemantine	X865201-5	 	     Ga Lo 		700	ImDv	G1 V M6 V	{ -3 }	(410-2)	[2152]	B	12	-8
+Gush	N	0936	Baalaansh	D561697-4	 	     Ni Ri 	B	504	ImDv	G4 V M5 V	{ -2 }	(854-4)	[9477]	BC	10	-640
+Gush	N	0937	Gamaliss	X572487-1	 	     He Ni 	B	400	ImDv	F3 V	{ -3 }	(632+5)	[1151]	B	12	180
+Gush	N	0940	Swinedune	X000000-8	 	      As Va Di 		000	ImDv	K3 V	{ -3 }	(700-4)	[0000]	B	9	-28
+Gush	F	1013	Munnarn	X410000-F	 	     Di 		002	ImDv	M3 V M5 V	{ -1 }	(900+1)	[0000]	B	11	9
+Gush	F	1015	Usdiki	X66496A-3	 	       Hi Pr 	B	603	ImDv	M0 V M0 V M9 V	{ -1 }	(B86-2)	[6885]	BcE	10	-1056
+Gush	F	1018	Toraago	X544445-5	 	     Ni Pa 		400	ImDv	M0 V M3 V	{ -3 }	(633+1)	[3113]	Bc	10	54
+Gush	F	1019	Lishuggi	C565673-8	 	      Ag Ri Ni 		914	ImDv	M0 V M2 V	{ 0 }	(D53+3)	[467B]	BC	13	585
+Gush	F	1020	Shir	X100000-F	 	     Di Na Va 		004	ImDv	M2 V	{ -1 }	(C00+2)	[0000]	B	7	24
+Gush	J	1021	Bragg	X571323-2	 	     He Lo 	B	200	ImDv	K9 V M9 V	{ -3 }	(520-1)	[3171]	B	6	-10
+Gush	J	1023	Lorris	X420000-B	 	      De He Di Po 		015	ImDv	K3 V	{ -1 }	(B00+1)	[0000]	B	15	11
+Gush	J	1025	Ienda	D767454-7	 	      Ga Ni Pa 	B	404	ImDv	M2 V M8 V	{ -3 }	(632+5)	[1146]	Bc	11	180
+Gush	J	1026	Fiaf	X78A444-5	 	     Ni Wa 		300	ImDv	M3 V	{ -3 }	(630+3)	[7137]	B	9	54
+Gush	J	1027	Taluu	X200000-A	 	      Di Na Pi Va 		022	ImDv	M0 V M9 V	{ -1 }	(E00+2)	[0000]	BD	7	28
+Gush	J	1029	Justine	D570686-5	 	      De He Ni 		702	ImDv	M2 V	{ -3 }	(851-4)	[4366]	B	7	-160
+Gush	N	1033	Nukyls	D540535-8	 	      De He Ni Po 		411	ImDv	K2 V	{ -3 }	(A41-1)	[5276]	B	10	-40
+Gush	N	1036	Maernon	X67867B-5	 	     Ag Ni 		303	ImDv	G0 V M3 V	{ -2 }	(854-4)	[4443]	BC	12	-640
+Gush	N	1038	Sharim	X435000-F	 	      Di 		000	ImDv	M3 V	{ -1 }	(B00-4)	[0000]	B	7	-44
+Gush	N	1039	He'alaan'drl	X424000-7	 	     Di Px 		001	ImDv	K0 V M8 V	{ -3 }	(700-4)	[0000]	B	9	-28
+Gush	F	1118	Heffone	X433000-C	 	     Di Px Po 		000	ImDv	K5 V	{ -1 }	(700-2)	[0000]	B	9	-14
+Gush	F	1119	Aintrin	X637000-C	 	     Di 		014	ImDv	M3 V M6 V	{ -1 }	(D00-1)	[0000]	B	9	-13
+Gush	F	1120	Vlu'da'rin	X504000-8	 	       Di Ic Va 		004	ImDv	M1 V M2 V M8 V	{ -3 }	(B00-2)	[0000]	B	10	-22
+Gush	J	1122	Panisse	X436000-6	 	      Di 		013	ImDv	M2 V	{ -3 }	(600-1)	[0000]	B	15	-6
+Gush	J	1123	Rumulaar	E88A205-7	 	     Lo Wa 		701	ImDv	M2 V	{ -3 }	(410+1)	[31A9]	B	6	4
+Gush	J	1124	Creca	X524000-A	 	    Di Px 		012	ImDv	K2 V	{ -1 }	(A00-4)	[0000]	B	12	-40
+Gush	J	1125	Hanseat	X300000-C	 	     Di Va 		000	ImDv	K4 V	{ -1 }	(700+2)	[0000]	B	13	14
+Gush	J	1127	Unuv	X423000-0	 	     (minor)  Ba Po 		002	ImDv	M2 V M9 V	{ -3 }	(200+1)	[0000]	B	6	2
+Gush	J	1128	Kaakaa	E550554-8	 	     De Ni Po 		402	ImDv	K4 V	{ -3 }	(943+3)	[9254]	B	8	324
+Gush	J	1129	Intnalta	X420000-E	 	      De He Di Po 		013	ImDv	M1 V M4 V	{ -1 }	(A00-3)	[0000]	B	11	-30
+Gush	N	1133	Kemshigesh	X532000-8	 	     Di Po 		013	ImDv	K2 V M8 V	{ -3 }	(B00-5)	[0000]	B	10	-55
+Gush	N	1135	Podero	X565797-5	 	      Ag Ri 	B	613	ImDv	M0 V	{ 0 }	(968+4)	[6755]	BC	7	1728
+Gush	N	1136	Uin	X543584-2	 	     Ni Po 	B	303	ImDv	K0 V	{ -3 }	(740-1)	[5262]	B	14	-28
+Gush	N	1137	Draerch	X312000-D	 	     Di Ic Na 		000	ImDv	M2 V M3 V M6 V	{ -1 }	(800-2)	[0000]	B	12	-16
+Gush	N	1139	Weaf	X777765-5	 	      Ag 	B	102	ImDv	K0 V	{ -1 }	(963-5)	[8619]	BC	15	-810
+Gush	N	1140	Rellena	X898330-4	 	     Lo 	B	410	ImDv	K2 V M6 V M0 V	{ -3 }	(420-1)	[7151]	B	11	-8
+Gush	B	1209	Fementok	X426000-B	 	     Di 		023	ImDv	G7 V	{ -1 }	(B00-4)	[0000]	B	11	-44
+Gush	F	1213	Ushamdidishar	X8C3000-B	 	     Di Fl 		025	ImDv	M1 III	{ -1 }	(F00-1)	[0000]	B	11	-15
+Gush	J	1221	Coernelf	X410000-7	 	     Di 		002	ImDv	M2 V	{ -3 }	(700-1)	[0000]	B	6	-7
+Gush	J	1223	Syrol	X56369C-6	 	       Ni Ri 		503	ImDv	F5 V	{ -2 }	(851-3)	[8431]	BC	10	-120
+Gush	J	1225	Forgane	X421000-E	 	     Di He Po 		024	ImDv	M3 V	{ -1 }	(B00-2)	[0000]	B	11	-22
+Gush	J	1227	Iest	X431000-A	 	     Droy3  Di Na Po 		024	ImDv	M2 V	{ -1 }	(E00+4)	[0000]	B	9	56
+Gush	J	1228	Indurain	X555549-7	 	     Ag Ni 	B	303	ImDv	M2 V	{ -2 }	(740+2)	[3319]	BC	9	56
+Gush	N	1231	Find	X675477-4	 	     Ni Pa 	B	223	ImDv	M2 V	{ -3 }	(632-5)	[6154]	Bc	8	-180
+Gush	N	1233	Mercator	E540443-5	 	      De He Ni Po 		303	ImDv	G1 V	{ -3 }	(633+4)	[11A3]	B	8	216
+Gush	N	1234	Sidur Ishki	X312000-F	 	      (Sidurii)  Di Ic Na In 		020	ImDv	M0 V M0 V	{ 0 }	(D00-1)	[0000]	BE	6	-13
+Gush	N	1235	Icon	X434000-7	 	    Di Px 		015	ImDv	K1 V	{ -3 }	(800+1)	[0000]	B	9	8
+Gush	N	1236	Shiiki	X551137-3	 	     Lo Po 		610	ImDv	G0 V	{ -3 }	(B00+3)	[4173]	B	12	33
+Gush	N	1237	Gumahler	X655797-0	 	     (Gumahl)  Ag Ga 	B	305	ImDv	K1 V M6 V	{ -1 }	(968-3)	[66A1]	BC	8	-1296
+Gush	N	1239	Zalanor	X100000-A	 	     Di Na Va 		024	ImDv	G7 V M3 V	{ -1 }	(E00-1)	[0000]	B	9	-14
+Gush	B	1308	Loskuuatav	D544654-9	 	     Ag Ni 		804	ImDv	G3 V M0 V	{ -1 }	(C53+1)	[9598]	BC	13	180
+Gush	F	1319	Chansingol	D570653-5	 	      De He Ni 	B	312	ImDv	K3 V	{ -3 }	(853+1)	[5367]	B	10	120
+Gush	J	1321	Lish	X665310-5	 	     Ga Lo 		121	ImDv	M0 V M5 V	{ -3 }	(520-3)	[7146]	B	13	-30
+Gush	J	1322	Berall	X58717A-4	 	     Lo 		504	ImDv	G9 V	{ -3 }	(500+1)	[1151]	B	9	5
+Gush	J	1328	Vesuata	X430000-D	 	     De Di Po 		003	ImDv	K4 V M9 V M9 V	{ -1 }	(900+5)	[0000]	B	7	45
+Gush	N	1331	Camal	X421000-8	 	      Di He Na Po 		003	ImDv	G9 IV M6 V	{ -3 }	(B00+1)	[0000]	B	10	11
+Gush	N	1333	Wingate	X87766A-3	 	      Ag Ni 	B	200	ImDv	M0 V	{ -2 }	(854+1)	[4437]	BC	9	160
+Gush	N	1334	Sidur Haski	X786220-7	 	     Ga Lo 		620	ImDv	M0 V	{ -3 }	(510+2)	[3159]	B	13	10
+Gush	N	1337	Thon	D7455AC-6	 	     Ag Ni 		310	ImDv	K4 V	{ -2 }	(740-1)	[5368]	BC	14	-28
+Gush	N	1340	Depsorn	E543211-4	 	    O:Ilel-1101  Lo Po 		103	ImDv	F7 V M3 V	{ -3 }	(510+2)	[7155]	B	12	10
+Gush	B	1407	Assunne	XAE7000-9	 	     Di 		021	ImDv	K0 V M8 V	{ -2 }	(600-4)	[0000]	B	7	-24
+Gush	F	1412	Platon	X83A000-F	 	      Di Wa 		020	ImDv	M3 V	{ -1 }	(800-2)	[0000]	B	7	-16
+Gush	F	1414	Lanaas	X999454-6	 	     Ni 	B	504	ImDv	K0 V	{ -3 }	(630+1)	[8157]	B	10	18
+Gush	F	1417	Guzrin	X836000-7	 	     Di 		025	ImDv	K8 V	{ -3 }	(400+1)	[0000]	B	12	4
+Gush	J	1422	Yellsar	E5628AD-7	 	     Ph Ri 		803	ImDv	G2 V M8 V	{ -1 }	(A77-2)	[B72A]	BCe	13	-980
+Gush	J	1423	Fairbriar	X411000-B	 	     Di Ic Na Pi 		004	ImDv	M0 V	{ -1 }	(D00+2)	[0000]	BD	11	26
+Gush	J	1425	Diro	X000000-D	 	      As Va Di 		003	ImDv	G8 V	{ -1 }	(800-5)	[0000]	B	10	-40
+Gush	J	1426	Tikav	X563878-4	 	       Ph Ri 	B	604	ImDv	M1 V M2 V	{ -1 }	(A79+3)	[7759]	BCe	13	1890
+Gush	J	1430	Xerxes	X526000-C	 	     Di 		000	ImDv	M2 V M7 V	{ -1 }	(700+1)	[0000]	B	13	7
+Gush	N	1431	Arailiur	X500000-A	 	     Di Va 		000	ImDv	G8 V M4 V	{ -1 }	(300+2)	[0000]	B	12	6
+Gush	N	1432	Confex	XAC5000-A	 	     Di Fl 		020	ImDv	M0 V	{ -1 }	(500-1)	[0000]	B	13	-5
+Gush	N	1433	Vueegmala	X629000-8	 	     Di 		003	ImDv	M2 V M6 V	{ -3 }	(A00-3)	[0000]	B	13	-30
+Gush	N	1434	Tromiishur	X626000-B	 	     Di Pi 		024	ImDv	M0 V M7 V	{ -1 }	(F00+1)	[0000]	BD	12	15
+Gush	N	1439	Shupin	X9599A9-8	 	      Hi 	B	304	ImDv	M2 V	{ -1 }	(F89-1)	[5856]	BE	10	-1080
+Gush	N	1440	Ovchek	X635000-E	 	     Di 		000	ImDv	M0 V M9 V	{ -1 }	(400-3)	[0000]	B	6	-12
+Gush	B	1507	Puumariash	X300000-C	 	       Di Na Pi Va 		004	ImDv	K5 V M2 V	{ -1 }	(E00-2)	[0000]	BD	11	-28
+Gush	B	1510	Opiwiath	E543441-6	 	     Ni Po 	B	400	ImDv	K2 V	{ -3 }	(632-2)	[4118]	B	12	-72
+Gush	F	1512	Gagushilaag	X571474-1	 	     He Ni 		602	ImDv	G1 V	{ -3 }	(730-1)	[4175]	B	14	-21
+Gush	F	1518	Divkar	X582410-3	 	       Ni 		614	ImDv	M3 V	{ -3 }	(730+1)	[8111]	B	10	21
+Gush	F	1519	Higli	D561896-5	 	     Ph Ri 	B	300	ImDv	M3 V M7 V	{ -1 }	(A77+2)	[9781]	BCe	13	980
+Gush	F	1520	Mentule	X651000-C	 	     Di Po 		003	ImDv	K4 V M1 V	{ -1 }	(D00+1)	[0000]	B	8	13
+Gush	J	1521	Haysher	E764895-6	 	       Pa Ri Ph 	B	303	ImDv	G9 V M0 V	{ -1 }	(A77-2)	[5775]	BcCe	8	-980
+Gush	J	1522	Cervantes	C567644-4	 	       Ag Ri Ni 	B	211	ImDv	M2 V	{ 0 }	(852+2)	[6673]	BC	11	160
+Gush	J	1523	Colehco	XAE7000-A	 	    GrayW  Di 		023	ImDv	M3 V M7 V	{ -1 }	(900+1)	[0000]	B	10	9
+Gush	J	1525	Andonin	X410000-B	 	     Di 		003	ImDv	K9 V	{ -1 }	(700+4)	[0000]	B	15	28
+Gush	J	1526	Griissound	X562579-4	 	     Ni Pr 		312	ImDv	M0 V	{ -3 }	(740-4)	[7256]	Bc	6	-112
+Gush	J	1528	Whiapluur	C598574-6	N 	     Ag Ni 		313	ImDv	G2 V M5 V	{ -1 }	(742+1)	[8414]	BC	10	56
+Gush	J	1529	Twahoy	X541448-5	 	     He Ni Po 		404	ImDv	M1 V M1 V	{ -3 }	(630-1)	[5154]	B	10	-18
+Gush	J	1530	Hemster	X420000-B	 	      De He Di Po 		005	ImDv	M0 V	{ -1 }	(C00-1)	[0000]	B	14	-12
+Gush	N	1531	Oneria	X787411-3	 	     Ga Ni Pa 		305	ImDv	M2 V	{ -3 }	(632+1)	[6145]	Bc	15	36
+Gush	N	1532	Polygamy	X549630-5	 	     Ni 		800	ImDv	K3 V	{ -3 }	(850+1)	[5385]	B	13	40
+Gush	N	1534	Sinerhk	D656688-8	 	     Ag Ga Ni 		404	ImDv	G1 V M6 V M2 V	{ -2 }	(C53+2)	[843A]	BC	8	360
+Gush	N	1539	Here	D543779-9	 	      Pi Po 		203	ImDv	K4 V	{ -1 }	(C64-2)	[668B]	BD	14	-576
+Gush	N	1540	Chiras	X555300-2	 	     Lo 	B	903	ImDv	M0 V	{ -3 }	(520+1)	[5193]	B	8	10
+Gush	B	1605	Maa	X100000-9	 	       Di Na Pi Va 		004	ImDv	M0 V M6 V	{ -2 }	(E00+3)	[0000]	BD	7	42
+Gush	F	1612	Booce	X899442-6	 	     Ni 		300	ImDv	M2 V	{ -3 }	(630-2)	[2183]	B	12	-36
+Gush	F	1613	Lendaarii	X798431-1	 	     Ni Pa 	B	402	ImDv	M4 V	{ -3 }	(630+1)	[5161]	Bc	11	18
+Gush	F	1615	Abir	D545631-8	 	      Ag Ni 		603	ImDv	M0 V	{ -2 }	(B50+4)	[443C]	BC	8	220
+Gush	F	1616	Imaparlu	D55679D-9	 	     Ag 	B	404	ImDv	G1 V	{ 0 }	(F62-3)	[9755]	BC	10	-540
+Gush	F	1618	Gabradio	X611000-D	 	     Di Ic Na Pi 		035	ImDv	M0 V M7 V	{ -1 }	(H00-1)	[0000]	BD	12	-17
+Gush	F	1619	Engallent	E550434-4	 	     De Ni Po 		521	ImDv	K9 V	{ -3 }	(A30+4)	[5166]	B	12	120
+Gush	F	1620	Kerek	X000000-C	 	      As Va Di Na 		003	ImDv	G5 III D	{ -1 }	(B00+3)	[0000]	B	10	33
+Gush	J	1622	Blullaygh	X648430-3	 	     Ni Pa 	B	303	ImDv	K1 V	{ -3 }	(633+1)	[2173]	Bc	10	54
+Gush	J	1623	Fraynj	X848566-2	 	     Ag Ni 	B	200	ImDv	K3 IV	{ -2 }	(743+1)	[2365]	BC	9	84
+Gush	J	1624	Leraag	X520000-9	 	      De He Di Po 		003	ImDv	M0 V M1 V	{ -2 }	(900+3)	[0000]	B	6	27
+Gush	J	1625	Emur	D56457A-6	 	      Ag Pr Ni 	B	214	ImDv	G0 V	{ -2 }	(740+4)	[3384]	BcC	9	112
+Gush	J	1627	Nuuhlam	X400000-9	 	     Di Va 		022	ImDv	M3 V	{ -2 }	(700+1)	[0000]	B	13	7
+Gush	J	1629	Pesuune	X534000-A	 	     Di 		015	ImDv	K1 V M1 V	{ -1 }	(D00+1)	[0000]	B	9	13
+Gush	N	1637	Zinzan	X433000-B	 	      Di Na Po 		004	ImDv	K3 V	{ -1 }	(C00+1)	[0000]	B	17	12
+Gush	N	1638	Budeeshou	X597378-7	 	      Lo 		804	ImDv	G2 V	{ -3 }	(620+1)	[1183]	B	12	12
+Gush	N	1640	Llest	D78A327-5	 	     Lo Wa 		403	ImDv	M0 V	{ -3 }	(420-3)	[4139]	B	8	-24
+Gush	C	1702	Eesonwiy	E5475AA-5	 	     Ag Ni 		422	ImDv	F6 V M0 V	{ -2 }	(741+2)	[2361]	BC	7	56
+Gush	G	1712	Gaanriigashii	D757489-7	 	     Ga Ni Pa 		304	ImDv	K8 V	{ -3 }	(631-1)	[4177]	Bc	7	-18
+Gush	G	1715	Vehko	D66566A-7	 	      Ag Ri Ga Ni 		315	ImDv	M1 V M2 V	{ -1 }	(855-1)	[3543]	BC	12	-200
+Gush	G	1717	Arsuch	X566401-3	 	     Ni Pa 		504	ImDv	G0 V M8 V	{ -3 }	(632-1)	[1167]	Bc	8	-36
+Gush	G	1718	Iktaakas	X74A137-3	 	     Lo Wa 		210	ImDv	M3 V M3 V	{ -3 }	(300+1)	[1165]	B	12	3
+Gush	K	1721	Guslas	X000000-8	 	      As Va Di Na 		000	ImDv	M2 V	{ -3 }	(800+2)	[0000]	B	9	16
+Gush	K	1722	Ethbray	X87A344-4	 	     Lo Wa 		303	ImDv	M0 V	{ -3 }	(520-1)	[2174]	B	8	-10
+Gush	K	1723	Uurgikhushi	X562577-5	 	     Ni Pr 		203	ImDv	M2 V M3 V	{ -3 }	(740-1)	[4255]	Bc	13	-28
+Gush	K	1724	Velte	X772432-7	 	     He Ni 		205	ImDv	K6 V M2 V	{ -3 }	(632+3)	[5147]	B	8	108
+Gush	K	1727	Stedeng	X424000-8	 	     Di 		020	ImDv	M0 V M2 V	{ -3 }	(A00-2)	[0000]	B	10	-20
+Gush	O	1732	Muthi	X873778-4	 	      	B	114	ImDv	K6 V M2 V	{ -2 }	(963+1)	[3511]	B	8	162
+Gush	O	1733	Arnuukara	X56086A-1	 	     De Ph Ri 	B	613	ImDv	M2 V	{ -1 }	(C75+4)	[8751]	BCe	7	1680
+Gush	O	1734	Arniche	X427000-9	 	      Di 		002	ImDv	K8 V M8 V	{ -2 }	(A00-1)	[0000]	B	15	-10
+Gush	O	1735	Ushiia	X200000-B	 	     Di Va 		030	ImDv	M3 V	{ -1 }	(900-4)	[0000]	B	9	-36
+Gush	O	1737	Ceoth	X595110-7	 	     Lo 		314	ImDv	M1 V M2 V	{ -3 }	(500+1)	[118C]	B	12	5
+Gush	O	1739	Khii Sheik	X433000-B	 	     Di Px Po 		000	ImDv	K2 V M2 V	{ -1 }	(600+1)	[0000]	B	13	6
+Gush	O	1740	Derry	X100000-F	 	     Di Va 		024	ImDv	M2 V	{ -1 }	(B00+1)	[0000]	B	9	11
+Gush	C	1801	Roy	X430000-F	 	     De Di Na Po 		003	ImDv	M0 V	{ -1 }	(C00+1)	[0000]	B	12	12
+Gush	C	1810	Moseesi	X310000-8	 	      Di Na Pi 		000	ImDv	M1 V	{ -3 }	(A00-2)	[0000]	BD	9	-20
+Gush	G	1811	Crufra	C583451-7	 	     Ni 		504	ImDv	M2 V	{ -2 }	(630-1)	[1266]	B	12	-18
+Gush	G	1814	Apay Maru	X55776E-6	 	     Ag 	B	904	ImDv	M2 V	{ -1 }	(965+1)	[2656]	BC	10	270
+Gush	G	1815	Temom	X423000-C	 	     Di Po 		020	ImDv	M1 V M5 V	{ -1 }	(800+1)	[0000]	B	12	8
+Gush	G	1816	Lumuiimshi	X311000-D	 	     Di Ic 		010	ImDv	M1 V	{ -1 }	(800+1)	[0000]	B	14	8
+Gush	G	1818	Windcrest	X568455-2	 	     Ni Pa 	B	212	ImDv	M2 V	{ -3 }	(631+1)	[1141]	Bc	6	18
+Gush	K	1821	Iirshuur	C544243-7	 	     Lo 		934	ImDv	G2 V M4 V	{ -2 }	(510-1)	[2163]	B	10	-5
+Gush	K	1822	Ayltha	X544322-0	 	     Lo 	B	613	ImDv	G5 V	{ -3 }	(520+3)	[3145]	B	13	30
+Gush	K	1823	Tire	XAE5000-B	 	     Di 		012	ImDv	G2 IV	{ -1 }	(800+3)	[0000]	B	13	24
+Gush	K	1826	Dawru	X89A576-5	 	     Ni Wa 	B	300	ImDv	M2 V	{ -3 }	(741-4)	[5263]	B	13	-112
+Gush	K	1828	Khalun	X200000-8	 	     Di Va 		005	ImDv	M2 V M5 V	{ -3 }	(A00+5)	[0000]	B	12	50
+Gush	O	1832	Oaxaca	X85A755-6	 	     Wa 	B	405	ImDv	M1 V M5 V	{ -2 }	(965+1)	[9555]	B	11	270
+Gush	O	1833	Nimshikake	X66458A-3	 	      Ag Pr Ni 	B	402	ImDv	M1 V M5 V	{ -2 }	(740+4)	[4374]	BcC	7	112
+Gush	O	1835	Rean	B567545-7	 	       Ag Pr Ni 		203	ImDv	M3 V M9 V	{ 0 }	(741+3)	[5567]	BcC	7	84
+Gush	O	1839	Cholo	D565659-4	 	      Ag Ri Ni 	B	802	ImDv	M2 V M8 V	{ -1 }	(850+1)	[7582]	BC	13	40
+Gush	C	1905	Trama	X7B2000-C	 	      Di Fl He 		003	ImDv	G0 II	{ -1 }	(A00-2)	[0000]	B	6	-20
+Gush	G	1911	Shirkii	E556432-5	 	     Ni Pa 		414	ImDv	M0 V	{ -3 }	(633+1)	[9191]	Bc	13	54
+Gush	G	1914	Edjbaston	X76A677-7	 	     Ni Ri Wa 		302	ImDv	M2 V	{ -2 }	(852-4)	[742A]	BC	9	-320
+Gush	G	1915	Dukshii Em	X88A768-4	 	      Ri Wa 	B	101	ImDv	K2 V	{ -1 }	(86A-3)	[2659]	BC	8	-1440
+Gush	G	1916	Oyuch	X550484-6	 	     De Ni Po 		300	ImDv	M2 V	{ -3 }	(633-3)	[114A]	B	11	-162
+Gush	K	1921	Mezregh	X726000-7	 	     Di 		003	ImDv	M1 V	{ -3 }	(500+2)	[0000]	B	7	10
+Gush	K	1923	Arcfest	EA69630-6	 	     Ni Ri 	B	210	ImDv	K2 V M3 V	{ -2 }	(851+3)	[6469]	BC	9	120
+Gush	K	1924	Toyuysk	X787968-3	 	      DroyW  Ga Hi Pr 	B	103	ImDv	K8 V	{ -1 }	(A8A+1)	[A881]	BcE	11	800
+Gush	K	1925	Fay	E778689-6	 	      Ag Ni 	B	521	ImDv	M1 V	{ -2 }	(850+2)	[4439]	BC	13	80
+Gush	K	1926	Howarth	X562874-6	 	      Ph Ri 	B	513	ImDv	M1 V	{ -1 }	(A77+2)	[8765]	BCe	9	980
+Gush	K	1927	Yaektyu	X75A100-3	 	     Lo Wa 		103	ImDv	G4 V	{ -3 }	(800+1)	[1113]	B	7	8
+Gush	K	1930	Unlardigard	X310000-E	 	       Di Na In 		004	ImDv	M2 V	{ 0 }	(F00-1)	[0000]	BE	9	-15
+Gush	O	1932	Hopkins	C567421-8	 	     Ni Pa 		303	ImDv	K3 V	{ -2 }	(930+1)	[4258]	Bc	11	27
+Gush	O	1933	Oyrayt	E586146-3	 	     Lo 		200	ImDv	M0 V	{ -3 }	(500+1)	[1168]	B	7	5
+Gush	O	1935	Aisteaya	X563579-6	 	     la6  Ni Pr 		220	ImDv	M2 V	{ -3 }	(740+1)	[8264]	Bc	9	28
+Gush	O	1936	Atu Ista	E67956C-4	 	     Ni 		410	ImDv	M2 V	{ -3 }	(740+1)	[8215]	B	8	28
+Gush	C	2007	Ranant	E5519AA-8	 	     Hi Po 		102	ImLc	G1 V	{ -1 }	(C86-2)	[6859]	BE	7	-1152
+Gush	C	2008	Sypny	E552778-7	 	      Po 		104	ImLc	M3 V M7 V	{ -2 }	(865+5)	[7567]	B	13	1200
+Gush	G	2015	Sadguumishmak	E585646-8	 	      Ag Ri Ni 		910	ImDv	K2 V	{ -1 }	(952+1)	[5549]	BC	11	90
+Gush	G	2018	Rellblud	X540578-8	 	      De He Ni Po 		502	ImDv	M1 V M3 V M4 V	{ -3 }	(940-2)	[8258]	B	12	-72
+Gush	G	2019	Buggar	X9A6000-A	 	     Di Fl 		000	ImDv	G3 V M5 V M8 V	{ -1 }	(700+1)	[0000]	B	12	7
+Gush	G	2020	Oukictach	X564554-6	 	       Ag Pr Ni 	B	500	ImDv	K4 V	{ -2 }	(742+2)	[1358]	BcC	12	112
+Gush	K	2021	Vuyha	X657648-4	 	     Ag Ga Ni 	B	702	ImDv	M0 V M5 V	{ -2 }	(853+1)	[8434]	BC	6	120
+Gush	K	2022	Tahnidse	X421000-C	 	      Di He Na Px Po 		012	ImDv	K3 V M9 V	{ -1 }	(B00+1)	[0000]	B	10	11
+Gush	K	2029	Trill	X78496A-5	 	     Hi Pr 	B	215	ImDv	M1 V	{ -1 }	(B88-3)	[C835]	BcE	10	-2112
+Gush	O	2031	Sombani	X422000-F	 	     Di He Po 		023	ImDv	M1 V M2 V	{ -1 }	(B00+5)	[0000]	B	10	55
+Gush	O	2036	Gushirdiimi	X54266B-5	 	       He Ni Po 	B	923	ImDv	M1 V	{ -3 }	(B52+1)	[A364]	B	11	110
+Gush	O	2037	Highbury	X424000-B	 	     Di Pi 		002	ImDv	M3 V	{ -1 }	(C00+2)	[0000]	BD	8	24
+Gush	O	2038	Yolai'	C758698-8	 	    la4  Ag Ni 		913	ImDv	M0 V	{ -1 }	(C53+1)	[A599]	BC	12	180
+Gush	O	2040	Tiirmmay	X431000-B	 	     Di Px Po 		004	ImDv	M1 V	{ -1 }	(A00+1)	[0000]	B	13	10
+Gush	C	2105	Mishiin	X432000-9	 	     Di Na Po 		003	ImLc	G4 V M2 V	{ -2 }	(C00+1)	[0000]	B	7	12
+Gush	C	2106	Ivto	X425000-B	 	     Di 		004	ImLc	M1 V M7 V	{ -1 }	(A00-4)	[0000]	B	11	-40
+Gush	C	2107	K'ketopan	X432000-9	 	      Di Po 		024	ImLc	M2 V	{ -2 }	(C00+1)	[0000]	B	9	12
+Gush	C	2108	Hilcaa	X5407B9-5	 	         De He Pi Po 	B	422	ImLc	M2 V M3 V	{ -2 }	(A65-2)	[7535]	BD	12	-600
+Gush	C	2110	Brice	X899786-4	 	      Pi 	B	400	ImLc	M2 V	{ -2 }	(964+1)	[7515]	BD	13	216
+Gush	G	2113	Eennusinak	X551145-4	 	     Lo Po 		503	ImDv	K0 V M5 V	{ -3 }	(500+1)	[1129]	B	13	5
+Gush	G	2115	Pihkiit	X420000-7	 	       De He Di Po 		002	ImDv	M0 V	{ -3 }	(600+2)	[0000]	B	13	12
+Gush	G	2119	Nogo	XA9A479-6	 	      Ni Oc 		601	ImDv	M2 V M7 V	{ -3 }	(A30+2)	[4124]	B	9	60
+Gush	G	2120	Esh Purshuur	X570000-4	 	      De He Di 		030	ImDv	M0 V M1 V	{ -3 }	(300+1)	[0000]	B	8	3
+Gush	K	2121	Oyrnigh	X67A410-5	 	     Ni Wa 	B	515	ImDv	K6 V M7 V M1 V	{ -3 }	(631-5)	[5148]	B	10	-90
+Gush	K	2122	Thatbe	X541630-5	 	     He Ni Po 		904	ImDv	K4 V	{ -3 }	(853-2)	[3368]	B	15	-240
+Gush	K	2124	Mzimbe	X420000-B	 	       De He Di Po 		024	ImDv	M2 V	{ -1 }	(C00+2)	[0000]	B	9	24
+Gush	K	2125	Nchena	X200000-9	 	     Di Va 		005	ImDv	M3 V	{ -2 }	(800-4)	[0000]	B	8	-32
+Gush	K	2127	Tlauwao	X430000-9	 	      la3  De Di Na Po 		004	ImDv	K0 V M9 V M7 V	{ -2 }	(G00-2)	[0000]	B	10	-32
+Gush	K	2128	Feaf	X549231-3	 	     Lo 		804	ImDv	A3 V	{ -3 }	(410+4)	[4111]	B	13	16
+Gush	K	2130	Fudaochoyrn	X000000-F	 	      As Va Di 		003	ImDv	K0 V M1 V	{ -1 }	(900-5)	[0000]	B	8	-45
+Gush	O	2131	Glipli	X525000-9	 	     Di 		020	ImDv	M2 V	{ -2 }	(600+1)	[0000]	B	13	6
+Gush	O	2132	Edoy	X556489-0	 	      Ni Pa 	B	224	ImDv	M2 V M7 V	{ -3 }	(631+1)	[2161]	Bc	14	18
+Gush	O	2134	Cledsetsaenn	X000000-E	 	      As Va Di 		033	ImDv	K1 V	{ -1 }	(D00+3)	[0000]	B	10	39
+Gush	O	2136	Bitesofrach	E787214-2	 	     Ga Lo 	B	125	ImDv	M0 V	{ -3 }	(510+1)	[1172]	B	11	5
+Gush	O	2139	Wesas	X696310-1	 	     Lo 		903	ImDv	G4 V	{ -3 }	(420-3)	[7152]	B	12	-24
+Gush	O	2140	Kuwiru	X510000-9	 	     Di 		010	ImDv	G4 V	{ -2 }	(700-2)	[0000]	B	9	-14
+Gush	C	2202	Mestitela	D555898-5	 	      Pa Ph 		303	ImLc	K2 V M5 V	{ -2 }	(A76+3)	[565A]	Bce	11	1260
+Gush	C	2205	Uurkhi	X421000-8	 	       Di He Na Px Po 		012	ImLc	K3 V	{ -3 }	(B00+3)	[0000]	B	8	33
+Gush	C	2206	Painntu	X547688-7	 	     Ag Ni 		801	ImLc	M3 V	{ -2 }	(853+3)	[4447]	BC	6	360
+Gush	C	2207	Irkhi	X678243-3	 	     LancW  Lo 		522	ImLc	K2 V	{ -3 }	(B10+1)	[2133]	B	13	11
+Gush	C	2210	Sehnaihal	E658885-6	 	     Pa Ph 	B	813	ImLc	M2 V	{ -2 }	(A7A+3)	[C66B]	Bce	17	2100
+Gush	G	2213	Vilir's World	X9B4000-9	 	      Di Fl 		034	ImDv	K1 V M3 V	{ -2 }	(F00+1)	[0000]	B	10	15
+Gush	G	2215	Murshen	E585420-4	 	      Ni Pa 		610	ImDv	G1 V	{ -3 }	(730-3)	[4172]	Bc	11	-63
+Gush	G	2216	Seaport	X595669-4	 	    (Giiguuglum)  Ag Ni 		414	ImDv	M2 V	{ -2 }	(854+3)	[9434]	BC	8	480
+Gush	G	2217	Ashsha	X422000-D	 	     Di He Px Po 		003	ImDv	M1 V	{ -1 }	(A00+1)	[0000]	B	12	10
+Gush	K	2221	K'ke Say	E683524-3	 	     Ni Pr 	B	220	ImDv	K4 V	{ -3 }	(740-1)	[5281]	Bc	10	-28
+Gush	K	2223	Deewaa	X430000-6	 	      De Di Po 		003	ImDv	M1 V M5 V	{ -3 }	(500-1)	[0000]	B	13	-5
+Gush	K	2224	Kamurinmur	X56086A-3	 	      De Ph Ri 	B	713	ImDv	K0 V M8 V	{ -1 }	(B74-1)	[4791]	BCe	11	-308
+Gush	K	2225	Elpple	X310000-A	 	     Di 		003	ImDv	M3 V	{ -1 }	(800+1)	[0000]	B	11	8
+Gush	K	2227	Helge	X693566-4	 	     Ni 	B	310	ImDv	M1 V M2 V	{ -3 }	(742+3)	[1254]	B	8	168
+Gush	K	2228	Wrechner	X432000-C	 	       Di Na Po 		005	ImDv	K5 V M1 V	{ -1 }	(D00-3)	[0000]	B	10	-39
+Gush	K	2229	Xanten	E593520-6	 	     Ni 		522	ImDv	K1 V M5 V M2 V	{ -3 }	(740+1)	[7246]	B	9	28
+Gush	O	2231	Zanish	X677443-7	 	      Ni Pa 		503	ImDv	M0 V	{ -3 }	(B30+3)	[8156]	Bc	13	99
+Gush	O	2233	Khugika	X553886-2	 	      Ph Po 	B	403	ImDv	M3 V	{ -2 }	(A7A+2)	[4631]	Be	15	1400
+Gush	O	2237	Thanarmoos	X524000-E	 	     Di 		004	ImDv	M1 V	{ -1 }	(700+1)	[0000]	B	10	7
+Gush	O	2240	Lleska	X622000-7	 	      Di He Po 		012	ImDv	K1 V	{ -3 }	(300+4)	[0000]	B	12	12
+Gush	C	2301	Ecolette	X432000-7	 	      LancW  Di Na Po 		023	ImLc	G3 V	{ -3 }	(A00+1)	[0000]	B	18	10
+Gush	C	2303	Kiind	X868557-4	 	      Ag Pr Ni 		312	ImLc	G0 V M6 V	{ -2 }	(741-4)	[8311]	BcC	16	-112
+Gush	C	2305	Sharenga	X68496A-8	 	      LancW  Hi Pr 	B	602	ImLc	K3 V M4 V	{ -1 }	(D86+5)	[8838]	BcE	6	3120
+Gush	C	2306	Mulanje	X797311-4	 	     (Edlun)3 Chir7  Lo 	B	324	ImLc	K1 V	{ -3 }	(620-2)	[81A3]	B	13	-24
+Gush	C	2307	Penelasse	X421000-B	 	     Di He Po 		000	ImLc	M1 V M4 V	{ -1 }	(700+1)	[0000]	B	10	7
+Gush	C	2308	Choma	X540542-4	 	      De He Ni Po 		301	ImLc	G3 V	{ -3 }	(740+1)	[3264]	B	8	28
+Gush	C	2309	Oroth	X672351-0	 	     He Lo 	B	901	ImLc	M2 V	{ -3 }	(520-1)	[1141]	B	14	-10
+Gush	C	2310	Viskka	X79456D-5	 	     Ag Ni 		300	ImLc	M1 V M1 V	{ -2 }	(744+2)	[5315]	BC	13	224
+Gush	G	2313	Ed	X57A967-7	 	      Hi In Wa 	B	213	ImDv	M0 V	{ 0 }	(C86-5)	[A957]	BE	10	-2880
+Gush	G	2316	Tu Tandi	E647403-4	 	     Ni Pa 		400	ImDv	G3 V M3 V	{ -3 }	(633+2)	[1121]	Bc	13	108
+Gush	G	2318	Mimip	X876479-5	 	     Ni Pa 	B	500	ImDv	M1 V	{ -3 }	(632-3)	[1154]	Bc	10	-108
+Gush	G	2320	Bleayn	D674555-5	 	     Ag Ni 		200	ImDv	K3 V	{ -2 }	(740+3)	[A338]	BC	13	84
+Gush	K	2323	Syss	X400000-8	 	     Di Na Pi Va 		010	ImDv	M9 III D M5 V	{ -3 }	(A00-4)	[0000]	BD	5	-40
+Gush	K	2325	Droun	X543435-5	 	      Ni Po 		400	ImDv	K1 V	{ -3 }	(B30-1)	[7164]	B	11	-33
+Gush	K	2326	Rashiidaa	D655415-8	 	     Ga Ni Pa 		201	ImDv	G2 V M5 V	{ -3 }	(730+2)	[6123]	Bc	14	42
+Gush	K	2330	Idull Ra	X5607CC-5	 	      De Ri 	B	724	ImDv	G2 V	{ -1 }	(969-2)	[A637]	BC	11	-972
+Gush	O	2331	Aying	X73A000-7	 	     Di Wa 		014	ImDv	G0 V M7 V	{ -3 }	(600-3)	[0000]	B	8	-18
+Gush	O	2332	Danla	X672675-5	 	     He Ni 		813	ImDv	M1 V	{ -3 }	(851+2)	[4336]	B	10	80
+Gush	O	2333	Tethaym	X000000-E	 	      As Va Di Na Pi 		003	ImDv	K2 V M0 V M4 V	{ -1 }	(C00+3)	[0000]	BD	9	36
+Gush	O	2334	Gerhardus	E552769-5	 	     Po 	B	823	ImDv	K4 V M7 V	{ -2 }	(967+2)	[8518]	B	9	756
+Gush	O	2335	Chipoka	E66678C-8	 	       Ag Ri Ga 		324	ImDv	M2 V M6 V	{ 0 }	(F64+4)	[9756]	BC	12	1440
+Gush	O	2336	Arapenpa	X540786-4	 	       De He Pi Po 	B	625	ImDv	G5 V M5 V	{ -2 }	(869-1)	[C595]	BD	12	-432
+Gush	O	2337	Giffard	X513000-7	 	     Di Ic Na 		023	ImDv	M3 V	{ -3 }	(800-3)	[0000]	B	8	-24
+Gush	O	2339	Thulm	X656100-4	 	     Ga Lo 	B	804	ImDv	M0 V M1 V	{ -3 }	(500+4)	[3181]	B	7	20
+Gush	O	2340	Elk	E874575-6	 	     Ag Ni 		512	ImDv	M1 V M3 V	{ -2 }	(744+1)	[2366]	BC	6	112
+Gush	C	2404	Hannbrous	X759658-4	 	     Ni 		420	ImLc	K3 V M5 V	{ -3 }	(853-2)	[8335]	B	6	-240
+Gush	C	2406	Ellus	X73A000-C	 	     LancW  Di Wa 		003	ImLc	M2 V	{ -1 }	(D00-1)	[0000]	B	10	-13
+Gush	C	2408	Cirsel	X538000-E	 	     Di 		023	ImLc	M3 V	{ -1 }	(B00+2)	[0000]	B	13	22
+Gush	C	2410	Admalaknii	X88A355-2	 	     Lo Wa 		904	ImLc	K0 V M9 V	{ -3 }	(620+1)	[4141]	B	13	12
+Gush	G	2411	Cerell	E78A455-5	 	     Ni Wa 	B	202	ImLc	M0 V	{ -3 }	(631+2)	[5145]	B	5	36
+Gush	G	2414	Wolstene	X000000-B	 	      As Va Di Na 		003	ImLc	M2 V M6 V	{ -1 }	(B00-2)	[0000]	B	10	-22
+Gush	G	2415	Kikhi Zun	X77A130-7	 	     Lo Wa 		300	ImLc	M1 V M2 V	{ -3 }	(600-1)	[1175]	B	11	-6
+Gush	G	2418	Liebing	X621000-D	 	       Di He Na Px Po 		000	ImDv	M1 V M4 V	{ -1 }	(800-1)	[0000]	B	12	-8
+Gush	K	2422	Vilk	E78567A-7	 	      Ag Ri Ga Ni 		210	ImDv	K5 V M0 V	{ -1 }	(852+3)	[9528]	BC	12	240
+Gush	K	2424	Plouraandva	X432000-E	 	     Di Na Po 		000	ImDv	K3 V M0 V	{ -1 }	(900-2)	[0000]	B	5	-18
+Gush	K	2425	Kieaasu	X430000-6	 	     De Di Po 		014	ImDv	G0 V	{ -3 }	(700-3)	[0000]	B	8	-21
+Gush	K	2426	Jazep	C592537-8	 	     He Ni 		534	ImDv	K1 V	{ -2 }	(E40+1)	[A389]	B	10	56
+Gush	K	2427	Twiga	X502000-A	 	      Di Ic Va 		000	ImDv	M2 V	{ -1 }	(600+1)	[0000]	B	6	6
+Gush	K	2428	Llalnair	X429000-7	 	     Di 		002	ImDv	F9 V M8 V	{ -3 }	(600-2)	[0000]	B	12	-12
+Gush	K	2429	Chitete	X420000-9	 	      De He Di Po 		002	ImDv	M3 V M7 V	{ -2 }	(800+1)	[0000]	B	9	8
+Gush	K	2430	Aawn	X434000-8	 	     Di 		005	ImDv	M2 V	{ -3 }	(D00+1)	[0000]	B	13	13
+Gush	O	2431	Kiaan	E583654-8	 	     Ni Ri 		903	ImDv	M2 V M5 V M9 V	{ -2 }	(B52+1)	[546C]	BC	12	110
+Gush	O	2434	Muaash	X565256-4	 	     Lo 		912	ImDv	M0 V M3 V	{ -3 }	(410-2)	[7134]	B	7	-8
+Gush	O	2438	Jars	X500000-D	 	     Di Va 		004	ImDv	M0 V M6 V	{ -1 }	(B00+2)	[0000]	B	8	22
+Gush	O	2439	Susadi	X8C3000-F	 	      Di Fl In 		001	ImDv	M3 V	{ 0 }	(C00+2)	[0000]	BE	9	24
+Gush	O	2440	Oyrk	X557442-5	 	     Ni Pa 		513	ImDv	M0 V M7 V	{ -3 }	(630+1)	[1154]	Bc	7	18
+Gush	D	2501	Kell	X76A776-6	 	       Ri Wa 		702	ImLc	M0 V M3 V	{ -1 }	(A68-5)	[6654]	BC	11	-2400
+Gush	D	2502	Sayayr	X735000-6	 	     Di 		010	ImLc	K1 V M0 V	{ -3 }	(900+1)	[0000]	B	8	9
+Gush	D	2503	Bradt Landing	X8B9000-9	 	     Di Fl 		023	ImLc	M2 V	{ -2 }	(800-5)	[0000]	B	12	-40
+Gush	D	2504	Routeburn	E5705A7-6	 	      De He Ni 		201	ImLc	M3 V M7 V	{ -3 }	(743-2)	[7213]	B	8	-168
+Gush	D	2507	Shiramuunir	X54496A-7	 	     LancW  Hi In 	B	431	ImLc	K1 V M7 V	{ 0 }	(C89+2)	[B978]	BE	13	1728
+Gush	D	2509	Jonosva	X9C7000-9	 	      Di Fl 		003	ImLc	G0 III D	{ -2 }	(D00+1)	[0000]	B	9	13
+Gush	H	2511	Gurdadusu	X736000-7	 	     Di 		003	ImLc	M0 V M6 V	{ -3 }	(700+1)	[0000]	B	10	7
+Gush	H	2512	Andelech	X436000-9	 	     Di 		004	ImLc	K9 V	{ -2 }	(A00-5)	[0000]	B	9	-50
+Gush	H	2513	Masa	X421000-F	 	       LancW  Di He Na In Po 		000	ImLc	M3 V	{ 0 }	(C00+2)	[0000]	BE	9	24
+Gush	H	2514	Rutkowski	X637000-B	 	      Di 		003	ImLc	M1 V M2 V	{ -1 }	(700-4)	[0000]	B	10	-28
+Gush	H	2517	Royef	X542323-4	 	     He Lo Po 		405	ImLc	K5 V	{ -3 }	(420-4)	[5145]	B	12	-32
+Gush	L	2521	Joand	D899612-7	 	     Ni 	B	604	ImDv	K8 V M3 V	{ -3 }	(852+1)	[3332]	B	12	80
+Gush	L	2523	Mapock	X546200-6	 	     Lo 		300	ImDv	G7 V	{ -3 }	(510+1)	[7176]	B	10	5
+Gush	L	2525	Ioyx	X6B2000-B	 	      Di Fl He 		003	ImDv	G9 V	{ -1 }	(700+3)	[0000]	B	16	21
+Gush	L	2526	Joffe's World	X310000-C	 	     Di Na 		002	ImDv	F3 V	{ -1 }	(A00+1)	[0000]	B	10	10
+Gush	L	2527	Etwefrewa	X56656A-2	 	      Ag Pr Ni 	B	420	ImDv	G3 V	{ -2 }	(741+4)	[4344]	BcC	15	112
+Gush	P	2532	Yntulk	X88989B-3	 	     Ph Ri 	B	224	ImDv	K4 V	{ -1 }	(A76+1)	[8714]	BCe	13	420
+Gush	P	2536	Sers	X540567-1	 	      De He Ni Po 	B	412	ImDv	K4 V	{ -3 }	(742-4)	[7252]	B	9	-224
+Gush	P	2537	Stallfe	D98648A-7	 	     Ni Pa 	B	524	ImDv	M0 V M1 V	{ -3 }	(630+3)	[3156]	Bc	11	54
+Gush	P	2538	Thulm	X87A100-4	 	     Lo Wa 		303	ImDv	M2 V M4 V	{ -3 }	(500-3)	[5168]	B	13	-15
+Gush	P	2539	Hate	X988878-6	 	       Pa Ri Ph 	B	804	ImDv	M3 V	{ -1 }	(A75+1)	[3766]	BcCe	13	350
+Gush	P	2540	Temes	X649202-1	 	       Lo 		403	ImDv	G2 V M4 V M0 V	{ -3 }	(A10+2)	[4111]	B	9	20
+Gush	D	2609	Ellje	D796579-6	 	     Ag Ni 		415	ImLc	K2 V	{ -2 }	(744+1)	[4352]	BC	13	112
+Gush	D	2610	Tosiv	X525000-8	 	     Di 		010	ImLc	K4 V M6 V	{ -3 }	(800-1)	[0000]	B	11	-8
+Gush	H	2612	Maru	X8C5000-A	 	     Di Fl 		024	ImLc	M3 V	{ -1 }	(B00+3)	[0000]	B	12	33
+Gush	H	2613	Nourm	X647400-5	 	     Ni Pa 		202	ImLc	K8 V M0 V	{ -3 }	(632+1)	[8126]	Bc	8	36
+Gush	H	2614	Upllor	E558852-5	S	    Gray5  Pa Ph 	B	620	ImLc	K1 V	{ -2 }	(A73+1)	[A648]	Bce	9	210
+Gush	H	2615	Erdousse	E785576-7	 	       Ag Pr Ga Ni 	B	424	ImLc	M2 V	{ -2 }	(740-4)	[6364]	BcC	14	-112
+Gush	H	2617	Une	X438000-9	 	    Gray2   Di 		004	ImLc	G9 V	{ -2 }	(A00-2)	[0000]	B	14	-20
+Gush	H	2618	Courtesy	X647220-7	 	     Lo 		304	ImLc	M1 V M1 V	{ -3 }	(410+3)	[1194]	B	8	12
+Gush	H	2619	Guumishmak	X434000-9	 	    Di Px 		014	ImLc	M0 V M6 V	{ -2 }	(C00+1)	[0000]	B	11	12
+Gush	H	2620	Akushis	X000000-B	 	       LancW  As Va Di Na In 		004	ImLc	M1 V	{ 0 }	(F00+3)	[0000]	BE	17	45
+Gush	L	2625	Khankaar	X633000-8	 	     Di Po 		002	ImDv	M3 V	{ -3 }	(700+1)	[0000]	B	11	7
+Gush	L	2626	Bliand	X948442-6	 	     Ni Pa 	B	322	ImDv	M1 V	{ -3 }	(630-3)	[2165]	Bc	10	-54
+Gush	L	2627	Imarshas	X9C6000-9	 	      Di Fl In 		024	ImDv	M0 V M6 V M2 V	{ -1 }	(H00+3)	[0000]	BE	12	51
+Gush	L	2628	Kunggy	E885241-7	 	     Ga Lo 		211	ImDv	M0 V	{ -3 }	(310+1)	[2134]	B	5	3
+Gush	L	2629	Nosy Be	D69A122-7	 	     Lo Wa 		800	ImDv	M0 V M2 V	{ -3 }	(800-1)	[4177]	B	13	-8
+Gush	L	2630	Majunga	X89A779-5	 	      Wa 		110	ImDv	G1 V	{ -2 }	(867+1)	[9537]	B	11	336
+Gush	P	2632	Croft	X550768-5	 	      De Po 		602	ImDv	G0 V	{ -2 }	(962+1)	[5583]	B	9	108
+Gush	P	2633	Pequan	X543342-4	 	     Lo Po 		610	ImDv	K1 V M9 V	{ -3 }	(420+4)	[1114]	B	6	32
+Gush	P	2634	Katsue	X436000-7	 	     Di 		003	ImDv	G3 V	{ -3 }	(700+3)	[0000]	B	6	21
+Gush	P	2637	Darkaoul	X425000-F	 	     Di 		010	ImDv	G0 V	{ -1 }	(800+2)	[0000]	B	14	16
+Gush	P	2639	Tudjman	X687667-3	 	      Ag Ri Ga Ni 	B	800	ImDv	K3 V	{ -1 }	(854+1)	[9533]	BC	11	160
+Gush	D	2701	Fubanan	XA9A201-0	 	     Lo Oc 	B	800	ImLc	K4 V	{ -3 }	(610+2)	[3171]	B	9	12
+Gush	D	2704	Kyla	XA7A304-0	 	    LancW  Lo Oc 	B	600	ImLc	K1 V M9 V	{ -3 }	(420+1)	[4131]	B	13	8
+Gush	D	2705	Xenicus	XAE5000-9	 	     Di 		004	ImLc	M8 III	{ -2 }	(C00+3)	[0000]	B	7	36
+Gush	D	2706	Sinish Giken	X431000-A	 	      Di Na Px Po 		020	ImLc	G0 V G3 V	{ -1 }	(A00+4)	[0000]	B	13	40
+Gush	D	2707	Hunnan	X560752-5	 	      De Ri 		403	ImLc	M2 V M6 V	{ -1 }	(966+1)	[8662]	BC	9	324
+Gush	D	2709	Minev	E540333-7	 	      De He Lo Po 		604	ImLc	M0 V M5 V	{ -3 }	(520+1)	[1137]	B	14	10
+Gush	H	2713	Kinshasa	E868897-6	 	      Lanc5 Gray1  Pa Ri Ph 		712	ImLc	K2 V M8 V	{ -1 }	(A73+1)	[9776]	BcCe	11	210
+Gush	H	2715	Bruyrkna	X8B3000-9	 	    Gray1  Di Fl 		004	ImLc	K3 V	{ -2 }	(D00+2)	[0000]	B	8	26
+Gush	H	2716	Shakhamash	X94A412-6	 	      (Hanen)9 Gray1  Ni Wa 	B	203	ImLc	K0 V M3 V	{ -3 }	(B31+3)	[4155]	B	8	99
+Gush	H	2717	Lallvi	E587844-8	 	     LancW  Pa Ri Ph 		804	ImLc	K3 V	{ -1 }	(E74+1)	[6759]	BcCe	9	392
+Gush	L	2723	Doposeng	X594220-5	 	     Lo 		100	ImDv	M1 V	{ -3 }	(310+3)	[4113]	B	12	9
+Gush	L	2724	Memern	X540342-0	 	      De He Lo Po 		202	ImDv	K0 V M9 V	{ -3 }	(520+1)	[4161]	B	12	10
+Gush	L	2725	Moytra	X636000-B	 	     Di 		010	ImDv	M1 V M5 V	{ -1 }	(B00+1)	[0000]	B	11	11
+Gush	L	2726	Loholoka	X556124-2	 	     Lo 		200	ImDv	M2 V	{ -3 }	(500-2)	[4114]	B	12	-10
+Gush	L	2730	Irkhun	E55096A-4	 	     De Hi Po 	B	200	ImDv	M1 V M2 V	{ -1 }	(A85-5)	[8875]	BE	12	-2000
+Gush	P	2732	Khossfoy	X430000-6	 	      De Di Po 		022	ImDv	K7 V M9 V	{ -3 }	(500+2)	[0000]	B	13	10
+Gush	P	2734	Traynor	X434000-8	 	     Di 		013	ImDv	K1 V	{ -3 }	(B00+4)	[0000]	B	12	44
+Gush	P	2735	Moy	X75876A-2	 	      Ag 	B	914	ImDv	M1 V M2 V	{ -1 }	(A66+1)	[7692]	BC	10	360
+Gush	P	2737	Chechen	X597231-4	 	     Lo 		522	ImDv	M1 V M3 V	{ -3 }	(310+2)	[1177]	B	9	6
+Gush	P	2738	Khalun	X421000-7	 	      Di He Po 		004	ImDv	K5 V	{ -3 }	(500-2)	[0000]	B	10	-10
+Gush	P	2740	Iishli	X888450-0	 	     Ni Pa 	B	313	ImDv	M1 V	{ -3 }	(630+4)	[3111]	Bc	8	72
+Gush	D	2801	Aakmi	X765778-5	 	      Ag Ri Ga 		300	ImLc	K2 V	{ 0 }	(966-3)	[7741]	BC	4	-972
+Gush	D	2802	Trindewranda	X422000-A	 	     Di He Px Po 		003	ImLc	K1 V	{ -1 }	(A00+3)	[0000]	B	9	30
+Gush	D	2804	Giikika	E544688-5	 	     Ag Ni 	B	510	ImLc	K1 V	{ -2 }	(850+1)	[8468]	BC	9	40
+Gush	D	2806	Sahee	X96A69A-3	 	     Ni Ri Wa 	B	802	ImLc	M2 V	{ -2 }	(854-3)	[6411]	BC	7	-480
+Gush	D	2807	Ka Maz	X580310-0	 	       De Lo 	B	604	ImLc	M0 V	{ -3 }	(620-1)	[4124]	B	7	-12
+Gush	D	2809	Luuen	X421000-E	 	     Di He Po 		004	ImLc	M3 V	{ -1 }	(A00+1)	[0000]	B	11	10
+Gush	D	2810	Mekar	X58456A-1	 	      Ag Pr Ni 		400	ImLc	M0 V	{ -2 }	(743+2)	[9322]	BcC	8	168
+Gush	H	2812	Koinunmatie	X566222-2	 	    GrayW  Lo 		304	ImLc	M2 V	{ -3 }	(510+1)	[3112]	B	11	5
+Gush	H	2813	Lumu	X553225-5	 	    Gray2  Lo Po 		203	ImLc	K6 V M7 V	{ -3 }	(610-5)	[2171]	B	15	-30
+Gush	H	2814	Tuuttka	B876732-7	 	     Gray7  Ag 		102	ImLc	M0 V	{ 1 }	(868+1)	[585A]	BC	15	384
+Gush	H	2815	Liigash	X688853-7	 	     (Graytch)   Pa Ri Ph 		702	ImLc	G3 Ib BD	{ -1 }	(A76+1)	[6736]	BcCe	12	420
+Gush	H	2820	Teklemos	E895845-8	 	     LancW  Pa Pi Ph 		303	ImLc	M2 V	{ -2 }	(D7A+2)	[5663]	BcDe	8	1820
+Gush	L	2821	Fuch	X551621-3	 	     Ni Po 		903	ImDv	M2 V	{ -3 }	(852+1)	[9352]	B	10	80
+Gush	L	2822	Zomandao	X688433-3	 	      Ni Pa 	B	600	ImDv	M0 V	{ -3 }	(732-3)	[6172]	Bc	7	-126
+Gush	L	2824	Anech Issan	E5646A7-5	 	      Ag Ri Ni 	B	402	ImDv	K1 V	{ -1 }	(852+1)	[4571]	BC	11	80
+Gush	L	2828	Ushuuri	X83A000-C	 	     Di Wa 		013	ImDv	M0 V M6 V	{ -1 }	(F00+5)	[0000]	B	7	75
+Gush	L	2829	Sersoolm	X420000-B	 	         De He Di Na Pi Po 		022	ImDv	M1 V M1 V	{ -1 }	(E00+4)	[0000]	BD	11	56
+Gush	L	2830	Dendouth	X200000-8	 	      Di Na Va 		001	ImDv	M2 V	{ -3 }	(900+2)	[0000]	B	10	18
+Gush	P	2831	Abact	X6729A6-3	 	      He Hi In 	B	904	ImDv	M0 V	{ 0 }	(A86-5)	[8923]	BE	8	-2400
+Gush	P	2833	Grebele	E540474-5	 	      De He Ni Po 		305	ImDv	M3 V M8 V	{ -3 }	(632+2)	[2143]	B	12	72
+Gush	P	2834	Drigelm	X666856-2	 	       Ga Pa Ri Ph 	B	313	ImDv	M2 V M9 V	{ -1 }	(A77+3)	[B791]	BcCe	14	1470
+Gush	P	2835	Muugegdan	X424000-B	 	    Di Pi 		003	ImDv	M3 V M9 V	{ -1 }	(C00-2)	[0000]	BD	9	-24
+Gush	P	2837	Rashiidaa	X58047C-5	 	     De Ni 		314	ImDv	M0 V M7 V	{ -3 }	(630+5)	[6151]	B	10	90
+Gush	P	2838	Trauch	X783326-6	 	     Lo 	B	502	ImDv	M1 V	{ -3 }	(520+5)	[2127]	B	10	50
+Gush	P	2839	Kadar	X542147-4	 	       He Lo Po 		620	ImDv	M1 V M4 V M1 V	{ -3 }	(B00-2)	[2155]	B	10	-22
+Gush	P	2840	Odinga	X431000-7	 	     Di Po 		004	ImDv	M3 V M8 V	{ -3 }	(700-5)	[0000]	B	15	-35
+Gush	D	2904	Pucuro	X6426A9-5	 	      He Ni Po 	B	301	ImLc	K9 V M9 V	{ -3 }	(850+1)	[6383]	B	7	40
+Gush	D	2905	Beheld	E557565-5	 	     Ag Ni 		514	ImLc	K4 V	{ -2 }	(740+1)	[5393]	BC	10	28
+Gush	D	2906	Tasazhas	D898536-3	 	     Ag Ni 	B	411	ImLc	M3 V	{ -2 }	(744-5)	[9333]	BC	9	-560
+Gush	D	2907	Lishan	X310000-E	 	      Di Na In 		013	ImLc	M2 V	{ 0 }	(F00-4)	[0000]	BE	7	-60
+Gush	D	2910	Muidmu	XAE7000-E	 	     Di 		000	ImLc	K6 V	{ -1 }	(500-2)	[0000]	B	7	-10
+Gush	H	2912	Lohme	X848101-4	 	     Lo 		301	ImLc	M3 V M4 V	{ -3 }	(400+1)	[4138]	B	11	4
+Gush	H	2914	Twele	X000000-E	 	     Gray5   As Va Di Na 		010	ImLc	K7 V M5 V	{ -1 }	(900-4)	[0000]	B	14	-36
+Gush	H	2915	Jasper	B56358A-6	 	    Gray4   Ni Pr 		200	ImLc	G2 V M4 V	{ -1 }	(740-3)	[2486]	Bc	13	-84
+Gush	H	2916	Tinisutta	X67947A-3	 	    Gray0  Ni 		203	ImLc	M1 V M2 V	{ -3 }	(630+1)	[3181]	B	14	18
+Gush	H	2917	Aran	X5428AC-5	 	       He Ph Pi Po 		602	ImLc	K1 IV	{ -2 }	(A72+4)	[D63A]	BDe	12	560
+Gush	H	2919	Oneria	E544300-4	 	     Lo 		400	ImLc	M2 V	{ -3 }	(320-4)	[61A7]	B	11	-24
+Gush	H	2920	Mezregh	X8B9000-A	 	     Di Fl 		014	ImLc	M3 V M8 V	{ -1 }	(F00+1)	[0000]	B	12	15
+Gush	L	2921	Edat	X437000-D	 	     Di 		002	ImDv	M2 V M4 V M9 V	{ -1 }	(C00+3)	[0000]	B	8	36
+Gush	L	2923	Goye	E767533-6	 	       Ag Pr Ga Ni 	B	310	ImDv	G3 V	{ -2 }	(744+1)	[3383]	BcC	14	112
+Gush	L	2924	Oieakh	X437000-6	 	     Di 		012	ImDv	M3 V	{ -3 }	(300-3)	[0000]	B	11	-9
+Gush	L	2925	Hkeakewoirea'	E99896B-6	 	    la4  Hi In 	B	802	ImDv	G3 V M7 V	{ 0 }	(B87-4)	[7945]	BE	9	-2464
+Gush	L	2930	Taeahtaho	E887200-1	S	    la7  Ga Lo 	B	804	ImDv	K2 V	{ -3 }	(510+2)	[1181]	B	10	10
+Gush	P	2931	Kikuyu	X78976A-1	 	     Ri 	B	804	ImDv	M2 V M4 V	{ -1 }	(961+1)	[C643]	BC	12	54
+Gush	P	2937	Eralt	XAB8000-8	 	     Di Fl 		003	ImDv	M9 III D	{ -3 }	(900+1)	[0000]	B	16	9
+Gush	P	2938	Azwhew	X577301-2	 	     Lo 		200	ImDv	M3 V	{ -3 }	(320+1)	[41A1]	B	13	6
+Gush	P	2939	Ann	E873420-6	 	     Ni 	B	303	ImDv	G2 V	{ -3 }	(630-1)	[5194]	B	6	-18
+Gush	D	3002	Fuqui	X533000-6	 	      Di Na Px Po 		000	ImLc	K3 V	{ -3 }	(800+3)	[0000]	B	8	24
+Gush	D	3003	Nyamuleju	X540574-6	 	      De He Ni Po 		204	ImLc	M2 V	{ -3 }	(740+1)	[3296]	B	10	28
+Gush	D	3004	Raoh	X555778-8	 	    LancW   Ag 		500	ImLc	M2 V M2 V	{ -1 }	(967-4)	[763B]	BC	13	-1512
+Gush	D	3006	Upaniv	C567410-5	 	      Ni Pa 		303	ImLc	M1 V M9 V	{ -2 }	(630-1)	[2264]	Bc	13	-18
+Gush	D	3007	Ivahllo	E756154-5	 	    S'mr3  Ga Lo 		100	ImLc	K7 V M1 V	{ -3 }	(500+2)	[1169]	B	11	10
+Gush	D	3008	Suhho	X300000-B	 	     Di Va 		003	ImLc	K4 V	{ -1 }	(600+3)	[0000]	B	16	18
+Gush	D	3009	Miz*rskua'mr	E553424-5	 	    S'mrW Kiak0   Ni Po 		302	ImLc	M0 V	{ -3 }	(632+2)	[4168]	B	13	72
+Gush	H	3012	Fuqui	X7898AB-6	 	      Ph Ri 		314	ImLc	M2 V M7 V	{ -1 }	(A78-2)	[5753]	BCe	17	-1120
+Gush	H	3013	Amda	X632000-9	 	      Di Na Po 		000	ImLc	K4 V	{ -2 }	(900+3)	[0000]	B	13	27
+Gush	H	3014	Vell	X667648-6	 	      Ag Ri Ga Ni 	B	304	ImLc	K8 V M2 V	{ -1 }	(852+2)	[A548]	BC	11	160
+Gush	H	3015	Asylum	X6B3000-B	 	     Di Fl 		024	ImLc	G6 V	{ -1 }	(C00+1)	[0000]	B	11	12
+Gush	H	3016	Depot	C540872-8	 	        De He Ph Pi Po 		124	ImLc	G4 V	{ -1 }	(E77-2)	[874A]	BDe	9	-1372
+Gush	H	3017	Kaagaarkha	X835000-8	 	   Di GrayW  		003	ImLc	K0 IV	{ -3 }	(C00-5)	[0000]	B	8	-60
+Gush	L	3023	Suysu	X000000-B	 	       la3  As Va Di Na Pi 		012	ImDv	M2 V	{ -1 }	(D00-2)	[0000]	BD	13	-26
+Gush	L	3024	Brase	X75656C-3	 	     Ag Ga Ni 	B	504	ImDv	K1 V M3 V	{ -2 }	(742-1)	[7391]	BC	7	-56
+Gush	L	3026	Beangub	X786478-6	 	      Ga Ni Pa 		600	ImDv	K8 V M2 V	{ -3 }	(731+1)	[1121]	Bc	12	21
+Gush	L	3027	Gier	D596411-8	 	     Ni Pa 		503	ImDv	G2 V M8 V	{ -3 }	(930-2)	[5179]	Bc	13	-54
+Gush	L	3028	Doucttru	D798420-6	 	     Ni Pa 	B	205	ImDv	K8 V	{ -3 }	(631-4)	[1157]	Bc	11	-72
+Gush	L	3029	Phaln	X420000-E	 	         De He Di Na In Po 		012	ImDv	K4 V M9 V	{ 0 }	(E00+3)	[0000]	BE	10	42
+Gush	P	3031	Teghde	X560459-4	 	     De Ni 	B	513	ImDv	M2 V	{ -3 }	(632+1)	[4181]	B	13	36
+Gush	P	3033	Sabhaash	D665100-2	S	     Ga Lo 	B	902	ImDv	K0 V	{ -3 }	(300+1)	[1161]	B	13	3
+Gush	P	3034	Ukham	X310000-9	 	     Di 		023	ImDv	K2 III	{ -2 }	(B00-4)	[0000]	B	9	-44
+Gush	P	3035	Taleoo	X957866-4	 	      Pa Ph 	B	803	ImDv	M0 V	{ -2 }	(A74+1)	[9691]	Bce	10	280
+Gush	P	3038	Kieaasu	X667144-7	 	    laW  Ga Lo 		520	ImDv	K1 V	{ -3 }	(300-1)	[2117]	B	5	-3
+Gush	P	3039	Uskent	X55A210-3	 	     Lo Wa 		300	ImDv	M3 V	{ -3 }	(310+1)	[1136]	B	9	3
+Gush	D	3101	Inkia	E794797-6	 	      Ag Pi 		610	ImLc	M3 V M8 V	{ -1 }	(965-4)	[3698]	BCD	11	-1080
+Gush	D	3103	Yta Akat	X8B3000-8	 	     (Lumu)  Di Fl 		003	ImLc	G0 V M9 V	{ -3 }	(A00+1)	[0000]	B	11	10
+Gush	D	3104	Tullyree	X435000-6	 	     Di 		004	ImLc	K3 V M8 V	{ -3 }	(700-1)	[0000]	B	10	-7
+Gush	D	3105	Kukhun	X658532-4	 	    (Lancians)  Ag Ni 		303	ImLc	K0 V	{ -2 }	(B40-3)	[6344]	BC	12	-132
+Gush	D	3106	Aphu	E795633-3	 	     Ag Ni 	B	825	ImLc	M3 V	{ -2 }	(852+1)	[8451]	BC	11	80
+Gush	D	3107	Llaet	X587133-7	 	     Lo 		611	ImLc	K4 V M4 V	{ -3 }	(300+1)	[4135]	B	8	3
+Gush	D	3110	Urssursfa'	E565437-5	 	    S'mrW Kiak0  Ni Pa 		503	ImLc	M2 V	{ -3 }	(632+3)	[7146]	Bc	13	108
+Gush	H	3112	Sykell	X310000-A	 	     Di 		010	ImLc	M1 V	{ -1 }	(700+1)	[0000]	B	14	7
+Gush	H	3116	Alp	X403000-7	 	       Di Ic Va 		013	ImLc	K3 V M4 V	{ -3 }	(700+4)	[0000]	B	14	28
+Gush	H	3117	Eskstant	X9B7000-B	 	     Di Fl 		003	ImLc	M3 V M8 V	{ -1 }	(C00+1)	[0000]	B	10	12
+Gush	H	3118	Koustorm	X537000-7	 	     Di 		010	ImLc	K4 V	{ -3 }	(900-1)	[0000]	B	14	-9
+Gush	L	3122	Vammuun	X200000-A	 	     Di Va 		000	ImDv	A1 V	{ -1 }	(700+1)	[0000]	B	12	7
+Gush	L	3126	Bivaud	X9C5000-D	 	     Di Fl 		003	ImDv	K1 V M7 V	{ -1 }	(A00-3)	[0000]	B	12	-30
+Gush	L	3130	Akhudgir	XA87205-6	 	     Lo 		704	ImDv	K7 V	{ -3 }	(310+3)	[315A]	B	9	9
+Gush	P	3131	Leant	X763883-6	 	     Ph Ri 	B	630	ImDv	M2 V	{ -1 }	(A75+1)	[B744]	BCe	13	350
+Gush	P	3137	As On As	X76666C-5	 	      Ag Ri Ga Ni 	B	700	ImDv	G2 V M3 V	{ -1 }	(855+1)	[8545]	BC	6	200
+Gush	P	3139	Enturtepra	X899000-2	 	     Di 		003	ImDv	M2 V M7 V	{ -3 }	(300+2)	[0000]	B	11	6
+Gush	P	3140	Ladi	X432000-C	 	      Di Na Po 		003	ImDv	M1 V	{ -1 }	(C00-1)	[0000]	B	12	-12
+Gush	D	3202	Kumkhap	X78A557-5	 	      Ni Pr Wa 	B	302	ImLc	G8 V M6 V	{ -3 }	(740-1)	[2274]	Bc	12	-28
+Gush	D	3203	Miha	X779000-2	 	    LancW  Di 		012	ImLc	M1 V	{ -3 }	(300+4)	[0000]	B	6	12
+Gush	D	3205	Bearnagh	E64358A-6	 	    S'mr3  Ni Po 		523	ImLc	G5 IV M9 V	{ -3 }	(740+1)	[4255]	B	10	28
+Gush	D	3206	Hillalk	X100000-9	 	     Di Na Pi Va 		005	ImLc	A1 V	{ -2 }	(E00+1)	[0000]	BD	11	14
+Gush	D	3208	Chzaar	X638000-C	 	   Di S'mrW Kiak0  		024	ImLc	G1 V M7 V	{ -1 }	(F00-1)	[0000]	B	9	-15
+Gush	D	3210	Sadetha	X504000-9	 	      Di Ic Va 		024	ImLc	K0 V M3 V	{ -2 }	(C00+2)	[0000]	B	11	24
+Gush	H	3211	Gudak	C557768-9	 	     Ag 		700	ImLc	M2 V	{ 1 }	(966-3)	[688C]	BC	10	-972
+Gush	H	3212	Sktrassui'ia	X56156A-0	 	     Ni Pr 	B	204	ImLc	K4 V M7 V	{ -3 }	(741+1)	[5231]	Bc	9	28
+Gush	H	3214	Leut	X310000-B	 	     Di 		000	ImLc	K1 V M5 V	{ -1 }	(700-1)	[0000]	B	9	-7
+Gush	H	3217	Salliatt	E8868CG-6	 	     LancW  Ga Pa Ri Ph 	B	613	ImLc	G5 V M6 V	{ -1 }	(A79-3)	[7784]	BcCe	9	-1890
+Gush	H	3218	Senlis	X547154-5	 	     LancW  Lo 		603	ImLc	M2 V M2 V	{ -3 }	(B00-1)	[1127]	B	10	-11
+Gush	H	3219	Merchant	X544146-2	 	      Lo 	B	703	ImLc	M0 V	{ -3 }	(600-2)	[1141]	B	11	-12
+Gush	L	3223	Vohitsara	X310000-D	 	     Di 		003	ImDv	M3 V	{ -1 }	(A00+1)	[0000]	B	14	10
+Gush	L	3224	Ars	E6567AB-7	 	     Ag Ga 	B	204	ImDv	M2 V	{ -1 }	(965-1)	[7655]	BC	11	-270
+Gush	L	3226	Joyrest	X546414-3	 	      Ni Pa 		604	ImDv	G0 V	{ -3 }	(730+3)	[5182]	Bc	9	63
+Gush	L	3228	Moskett	X200000-7	 	      Di Na Pi Va 		025	ImDv	M0 V	{ -3 }	(900+3)	[0000]	BD	11	27
+Gush	L	3230	Tsihombe	X764401-2	 	     Ni Pa 		300	ImDv	M2 V	{ -3 }	(632-3)	[1144]	Bc	13	-108
+Gush	P	3231	Staya	X200000-B	 	     Di Va 		010	ImDv	M2 V M8 V	{ -1 }	(500-1)	[0000]	B	10	-5
+Gush	P	3235	Ikaak	X434000-8	 	     Di 		010	ImDv	K3 V	{ -3 }	(700+4)	[0000]	B	11	28
+Gush	P	3236	Fadia	E5966A7-7	 	     Ag Ni 		215	ImDv	K2 V M0 V	{ -2 }	(853+1)	[547A]	BC	10	120
+Gush	P	3237	Revd	X988754-4	 	      Ag Ri 	B	820	ImDv	G6 V	{ 0 }	(964-4)	[A728]	BC	12	-864
+Gush	P	3240	Haiwhou	X432000-D	 	      Di Na Po 		004	ImDv	M0 V M3 V	{ -1 }	(C00-1)	[0000]	B	14	-12

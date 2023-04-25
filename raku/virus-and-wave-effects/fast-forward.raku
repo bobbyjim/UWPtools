@@ -3,6 +3,13 @@ use UWP;
 use Util;
 use Travellermap-Config;
 
+#
+#  NOTES ON WAVE AND VIRUS CROSSING
+#
+#  The Wave meets Virus in the Vargr Extents along a rough circle,
+#  centered on 
+#
+
 sub MAIN( $sector ) {
 
     my $source = "../../../travellermap/res/t5ss/data/$sector.tab";

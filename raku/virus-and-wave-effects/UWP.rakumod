@@ -218,6 +218,26 @@ class UWP is export {
 		$!scout-base = '';
 	}
 
+	method add-naval-base-if-there-isnt-one {
+		#
+		#  This one is tricky. Since we're setting a naval base, we also have to set the starport,
+		#  and that can affect the TL.
+		#
+		$!starport = 'B' unless $!starport le 'B';
+		$!navy-base = 'N';
+		&.calc-tl(0);
+	}
+
+	method add-scout-base-if-there-isnt-one {
+		#
+		#  This one is tricky. Since we're setting a scout base, we also have to set the starport,
+		#  and that can affect the TL.
+		#
+		$!starport = 'D' unless $!starport le 'D';
+		$!scout-base = 'S';
+		&.calc-tl(0);
+	}
+
     method set-allegiance( $alleg ) {
 		$!allegiance = $alleg;
 	}
@@ -378,6 +398,8 @@ class UWP is export {
 
 		$!specialRemarks = $remarks ~ ' ';
 		$!specialRemarks ~~ s:g/(As|De|Fl|Ga|He|Ic|Oc|Va|Wa|Di|Ba|Lo|Ni|Ph|Ni|Ph|Hi|Pa|Ag|Na|Px|Pi|Pz|Da|Fo|In|Po|Pr|Ri|Cy|Mr|Cp|Cs|Cx|O\:\d\d\d\d) //;
+		$!specialRemarks ~~ s/^\s+//;
+		$!specialRemarks ~~ s/\s+$//;
 	}
 
     #
@@ -865,6 +887,7 @@ class UWP is export {
 		&.reroll-gov-and-law;
 		&.calc-tl(0);
 		&.set-allegiance('GaHu');
+		&.calc-extensions-and-RU;
 	}
 
 	method show-line {
@@ -876,6 +899,7 @@ class UWP is export {
 
 		my $remarks = @remarks.sort.join( ' ' ) ~ ' ';
 		$remarks ~= $!NIL || $!calculatedNIL;
+		$remarks ~~ s/^\s+//;
 
 		my @out;
 		@out.push( $!sector, 

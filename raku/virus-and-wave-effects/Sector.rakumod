@@ -35,6 +35,7 @@ class Sector is export {
 	}
 
 	method get-uwp( $hex ) { %!uwps-by-hex{ $hex } }
+	method get-hex-list    { %!uwps-by-hex.keys }
 
 	method is-wilds( $hex ) { 
 		return False unless %!uwps-by-hex.EXISTS-KEY( $hex );

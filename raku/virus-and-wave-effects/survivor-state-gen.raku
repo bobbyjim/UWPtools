@@ -23,7 +23,7 @@ sub MAIN( $sectorName ) {
 	#  Let's put the strong worlds in a list and pick one randomly.
 	#
 	my @strongWorlds = $sector.find-strong-worlds;
-	my $choice = (0..@strongWorlds.elems).pick;
+	my $choice = (0..@strongWorlds.elems-1).pick;
 	my $chosen = @strongWorlds[ $choice ];
 
     my $ok = so $chosen;
