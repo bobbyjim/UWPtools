@@ -7,7 +7,7 @@ This is the newer, fresher material, using Raku classes to try to manage the dat
 # Raku Scripts
 
 ## fast-forward.raku
-This is the mother script that takes a 1105 sector and generates a 1201, 1508, and 1900 version of the sector. It requires the sector to have a named configuration file that specifies what operations are applied to it, and what sort of exceptional circumstances might also apply.
+This is the mother script that takes a 1105 sector and generates a 1201, post-wave, 1508, and 1900 version of the sector. It requires the sector to have a named configuration file that specifies what operations are applied to it, and what sort of exceptional circumstances might also apply.
 
 ## hotzones.raku
 This script takes a sector and sets a fabricated allegiance code to a random walk of systems.
