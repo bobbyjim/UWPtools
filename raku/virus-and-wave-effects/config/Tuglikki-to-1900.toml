@@ -1,6 +1,6 @@
 
 
-default-order = [ "virus", "wave" ]
+default-order = [ "virus", "wave", "vargr" ]
 
 [location]
 y = -2

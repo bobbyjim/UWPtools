@@ -5,6 +5,3 @@ default-order = [ "virus", "wave" ]
 y = 2
 x = 0
 
-[virus]
-
-[wave]

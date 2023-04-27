@@ -23,13 +23,15 @@ sub MAIN( $sectorName ) {
 	#  Let's put the strong worlds in a list and pick one randomly.
 	#
 	my @strongWorlds = $sector.find-strong-worlds;
-	my $choice = (0..@strongWorlds.elems-1).pick;
+	die "No strong worlds found in $sectorName!\n" unless @strongWorlds.elems > 0;
+
+	my $choice = (0..@strongWorlds.elems-1).pick;	
 	my $chosen = @strongWorlds[ $choice ];
 
     my $ok = so $chosen;
 
     unless $ok {
-		die @strongWorlds.elems, " strong worlds found in $sector\n";
+		die @strongWorlds.elems, " strong worlds found in $sectorName\n";
 		exit;
 	}
 

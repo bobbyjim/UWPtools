@@ -5,8 +5,3 @@ default-order = [ "virus", "wave" ]
 y = 0
 x = 2
 
-[virus]
-preserve-by-hex = ""
-preserve-by-allegiance = ""
-
-[wave]

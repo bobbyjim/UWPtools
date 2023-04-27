@@ -1,0 +1,10 @@
+
+
+defaults {
+	order		virus wave vargr
+}
+
+location {
+	y	-2
+	X	-2
+}

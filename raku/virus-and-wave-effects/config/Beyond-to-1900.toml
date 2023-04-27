@@ -5,4 +5,3 @@ default-order = [ "wave" ]
 y = 0
 x = -5
 
-[wave]

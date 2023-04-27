@@ -161,8 +161,8 @@ class UWP is export {
 
     method get-name { $!name }
     method get-hex { $!hex }
-	method get-col { ($!hex / 100).Int } # e.g. 1910 is row 19
-	method get-row { $!hex % 100 }       # e.g. 1910 is col 10
+	method get-col { ($!hex / 100).Int } # e.g. 1910 is col 19
+	method get-row { ($!hex % 100).Int } # e.g. 1910 is row 10
     method get-tl { $!tl }
 	method get-pm { $!pop-mult }
 	method get-zone { $!zone }
@@ -188,6 +188,14 @@ class UWP is export {
 			(6 <= $!siz <= 8) &&
 			($!atm == 5 || $!atm == 6 || $!atm == 8) &&
 			(5 <= $!hyd <= 7);
+	}
+
+	method is-terran-prime-world {
+		# i.e. not terrible
+		return True if
+			(6 <= $!siz <= 9) &&
+			(4 <= $!atm <= 9) &&
+			(3 <= $!hyd <= 9);
 	}
 
     method is-dieback(-->Bool) {
@@ -620,7 +628,14 @@ class UWP is export {
 		$!pop-mult = (^9).pick + 1;
 	}
 
+	method reroll-pop {
+		$!pop = (^6).pick + (^6).pick;
+		$!pop-mult = 0;
+		$!pop-mult = (^9).pick + 1 if $!pop > 0;
+	}
+
     method reroll-gov {
+		$!gov = 0 if $!pop == 0;
 		return if $!pop == 0;
  	    $!gov = $!pop - 7 + (^6).pick + 1 + (^6).pick + 1;
 		$!gov = 7 if $!gov == 6;	# we're not going to allow a Colony Gov.
@@ -628,6 +643,7 @@ class UWP is export {
 	}
 
 	method reroll-law( $dm ) {
+		$!law = 0 if $!pop == 0;
 		return if $!pop == 0;
 		$!law = $!gov - 7 + (^6).pick + 1 + (^6).pick + 1 + $dm;
 		$!law = 0 if $!law < 0;
@@ -887,6 +903,20 @@ class UWP is export {
 		&.reroll-gov-and-law;
 		&.calc-tl(0);
 		&.set-allegiance('GaHu');
+		&.calc-extensions-and-RU;
+	}
+
+	method do-vargr-world {
+		# intended as a post-wave, post-virus phenomena:
+		# vargr garden worlds get a population.
+
+		&.roll-starport;
+		&.reroll-pop;
+		$!starport = 'D' if $!pop == 0 && $!starport le 'D';
+		
+		&.reroll-gov-and-law;
+		&.calc-tl(0);
+		&.set-allegiance('NaVa');
 		&.calc-extensions-and-RU;
 	}
 

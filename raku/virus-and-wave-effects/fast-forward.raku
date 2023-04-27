@@ -15,8 +15,7 @@ sub MAIN( $sector ) {
     my $source = "../../../travellermap/res/t5ss/data/$sector.tab";
 	die "ERROR: sector $source not found" unless $source.IO.e;
 
-	my $file = "config/$sector" ~ '-to-1900.toml';
-	die "ERROR: config file not found for $sector" unless $file.IO.e;
+	my $file = "config/$sector" ~ '-to-1900';
 
 	say $sector, ':';
 	say "\tSource File     \t $source";
@@ -47,6 +46,11 @@ sub MAIN( $sector ) {
     	$uwp.build( %fieldHash );
         $allThree   ~= "$beginningYear\t" ~ $uwp.show-line ~ "\n";
 
+		#
+		#  Given the current row, return the proper order of operations.
+		#
+		@order = $config.get-order-by-row-in-sector( $uwp.get-row );
+
 		for @order -> $command {
 			if $command eq 'wave' {
 				do-wave( $config, $uwp );
@@ -65,6 +69,9 @@ sub MAIN( $sector ) {
 			}
 			elsif $command eq 'garden' {
 				$uwp.do-garden-world;
+			}
+			elsif $command eq 'vargr' {
+				$uwp.do-vargr-world;
 			}
 		}
 		

@@ -4,9 +4,3 @@ default-order = [ "virus", "wave", "garden" ]
 [location]
 y = 0
 x = -1
-
-[virus]
-preserve-by-hex = ""
-preserve-by-allegiance = ""
-
-[wave]
