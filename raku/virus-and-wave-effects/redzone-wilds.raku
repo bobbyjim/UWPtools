@@ -14,15 +14,15 @@ END
 my Sector $sector = Sector.new;
 my %visited;
 
-sub MAIN( $sectorName ) {
+sub MAIN( $sectorName, $col, $row, $heat ) {
 
     my $source = "output/$sectorName.tab";
 
 	$sector.readFile( $source );
 
-	my $col = (^21).pick + 6;
-	my $row = (^29).pick + 6;
-	my $heat = 10;
+	#my $col = (^21).pick + 6;
+	#my $row = (^29).pick + 6;
+	#my $heat = 10;
 
 	#
 	#  Apply something like a cellular automaton algorithm here.
@@ -46,7 +46,7 @@ sub propagateRedWilds( $row, $col, $heat ) {
     	$sector.set-allegiance( $hex, 'WiFo' );
 	}
 
-	return if rand < 0.25;
+	return if rand < 0.2;
 
 	propagateRedWilds( $row+1, $col, $heat-1 );
 	propagateRedWilds( $row, $col-1, $heat-1 );

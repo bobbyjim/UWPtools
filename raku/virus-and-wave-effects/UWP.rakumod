@@ -198,6 +198,26 @@ class UWP is export {
 			(3 <= $!hyd <= 9);
 	}
 
+	method has-intrinsic-value {
+		#
+		#  If any of these are true, then assume this system has raw material value.
+		#
+		#	* is it a high-population asteroid belt?
+		#	* is it Industrial?
+		#	* is it Rich?
+		#	* is it Agricultural?
+		#
+		return True if $!siz == 0 && $!pop >= 9;    # high pop Asteroid Belt.
+
+		my @remarks = &.get-economic-remarks.flat;
+
+		return True if @remarks.grep('In');
+		return True if @remarks.grep('Ri');
+		return True if @remarks.grep('Ag');
+
+		return False;
+	}
+
     method is-dieback(-->Bool) {
 		if ($!pop == 0)
 		{
@@ -537,16 +557,16 @@ class UWP is export {
 		$!cx ~= @d2h[ $symbols ].Str;
 	}
 	
-	method show-nobility {
+	method show-nobility( $remarks ) {
 
-		&.study-uwp;
-		my @remarks = &.get-planetary-remarks.flat,
-				     &.get-population-remarks.flat,
-				     &.get-economic-remarks.flat,
-				     &.get-climate-remarks($!HZ).flat,
- 				     $!specialRemarks;
-
-		my $remarks = @remarks.join( ' ' );
+#		&.study-uwp;
+#		my @remarks = &.get-planetary-remarks.flat,
+#				     &.get-population-remarks.flat,
+#				     &.get-economic-remarks.flat,
+#				     &.get-climate-remarks($!HZ).flat,
+# 				     $!specialRemarks;
+#
+#		my $remarks = @remarks.join( ' ' );
 
 		my @nobility = ('B');
 		@nobility.push('c') if $remarks ~~ /Pa|Pr/;
@@ -902,13 +922,13 @@ class UWP is export {
 		&.randomize-low-population;
 		&.reroll-gov-and-law;
 		&.calc-tl(0);
-		&.set-allegiance('GaHu');
+												# &.set-allegiance('GaHu');    don't bother
 		&.calc-extensions-and-RU;
 	}
 
-	method do-vargr-world {
-		# intended as a post-wave, post-virus phenomena:
-		# vargr garden worlds get a population.
+	method do-significant-world {
+		
+		# for worlds that are deemed valuable enough to re-colonize
 
 		&.roll-starport;
 		&.reroll-pop;
@@ -916,8 +936,16 @@ class UWP is export {
 		
 		&.reroll-gov-and-law;
 		&.calc-tl(0);
-		&.set-allegiance('NaVa');
 		&.calc-extensions-and-RU;
+	}
+
+	method do-vargr-world {
+
+		# intended as a post-wave, post-virus phenomena:
+		# vargr garden worlds get a population.
+
+		&.do-significant-world;
+		&.set-allegiance('NaVa');
 	}
 
 	method show-line {
@@ -946,7 +974,7 @@ class UWP is export {
 			&.show-uwp-Ix,
 			&.show-uwp-Ex,
 			&.show-uwp-Cx,
-			&.show-nobility,
+			&.show-nobility($remarks),
 			$!otherWorlds,
 			$!RU
 		);

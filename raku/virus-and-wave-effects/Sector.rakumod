@@ -4,13 +4,20 @@ use UWP;
 class Sector is export {
 
 	has %!uwps-by-hex;
+	has $!header;
 	has @!header;
+	has Str $!sectorName;
 
-    method readFile( $source ) {
+    method set-name( Str $name ) {
+		$!sectorName = $name;
+	}
+
+    method readFile( Str $source ) {
 		die "ERROR: sector $source not found" unless $source.IO.e;
 
-		my ($header, @lines) =$source.IO.lines;
-		@!header = $header.split(/\t/);
+		my @lines;
+		($!header, @lines) = $source.IO.lines;
+		@!header = $!header.split(/\t/);
 
 		for @lines -> $line {
 			next if $line ~~ /\?\?\?\?\?\?\?\-\?/;
@@ -27,6 +34,23 @@ class Sector is export {
 		}
 	} 
 
+	method summary {
+		my @out;
+		push @out, "Sector:          \t\t " ~ $!sectorName;
+		push @out, "\tUWP count:       \t " ~ %!uwps-by-hex.elems;
+		return @out.join( "\n" );
+	}
+
+	method get-header { $!header }
+
+	method significant-worlds {
+		my %sw;
+		for %!uwps-by-hex.values -> $uwp {
+			%sw{$uwp.get-hex} = True if $uwp.has-intrinsic-value;
+		}
+		return %sw;
+	}
+
 	method dump {
 		say @!header.join( "\t" );
 		for %!uwps-by-hex.keys.sort -> $hex {
@@ -35,7 +59,7 @@ class Sector is export {
 	}
 
 	method get-uwp( $hex ) { %!uwps-by-hex{ $hex } }
-	method get-hex-list    { %!uwps-by-hex.keys }
+	method get-hex-list    { %!uwps-by-hex.keys.sort }
 
 	method is-wilds( $hex ) { 
 		return False unless %!uwps-by-hex.EXISTS-KEY( $hex );

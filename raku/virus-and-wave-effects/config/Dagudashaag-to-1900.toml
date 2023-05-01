@@ -1,5 +1,6 @@
 
-default-order = [ "virus", "wave", "garden" ]
+[default]
+order = "virus wave garden"
 
 [location]
 y = 0
