@@ -4,6 +4,9 @@ use Util;
 
 class Travellermap-Config is export {
 
+    has $!sectorName;
+	has $!abbreviation;
+
     has Int $!sector-x;
 	has Int $!sector-y;
 	has Int $!virus-inflection-row;
@@ -66,6 +69,10 @@ class Travellermap-Config is export {
 		my $tomlfile = $sourcefile ~ '.toml';
 		my $gtxfile  = $sourcefile ~ '.gtx';
 		my %hash;
+
+		my @chunks = $sourcefile.IO.basename.split('-');
+		$!sectorName = @chunks[0];
+		$!abbreviation = $!sectorName.substr(0,4);
 
 		if $gtxfile.IO.e 
 		{
@@ -131,6 +138,15 @@ class Travellermap-Config is export {
 		push @out, "\tVirus preserves  \t " ~ $!virus-preserve-allegiances if $!virus-preserve-allegiances;	
 		push @out, "\tV preserve hexes \t " ~ $!virus-preserve-hexes       if $!virus-preserve-hexes;
 		push @out, "\tV kill hexes     \t " ~ $!virus-kill-hexes           if $!virus-kill-hexes;	
+
+		push @out, "   <Sector Abbreviation=\"{$!abbreviation}\" Selected=\"true\" Milieu=\"M1900\">";
+		push @out, "      <Y>{$!sector-y}</Y>";
+		push @out, "      <X>{$!sector-x}</X>";
+		push @out, "      <Name>{$!sectorName}</Name>";
+		push @out, "      <DataFile Author=\"Robert Eaglestone\" Type=\"TabDelimited\">{$!sectorName}.tab</DataFile>";
+		push @out, "      <MetadataFile>{$!sectorName}.xml</MetadataFile>";
+		push @out, "   </Sector>";
+
 		return @out.join( "\n" );
 	}
 

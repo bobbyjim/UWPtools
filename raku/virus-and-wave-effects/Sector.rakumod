@@ -36,7 +36,6 @@ class Sector is export {
 
 	method summary {
 		my @out;
-		push @out, "Sector:          \t\t " ~ $!sectorName;
 		push @out, "\tUWP count:       \t " ~ %!uwps-by-hex.elems;
 		return @out.join( "\n" );
 	}
