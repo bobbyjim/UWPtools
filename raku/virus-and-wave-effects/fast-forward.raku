@@ -4,6 +4,28 @@ use Util;
 use Travellermap-Config;
 use Sector;
 
+BEGIN {
+say q:to/BANNER/;
+
+*****************************************************************************
+╔═╗┌─┐┌─┐┌┬┐  ╔═╗┌─┐┬─┐┬ ┬┌─┐┬─┐┌┬┐
+╠╣ ├─┤└─┐ │   ╠╣ │ │├┬┘│││├─┤├┬┘ ││
+╚  ┴ ┴└─┘ ┴   ╚  └─┘┴└─└┴┘┴ ┴┴└──┴┘
+
+BANNER
+}
+
+END {
+say q:to/DONE/;
+
+╔╦╗┌─┐┌┐┌┌─┐
+ ║║│ ││││├┤ 
+═╩╝└─┘┘└┘└─┘
+*****************************************************************************
+
+DONE
+}
+
 #
 #  NOTES ON WAVE AND VIRUS CROSSING
 #
@@ -23,7 +45,7 @@ sub MAIN( $sectorName ) {
 	my $file   			= "config/$sectorName" ~ '-to-1900';
 	my $config 			= Travellermap-Config.new;
 	my @order  			= $config.parse( $file );
-	say $config.summary;
+	print $config.summary;
 
 	my $header			= $sector.get-header;
 	my $milieu1201		= $header ~ "\n";

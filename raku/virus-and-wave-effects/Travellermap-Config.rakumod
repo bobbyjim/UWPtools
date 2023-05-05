@@ -131,23 +131,32 @@ class Travellermap-Config is export {
 
 	method summary {
 		my @out;
-    	push @out, "\tDefault Order    \t " ~ $!order;
-		push @out, "\tInflection Row   \t " ~ $!virus-inflection-row;
-		push @out, "\tWave Exit year   \t " ~ &.get-exit-year;
 		push @out, "\tCOW location     \t " ~ %!wave-preserve-area<center> if %!wave-preserve-area;
 		push @out, "\tVirus preserves  \t " ~ $!virus-preserve-allegiances if $!virus-preserve-allegiances;	
 		push @out, "\tV preserve hexes \t " ~ $!virus-preserve-hexes       if $!virus-preserve-hexes;
 		push @out, "\tV kill hexes     \t " ~ $!virus-kill-hexes           if $!virus-kill-hexes;	
+		my $extras = @out.join("\n                ");
 
-		push @out, "   <Sector Abbreviation=\"{$!abbreviation}\" Selected=\"true\" Milieu=\"M1900\">";
-		push @out, "      <Y>{$!sector-y}</Y>";
-		push @out, "      <X>{$!sector-x}</X>";
-		push @out, "      <Name>{$!sectorName}</Name>";
-		push @out, "      <DataFile Author=\"Robert Eaglestone\" Type=\"TabDelimited\">{$!sectorName}.tab</DataFile>";
-		push @out, "      <MetadataFile>{$!sectorName}.xml</MetadataFile>";
-		push @out, "   </Sector>";
+		my $waveExitYear = &.get-exit-year;
 
-		return @out.join( "\n" );
+		my $out = qq:to/SECTORSUMMARY/;
+	
+        The "fast-forward" script ran this data up to years 1508 and 1900:
+          Default order:   $!order
+          Inflection Row:  $!virus-inflection-row
+          Wave Exit Year:  $waveExitYear
+          $extras
+   <Sector Abbreviation=\"{$!abbreviation}\" Selected=\"true\" Milieu=\"M1900\">
+      <Y>{$!sector-y}</Y>
+      <X>{$!sector-x}</X>
+      <Name>{$!sectorName}</Name>
+      <DataFile Author=\"Robert Eaglestone\" Type=\"TabDelimited\">{$!sectorName}.tab</DataFile>
+      <MetadataFile>{$!sectorName}.xml</MetadataFile>
+   </Sector>
+
+SECTORSUMMARY
+
+		return $out;
 	}
 
 	method in-cow($hex) {

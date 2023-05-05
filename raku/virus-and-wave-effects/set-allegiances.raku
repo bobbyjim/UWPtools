@@ -7,7 +7,7 @@ sub MAIN( $sector, $allegiance, *@hexes ) {
 	#say "Allegiance:   \t $allegiance";
     #say "Hexes:        \t ", @hexes;
 
-    my $sourceFile = "output/$sector.1900.tab";
+    my $sourceFile = "output/$sector.tab";
 	die "$sourceFile not found." unless $sourceFile.IO.e;
 
 	my ($header, @lines) =$sourceFile.IO.lines;
